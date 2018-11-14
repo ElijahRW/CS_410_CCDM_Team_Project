@@ -331,8 +331,16 @@ for k, v in objects.items():
             if k in publisher:
                 tmp["Publisher"] = publisher[k]
 
-            #TODO associated papers
-            #TODO link attributes related to the link type
+            #reverse look-up, what papers are in this journal, could be none!
+            tmp["Papers Contained"] = {} 
+            if k in links_by_O2:
+                for lid, lO1 in links_by_O2[k]:
+                   if lO1 in objects:
+                       #paper id serves as the key, proceedings only has "pages" attribute
+                       if (objects[lO1] == "paper" and linktype[lid] == "in-proceedings"):
+                           if lid in pages:
+                            tmp["Papers Contained"][lO1]["pages"] = pages[lid]
+ 
             Publication['docs'].append(tmp)
 
     if v == "book":
@@ -351,9 +359,43 @@ for k, v in objects.items():
                 tmp["Isbn"] = isbn[k]
             if k in series:
                 tmp["Series"] = series[k]
-            #TODO books can cite papers and vice versa... but not other books
-            #TODO add editors-of links people->book
-            #TODO add papers
+
+            #Editors
+            tmp["Editors"] = []
+            if k in links_by_O2:
+                for lid, lO1 in links_by_O2[k]:
+                   if lO1 in objects:
+                       if objects[lO1] == "person" and linktype[lid] == "editor-of":
+                           tmp["Editors"].append(lO1)
+
+
+
+            #citations lookup forward, books only cite other papers
+            tmp["Citations"] = []
+            if k in links_by_O1:
+                for lid, lO2 in links_by_O1[k]:
+                   if lO2 in objects:
+                       if objects[lO2] == "paper" and linktype[lid] == "cites":
+                           tmp["Citations"].append(lO2)
+
+            #reverse look-up, see which papers cite this book, could be none!
+            tmp["Works Cited By"] = []
+            if k in links_by_O2:
+                for lid, lO1 in links_by_O2[k]:
+                   if lO1 in objects:
+                       if objects[lO1] == "paper" and linktype[lid] == "cites":
+                           tmp["Works Cited By"].append(lO1)
+
+
+            #reverse look-up, what papers are in this book, could be none!
+            tmp["Papers Contained"] = {} 
+            if k in links_by_O2:
+                for lid, lO1 in links_by_O2[k]:
+                   if lO1 in objects:
+                       #paper id serves as the key, proceedings only has "pages" attribute
+                       if (objects[lO1] == "paper" and linktype[lid] == "in-collection"):
+                           if lid in pages:
+                            tmp["Papers Contained"][lO1]["pages"] = pages[lid]
             
             Publication['docs'].append(tmp)
 
@@ -425,11 +467,12 @@ for k, v in objects.items():
         Publication = { "docs": [] }
 
 
-#write out any remaining doics (or the whole file if THRESHOLD == 0)
+#write out any remaining doics (or the whole file if THRESHOLD == 0), could be empty
 with open('dblp_Person_thrs' + str(THRESHOLD) + '_file' + str(per_cnt) + '.json', 'w') as outfile:
         json.dump(Person, outfile, indent=4)
         
-#write out any remaining doics (or the whole file if THRESHOLD == 0)
+#write out any remaining doics (or the whole file if THRESHOLD == 0), could be empty
 with open('dblp_Publication_thrs' + str(THRESHOLD) + '_file' + str(pub_cnt) + '.json', 'w') as outfile2:
             json.dump(Publication, outfile2, indent=4)
- 
+
+print("all done!") 
