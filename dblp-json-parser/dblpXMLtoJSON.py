@@ -200,25 +200,28 @@ for k, v in objects.items():
             tmp["_id"] = k 
             tmp["Name"] = names[ k ]
             tmp["Type"] = v
-            tmp["Works Written"] = []
-            for lid, lO2 in links_by_O1[k]:
-                if lO2 in objects:
-                    if (objects[lO2] == "paper" or 
-                        objects[lO2] == "www" or 
-                        objects[lO2] == "book" or 
-                        objects[lO2] == "proceedings" or 
-                        objects[lO2] == "msthesis" or 
-                        objects[lO2] == "phdthesis") and linktype[lid] == "author-of":
-                        tmp["Works Written"].append(lO2)
-            tmp["Works Edited"] = []
-            for lid, lO2 in links_by_O1[k]:
-                if lO2 in objects:
-                    if (objects[lO2] == "proceedings" or 
-                        objects[lO2] == "www" or
-                        objects[lO2] == "book" or
-                        objects[lO2] == "paper") and linktype[lid] == "editor-of":
-                        tmp["Works Edited"].append(lO2)
- 
+            if k in links_by_O1:
+                tmp["Works Written"] = []
+                for lid, lO2 in links_by_O1[k]:
+                    if lO2 in objects:
+                        if (objects[lO2] == "paper" or 
+                            objects[lO2] == "www" or 
+                            objects[lO2] == "book" or 
+                            objects[lO2] == "proceedings" or 
+                            objects[lO2] == "msthesis" or 
+                            objects[lO2] == "phdthesis") and linktype[lid] == "author-of":
+                            tmp["Works Written"].append(lO2)
+
+            if k in links_by_O1:
+                tmp["Works Edited"] = []
+                for lid, lO2 in links_by_O1[k]:
+                    if lO2 in objects:
+                        if (objects[lO2] == "proceedings" or 
+                            objects[lO2] == "www" or
+                            objects[lO2] == "book" or
+                            objects[lO2] == "paper") and linktype[lid] == "editor-of":
+                            tmp["Works Edited"].append(lO2)
+     
             Person['docs'].append(tmp)
 
     #write out files based on our threshold if threshold is set to zero, bypass this
@@ -239,61 +242,64 @@ for k, v in objects.items():
             tmp["_id"] = k 
             tmp["Type"] = v
             #reserve link look up for paper authors
-            tmp["Authors"] = []
             if k in links_by_O2:
+                tmp["Authors"] = []
                 for lid, lO1 in links_by_O2[k]:
                    if lO1 in objects:
                        if objects[lO1] == "person" and linktype[lid] == "author-of":
                            tmp["Authors"].append(lO1)
 
-            #double reserve link look up for paper editors - this might not be correct
-            #01 ->  02
-            #paper-> in-proceedings
-            #   ->  02 -> 01
-            #       proceedings -> author
-            #TODO do all editors of a proceeding get associated with a paper?
-            # this might be redundant or un-needed
-            tmp["Editors"] = []
-            if k in links_by_O1:
-                for lid, lO2 in links_by_O1[k]:
-                   if lO2 in objects:
-                       if objects[lO2] == "proceedings" and objects[lO2] in links_by_O2:
-                           for l2id, l2O1 in links_by_O2[objects[lO2]]:
-                                tmp["Editors"].append(l2O1)
+            #editors of this paper
+            if k in links_by_O2:
+                tmp["Editors"] = []
+                for lid, lO1 in links_by_O2[k]:
+                   if lO1 in objects:
+                       if objects[lO1] == "person" and linktype[lid] == "editor-of":
+                           tmp["Editors"].append(lO1)
+
+
 
             #citations lookup forward, could cite books or other papers
-            tmp["Citations"] = []
             if k in links_by_O1:
+                tmp["Citations"] = []
                 for lid, lO2 in links_by_O1[k]:
                    if lO2 in objects:
-                       if (objects[lO2] == "paper" or objects[lO2] == "book") and linktype[lid] == "cites":
+                       if (objects[lO2] == "paper" or 
+                           objects[lO2] == "www" or 
+                           objects[lO2] == "proceedings" or 
+                           objects[lO2] == "phdthesis" or 
+                           objects[lO2] == "msthesis" or 
+                           objects[lO2] == "www" or 
+                           objects[lO2] == "book") and linktype[lid] == "cites":
                            tmp["Citations"].append(lO2)
 
             #reverse look-up, see who cites this paper, could be none!
-            tmp["Works Cited By"] = []
             if k in links_by_O2:
+                tmp["Works Cited By"] = []
                 for lid, lO1 in links_by_O2[k]:
                    if lO1 in objects:
-                       if (objects[lO1] == "paper" or objects[lO1] == "book") and linktype[lid] == "cites":
+                       if (objects[lO1] == "paper" or
+                           objects[lO1] == "proceedings" or 
+                           objects[lO1] == "book") and linktype[lid] == "cites":
                            tmp["Works Cited By"].append(lO1)
 
             #add the paper title
             tmp["Title"] = title[k]
 
             #in-collection, paper->book mapping.
-            tmp["in_collection"] = []
             if k in links_by_O1:
+                tmp["in_collection"] = []
                 for lid, lO2 in links_by_O1[k]:
                    if lO2 in objects:
                        if objects[lO2] == "book" and linktype[lid] == "in-collection":
                            tmp["in_collection"].append(lO2)
 
             #in-proceedings, only links are paper->proceeding, so grab proceeding based on paper id
-            tmp["in_proceedings"] = []
             if k in links_by_O1:
+                tmp["in_proceedings"] = []
                 for lid, lO2 in links_by_O1[k]:
                    if lO2 in objects:
-                       if objects[lO2] == "proceedings":
+                       if objects[lO2] == "proceedings" and linktype[lid] == "in-proceedings":
                            tmp["in_proceedings"].append(lO2)
 
             #in-journal, similar to proceedings
@@ -301,7 +307,7 @@ for k, v in objects.items():
                 tmp["in_journal"] = []
                 for lid, lO2 in links_by_O1[k]:
                    if lO2 in objects:
-                       if objects[lO2] == "journal":
+                       if objects[lO2] == "journal" and linktype[lid] == "in-journal":
                            tmp["in_journal"].append(lO2)
 
             Publication['docs'].append(tmp)
@@ -329,6 +335,16 @@ for k, v in objects.items():
                        if objects[lO1] == "person" and linktype[lid] == "author-of":
                            tmp["Authors"].append(lO1)
 
+           #reverse look-up, see who cites this paper, could be none!
+            if k in links_by_O2:
+                tmp["Works Cited By"] = []
+                for lid, lO1 in links_by_O2[k]:
+                   if lO1 in objects:
+                       if (objects[lO1] == "paper" or
+                           objects[lO1] == "proceedings" or 
+                           objects[lO1] == "book") and linktype[lid] == "cites":
+                           tmp["Works Cited By"].append(lO1)
+
 
             
             Publication['docs'].append(tmp)
@@ -348,15 +364,56 @@ for k, v in objects.items():
             if k in publisher:
                 tmp["Publisher"] = publisher[k]
 
+            #reserve link look up authors
+            if k in links_by_O2:
+                tmp["Authors"] = []
+                for lid, lO1 in links_by_O2[k]:
+                   if lO1 in objects:
+                       if objects[lO1] == "person" and linktype[lid] == "author-of":
+                           tmp["Authors"].append(lO1)
+
+            #reverse link look up for editors 
+            if k in links_by_O2:
+                tmp["Editors"] = []
+                for lid, lO1 in links_by_O2[k]:
+                   if lO1 in objects:
+                       if objects[lO1] == "person" and linktype[lid] == "editor-of":
+                           tmp["Editors"].append(lO1)
+
+            #citations lookup forward, could cite books or other papers
+            if k in links_by_O1:
+                tmp["Citations"] = []
+                for lid, lO2 in links_by_O1[k]:
+                   if lO2 in objects:
+                       if (objects[lO2] == "paper" or 
+                           objects[lO2] == "proceedings" or 
+                           objects[lO2] == "book") and linktype[lid] == "cites":
+                           tmp["Citations"].append(lO2)
+
+            #reverse look-up, see who cites this paper, could be none!
+            if k in links_by_O2:
+                tmp["Works Cited By"] = []
+                for lid, lO1 in links_by_O2[k]:
+                   if lO1 in objects:
+                       if (objects[lO1] == "paper" or
+                           objects[lO1] == "proceedings" or 
+                           objects[lO1] == "book") and linktype[lid] == "cites":
+                           tmp["Works Cited By"].append(lO1)
+
+ 
+
             #reverse look-up, what papers are in this journal, could be none!
             if k in links_by_O2:
-                tmp["Papers Contained"] = {} 
+                tmp["Papers Contained"] = []
+                tmp["pages"] = []
                 for lid, lO1 in links_by_O2[k]:
                    if lO1 in objects:
                        #paper id serves as the key, proceedings only has "pages" attribute
                        if (objects[lO1] == "paper" and linktype[lid] == "in-proceedings"):
+                           tmp["Papers Contained"].append(lO1)
                            if lid in pages:
-                            tmp["Papers Contained"][lO1]["pages"] = pages[lid]
+                            #kinda ugly but not worth the effort to fix
+                            tmp["pages"].append(pages[lid])
  
             Publication['docs'].append(tmp)
 
@@ -393,32 +450,41 @@ for k, v in objects.items():
                        if objects[lO1] == "person" and linktype[lid] == "editor-of":
                            tmp["Editors"].append(lO1)
 
-            #citations lookup forward, books only cite other papers
-            tmp["Citations"] = []
+            #citations lookup forward, could cite books or other papers
             if k in links_by_O1:
+                tmp["Citations"] = []
                 for lid, lO2 in links_by_O1[k]:
                    if lO2 in objects:
-                       if objects[lO2] == "paper" and linktype[lid] == "cites":
+                       if (objects[lO2] == "paper" or 
+                           objects[lO2] == "proceedings" or 
+                           objects[lO2] == "phdthesis" or 
+                           objects[lO2] == "book") and linktype[lid] == "cites":
                            tmp["Citations"].append(lO2)
 
-            #reverse look-up, see which papers cite this book, could be none!
-            tmp["Works Cited By"] = []
+            #reverse look-up, see who cites this paper, could be none!
             if k in links_by_O2:
+                tmp["Works Cited By"] = []
                 for lid, lO1 in links_by_O2[k]:
                    if lO1 in objects:
-                       if objects[lO1] == "paper" and linktype[lid] == "cites":
+                       if (objects[lO1] == "paper" or
+                           objects[lO1] == "proceedings" or 
+                           objects[lO1] == "book") and linktype[lid] == "cites":
                            tmp["Works Cited By"].append(lO1)
 
 
             #reverse look-up, what papers are in this book, could be none!
-            tmp["Papers Contained"] = {} 
+            tmp["Papers Contained"] =  []
+            tmp["pages"] = []
             if k in links_by_O2:
                 for lid, lO1 in links_by_O2[k]:
                    if lO1 in objects:
                        #paper id serves as the key, proceedings only has "pages" attribute
-                       if (objects[lO1] == "paper" and linktype[lid] == "in-collection"):
+                       if (objects[lO1] == "paper" and linktype[lid] == "in-collection"): 
+                           tmp["Papers Contained"].append(lO1)
                            if lid in pages:
-                            tmp["Papers Contained"][lO1]["pages"] = pages[lid]
+                            #kinda ugly but not worth the effort to fix
+                            tmp["pages"].append(pages[lid])
+ 
             
             Publication['docs'].append(tmp)
 
@@ -472,6 +538,16 @@ for k, v in objects.items():
                        if objects[lO1] == "person" and linktype[lid] == "author-of":
                            tmp["Authors"].append(lO1)
 
+            #reverse look-up, see who cites this paper, could be none!
+            if k in links_by_O2:
+                tmp["Works Cited By"] = []
+                for lid, lO1 in links_by_O2[k]:
+                   if lO1 in objects:
+                       if objects[lO1] == "paper" and linktype[lid] == "cites":
+                           tmp["Works Cited By"].append(lO1)
+
+
+
             Publication['docs'].append(tmp)
 
     if v == "www":
@@ -486,15 +562,30 @@ for k, v in objects.items():
             if k in url:
                 tmp["Url"] = url[k] 
 
-           #Authors
+            #Authors
             if k in links_by_O2:
                 tmp["Authors"] = []
                 for lid, lO1 in links_by_O2[k]:
                    if lO1 in objects:
                        if objects[lO1] == "person" and linktype[lid] == "author-of":
                            tmp["Authors"].append(lO1)
+            #Editors
+            if k in links_by_O2:
+                tmp["Editors"] = []
+                for lid, lO1 in links_by_O2[k]:
+                   if lO1 in objects:
+                       if objects[lO1] == "person" and linktype[lid] == "editor-of":
+                           tmp["Editors"].append(lO1)
 
- 
+            #reverse look-up, see who cites this paper, could be none!
+            if k in links_by_O2:
+                tmp["Works Cited By"] = []
+                for lid, lO1 in links_by_O2[k]:
+                   if lO1 in objects:
+                       if objects[lO1] == "paper" and linktype[lid] == "cites":
+                           tmp["Works Cited By"].append(lO1)
+
+
 
             Publication['docs'].append(tmp)
  
