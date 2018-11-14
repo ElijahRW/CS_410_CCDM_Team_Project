@@ -10,6 +10,8 @@
         Pulls in and parses the entire dblp dataset in xml
         creates dictionaries based on each object type and link type
         also creates three dictionaties due to the link-id: obj-id-01 -> obj-id-02 mappings
+        constructs datastructures resembling our datamodel
+        dumps those structures to CouchDB friendly JSON
 
 """
 
@@ -177,8 +179,8 @@ tree = 0
 Person = { "docs": [] }
 Publication = { "docs": [] }
 
-# paper, person, phdthesis, proceedings, book, journal, msthesis
-itr = [ MAX, MAX, MAX, MAX, MAX, MAX, MAX ]
+# paper, person, phdthesis, proceedings, book, journal, msthesis, www
+itr = [ MAX, MAX, MAX, MAX, MAX, MAX, MAX, MAX ]
 per_thrs = 0
 pub_thrs = 0
 per_cnt = 1
@@ -251,7 +253,6 @@ for k, v in objects.items():
                            for l2id, l2O1 in links_by_O2[objects[lO2]]:
                                 tmp["Editors"].append(l2O1)
 
-            #TODO broken?
             #citations lookup forward, could cite books or other papers
             tmp["Citations"] = []
             if k in links_by_O1:
@@ -260,7 +261,6 @@ for k, v in objects.items():
                        if (objects[lO2] == "paper" or objects[lO2] == "book") and linktype[lid] == "cites":
                            tmp["Citations"].append(lO2)
 
-            #TODO also broken?
             #reverse look-up, see who cites this paper, could be none!
             tmp["Works Cited By"] = []
             if k in links_by_O2:
@@ -330,6 +330,9 @@ for k, v in objects.items():
                 tmp["Conference"] = conference[k]
             if k in publisher:
                 tmp["Publisher"] = publisher[k]
+
+            #TODO associated papers
+            #TODO link attributes related to the link type
             Publication['docs'].append(tmp)
 
     if v == "book":
@@ -349,7 +352,8 @@ for k, v in objects.items():
             if k in series:
                 tmp["Series"] = series[k]
             #TODO books can cite papers and vice versa... but not other books
-            #TODO add authors 
+            #TODO add editors-of links people->book
+            #TODO add papers
             
             Publication['docs'].append(tmp)
 
@@ -362,8 +366,27 @@ for k, v in objects.items():
             tmp["Title"] = title[k]
             if k in publisher:
                 tmp["Publisher"] = publisher[k]
-            
-            
+ 
+            #reverse look-up, what papers are in this journal, could be none!
+            tmp["Papers Contained"] = {} 
+            if k in links_by_O2:
+                for lid, lO1 in links_by_O2[k]:
+                   if lO1 in objects:
+                       #journal has the most link attributes
+                       #paper id serves as the key, for these attributes.
+                       if (objects[lO1] == "paper" and linktype[lid] == "in-journal"):
+                           tmp["Papers Contained"][lO1] = {} 
+                           if lid in month:
+                            tmp["Papers Contained"][lO1]["month"] = month[lid]
+                           if lid in involume:
+                            tmp["Papers Contained"][lO1]["involume"] = involume[lid]
+                           if lid in inyear:
+                            tmp["Papers Contained"][lO1]["inyear"] = inyear[lid]
+                           if lid in pages:
+                            tmp["Papers Contained"][lO1]["pages"] = pages[lid]
+                           if lid in number:
+                            tmp["Papers Contained"][lO1]["number"] = number[lid]
+ 
             Publication['docs'].append(tmp)
 
     if v == "msthesis":
@@ -378,6 +401,19 @@ for k, v in objects.items():
 
             Publication['docs'].append(tmp)
 
+    if v == "www":
+        if itr[7] > 0 or MAX == 0:
+            pub_thrs=pub_thrs+1
+            itr[7] = itr[7] - 1
+            tmp["_id"] = k 
+            tmp["Type"] = v
+            if k in year:
+                tmp["Year"] = year[k]
+            tmp["Title"] = title[k]
+            if k in url:
+                tmp["Url"] = url[k]
+            Publication['docs'].append(tmp)
+ 
     #write out files based on our threshold if threshold is set to zero, bypass this
     if(THRESHOLD != 0 and pub_thrs == THRESHOLD):
         print("Writing Publication JSON file " + str(pub_cnt))
@@ -389,8 +425,6 @@ for k, v in objects.items():
         Publication = { "docs": [] }
 
 
-
- 
 #write out any remaining doics (or the whole file if THRESHOLD == 0)
 with open('dblp_Person_thrs' + str(THRESHOLD) + '_file' + str(per_cnt) + '.json', 'w') as outfile:
         json.dump(Person, outfile, indent=4)
