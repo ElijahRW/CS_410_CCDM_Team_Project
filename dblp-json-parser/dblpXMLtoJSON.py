@@ -203,12 +203,20 @@ for k, v in objects.items():
             tmp["Works Written"] = []
             for lid, lO2 in links_by_O1[k]:
                 if lO2 in objects:
-                    if objects[lO2] == "paper":
+                    if (objects[lO2] == "paper" or 
+                        objects[lO2] == "www" or 
+                        objects[lO2] == "book" or 
+                        objects[lO2] == "proceedings" or 
+                        objects[lO2] == "msthesis" or 
+                        objects[lO2] == "phdthesis") and linktype[lid] == "author-of":
                         tmp["Works Written"].append(lO2)
             tmp["Works Edited"] = []
             for lid, lO2 in links_by_O1[k]:
                 if lO2 in objects:
-                    if objects[lO2] == "proceedings":
+                    if (objects[lO2] == "proceedings" or 
+                        objects[lO2] == "www" or
+                        objects[lO2] == "book" or
+                        objects[lO2] == "paper") and linktype[lid] == "editor-of":
                         tmp["Works Edited"].append(lO2)
  
             Person['docs'].append(tmp)
@@ -235,7 +243,7 @@ for k, v in objects.items():
             if k in links_by_O2:
                 for lid, lO1 in links_by_O2[k]:
                    if lO1 in objects:
-                       if objects[lO1] == "person":
+                       if objects[lO1] == "person" and linktype[lid] == "author-of":
                            tmp["Authors"].append(lO1)
 
             #double reserve link look up for paper editors - this might not be correct
@@ -289,8 +297,8 @@ for k, v in objects.items():
                            tmp["in_proceedings"].append(lO2)
 
             #in-journal, similar to proceedings
-            tmp["in_journal"] = []
             if k in links_by_O1:
+                tmp["in_journal"] = []
                 for lid, lO2 in links_by_O1[k]:
                    if lO2 in objects:
                        if objects[lO2] == "journal":
@@ -313,6 +321,15 @@ for k, v in objects.items():
                 tmp["Isbn"] = isbn[k]
             if k in series:
                 tmp["Series"] = series[k]
+
+            if k in links_by_O2:
+                tmp["Authors"] = []
+                for lid, lO1 in links_by_O2[k]:
+                   if lO1 in objects:
+                       if objects[lO1] == "person" and linktype[lid] == "author-of":
+                           tmp["Authors"].append(lO1)
+
+
             
             Publication['docs'].append(tmp)
  
@@ -332,8 +349,8 @@ for k, v in objects.items():
                 tmp["Publisher"] = publisher[k]
 
             #reverse look-up, what papers are in this journal, could be none!
-            tmp["Papers Contained"] = {} 
             if k in links_by_O2:
+                tmp["Papers Contained"] = {} 
                 for lid, lO1 in links_by_O2[k]:
                    if lO1 in objects:
                        #paper id serves as the key, proceedings only has "pages" attribute
@@ -360,15 +377,21 @@ for k, v in objects.items():
             if k in series:
                 tmp["Series"] = series[k]
 
-            #Editors
-            tmp["Editors"] = []
+            #Authors
             if k in links_by_O2:
+                tmp["Authors"] = []
+                for lid, lO1 in links_by_O2[k]:
+                   if lO1 in objects:
+                       if objects[lO1] == "person" and linktype[lid] == "author-of":
+                           tmp["Authors"].append(lO1)
+
+            #Editors
+            if k in links_by_O2:
+                tmp["Editors"] = []
                 for lid, lO1 in links_by_O2[k]:
                    if lO1 in objects:
                        if objects[lO1] == "person" and linktype[lid] == "editor-of":
                            tmp["Editors"].append(lO1)
-
-
 
             #citations lookup forward, books only cite other papers
             tmp["Citations"] = []
@@ -441,6 +464,14 @@ for k, v in objects.items():
             tmp["Title"] = title[k]
             tmp["School"] = school[k]
 
+            #Authors
+            if k in links_by_O2:
+                tmp["Authors"] = []
+                for lid, lO1 in links_by_O2[k]:
+                   if lO1 in objects:
+                       if objects[lO1] == "person" and linktype[lid] == "author-of":
+                           tmp["Authors"].append(lO1)
+
             Publication['docs'].append(tmp)
 
     if v == "www":
@@ -453,7 +484,18 @@ for k, v in objects.items():
                 tmp["Year"] = year[k]
             tmp["Title"] = title[k]
             if k in url:
-                tmp["Url"] = url[k]
+                tmp["Url"] = url[k] 
+
+           #Authors
+            if k in links_by_O2:
+                tmp["Authors"] = []
+                for lid, lO1 in links_by_O2[k]:
+                   if lO1 in objects:
+                       if objects[lO1] == "person" and linktype[lid] == "author-of":
+                           tmp["Authors"].append(lO1)
+
+ 
+
             Publication['docs'].append(tmp)
  
     #write out files based on our threshold if threshold is set to zero, bypass this
