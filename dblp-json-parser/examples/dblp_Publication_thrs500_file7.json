@@ -1,0 +1,4856 @@
+{
+    "docs": [
+        {
+            "_id": "1193757",
+            "Type": "book",
+            "Volume": "501",
+            "Year": "1991",
+            "Title": "Algebraic System Specification and Development - A Survey and Annotated Bibliography",
+            "Publisher": "Springer",
+            "Isbn": "3-540-54060-1",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193758",
+            "Type": "book",
+            "Year": "2003",
+            "Title": "Chance Discovery",
+            "Publisher": "Springer",
+            "Isbn": "3-540-00549-8",
+            "Series": "Advanced Information Processing"
+        },
+        {
+            "_id": "1193759",
+            "Type": "book",
+            "Volume": "50",
+            "Year": "1977",
+            "Title": "A Concurrent Pascal Compiler for Minicomputers",
+            "Publisher": "Springer",
+            "Isbn": "3-540-08240-9",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193760",
+            "Type": "book",
+            "Volume": "137",
+            "Year": "1987",
+            "Title": "Die Konfigurierung modular aufgebauter Datenbanksysteme",
+            "Publisher": "Springer",
+            "Isbn": "3-540-17908-9",
+            "Series": "Informatik-Fachberichte"
+        },
+        {
+            "_id": "1193761",
+            "Type": "book",
+            "Year": "1985",
+            "Title": "Statistical Decision Theory and Bayesian Analysis, 2nd Edition.",
+            "Publisher": "Springer",
+            "Isbn": "3-540-96098-8"
+        },
+        {
+            "_id": "1193762",
+            "Type": "book",
+            "Volume": "558",
+            "Year": "1991",
+            "Title": "Specification and Compositional Verification of Real-Time Systems",
+            "Publisher": "Springer",
+            "Isbn": "3-540-54947-1",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193763",
+            "Type": "book",
+            "Volume": "870",
+            "Year": "1994",
+            "Title": "Distributed Programming Paradigms with Cryptography Applications",
+            "Publisher": "Springer",
+            "Isbn": "3-540-58496-X",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193764",
+            "Type": "book",
+            "Volume": "178",
+            "Year": "1988",
+            "Title": "Graphgrammatiken in der Softwaretechnik: Theorie und Anwendungen",
+            "Publisher": "Springer",
+            "Isbn": "3-540-50243-2",
+            "Series": "Informatik-Fachberichte"
+        },
+        {
+            "_id": "1193765",
+            "Type": "book",
+            "Volume": "353",
+            "Year": "1989",
+            "Title": "Foundations of Equational Logic Programming",
+            "Publisher": "Springer",
+            "Isbn": "3-540-51533-X",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193766",
+            "Type": "book",
+            "Volume": "1562",
+            "Year": "1999",
+            "Title": "Computation for Metaphors, Analogy, and Agents.",
+            "Publisher": "Springer",
+            "Isbn": "3-540-65959-5",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193767",
+            "Type": "book",
+            "Volume": "595",
+            "Year": "1992",
+            "Title": "The Nested Universal Relation Database Model",
+            "Publisher": "Springer",
+            "Isbn": "3-540-55493-9",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193768",
+            "Type": "book",
+            "Volume": "578",
+            "Year": "1992",
+            "Title": "Public-Key Cryptography: State of the Art and Future Directions, E.I.S.S. Workshop, Oberwolfach, Germany, July 3-6, 1991, Final Report",
+            "Publisher": "Springer",
+            "Isbn": "3-540-55215-4",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193769",
+            "Type": "book",
+            "Volume": "141",
+            "Year": "1987",
+            "Title": "Generierung von Worthypothesen in kontinuierlicher Sprache",
+            "Publisher": "Springer",
+            "Isbn": "3-540-17998-4",
+            "Series": "Informatik-Fachberichte"
+        },
+        {
+            "_id": "1193770",
+            "Type": "book",
+            "Volume": "2302",
+            "Year": "2002",
+            "Title": "Programming Constraint Services: High-Level Programming of Standard and New Constraint Services",
+            "Publisher": "Springer",
+            "Isbn": "3-540-43371-6",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193771",
+            "Type": "book",
+            "Volume": "2427",
+            "Year": "2002",
+            "Title": "Autonomous Dynamic Reconfiguration in Multi-Agent Systems, Improving the Quality and Efficiency of Collaborative Problem Solving",
+            "Publisher": "Springer",
+            "Isbn": "3-540-44312-6",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193772",
+            "Type": "book",
+            "Volume": "513",
+            "Year": "1991",
+            "Title": "An Approach to Knowledge Base Management",
+            "Publisher": "Springer",
+            "Isbn": "3-540-54268-X",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193773",
+            "Type": "book",
+            "Volume": "751",
+            "Year": "1993",
+            "Title": "Spatio-Temporal Image Processing: Theory and Scientific Applications",
+            "Publisher": "Springer",
+            "Isbn": "3-540-57418-2",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193774",
+            "Type": "book",
+            "Volume": "284",
+            "Year": "1991",
+            "Title": "Ausfuhrbare Spezifikation von Directory-Systemen in einer logischen Sprache",
+            "Publisher": "Springer",
+            "Isbn": "3-540-54546-8",
+            "Series": "Informatik-Fachberichte"
+        },
+        {
+            "_id": "1193775",
+            "Type": "book",
+            "Volume": "1426",
+            "Year": "1998",
+            "Title": "Abstract Compositional Analysis of Iterated Relations, A Structural Approach to Complex State Transition Systems.",
+            "Publisher": "Springer",
+            "Isbn": "3-540-65506-9",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193776",
+            "Type": "book",
+            "Volume": "190",
+            "Year": "1988",
+            "Title": "Relevanzanalyse: Eine Kombination von Striktheits- und Datenflusanalyse zur effizienten Auswertung funktionaler Programme",
+            "Publisher": "Springer",
+            "Isbn": "3-540-50429-X",
+            "Series": "Informatik-Fachberichte"
+        },
+        {
+            "_id": "1193777",
+            "Type": "book",
+            "Volume": "18",
+            "Year": "1975",
+            "Title": "Pascal User Manual and Report, Second Edition",
+            "Publisher": "Springer",
+            "Isbn": "3-540-07167-9",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193778",
+            "Type": "book",
+            "Volume": "538",
+            "Year": "1991",
+            "Title": "A Unified Approach to Interior Point Algorithms for Linear Complementarity Problems",
+            "Publisher": "Springer",
+            "Isbn": "3-540-54509-3",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193779",
+            "Type": "book",
+            "Volume": "312",
+            "Year": "1992",
+            "Title": "Indexstrukturen in Datenbanksystemen",
+            "Publisher": "Springer",
+            "Isbn": "3-540-55591-9",
+            "Series": "Informatik-Fachberichte"
+        },
+        {
+            "_id": "1193780",
+            "Type": "book",
+            "Volume": "186",
+            "Year": "1988",
+            "Title": "Synchronisation in Mehrrechner-Datenbanksystemen - Konzepte, Realisierungsformen und quantitative Bewertung",
+            "Publisher": "Springer",
+            "Isbn": "3-540-50348-X",
+            "Series": "Informatik-Fachberichte"
+        },
+        {
+            "_id": "1193781",
+            "Type": "book",
+            "Volume": "120",
+            "Year": "1981",
+            "Title": "Automatic Differentiation: Techniques and Applications",
+            "Publisher": "Springer",
+            "Isbn": "3-540-10861-0",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193782",
+            "Type": "book",
+            "Volume": "2219",
+            "Year": "2001",
+            "Title": "Consolidated Ada Reference Manual. Language and Standard Libraries, International Standard ISO/IEC 8652/1995(E) with Technical Corrigendum 1",
+            "Publisher": "Springer",
+            "Isbn": "3-540-43038-5",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193783",
+            "Type": "book",
+            "Volume": "35",
+            "Year": "1980",
+            "Title": "Mathematik fur Informatiker I: Die Methode der Mathematik",
+            "Publisher": "Springer",
+            "Isbn": "3-540-10417-8",
+            "Series": "Informatik-Fachberichte"
+        },
+        {
+            "_id": "1193784",
+            "Type": "book",
+            "Year": "1982",
+            "Title": "Programming in Modula 2",
+            "Publisher": "Springer",
+            "Isbn": "3-540-11674-5"
+        },
+        {
+            "_id": "1193785",
+            "Type": "book",
+            "Year": "1985",
+            "Title": "Programmieren in Modula-2",
+            "Publisher": "Springer",
+            "Isbn": "3-540-13301-1"
+        },
+        {
+            "_id": "1193786",
+            "Type": "book",
+            "Volume": "369",
+            "Year": "1989",
+            "Title": "Finite Representations of CCS and TCSP Programs by Automata and Petri Nets",
+            "Publisher": "Springer",
+            "Isbn": "3-540-51525-9",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193787",
+            "Type": "book",
+            "Volume": "2293",
+            "Year": "2002",
+            "Title": "Qualitative Spatial Reasoning with Topological Information",
+            "Publisher": "Springer",
+            "Isbn": "3-540-43346-5",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193788",
+            "Type": "book",
+            "Volume": "1958",
+            "Year": "2001",
+            "Title": "IT-Security and Privacy - Design and Use of Privacy-Enhancing Security Mechanisms",
+            "Publisher": "Springer",
+            "Isbn": "3-540-42142-4",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193789",
+            "Type": "book",
+            "Volume": "767",
+            "Year": "1994",
+            "Title": "An Extended Entity-Relationship Model - Fundamentals and Pragmatics",
+            "Publisher": "Springer",
+            "Isbn": "3-540-57648-7",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193790",
+            "Type": "book",
+            "Volume": "231",
+            "Year": "1986",
+            "Title": "NEWCAT: Parsing Natural Language Using Left-Associative Grammar",
+            "Publisher": "Springer",
+            "Isbn": "3-540-16781-1",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193791",
+            "Type": "book",
+            "Volume": "226",
+            "Year": "1989",
+            "Title": "Verteilte Basisalgorithmen",
+            "Publisher": "Springer",
+            "Isbn": "3-540-51835-5",
+            "Series": "Informatik-Fachberichte"
+        },
+        {
+            "_id": "1193792",
+            "Type": "book",
+            "Year": "1986",
+            "Title": "Cooperative Interfaces to Information Systems",
+            "Publisher": "Springer",
+            "Isbn": "3-540-16599-1",
+            "Series": "Topics in Information Systems"
+        },
+        {
+            "_id": "1193793",
+            "Type": "book",
+            "Volume": "1712",
+            "Year": "1999",
+            "Title": "A Tight, Practical Integration of Relations and Functions.",
+            "Publisher": "Springer",
+            "Isbn": "3-540-66644-3",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193794",
+            "Type": "book",
+            "Volume": "133",
+            "Year": "1987",
+            "Title": "Mechanismen zur Synchronisation paralleler Prozesse",
+            "Publisher": "Springer",
+            "Isbn": "3-540-17217-3",
+            "Series": "Informatik-Fachberichte"
+        },
+        {
+            "_id": "1193795",
+            "Type": "book",
+            "Volume": "305",
+            "Year": "1992",
+            "Title": "Entscheidungsorientiertes Konfigurationsmagament",
+            "Publisher": "Springer",
+            "Isbn": "3-540-55383-5",
+            "Series": "Informatik-Fachberichte"
+        },
+        {
+            "_id": "1193796",
+            "Type": "book",
+            "Year": "1998",
+            "Title": "Algorithmen und Datenstrukturen im VLSI-Design: OBDD - Grundlagen und Anwendungen",
+            "Publisher": "Springer",
+            "Isbn": "3-540-63869-5"
+        },
+        {
+            "_id": "1193797",
+            "Type": "book",
+            "Year": "2003",
+            "Title": "Software-Architekturen fur verteilte Systeme",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1193798",
+            "Type": "book",
+            "Volume": "426",
+            "Year": "1990",
+            "Title": "SIL - a Simulation Language, User_s Guide",
+            "Publisher": "Springer",
+            "Isbn": "3-540-52497-5",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193799",
+            "Type": "book",
+            "Volume": "1246",
+            "Year": "1997",
+            "Title": "Ada 95 Reference Manual, Language and Standard Libraries, International Standard ISO/IEC 8652: 1995(E)",
+            "Publisher": "Springer",
+            "Isbn": "3-540-63144-5",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193800",
+            "Type": "book",
+            "Volume": "261",
+            "Year": "1990",
+            "Title": "Automatische Komplexitatsanalyse funktionaler Programme",
+            "Publisher": "Springer",
+            "Isbn": "3-540-53430-X",
+            "Series": "Informatik-Fachberichte"
+        },
+        {
+            "_id": "1193801",
+            "Type": "book",
+            "Volume": "92",
+            "Year": "1980",
+            "Title": "A Calculus of Communicating Systems",
+            "Publisher": "Springer",
+            "Isbn": "3-540-10235-3",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193802",
+            "Type": "book",
+            "Volume": "1535",
+            "Year": "1999",
+            "Title": "Co-ordination in Artificial Agent Societies, Social Structure and Its Implications for Autonomous Problem-Solving Agents.",
+            "Publisher": "Springer",
+            "Isbn": "3-540-65495-X",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193803",
+            "Type": "book",
+            "Volume": "2145",
+            "Year": "2001",
+            "Title": "A Generative Theory of Shape, Questioning Klein_s Erlanger Program",
+            "Publisher": "Springer",
+            "Isbn": "3-540-42717-1",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193804",
+            "Type": "book",
+            "Volume": "101",
+            "Year": "1981",
+            "Title": "Boolean Caclulus of Differences",
+            "Publisher": "Springer",
+            "Isbn": "3-540-10286-8",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193805",
+            "Type": "book",
+            "Volume": "175",
+            "Year": "1984",
+            "Title": "P-Functions and Boolean Matrix Factorization: A Unified Approach for Wired, Programmed and Microprogrammed Implementations of Discrete Algorithms",
+            "Publisher": "Springer",
+            "Isbn": "3-540-13358-5",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193806",
+            "Type": "book",
+            "Volume": "1283",
+            "Year": "1997",
+            "Title": "Modular Compiler Verification - A Refinement-Algebraic Approach Advocating Stepwise Abstraction",
+            "Publisher": "Springer",
+            "Isbn": "3-540-63406-1",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193807",
+            "Type": "book",
+            "Volume": "679",
+            "Year": "1993",
+            "Title": "Resolution Methods for the Decision Problem",
+            "Publisher": "Springer",
+            "Isbn": "3-540-56732-1",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193808",
+            "Type": "book",
+            "Volume": "878",
+            "Year": "1994",
+            "Title": "Parallel, Distributed and Multiagent Production Systems",
+            "Publisher": "Springer",
+            "Isbn": "3-540-58698-9",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193809",
+            "Type": "book",
+            "Volume": "889",
+            "Year": "1995",
+            "Title": "Towards a CSCW Framework for Scientific Cooperation in Europe",
+            "Publisher": "Springer",
+            "Isbn": "3-540-58844-2",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193810",
+            "Type": "book",
+            "Year": "1997",
+            "Title": "Multimedia Databases in Perspective",
+            "Publisher": "Springer",
+            "Isbn": "3-540-76109-8"
+        },
+        {
+            "_id": "1193811",
+            "Type": "book",
+            "Volume": "248",
+            "Year": "1990",
+            "Title": "Inkonsistenzen in deduktiven Datenbanken: Diagnose und Reparatur",
+            "Publisher": "Springer",
+            "Isbn": "3-540-53077-0",
+            "Series": "Informatik-Fachberichte"
+        },
+        {
+            "_id": "1193812",
+            "Type": "book",
+            "Volume": "2050",
+            "Year": "2001",
+            "Title": "Network Calculus: A Theory of Deterministic Queuing Systems for the Internet",
+            "Publisher": "Springer",
+            "Isbn": "3-540-42184-X",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193813",
+            "Type": "book",
+            "Year": "2003",
+            "Title": "Text Mining, Theoretical Aspects and Applications",
+            "Publisher": "Physica-Verlag",
+            "Isbn": "3-7908-0041-4"
+        },
+        {
+            "_id": "1193814",
+            "Type": "book",
+            "Volume": "124",
+            "Year": "1981",
+            "Title": "Compiler Specification and Verification",
+            "Publisher": "Springer",
+            "Isbn": "3-540-10886-6",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193815",
+            "Type": "book",
+            "Year": "1995",
+            "Title": "Probability, Stocastic Processes, and Queuing Theory - The Mathematics of Computer Performance Modeling.",
+            "Publisher": "Springer",
+            "Isbn": "0-387-94452-4"
+        },
+        {
+            "_id": "1193816",
+            "Type": "book",
+            "Volume": "2428",
+            "Year": "2002",
+            "Title": "Interactive Markov Chains: The Quest for Quantified Quality",
+            "Publisher": "Springer",
+            "Isbn": "3-540-44261-8",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193817",
+            "Type": "book",
+            "Volume": "282",
+            "Year": "1991",
+            "Title": "Die strukturierte Analyse Markovscher Modelle",
+            "Publisher": "Springer",
+            "Isbn": "3-540-54540-9",
+            "Series": "Informatik-Fachberichte"
+        },
+        {
+            "_id": "1193818",
+            "Type": "book",
+            "Year": "2002",
+            "Title": "Introduction to Cryptography: Principles and Applications",
+            "Publisher": "Springer",
+            "Isbn": "3-540-42278-1"
+        },
+        {
+            "_id": "1193819",
+            "Type": "book",
+            "Volume": "216",
+            "Year": "1986",
+            "Title": "LUCAS Associative Array Processor: Design., Programming and Application Studies",
+            "Publisher": "Springer",
+            "Isbn": "3-540-16445-6",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193820",
+            "Type": "book",
+            "Volume": "35",
+            "Year": "1975",
+            "Title": "Exercises in Computer Systems Analysis",
+            "Publisher": "Springer",
+            "Isbn": "3-540-07401-5",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193821",
+            "Type": "book",
+            "Volume": "885",
+            "Year": "1994",
+            "Title": "Closed Object Boundaries from Scattered Points",
+            "Publisher": "Springer",
+            "Isbn": "3-540-58808-6",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193822",
+            "Type": "book",
+            "Volume": "1111",
+            "Year": "1996",
+            "Title": "Reasoning with Logic Programming",
+            "Publisher": "Springer",
+            "Isbn": "3-540-61488-5",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193823",
+            "Type": "book",
+            "Volume": "597",
+            "Year": "1992",
+            "Title": "A Perspective of Constraint-Based Reasoning - An Introductory Tutorial",
+            "Publisher": "Springer",
+            "Isbn": "3-540-55510-2",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193824",
+            "Type": "book",
+            "Volume": "91",
+            "Year": "1980",
+            "Title": "Grammars and L Forms: An Introduction",
+            "Publisher": "Springer",
+            "Isbn": "3-540-10233-7",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193825",
+            "Type": "book",
+            "Year": "2000",
+            "Title": "R/3 Einfuhrung: Methoden und Werkzeuge",
+            "Publisher": "Springer",
+            "Isbn": "3-540-65593-X"
+        },
+        {
+            "_id": "1193826",
+            "Type": "book",
+            "Volume": "1095",
+            "Year": "1996",
+            "Title": "Automated Deduction in Equational Logic and Cubic Curves",
+            "Publisher": "Springer",
+            "Isbn": "3-540-61398-6",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193827",
+            "Type": "book",
+            "Year": "2003",
+            "Title": "Komplexitatstheorie: Grenzen der Effizienz von Algorithmen",
+            "Publisher": "Springer",
+            "Isbn": "3-540-00161-1"
+        },
+        {
+            "_id": "1193828",
+            "Type": "book",
+            "Volume": "157",
+            "Year": "1983",
+            "Title": "Direct Methods for Sparse Matrices",
+            "Publisher": "Springer",
+            "Isbn": "3-540-12676-7",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193829",
+            "Type": "book",
+            "Year": "2002",
+            "Title": "Incomplete Information: Structure, Inference, Complexity",
+            "Publisher": "Springer",
+            "Isbn": "3-540-41904-7",
+            "Series": "Monographs in Theoretical Computer Science. An EATCS Series"
+        },
+        {
+            "_id": "1193830",
+            "Type": "book",
+            "Volume": "262",
+            "Year": "1987",
+            "Title": "A Review of Ada Tasking",
+            "Publisher": "Springer",
+            "Isbn": "3-540-18008-7",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193831",
+            "Type": "book",
+            "Year": "1999",
+            "Title": "John Zukowski_s Definitive Guide to Swing for Java 2",
+            "Publisher": "APress",
+            "Isbn": "1-893115-02-X"
+        },
+        {
+            "_id": "1193832",
+            "Type": "book",
+            "Year": "2002",
+            "Title": "Introduction to Cryptography",
+            "Publisher": "Springer",
+            "Isbn": "0-387-95034-6"
+        },
+        {
+            "_id": "1193833",
+            "Type": "book",
+            "Volume": "2062",
+            "Year": "2001",
+            "Title": "Constraint-Based Agents",
+            "Publisher": "Springer",
+            "Isbn": "3-540-42258-7",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193834",
+            "Type": "book",
+            "Volume": "1155",
+            "Year": "1996",
+            "Title": "Broadband Network Teletraffic - Performance Evaluation and Design of Broadband Multiservice Networks: Final Report of Action COST 242",
+            "Publisher": "Springer",
+            "Isbn": "3-540-61815-5",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193835",
+            "Type": "book",
+            "Volume": "211",
+            "Year": "1986",
+            "Title": "Complexity and Structure",
+            "Publisher": "Springer",
+            "Isbn": "3-540-16079-5",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193836",
+            "Type": "book",
+            "Volume": "2815",
+            "Year": "2003",
+            "Title": "Composition of Secure Multi-Party Protocols, A Comprehensive Study",
+            "Publisher": "Springer",
+            "Isbn": "3-540-20105-X",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193837",
+            "Type": "book",
+            "Volume": "1083",
+            "Year": "1996",
+            "Title": "Evaluating Natural Language Processing Systems, An Analysis and Review",
+            "Publisher": "Springer",
+            "Isbn": "3-540-61309-9",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193838",
+            "Type": "book",
+            "Volume": "66",
+            "Year": "1978",
+            "Title": "TEMPO: A Unified Treatment of Binding Time and Parameter Passing Concepts in Programming Languages",
+            "Publisher": "Springer",
+            "Isbn": "3-540-09085-1",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193839",
+            "Type": "book",
+            "Year": "1998",
+            "Title": "Out of Their Minds: The Lives and Discoveries of 15 Great Computer Scientists.",
+            "Publisher": "Copernicus Books, an imprint of Springer-Verlag",
+            "Isbn": "0-387-98269-8"
+        },
+        {
+            "_id": "1193840",
+            "Type": "book",
+            "Volume": "42",
+            "Year": "1976",
+            "Title": "Complementary Definitions of Programming Language Semantics",
+            "Publisher": "Springer",
+            "Isbn": "3-540-07628-X",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193841",
+            "Type": "book",
+            "Year": "2002",
+            "Title": "Algorithms on Trees and Graphs",
+            "Publisher": "Springer",
+            "Isbn": "3-540-43550-6"
+        },
+        {
+            "_id": "1193842",
+            "Type": "book",
+            "Volume": "148",
+            "Year": "1987",
+            "Title": "Diagnostisches Problemlosen mit Expertensystemen",
+            "Publisher": "Springer",
+            "Isbn": "3-540-18342-6",
+            "Series": "Informatik-Fachberichte"
+        },
+        {
+            "_id": "1193843",
+            "Type": "book",
+            "Volume": "166",
+            "Year": "1988",
+            "Title": "Kollisionsfreie Bahnen fur Industrieroboter: Ein Planungsverfahren",
+            "Publisher": "Springer",
+            "Isbn": "3-540-18978-5",
+            "Series": "Informatik-Fachberichte"
+        },
+        {
+            "_id": "1193844",
+            "Type": "book",
+            "Volume": "2",
+            "Year": "1984",
+            "Title": "Data Structures and Algorithms 2: Graph Algorithms and NP-Completeness",
+            "Publisher": "Springer",
+            "Isbn": "3-540-13641-X",
+            "Series": "Monographs in Theoretical Computer Science. An EATCS Series"
+        },
+        {
+            "_id": "1193845",
+            "Type": "book",
+            "Volume": "3",
+            "Year": "1984",
+            "Title": "Data Structures and Algorithms 3",
+            "Publisher": "Springer",
+            "Isbn": "3-540-13642-8",
+            "Series": "Monographs in Theoretical Computer Science. An EATCS Series"
+        },
+        {
+            "_id": "1193846",
+            "Type": "book",
+            "Volume": "113",
+            "Year": "1981",
+            "Title": "Stochastic Automata: Stability, Nondeterminism, and Prediction",
+            "Publisher": "Springer",
+            "Isbn": "3-540-10835-1",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193847",
+            "Type": "book",
+            "Year": "1986",
+            "Title": "Relational Database Technology",
+            "Publisher": "Springer",
+            "Isbn": "3-540-96276-X"
+        },
+        {
+            "_id": "1193848",
+            "Type": "book",
+            "Year": "1989",
+            "Title": "Object-Oriented Database Programming",
+            "Publisher": "Springer",
+            "Isbn": "3-540-96754-0"
+        },
+        {
+            "_id": "1193849",
+            "Type": "book",
+            "Volume": "1000",
+            "Year": "1995",
+            "Title": "Computer Science Today: Recent Trends and Developments",
+            "Publisher": "Springer",
+            "Isbn": "3-540-60105-8",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193850",
+            "Type": "book",
+            "Volume": "103",
+            "Year": "1981",
+            "Title": "Directions in Human Factors for Interactive Systems",
+            "Publisher": "Springer",
+            "Isbn": "3-540-10574-3",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193851",
+            "Type": "book",
+            "Volume": "843",
+            "Year": "1994",
+            "Title": "Turing Machines with Sublogarithmic Space",
+            "Publisher": "Springer",
+            "Isbn": "3-540-58355-6",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193852",
+            "Type": "book",
+            "Volume": "374",
+            "Year": "1989",
+            "Title": "The Cray X-MP/Model 24, A Case Study in Pipelined Architecture and Vector Processing",
+            "Publisher": "Springer",
+            "Isbn": "3-540-97089-4",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193853",
+            "Type": "book",
+            "Volume": "1410",
+            "Year": "1998",
+            "Title": "Audio System for Technical Readings.",
+            "Publisher": "Springer",
+            "Isbn": "3-540-65515-8",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193854",
+            "Type": "book",
+            "Volume": "268",
+            "Year": "1987",
+            "Title": "Constrained Global Optimization: Algorithms and Applications",
+            "Publisher": "Springer",
+            "Isbn": "3-540-18095-8",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193855",
+            "Type": "book",
+            "Volume": "194",
+            "Year": "1988",
+            "Title": "Interaktives Entwerfen groser Programmsysteme: Konzepte und Werkzeuge",
+            "Publisher": "Springer",
+            "Isbn": "3-540-50553-9",
+            "Series": "Informatik-Fachberichte"
+        },
+        {
+            "_id": "1193856",
+            "Type": "book",
+            "Volume": "263",
+            "Year": "1990",
+            "Title": "Entwurfstransaktionen fur modulare Objektsysteme: Synchronisierung in objektorientierten Datenbanksystemen",
+            "Publisher": "Springer",
+            "Isbn": "3-540-53481-4",
+            "Series": "Informatik-Fachberichte"
+        },
+        {
+            "_id": "1193857",
+            "Type": "book",
+            "Volume": "102",
+            "Year": "1985",
+            "Title": "Von Datenbanken zu Expertensystemen",
+            "Publisher": "Springer",
+            "Isbn": "3-540-15655-0",
+            "Series": "Informatik-Fachberichte"
+        },
+        {
+            "_id": "1193858",
+            "Type": "book",
+            "Volume": "1",
+            "Year": "1984",
+            "Title": "Data Structures and Algorithms 1: Sorting and Searching",
+            "Publisher": "Springer",
+            "Isbn": "3-540-13302-X",
+            "Series": "Monographs in Theoretical Computer Science. An EATCS Series"
+        },
+        {
+            "_id": "1193859",
+            "Type": "book",
+            "Year": "1986",
+            "Title": "A Guide to Modula-2",
+            "Publisher": "Springer",
+            "Isbn": "0-387-96242-5"
+        },
+        {
+            "_id": "1193860",
+            "Type": "book",
+            "Year": "2001",
+            "Title": "Das ist Informatik",
+            "Publisher": "Springer",
+            "Isbn": "3-540-41091-0"
+        },
+        {
+            "_id": "1193861",
+            "Type": "book",
+            "Volume": "261",
+            "Year": "1987",
+            "Title": "Translating Relational Queries into Iterative Programs",
+            "Publisher": "Springer",
+            "Isbn": "3-540-18000-1",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193862",
+            "Type": "book",
+            "Volume": "771",
+            "Year": "1994",
+            "Title": "Visualization of Scientific Parallel Programs",
+            "Publisher": "Springer",
+            "Isbn": "3-540-57738-6",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193863",
+            "Type": "book",
+            "Volume": "6",
+            "Year": "1985",
+            "Title": "Fundamentals of Algebraic Specification 1: Equations und Initial Semantics",
+            "Publisher": "Springer",
+            "Isbn": "3-540-13718-1",
+            "Series": "Monographs in Theoretical Computer Science. An EATCS Series"
+        },
+        {
+            "_id": "1193864",
+            "Type": "book",
+            "Volume": "1612",
+            "Year": "1999",
+            "Title": "Developing Industrial Case-Based Reasoning Applications: The INRECA-Methodology",
+            "Publisher": "Springer",
+            "Isbn": "3-540-66182-4",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193865",
+            "Type": "book",
+            "Year": "1982",
+            "Title": "Principles of Artificial Intelligence",
+            "Publisher": "Springer",
+            "Isbn": "3-540-11340-1"
+        },
+        {
+            "_id": "1193866",
+            "Type": "book",
+            "Volume": "2087",
+            "Year": "2001",
+            "Title": "Conditionals in Nonmonotonic Reasoning and Belief Revision - Considering Conditionals as Agents",
+            "Publisher": "Springer",
+            "Isbn": "3-540-42367-2",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193867",
+            "Type": "book",
+            "Volume": "161",
+            "Year": "1983",
+            "Title": "DIANA - An Intermediate Language for Ada, Revised Version",
+            "Publisher": "Springer",
+            "Isbn": "3-540-12695-3",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193868",
+            "Type": "book",
+            "Volume": "1771",
+            "Year": "2000",
+            "Title": "Part-Whole Reasoning in an Object-Centered Framework",
+            "Publisher": "Springer",
+            "Isbn": "3-540-67225-7",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193869",
+            "Type": "book",
+            "Volume": "1950",
+            "Year": "2000",
+            "Title": "Randomness and Completeness in Computational Complexity",
+            "Publisher": "Springer",
+            "Isbn": "3-540-41492-4",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193870",
+            "Type": "book",
+            "Volume": "26",
+            "Year": "1980",
+            "Title": "Datenverarbeitung im Hochschulbereich der USA: Stand und Entwicklungstendenzen",
+            "Publisher": "Springer",
+            "Isbn": "3-540-09938-7",
+            "Series": "Informatik-Fachberichte"
+        },
+        {
+            "_id": "1193871",
+            "Type": "book",
+            "Volume": "2169",
+            "Year": "2001",
+            "Title": "New Concepts for Parallel Object-Relational Query Processing",
+            "Publisher": "Springer",
+            "Isbn": "3-540-42781-3",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193872",
+            "Type": "book",
+            "Volume": "676",
+            "Year": "1993",
+            "Title": "Recognizing Planar Objects Using Invariant Image Features",
+            "Publisher": "Springer",
+            "Isbn": "3-540-56713-5",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193873",
+            "Type": "book",
+            "Volume": "942",
+            "Year": "1995",
+            "Title": "Exploitation of Fine-Grain Parallelism.",
+            "Publisher": "Springer",
+            "Isbn": "3-540-60054-X",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193874",
+            "Type": "book",
+            "Volume": "445",
+            "Year": "1990",
+            "Title": "On the Shape of Mathematical Arguments",
+            "Publisher": "Springer",
+            "Isbn": "3-540-52849-0",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193875",
+            "Type": "book",
+            "Volume": "68",
+            "Year": "1983",
+            "Title": "Bibliography on Abstract Data Types, Sponsored by the _Osterr. Fonds zur Forderung der Wissenschaftlichen Forschung_",
+            "Publisher": "Springer",
+            "Isbn": "3-540-12312-1",
+            "Series": "Informatik-Fachberichte"
+        },
+        {
+            "_id": "1193876",
+            "Type": "book",
+            "Year": "2001",
+            "Title": "Web-Datenbanken: Einsatz objekt-relationaler Datenbanken fur Web-Informationssysteme",
+            "Publisher": "Springer",
+            "Isbn": "3-540-41932-2"
+        },
+        {
+            "_id": "1193877",
+            "Type": "book",
+            "Volume": "756",
+            "Year": "1993",
+            "Title": "Design of Hashing Algorithms",
+            "Publisher": "Springer",
+            "Isbn": "3-540-57500-6",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193878",
+            "Type": "book",
+            "Volume": "672",
+            "Year": "1993",
+            "Title": "The MOSIX Distributed Operating System - Load Balancing for UNIX",
+            "Publisher": "Springer",
+            "Isbn": "3-540-56663-5",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193879",
+            "Type": "book",
+            "Volume": "308",
+            "Year": "1992",
+            "Title": "Die Interpretation des Verhaltens mehrerer Akteure in Szenenfolgen",
+            "Publisher": "Springer",
+            "Isbn": "3-540-55307-X",
+            "Series": "Informatik-Fachberichte"
+        },
+        {
+            "_id": "1193880",
+            "Type": "book",
+            "Year": "1985",
+            "Title": "Query Processing in Database Systems",
+            "Publisher": "Springer",
+            "Isbn": "3-540-13831-5"
+        },
+        {
+            "_id": "1193881",
+            "Type": "book",
+            "Volume": "199",
+            "Year": "1988",
+            "Title": "Zur Logik der Logik-Programmierung: Ein konstruktiver Ansatz",
+            "Publisher": "Springer",
+            "Isbn": "3-540-50720-5",
+            "Series": "Informatik-Fachberichte"
+        },
+        {
+            "_id": "1193882",
+            "Type": "book",
+            "Volume": "6",
+            "Year": "1976",
+            "Title": "Matrix Eigensystem Routines - EISPACK Guide, Second Edition",
+            "Publisher": "Springer",
+            "Isbn": "3-540-07546-1",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193883",
+            "Type": "book",
+            "Volume": "102",
+            "Year": "1981",
+            "Title": "On the Integration of Algebraic Functions",
+            "Publisher": "Springer",
+            "Isbn": "3-540-10290-6",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193884",
+            "Type": "book",
+            "Volume": "311",
+            "Year": "1992",
+            "Title": "Situationsmodellierung in der Bildfolgeauswertung",
+            "Publisher": "Springer",
+            "Isbn": "3-540-55395-9",
+            "Series": "Informatik-Fachberichte"
+        },
+        {
+            "_id": "1193885",
+            "Type": "book",
+            "Volume": "1775",
+            "Year": "2000",
+            "Title": "Challenges for Action Theories",
+            "Publisher": "Springer",
+            "Isbn": "3-540-67455-1",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193886",
+            "Type": "book",
+            "Volume": "1390",
+            "Year": "1998",
+            "Title": "Universal Routing Strategies for Interconnection Networks",
+            "Publisher": "Springer",
+            "Isbn": "3-540-64505-5",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193887",
+            "Type": "book",
+            "Volume": "943",
+            "Year": "1995",
+            "Title": "Metaclasses and Their Applications, Data Model Tailoring and Database Integration",
+            "Publisher": "Springer",
+            "Isbn": "3-540-60063-9",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193888",
+            "Type": "book",
+            "Volume": "64",
+            "Year": "1983",
+            "Title": "Parallele Algorithmen",
+            "Publisher": "Springer",
+            "Isbn": "3-540-12283-4",
+            "Series": "Informatik-Fachberichte"
+        },
+        {
+            "_id": "1193889",
+            "Type": "book",
+            "Volume": "58",
+            "Year": "1977",
+            "Title": "Computing in Systems Described by Equations",
+            "Publisher": "Springer",
+            "Isbn": "3-540-08531-9",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193890",
+            "Type": "book",
+            "Volume": "400",
+            "Year": "1989",
+            "Title": "Concrete and Abstract Voronoi Diagrams",
+            "Publisher": "Springer",
+            "Isbn": "3-540-52055-4",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193891",
+            "Type": "book",
+            "Volume": "298",
+            "Year": "1992",
+            "Title": "Zuverlassigkeit und Leistungsfahigkeit objekt-orientierter Datenbanksysteme",
+            "Publisher": "Springer",
+            "Isbn": "3-540-55120-4",
+            "Series": "Informatik-Fachberichte"
+        },
+        {
+            "_id": "1193892",
+            "Type": "book",
+            "Volume": "628",
+            "Year": "1992",
+            "Title": "Relational Matching",
+            "Publisher": "Springer",
+            "Isbn": "3-540-55798-9",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193893",
+            "Type": "book",
+            "Volume": "205",
+            "Year": "1985",
+            "Title": "A Study in String Processing Languages",
+            "Publisher": "Springer",
+            "Isbn": "3-540-16041-8",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193894",
+            "Type": "book",
+            "Volume": "1089",
+            "Year": "1996",
+            "Title": "Bounded Incremental Computation",
+            "Publisher": "Springer",
+            "Isbn": "3-540-61320-X",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193895",
+            "Type": "book",
+            "Year": "1995",
+            "Title": "Datenbankeinsatz.",
+            "Publisher": "Springer",
+            "Isbn": "3-540-58558-3"
+        },
+        {
+            "_id": "1193896",
+            "Type": "book",
+            "Volume": "842",
+            "Year": "1994",
+            "Title": "Treewidth, Computations and Approximations",
+            "Publisher": "Springer",
+            "Isbn": "3-540-58356-4",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193897",
+            "Type": "book",
+            "Volume": "285",
+            "Year": "1987",
+            "Title": "Semantics of Digital Circuits",
+            "Publisher": "Springer",
+            "Isbn": "3-540-18540-2",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193898",
+            "Type": "book",
+            "Volume": "481",
+            "Year": "1991",
+            "Title": "Modelling Spatial Knowledge on a Linguistic Basis: Theory - Prototype - Integration",
+            "Publisher": "Springer",
+            "Isbn": "3-540-53718-X",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193899",
+            "Type": "book",
+            "Volume": "1527",
+            "Year": "1998",
+            "Title": "Theory Reasoning in Connection Calculi",
+            "Publisher": "Springer",
+            "Isbn": "3-540-65509-3",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193900",
+            "Type": "book",
+            "Volume": "97",
+            "Year": "1985",
+            "Title": "Systematische Software-Qualitatssicherung anhand von Qualitats- und Produktmodellen",
+            "Publisher": "Springer",
+            "Isbn": "3-540-15220-2",
+            "Series": "Informatik-Fachberichte"
+        },
+        {
+            "_id": "1193901",
+            "Type": "book",
+            "Volume": "1623",
+            "Year": "1999",
+            "Title": "Focusing Solutions for Data Mining: Analytical Studies and Experimental Results in Real-World Domains",
+            "Publisher": "Springer",
+            "Isbn": "3-540-66429-7",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193902",
+            "Type": "book",
+            "Volume": "1229",
+            "Year": "1997",
+            "Title": "Distributed Reason Maintenance for Multiagent Systems",
+            "Publisher": "Springer",
+            "Isbn": "3-540-63606-4",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193903",
+            "Type": "book",
+            "Volume": "145",
+            "Year": "1987",
+            "Title": "Kommunikationskonzepte fur verteilte transaktionsorientierte Systeme",
+            "Publisher": "Springer",
+            "Isbn": "3-540-18272-1",
+            "Series": "Informatik-Fachberichte"
+        },
+        {
+            "_id": "1193904",
+            "Type": "book",
+            "Volume": "1791",
+            "Year": "2000",
+            "Title": "Problem-Solving Methods: Understanding, Description, Development, and Reuse",
+            "Publisher": "Springer",
+            "Isbn": "3-540-67816-6",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193905",
+            "Type": "book",
+            "Volume": "51",
+            "Year": "1982",
+            "Title": "Erzeugung interaktiver Bildverarbeitungssysteme im Dialog: Konzepte, Entwurf und Implementierung eines Dialogsystems fur die Bildverarbeitung in der Medizin",
+            "Publisher": "Springer",
+            "Isbn": "3-540-11181-6",
+            "Series": "Informatik-Fachberichte"
+        },
+        {
+            "_id": "1193906",
+            "Type": "book",
+            "Volume": "625",
+            "Year": "1992",
+            "Title": "Modular Construction and Partial Order Semantics of Petri Nets",
+            "Publisher": "Springer",
+            "Isbn": "3-540-55767-9",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193907",
+            "Type": "book",
+            "Volume": "115",
+            "Year": "1985",
+            "Title": "Benutzermodellierung in Dialogsystemen",
+            "Publisher": "Springer",
+            "Isbn": "3-540-16074-4",
+            "Series": "Informatik-Fachberichte"
+        },
+        {
+            "_id": "1193908",
+            "Type": "book",
+            "Volume": "1428",
+            "Year": "1998",
+            "Title": "Optimal Interprocedural Program Optimization, A New Framework and Its Application",
+            "Publisher": "Springer",
+            "Isbn": "3-540-65123-3",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193909",
+            "Type": "book",
+            "Volume": "1440",
+            "Year": "1998",
+            "Title": "Advances in Cryptology 1981-1997, Electronic Proceedings and Index of the CRYPTO and EUROCRYPT Conferences 1981-1997",
+            "Publisher": "Springer",
+            "Isbn": "3-540-65069-5",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193910",
+            "Type": "book",
+            "Volume": "2282",
+            "Year": "2002",
+            "Title": "Extraction and Exploitation of Intensional Knowledge from Heterogeneous Information Sources: Semi-Automatic Approaches and Tools",
+            "Publisher": "Springer",
+            "Isbn": "3-540-43347-3",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193911",
+            "Type": "book",
+            "Volume": "606",
+            "Year": "1992",
+            "Title": "Axioms and Hulls",
+            "Publisher": "Springer",
+            "Isbn": "3-540-55611-7",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193912",
+            "Type": "book",
+            "Volume": "1750",
+            "Year": "1999",
+            "Title": "MMIXware, A RISC Computer for the Third Millennium",
+            "Publisher": "Springer",
+            "Isbn": "3-540-66938-8",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193913",
+            "Type": "book",
+            "Volume": "559",
+            "Year": "1991",
+            "Title": "Fundamental Algorithms for Permutation Groups",
+            "Publisher": "Springer",
+            "Isbn": "3-540-54955-2",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193914",
+            "Type": "book",
+            "Volume": "1307",
+            "Year": "1997",
+            "Title": "Prosody in Speech Understanding Systems",
+            "Publisher": "Springer",
+            "Isbn": "3-540-63580-7",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193915",
+            "Type": "book",
+            "Volume": "1187",
+            "Year": "1997",
+            "Title": "Nonmonotonic Logics, Basic Concepts, Results, and Techniques",
+            "Publisher": "Springer",
+            "Isbn": "3-540-62482-1",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193916",
+            "Type": "book",
+            "Volume": "1096",
+            "Year": "1996",
+            "Title": "Workflow Management Systems for Process Organisations",
+            "Publisher": "Springer",
+            "Isbn": "3-540-61401-X",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193917",
+            "Type": "book",
+            "Volume": "165",
+            "Year": "1984",
+            "Title": "Large Sparse Numerical Optimization",
+            "Publisher": "Springer",
+            "Isbn": "3-540-12914-6",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193918",
+            "Type": "book",
+            "Volume": "313",
+            "Year": "1992",
+            "Title": "Generierung naturlicher Sprache mit Generalisierten Phrasenstruktur-Grammatiken",
+            "Publisher": "Springer",
+            "Isbn": "3-540-55818-7",
+            "Series": "Informatik-Fachberichte"
+        },
+        {
+            "_id": "1193919",
+            "Type": "book",
+            "Volume": "766",
+            "Year": "1994",
+            "Title": "The Dynamics of Concepts - A Connectionist Model",
+            "Publisher": "Springer",
+            "Isbn": "3-540-57647-9",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193920",
+            "Type": "book",
+            "Volume": "638",
+            "Year": "1992",
+            "Title": "Neural Nets - A Theory for Brains and Machines",
+            "Publisher": "Springer",
+            "Isbn": "3-540-55949-3",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193921",
+            "Type": "book",
+            "Volume": "232",
+            "Year": "1990",
+            "Title": "Parallele Implementierung funktionaler Programmiersprachen",
+            "Publisher": "Springer",
+            "Isbn": "3-540-52049-X",
+            "Series": "Informatik-Fachberichte"
+        },
+        {
+            "_id": "1193922",
+            "Type": "book",
+            "Volume": "121",
+            "Year": "1986",
+            "Title": "Fehlermaskierung durch verteilte Systeme",
+            "Publisher": "Springer",
+            "Isbn": "3-540-16464-2",
+            "Series": "Informatik-Fachberichte"
+        },
+        {
+            "_id": "1193923",
+            "Type": "book",
+            "Volume": "2541",
+            "Year": "2002",
+            "Title": "Mental Representation and Processing of Geographic Knowledge - A Computational Approach",
+            "Publisher": "Springer",
+            "Isbn": "3-540-00216-2",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193924",
+            "Type": "book",
+            "Volume": "20",
+            "Year": "1974",
+            "Title": "Simple Program Schemes and Formal Languages",
+            "Publisher": "Springer",
+            "Isbn": "3-540-06953-4",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193925",
+            "Type": "book",
+            "Volume": "169",
+            "Year": "1984",
+            "Title": "Feedback Shift Registers",
+            "Publisher": "Springer",
+            "Isbn": "3-540-13330-5",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193926",
+            "Type": "book",
+            "Volume": "129",
+            "Year": "1982",
+            "Title": "Veritying Concurrent Processes Using Temporal Logic",
+            "Publisher": "Springer",
+            "Isbn": "3-540-11205-7",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193927",
+            "Type": "book",
+            "Volume": "215",
+            "Year": "1989",
+            "Title": "Qualitat und Testbarkeit hochintegrierter Schaltungen: Qualitatssicherung durch regelbasierte Systeme",
+            "Publisher": "Springer",
+            "Isbn": "3-540-51608-5",
+            "Series": "Informatik-Fachberichte"
+        },
+        {
+            "_id": "1193928",
+            "Type": "book",
+            "Volume": "187",
+            "Year": "1985",
+            "Title": "Time Series Package (TSPACK)",
+            "Publisher": "Springer",
+            "Isbn": "3-540-15202-4",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193929",
+            "Type": "book",
+            "Volume": "260",
+            "Year": "1987",
+            "Title": "ANNA - A Language for Annotating Ada Programs, Reference Manual",
+            "Publisher": "Springer",
+            "Isbn": "3-540-17980-1",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193930",
+            "Type": "book",
+            "Volume": "1854",
+            "Year": "2000",
+            "Title": "SEMPER - Secure Electronic Marketplace for Europe",
+            "Publisher": "Springer",
+            "Isbn": "3-540-67825-5",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193931",
+            "Type": "book",
+            "Volume": "273",
+            "Year": "1987",
+            "Title": "A Connotational Theory of Program Structure",
+            "Publisher": "Springer",
+            "Isbn": "3-540-18253-5",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193932",
+            "Type": "book",
+            "Volume": "454",
+            "Year": "1990",
+            "Title": "Combinatorics on Traces",
+            "Publisher": "Springer",
+            "Isbn": "3-540-53031-2",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193933",
+            "Type": "book",
+            "Volume": "738",
+            "Year": "1993",
+            "Title": "The Generic Development Language Deva: Presentation and Case Studies",
+            "Publisher": "Springer",
+            "Isbn": "3-540-57335-6",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193934",
+            "Type": "book",
+            "Volume": "247",
+            "Year": "1990",
+            "Title": "Funktionelle Analyse von Kommunikationsprotokollen",
+            "Publisher": "Springer",
+            "Isbn": "3-540-52854-7",
+            "Series": "Informatik-Fachberichte"
+        },
+        {
+            "_id": "1193935",
+            "Type": "book",
+            "Volume": "91",
+            "Year": "1984",
+            "Title": "Maschinen-unabhangige Code-Erzeugung als semantikerhaltende beweisbare Programmtransformation",
+            "Publisher": "Springer",
+            "Isbn": "3-540-13895-1",
+            "Series": "Informatik-Fachberichte"
+        },
+        {
+            "_id": "1193936",
+            "Type": "book",
+            "Volume": "323",
+            "Year": "1988",
+            "Title": "Attribute Grammars: Definitions, Systems, and Bibliography.",
+            "Publisher": "Springer",
+            "Isbn": "3-540-50056-1",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193937",
+            "Type": "book",
+            "Volume": "2039",
+            "Year": "2001",
+            "Title": "Objective Coordination in Multi-Agent System Engineering - Design and Implementation",
+            "Publisher": "Springer",
+            "Isbn": "3-540-41982-9",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193938",
+            "Type": "book",
+            "Volume": "804",
+            "Year": "1994",
+            "Title": "Qualitative Representation of Spatial Knowledge",
+            "Publisher": "Springer",
+            "Isbn": "3-540-58058-1",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193939",
+            "Type": "book",
+            "Volume": "1591",
+            "Year": "1999",
+            "Title": "PREMO: A Framework for Multimedia Middleware - Specification, Rationale, and Java Binding",
+            "Publisher": "Springer",
+            "Isbn": "3-540-66720-2",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193940",
+            "Type": "book",
+            "Volume": "1247",
+            "Year": "1997",
+            "Title": "Ada 95 Rationale, The Language, The Standard Libraries",
+            "Publisher": "Springer",
+            "Isbn": "3-540-63143-7",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193941",
+            "Type": "book",
+            "Volume": "96",
+            "Year": "1980",
+            "Title": "Computer Programs for Spelling Correction: An Experiment in Program Design",
+            "Publisher": "Springer",
+            "Isbn": "3-540-10259-0",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193942",
+            "Type": "book",
+            "Volume": "1354",
+            "Year": "1997",
+            "Title": "Automatic Verification of Sequential Infinite-State Processes",
+            "Publisher": "Springer",
+            "Isbn": "3-540-63982-9",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193943",
+            "Type": "book",
+            "Volume": "78",
+            "Year": "1979",
+            "Title": "Edinburgh LCF",
+            "Publisher": "Springer",
+            "Isbn": "3-540-09724-4",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193944",
+            "Type": "book",
+            "Volume": "746",
+            "Year": "1993",
+            "Title": "Artificail Perception and Music Recognition",
+            "Publisher": "Springer",
+            "Isbn": "3-540-57394-1",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193945",
+            "Type": "book",
+            "Year": "1991",
+            "Title": "On Object-Oriented Database Systems",
+            "Publisher": "Springer",
+            "Isbn": "3-540-53496-2",
+            "Series": "Topics in Information Systems"
+        },
+        {
+            "_id": "1193946",
+            "Type": "book",
+            "Year": "1988",
+            "Title": "Prolog by Example: How to Learn, Teach and Use It",
+            "Publisher": "Springer",
+            "Isbn": "3-540-18313-2"
+        },
+        {
+            "_id": "1193947",
+            "Type": "book",
+            "Volume": "1852",
+            "Year": "2000",
+            "Title": "The Computational Complexity of Equivalence and Isomorphism Problems",
+            "Publisher": "Springer",
+            "Isbn": "3-540-41032-5",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193948",
+            "Type": "book",
+            "Volume": "2046",
+            "Year": "2001",
+            "Title": "Queueing Networks with Discrete Time Scale - Explicit Expressions for the Steady State Behavior of Discrete Time Stochastic Networks",
+            "Publisher": "Springer",
+            "Isbn": "3-540-42357-5",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193949",
+            "Type": "book",
+            "Volume": "518",
+            "Year": "1991",
+            "Title": "Instantiation Theory - On the Foundations of Automated Deduction",
+            "Publisher": "Springer",
+            "Isbn": "3-540-54333-3",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193950",
+            "Type": "book",
+            "Volume": "370",
+            "Year": "1989",
+            "Title": "Modified Branching Programs and Their Computational Power",
+            "Publisher": "Springer",
+            "Isbn": "3-540-51340-X",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193951",
+            "Type": "book",
+            "Volume": "177",
+            "Year": "1989",
+            "Title": "Signaturanalyse: Theoretische Grundlagen und Probleme; Ausblick auf Anwendungen",
+            "Publisher": "Springer",
+            "Isbn": "3-540-50244-0",
+            "Series": "Informatik-Fachberichte"
+        },
+        {
+            "_id": "1193952",
+            "Type": "book",
+            "Volume": "183",
+            "Year": "1985",
+            "Title": "The Munich Project CIP, Volume I: The Wide Spectrum Language CIP-L",
+            "Publisher": "Springer",
+            "Isbn": "3-540-15187-7",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193953",
+            "Type": "book",
+            "Volume": "395",
+            "Year": "1989",
+            "Title": "Computational Aspects of an Order-Sorted Logic with Term Declarations",
+            "Publisher": "Springer",
+            "Isbn": "3-540-51705-7",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193954",
+            "Type": "book",
+            "Volume": "799",
+            "Year": "1994",
+            "Title": "Multiagent Systems - A Theoretical Framework for Intentions, Know-How, and Communications",
+            "Publisher": "Springer",
+            "Isbn": "3-540-58026-3",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193955",
+            "Type": "book",
+            "Volume": "210",
+            "Year": "1989",
+            "Title": "Termersetzungssysteme : Grundlagen der Prototyp-Generierung algebraischer Spezifikationen",
+            "Publisher": "Springer",
+            "Isbn": "3-540-51172-5",
+            "Series": "Informatik-Fachberichte"
+        },
+        {
+            "_id": "1193956",
+            "Type": "book",
+            "Volume": "419",
+            "Year": "1990",
+            "Title": "A Methodology for Uncertainty in Knowledge-Based Systems",
+            "Publisher": "Springer",
+            "Isbn": "3-540-52336-7",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193957",
+            "Type": "book",
+            "Volume": "568",
+            "Year": "1991",
+            "Title": "A Resolution Principle for a Logic with Restricted Quantifiers",
+            "Publisher": "Springer",
+            "Isbn": "3-540-55034-8",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193958",
+            "Type": "book",
+            "Volume": "105",
+            "Year": "1985",
+            "Title": "Exceptionbehandlung und Synchronisation - Entwurf und Methode",
+            "Publisher": "Springer",
+            "Isbn": "3-540-15672-0",
+            "Series": "Informatik-Fachberichte"
+        },
+        {
+            "_id": "1193959",
+            "Type": "book",
+            "Volume": "2558",
+            "Year": "2002",
+            "Title": "Data Mining on Multimedia Data",
+            "Publisher": "Springer",
+            "Isbn": "3-540-00317-7",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193960",
+            "Type": "book",
+            "Volume": "121",
+            "Year": "1981",
+            "Title": "Y12M - Solution of Large and Sparse Systems of Linear Algebraic Equations",
+            "Publisher": "Springer",
+            "Isbn": "3-540-10874-2",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193961",
+            "Type": "book",
+            "Volume": "62",
+            "Year": "1983",
+            "Title": "Ein inhaltsadressierbares Speichersystem zur Unterstutzung zeitkritischer Prozesse der Informationswiedergewinnung in Datenbanksystemen",
+            "Publisher": "Springer",
+            "Isbn": "3-540-12006-8",
+            "Series": "Informatik-Fachberichte"
+        },
+        {
+            "_id": "1193962",
+            "Type": "book",
+            "Volume": "132",
+            "Year": "1987",
+            "Title": "Konzepte fur eine verteilte wissensbasierte Softwareproduktionsumgebung",
+            "Publisher": "Springer",
+            "Isbn": "3-540-17215-7",
+            "Series": "Informatik-Fachberichte"
+        },
+        {
+            "_id": "1193963",
+            "Type": "book",
+            "Year": "1984",
+            "Title": "Foundations of Logic Programming, 1st Edition",
+            "Publisher": "Springer",
+            "Isbn": "3-540-13299-6"
+        },
+        {
+            "_id": "1193964",
+            "Type": "book",
+            "Year": "1987",
+            "Title": "Foundations of Logic Programming, 2nd Edition",
+            "Publisher": "Springer",
+            "Isbn": "3-540-18199-7"
+        },
+        {
+            "_id": "1193965",
+            "Type": "book",
+            "Volume": "45",
+            "Year": "1981",
+            "Title": "PISA: A Programming System for Interactive Production of Application Software",
+            "Publisher": "Springer",
+            "Isbn": "3-540-10825-4",
+            "Series": "Informatik-Fachberichte"
+        },
+        {
+            "_id": "1193966",
+            "Type": "book",
+            "Volume": "104",
+            "Year": "1985",
+            "Title": "Darstellung und Nutzung von Expertenwissen fur ein Bildanalysesystem",
+            "Publisher": "Springer",
+            "Isbn": "3-540-15671-2",
+            "Series": "Informatik-Fachberichte"
+        },
+        {
+            "_id": "1193967",
+            "Type": "book",
+            "Volume": "70",
+            "Year": "1983",
+            "Title": "Datenbanksystem fur CAD-Arbeitsplatze",
+            "Publisher": "Springer",
+            "Isbn": "3-540-12325-3",
+            "Series": "Informatik-Fachberichte"
+        },
+        {
+            "_id": "1193968",
+            "Type": "book",
+            "Volume": "141",
+            "Year": "1982",
+            "Title": "GAG: A Practical Compiler Generator",
+            "Publisher": "Springer",
+            "Isbn": "3-540-11591-9",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193969",
+            "Type": "book",
+            "Volume": "100",
+            "Year": "1985",
+            "Title": "Semantische Reprasentation komplexer Objektstrukturen: Modelle fur nichtkonventionelle Datenbankanwendungen",
+            "Publisher": "Springer",
+            "Isbn": "3-540-15242-3",
+            "Series": "Informatik-Fachberichte"
+        },
+        {
+            "_id": "1193970",
+            "Type": "book",
+            "Volume": "235",
+            "Year": "1990",
+            "Title": "Ausnahmebehandlung in objektorientierten Programmiersprachen",
+            "Publisher": "Springer",
+            "Isbn": "3-540-52467-3",
+            "Series": "Informatik-Fachberichte"
+        },
+        {
+            "_id": "1193971",
+            "Type": "book",
+            "Volume": "1228",
+            "Year": "1997",
+            "Title": "Foundations of Inductive Logic Programming",
+            "Publisher": "Springer",
+            "Isbn": "3-540-62927-0",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193972",
+            "Type": "book",
+            "Volume": "414",
+            "Year": "1990",
+            "Title": "LOGPLAN _88 - Report on the Programming Language",
+            "Publisher": "Springer",
+            "Isbn": "3-540-52325-1",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193973",
+            "Type": "book",
+            "Volume": "55",
+            "Year": "1977",
+            "Title": "Mes premieres constructions de programmes",
+            "Publisher": "Springer",
+            "Isbn": "3-540-08438-X",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193974",
+            "Type": "book",
+            "Volume": "1016",
+            "Year": "1996",
+            "Title": "Active Visual Inference of Surface Shape",
+            "Publisher": "Springer",
+            "Isbn": "3-540-60642-4",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193975",
+            "Type": "book",
+            "Volume": "2270",
+            "Year": "2002",
+            "Title": "On-line Error Detection and Fast Recover Techniques for Dependable Embedded Processors",
+            "Publisher": "Springer",
+            "Isbn": "3-540-43318-X",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193976",
+            "Type": "book",
+            "Volume": "135",
+            "Year": "1987",
+            "Title": "Erweiterung relationaler Datenbanksysteme fur technische Anwendungen",
+            "Publisher": "Springer",
+            "Isbn": "3-540-17693-4",
+            "Series": "Informatik-Fachberichte"
+        },
+        {
+            "_id": "1193977",
+            "Type": "book",
+            "Volume": "240",
+            "Year": "1990",
+            "Title": "Flagorientierte Assoziativspeicher und -prozessoren",
+            "Publisher": "Springer",
+            "Isbn": "3-540-52487-8",
+            "Series": "Informatik-Fachberichte"
+        },
+        {
+            "_id": "1193978",
+            "Type": "book",
+            "Volume": "139",
+            "Year": "1987",
+            "Title": "Fehlerdiagnose fur Schaltnetze aus Modulen mit partiell injektiven Pfadfunktionen",
+            "Publisher": "Springer",
+            "Isbn": "3-540-17938-0",
+            "Series": "Informatik-Fachberichte"
+        },
+        {
+            "_id": "1193979",
+            "Type": "book",
+            "Volume": "446",
+            "Year": "1990",
+            "Title": "Termination Proofs for Logic Programs",
+            "Publisher": "Springer",
+            "Isbn": "3-540-52837-7",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193980",
+            "Type": "book",
+            "Volume": "209",
+            "Year": "1989",
+            "Title": "Dynamische Integritat von Datenbanken: Grundlagen der Spezifikation und Uberwachung",
+            "Publisher": "Springer",
+            "Isbn": "3-540-51130-X",
+            "Series": "Informatik-Fachberichte"
+        },
+        {
+            "_id": "1193981",
+            "Type": "book",
+            "Year": "1977",
+            "Title": "Microcomputer Problem Solving Using Pascal",
+            "Publisher": "Springer",
+            "Isbn": "0-387-90286-4"
+        },
+        {
+            "_id": "1193982",
+            "Type": "book",
+            "Volume": "234",
+            "Year": "1990",
+            "Title": "Diensteintegrierende Kommunikationsnetze mit teilnehmeruberprufbarem Datenschutz",
+            "Publisher": "Springer",
+            "Isbn": "3-540-52327-8",
+            "Series": "Informatik-Fachberichte"
+        },
+        {
+            "_id": "1193983",
+            "Type": "book",
+            "Volume": "1100",
+            "Year": "1996",
+            "Title": "Digital Signature Schemes, General Framework and Fail-Stop Signatures",
+            "Publisher": "Springer",
+            "Isbn": "3-540-61517-2",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193984",
+            "Type": "book",
+            "Year": "2001",
+            "Title": "Coordination of Internet Agents: Models, Technologies, and Applications",
+            "Publisher": "Springer",
+            "Isbn": "3-540-41613-7"
+        },
+        {
+            "_id": "1193985",
+            "Type": "book",
+            "Volume": "260",
+            "Year": "1990",
+            "Title": "Ein Roboteraktionsplanungssystem",
+            "Publisher": "Springer",
+            "Isbn": "3-540-53401-6",
+            "Series": "Informatik-Fachberichte"
+        },
+        {
+            "_id": "1193986",
+            "Type": "book",
+            "Volume": "2231",
+            "Year": "2002",
+            "Title": "Software Frameworks and Embedded Control Systems",
+            "Publisher": "Springer",
+            "Isbn": "3-540-43189-6",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193987",
+            "Type": "book",
+            "Volume": "1600",
+            "Year": "1999",
+            "Title": "Artificial Intelligence Today: Recent Trends and Developments",
+            "Publisher": "Springer",
+            "Isbn": "3-540-66428-9",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193988",
+            "Type": "book",
+            "Volume": "189",
+            "Year": "1985",
+            "Title": "Paragon: A Language Using Type Hierarchies for the Specification, Implementation and Selection of Abstract Data Types",
+            "Publisher": "Springer",
+            "Isbn": "3-540-15212-1",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193989",
+            "Type": "book",
+            "Volume": "185",
+            "Year": "1988",
+            "Title": "Ein Molekul-Atom-Datenmodell fur Non-Standard-Anwendungen: Anwendungsanalyse, Datenmodellentwurf und Implementierungskonzepte",
+            "Publisher": "Springer",
+            "Isbn": "3-540-50346-3",
+            "Series": "Informatik-Fachberichte"
+        },
+        {
+            "_id": "1193990",
+            "Type": "book",
+            "Volume": "198",
+            "Year": "1989",
+            "Title": "FRM: Ein Frame-Reprasentationsmodell und seine formale Semantik: Zur Integration von Datenbank- und Wissensreprasentationsansatzen",
+            "Publisher": "Springer",
+            "Isbn": "3-540-50680-2",
+            "Series": "Informatik-Fachberichte"
+        },
+        {
+            "_id": "1193991",
+            "Type": "book",
+            "Volume": "1032",
+            "Year": "1996",
+            "Title": "Partial-Order Methods for the Verification of Concurrent Systems - An Approach to the State-Explosion Problem",
+            "Publisher": "Springer",
+            "Isbn": "3-540-60761-7",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193992",
+            "Type": "book",
+            "Volume": "268",
+            "Year": "1991",
+            "Title": "Multisensordatenverarbeitung in der Robotik",
+            "Publisher": "Springer",
+            "Isbn": "3-540-53745-7",
+            "Series": "Informatik-Fachberichte"
+        },
+        {
+            "_id": "1193993",
+            "Type": "book",
+            "Volume": "244",
+            "Year": "1990",
+            "Title": "Sprecherunabhangigkeit und Sprecheradaption: Losungsansatze fur das Problem des Sprecherwechsels bei der automatischen Spracherkennung",
+            "Publisher": "Springer",
+            "Isbn": "3-540-52789-3",
+            "Series": "Informatik-Fachberichte"
+        },
+        {
+            "_id": "1193994",
+            "Type": "book",
+            "Volume": "745",
+            "Year": "1993",
+            "Title": "Intelligent Perceptual Systems: New Directions in Computational Perception",
+            "Publisher": "Springer",
+            "Isbn": "3-540-57379-8",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193995",
+            "Type": "book",
+            "Year": "1982",
+            "Title": "Petrinetze, Eine Einfuhrung",
+            "Publisher": "Springer",
+            "Isbn": "3-540-11478-5"
+        },
+        {
+            "_id": "1193996",
+            "Type": "book",
+            "Year": "1985",
+            "Title": "Systementwurf mit Netzen",
+            "Publisher": "Springer",
+            "Isbn": "3-540-13786-6"
+        },
+        {
+            "_id": "1193997",
+            "Type": "book",
+            "Year": "1986",
+            "Title": "Petrinetze, Eine Einfuhrung, 2. Auflage",
+            "Publisher": "Springer",
+            "Isbn": "3-540-16622-X"
+        },
+        {
+            "_id": "1193998",
+            "Type": "book",
+            "Year": "1998",
+            "Title": "Elements of distributed algorithms: modeling and analysis with Petri nets",
+            "Publisher": "Springer",
+            "Isbn": "3-540-62752-9"
+        },
+        {
+            "_id": "1193999",
+            "Type": "book",
+            "Volume": "127",
+            "Year": "1982",
+            "Title": "Alternating Sequential/Parallel Processing",
+            "Publisher": "Springer",
+            "Isbn": "3-540-11194-8",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1194000",
+            "Type": "book",
+            "Year": "1999",
+            "Title": "Ubersetzerbau - Techniken, Werkzeuge, Anwendungen",
+            "Publisher": "Springer",
+            "Isbn": "3-540-65389-9"
+        },
+        {
+            "_id": "1194001",
+            "Type": "book",
+            "Volume": "1002",
+            "Year": "1995",
+            "Title": "Disconnected Operation in a Distributed File System",
+            "Publisher": "Springer",
+            "Isbn": "3-540-60627-0",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1194002",
+            "Type": "book",
+            "Volume": "242",
+            "Year": "1990",
+            "Title": "Multicast-Kommunikation in verteilten Systemen",
+            "Publisher": "Springer",
+            "Isbn": "3-540-52551-3",
+            "Series": "Informatik-Fachberichte"
+        },
+        {
+            "_id": "1194003",
+            "Type": "book",
+            "Volume": "140",
+            "Year": "1987",
+            "Title": "Probabilistische Verfahren fur den Test hochintegrierter Schaltungen",
+            "Publisher": "Springer",
+            "Isbn": "3-540-18072-9",
+            "Series": "Informatik-Fachberichte"
+        },
+        {
+            "_id": "1194004",
+            "Type": "book",
+            "Volume": "114",
+            "Year": "1981",
+            "Title": "CLU Reference Manual",
+            "Publisher": "Springer",
+            "Isbn": "3-540-10836-X",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1194005",
+            "Type": "book",
+            "Volume": "769",
+            "Year": "1994",
+            "Title": "The Newton-Cauchy Framework: A Unified Approach to Unconstrained Nonlinear Minimization",
+            "Publisher": "Springer",
+            "Isbn": "3-540-57671-1",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1194006",
+            "Type": "book",
+            "Volume": "2283",
+            "Year": "2002",
+            "Title": "Isabelle/HOL - A Proof Assistant for Higher-Order Logic",
+            "Publisher": "Springer",
+            "Isbn": "3-540-43376-7",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1194007",
+            "Type": "book",
+            "Volume": "362",
+            "Year": "1989",
+            "Title": "Synthesising Synchronous Systems by Static Scheduling in Space-Time",
+            "Publisher": "Springer",
+            "Isbn": "3-540-51156-3",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1194008",
+            "Type": "book",
+            "Volume": "233",
+            "Year": "1990",
+            "Title": "Datenverwaltung in verteilten Systemen: Grundlagen und Losungskonzepte",
+            "Publisher": "Springer",
+            "Isbn": "3-540-52184-4",
+            "Series": "Informatik-Fachberichte"
+        },
+        {
+            "_id": "1194009",
+            "Type": "book",
+            "Volume": "117",
+            "Year": "1986",
+            "Title": "Parallele Systeme",
+            "Publisher": "Springer",
+            "Isbn": "3-540-16063-9",
+            "Series": "Informatik-Fachberichte"
+        },
+        {
+            "_id": "1194010",
+            "Type": "book",
+            "Volume": "5",
+            "Year": "1986",
+            "Title": "Semirings, Automata, Languages",
+            "Publisher": "Springer",
+            "Isbn": "3-540-13716-5",
+            "Series": "Monographs in Theoretical Computer Science. An EATCS Series"
+        },
+        {
+            "_id": "1194011",
+            "Type": "book",
+            "Volume": "24",
+            "Year": "1980",
+            "Title": "Kryptographische Verfahren in der Datenverarbeitung",
+            "Publisher": "Springer",
+            "Isbn": "3-540-09900-X",
+            "Series": "Informatik-Fachberichte"
+        },
+        {
+            "_id": "1194012",
+            "Type": "book",
+            "Volume": "336",
+            "Year": "1989",
+            "Title": "Error Detection and Recovery in Robotics",
+            "Publisher": "Springer",
+            "Isbn": "3-540-96909-8",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1194013",
+            "Type": "book",
+            "Volume": "848",
+            "Year": "1994",
+            "Title": "Numerical Integration on Advanced Computer Systems",
+            "Publisher": "Springer",
+            "Isbn": "3-540-58410-2",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1194014",
+            "Type": "book",
+            "Volume": "1744",
+            "Year": "1999",
+            "Title": "Grading Knowledge, Extracting Degree Information from Texts.",
+            "Publisher": "Springer",
+            "Isbn": "3-540-66934-5",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1194015",
+            "Type": "book",
+            "Volume": "564",
+            "Year": "1992",
+            "Title": "The Use of Projective Geometry in Computer Graphics",
+            "Publisher": "Springer",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1194016",
+            "Type": "book",
+            "Volume": "38",
+            "Year": "1976",
+            "Title": "An Optimized Translation Process and Its Application to ALGOL 68",
+            "Publisher": "Springer",
+            "Isbn": "3-540-07545-3",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1194017",
+            "Type": "book",
+            "Volume": "195",
+            "Year": "1985",
+            "Title": "A Hierarchical Associative Processing System",
+            "Publisher": "Springer",
+            "Isbn": "3-540-15652-6",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1194018",
+            "Type": "book",
+            "Year": "1990",
+            "Title": "Logic Programming and Databases",
+            "Publisher": "Springer",
+            "Isbn": "3-540-51728-6"
+        },
+        {
+            "_id": "1194019",
+            "Type": "book",
+            "Volume": "277",
+            "Year": "1991",
+            "Title": "Flexible, realzeitfahige Kollisionsvermeidung in Mehrroboter-Systemen",
+            "Publisher": "Springer",
+            "Isbn": "3-540-54363-5",
+            "Series": "Informatik-Fachberichte"
+        },
+        {
+            "_id": "1194020",
+            "Type": "book",
+            "Volume": "1001",
+            "Year": "1995",
+            "Title": "Efficient Checking of Polynomials and Proofs anf the Hardness of Approximation Problems",
+            "Publisher": "Springer",
+            "Isbn": "3-540-60615-7",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1194021",
+            "Type": "book",
+            "Volume": "1735",
+            "Year": "1999",
+            "Title": "Incremental Speech Translation.",
+            "Publisher": "Springer",
+            "Isbn": "3-540-66753-9",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1194022",
+            "Type": "book",
+            "Volume": "225",
+            "Year": "1989",
+            "Title": "Test von OSI-Protokollen",
+            "Publisher": "Springer",
+            "Isbn": "3-540-51824-X",
+            "Series": "Informatik-Fachberichte"
+        },
+        {
+            "_id": "1194023",
+            "Type": "book",
+            "Volume": "236",
+            "Year": "1990",
+            "Title": "Fehlertoleranz in verteilten Realzeitsystemen: Anwendungsorientierte Techniken",
+            "Publisher": "Springer",
+            "Isbn": "3-540-52331-6",
+            "Series": "Informatik-Fachberichte"
+        },
+        {
+            "_id": "1194024",
+            "Type": "book",
+            "Volume": "116",
+            "Year": "1981",
+            "Title": "The Concurrency Control Problem for Database Systems",
+            "Publisher": "Springer",
+            "Isbn": "3-540-10845-9",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1194025",
+            "Type": "book",
+            "Volume": "238",
+            "Year": "1986",
+            "Title": "Negation and Control in Prolog",
+            "Publisher": "Springer",
+            "Isbn": "3-540-16815-X",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1194026",
+            "Type": "book",
+            "Volume": "156",
+            "Year": "1983",
+            "Title": "The Design of Dynamic Data Structures",
+            "Publisher": "Springer",
+            "Isbn": "3-540-12330-X",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1194027",
+            "Type": "book",
+            "Volume": "302",
+            "Year": "1992",
+            "Title": "Automatische Synthese rekursiver Programme als Beweisverfahren",
+            "Publisher": "Springer",
+            "Isbn": "3-540-55300-2",
+            "Series": "Informatik-Fachberichte"
+        },
+        {
+            "_id": "1194028",
+            "Type": "book",
+            "Volume": "175",
+            "Year": "1988",
+            "Title": "Funktioneller Test der Auflosung von Zugriffskonflikten in Mehrrechnersystemen",
+            "Publisher": "Springer",
+            "Isbn": "3-540-50114-2",
+            "Series": "Informatik-Fachberichte"
+        },
+        {
+            "_id": "1194029",
+            "Type": "book",
+            "Volume": "1003",
+            "Year": "1995",
+            "Title": "Automated Modeling of Physical Systems",
+            "Publisher": "Springer",
+            "Isbn": "3-540-60641-6",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1194030",
+            "Type": "book",
+            "Volume": "51",
+            "Year": "1977",
+            "Title": "Matrix Eigensystem Routines - EISPACK Guide Extension",
+            "Publisher": "Springer",
+            "Isbn": "3-540-08254-9",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1194031",
+            "Type": "book",
+            "Year": "1981",
+            "Title": "Programming in Prolog",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1194032",
+            "Type": "book",
+            "Year": "1984",
+            "Title": "Programming in Prolog, 2nd Edition",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1194033",
+            "Type": "book",
+            "Year": "1987",
+            "Title": "Programming in Prolog, 3rd Edition",
+            "Publisher": "Springer",
+            "Isbn": "3-540-17539-3"
+        },
+        {
+            "_id": "1194034",
+            "Type": "book",
+            "Volume": "1288",
+            "Year": "1997",
+            "Title": "Spatial Data Types for Database Systems, Finite Resolution Geometry for Geographic Information Systems",
+            "Publisher": "Springer",
+            "Isbn": "3-540-63454-1",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1194035",
+            "Type": "book",
+            "Volume": "136",
+            "Year": "1982",
+            "Title": "Group-Theoretic Algorithms and Graph Isomorphism",
+            "Publisher": "Springer",
+            "Isbn": "3-540-11493-9",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1194036",
+            "Type": "book",
+            "Volume": "2617",
+            "Year": "2003",
+            "Title": "Design and Control of Workflow Processes: Business Process Management for the Service Industry",
+            "Publisher": "Springer",
+            "Isbn": "3-540-01186-2",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1194037",
+            "Type": "book",
+            "Volume": "31",
+            "Year": "1975",
+            "Title": "Analysis of Drum and Disk Storage Units",
+            "Publisher": "Springer",
+            "Isbn": "3-540-07186-5",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1194038",
+            "Type": "book",
+            "Volume": "2307",
+            "Year": "2002",
+            "Title": "Association Rule Mining, Models and Algorithms",
+            "Publisher": "Springer",
+            "Isbn": "3-540-43533-6",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1194039",
+            "Type": "book",
+            "Volume": "77",
+            "Year": "1979",
+            "Title": "Architecture of Distributed Computer Systems",
+            "Publisher": "Springer",
+            "Isbn": "3-540-09723-6",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1194040",
+            "Type": "book",
+            "Year": "2002",
+            "Title": "Visualizing the Semantic Web",
+            "Publisher": "Springer",
+            "Isbn": "1-85233-576-9"
+        },
+        {
+            "_id": "1194041",
+            "Type": "book",
+            "Volume": "704",
+            "Year": "1993",
+            "Title": "The Deisgn of an Extendible Graph Editor",
+            "Publisher": "Springer",
+            "Isbn": "3-540-57090-X",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1194042",
+            "Type": "book",
+            "Volume": "422",
+            "Year": "1990",
+            "Title": "Reasoning and Revision in Hybrid Representation Systems",
+            "Publisher": "Springer",
+            "Isbn": "3-540-52443-6",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1194043",
+            "Type": "book",
+            "Volume": "554",
+            "Year": "1991",
+            "Title": "The Problem of Incomplete Information in Relational Databases",
+            "Publisher": "Springer",
+            "Isbn": "3-540-54919-6",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1194044",
+            "Type": "book",
+            "Volume": "191",
+            "Year": "1985",
+            "Title": "A Survey of Verification Techniques for Parallel Programs",
+            "Publisher": "Springer",
+            "Isbn": "3-540-15239-3",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1194045",
+            "Type": "book",
+            "Volume": "2560",
+            "Year": "2002",
+            "Title": "Robust Adaptation to Non-Native Accents in Automatic Speech Recognition",
+            "Publisher": "Springer",
+            "Isbn": "3-540-00325-8",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1194046",
+            "Type": "book",
+            "Year": "2002",
+            "Title": "The Design of Rijndael: AES - The Advanced Encryption Standard",
+            "Publisher": "Springer",
+            "Isbn": "3-540-42580-2"
+        },
+        {
+            "_id": "1194047",
+            "Type": "book",
+            "Volume": "1056",
+            "Year": "1995",
+            "Title": "Communication and Cooperation in Agent Systems, A Pragmatic Theory",
+            "Publisher": "Springer",
+            "Isbn": "3-540-61044-8",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1194048",
+            "Type": "book",
+            "Volume": "1171",
+            "Year": "1996",
+            "Title": "Automatic Ambiguity Resolution in Natural Language Processing - An Empirical Approach",
+            "Publisher": "Springer",
+            "Isbn": "3-540-62004-4",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1194049",
+            "Type": "book",
+            "Volume": "770",
+            "Year": "1994",
+            "Title": "Representing Plans Under Uncertainty: A Logic of Time, Change, and Action",
+            "Publisher": "Springer",
+            "Isbn": "3-540-57697-5",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1194050",
+            "Type": "book",
+            "Volume": "48",
+            "Year": "1981",
+            "Title": "Naturlichsprachliche Argumentation in Dialogsystemen: KI-Verfahren zur Rekonstruktion und Erklarung approximativer Inferenzprozesse",
+            "Publisher": "Springer",
+            "Isbn": "3-540-10873-4",
+            "Series": "Informatik-Fachberichte"
+        },
+        {
+            "_id": "1194051",
+            "Type": "book",
+            "Year": "2002",
+            "Title": "Adaptive Modelling, Estimation and Fusion from Data: A Neurofuzzy Approach",
+            "Publisher": "Springer",
+            "Isbn": "3-540-42686-8"
+        },
+        {
+            "_id": "1194052",
+            "Type": "book",
+            "Volume": "2261",
+            "Year": "2002",
+            "Title": "Quality-Driven Query Answering for Integrated Information Systems",
+            "Publisher": "Springer",
+            "Isbn": "3-540-43349-X",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1194053",
+            "Type": "book",
+            "Volume": "758",
+            "Year": "1993",
+            "Title": "Towards Dynamic Randomized Algorithms in Computational Geometry",
+            "Publisher": "Springer",
+            "Isbn": "3-540-57503-0",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1194054",
+            "Type": "book",
+            "Volume": "128",
+            "Year": "1982",
+            "Title": "An Analytical Description of CHILL, the CCITT High Level Language",
+            "Publisher": "Springer",
+            "Isbn": "3-540-11196-4",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1194055",
+            "Type": "book",
+            "Volume": "1047",
+            "Year": "1996",
+            "Title": "Time Structures - Formal Description and Algorithmic Representation",
+            "Publisher": "Springer",
+            "Isbn": "3-540-60941-5",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1194056",
+            "Type": "book",
+            "Year": "1996",
+            "Title": "Multimedia Database System: Issues and Research Direction",
+            "Publisher": "Springer",
+            "Isbn": "3-540-58710-1"
+        },
+        {
+            "_id": "1194057",
+            "Type": "book",
+            "Volume": "402",
+            "Year": "1989",
+            "Title": "Interactive Relational Database design - A Logic Programming Implementation",
+            "Publisher": "Springer",
+            "Isbn": "3-540-51881-9",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1194058",
+            "Type": "book",
+            "Volume": "350",
+            "Year": "1989",
+            "Title": "Global Optimization",
+            "Publisher": "Springer",
+            "Isbn": "3-540-50871-6",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1194059",
+            "Type": "book",
+            "Volume": "246",
+            "Year": "1990",
+            "Title": "Massiv parallele Programmierung mit dem Parallaxis-Modell",
+            "Publisher": "Springer",
+            "Isbn": "3-540-52853-9",
+            "Series": "Informatik-Fachberichte"
+        },
+        {
+            "_id": "1194060",
+            "Type": "book",
+            "Volume": "300",
+            "Year": "1992",
+            "Title": "Prinzipien piktorieller Reprasentationssysteme, Untersuchungen zur bildhaften Reprasentation von Wissen in informationsverarbeitenden Systemen",
+            "Publisher": "Springer",
+            "Isbn": "3-540-55156-5",
+            "Series": "Informatik-Fachberichte"
+        },
+        {
+            "_id": "1194061",
+            "Type": "book",
+            "Volume": "701",
+            "Year": "1993",
+            "Title": "LOGIDATA+: Deductive Databases with Complex Objects",
+            "Publisher": "Springer",
+            "Isbn": "3-540-56974-X",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1194062",
+            "Type": "book",
+            "Volume": "840",
+            "Year": "1994",
+            "Title": "The Traveling Salesman, Computational Solutions for TSP Applications",
+            "Publisher": "Springer",
+            "Isbn": "3-540-58334-3",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1194063",
+            "Type": "book",
+            "Year": "2003",
+            "Title": "B2B Integration: Concepts and Architecture",
+            "Publisher": "Springer",
+            "Isbn": "3-540-43487-9"
+        },
+        {
+            "_id": "1194064",
+            "Type": "book",
+            "Volume": "1014",
+            "Year": "1995",
+            "Title": "Spatial Representation and Motion Planning",
+            "Publisher": "Springer",
+            "Isbn": "3-540-60620-3",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1194065",
+            "Type": "book",
+            "Year": "2002",
+            "Title": "Introduction to Constraint Databases",
+            "Publisher": "Springer",
+            "Isbn": "0-387-98729-0"
+        },
+        {
+            "_id": "1194066",
+            "Type": "book",
+            "Year": "2001",
+            "Title": "Datenbanksysteme: Konzepte und Techniken der Implementierung, 2. Auflage",
+            "Publisher": "Springer",
+            "Isbn": "3-540-42133-5"
+        },
+        {
+            "_id": "1194067",
+            "Type": "book",
+            "Year": "1999",
+            "Title": "Datenbanksysteme: Konzepte und Techniken der Implementierung",
+            "Publisher": "Springer",
+            "Isbn": "3-540-65040-7"
+        },
+        {
+            "_id": "1194068",
+            "Type": "book",
+            "Volume": "82",
+            "Year": "1980",
+            "Title": "A Relational Theory of Computing",
+            "Publisher": "Springer",
+            "Isbn": "3-540-09987-5",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1194069",
+            "Type": "book",
+            "Year": "1985",
+            "Title": "Computational Geometry - An Introduction.",
+            "Publisher": "Springer",
+            "Isbn": "3-540-96131-3"
+        },
+        {
+            "_id": "1194070",
+            "Type": "book",
+            "Volume": "561",
+            "Year": "1991",
+            "Title": "The Stability Theory of Stream Ciphers",
+            "Publisher": "Springer",
+            "Isbn": "3-540-54973-0",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1194071",
+            "Type": "book",
+            "Year": "2003",
+            "Title": "Intelligent Data Analysis, An Introduction, 2nd editon",
+            "Publisher": "Springer",
+            "Isbn": "3-540-43060-1"
+        },
+        {
+            "_id": "1194072",
+            "Type": "book",
+            "Volume": "139",
+            "Year": "1982",
+            "Title": "An Attribute Grammar for the Semantic Analysis of Ada",
+            "Publisher": "Springer",
+            "Isbn": "3-540-11571-4",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1194073",
+            "Type": "book",
+            "Volume": "122",
+            "Year": "1986",
+            "Title": "Prinzipien der Referentialitat: Untersuchungen zur propositionalen Reprasentation von Wissen",
+            "Publisher": "Springer",
+            "Isbn": "3-540-16493-6",
+            "Series": "Informatik-Fachberichte"
+        },
+        {
+            "_id": "1194074",
+            "Type": "book",
+            "Volume": "643",
+            "Year": "1992",
+            "Title": "Hyperedge Replacement: Grammars and Languages",
+            "Publisher": "Springer",
+            "Isbn": "3-540-16488-X",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1194075",
+            "Type": "book",
+            "Year": "2003",
+            "Title": "Uncertainty Handling and Quality Assessment in Data Mining",
+            "Publisher": "Springer",
+            "Isbn": "1-85233-655-2"
+        },
+        {
+            "_id": "1194076",
+            "Type": "book",
+            "Volume": "1564",
+            "Year": "1999",
+            "Title": "Interactive Multimedia Documents: Modeling, Authoring, and Implementation Experiences",
+            "Publisher": "Springer",
+            "Isbn": "3-540-66711-3",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1194077",
+            "Type": "book",
+            "Volume": "280",
+            "Year": "1991",
+            "Title": "Revisions- und Konsistenzkontrolle in einer integrierten Softwareentwicklungsumgebung",
+            "Publisher": "Springer",
+            "Isbn": "3-540-54432-1",
+            "Series": "Informatik-Fachberichte"
+        },
+        {
+            "_id": "1194078",
+            "Type": "book",
+            "Volume": "1646",
+            "Year": "1999",
+            "Title": "Models and Tools for Managing Development Processes",
+            "Publisher": "Springer",
+            "Isbn": "3-540-66756-3",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1194079",
+            "Type": "book",
+            "Volume": "99",
+            "Year": "1981",
+            "Title": "Algebraic Semantics",
+            "Publisher": "Springer",
+            "Isbn": "3-540-10284-1",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1194080",
+            "Type": "book",
+            "Volume": "68",
+            "Year": "1979",
+            "Title": "First-Order Dynamic Logic",
+            "Publisher": "Springer",
+            "Isbn": "3-540-09237-4",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1194081",
+            "Type": "book",
+            "Volume": "1182",
+            "Year": "1996",
+            "Title": "Optimization of SQL Queries for Parallel Machines",
+            "Publisher": "Springer",
+            "Isbn": "3-540-62065-6",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1194082",
+            "Type": "book",
+            "Volume": "23",
+            "Year": "1980",
+            "Title": "Portable Methodenmonitoren: Dialogsysteme zur Steuerung von Methodenbanken, softwaretechnischer Aufbau und Effizienzanalyse",
+            "Publisher": "Springer",
+            "Isbn": "3-540-09876-3",
+            "Series": "Informatik-Fachberichte"
+        },
+        {
+            "_id": "1194083",
+            "Type": "book",
+            "Volume": "1344",
+            "Year": "1997",
+            "Title": "Ada 95 Quality and Style, Guideline for Professional Programmers",
+            "Publisher": "Springer",
+            "Isbn": "3-540-63823-7",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1194084",
+            "Type": "book",
+            "Year": "2003",
+            "Title": "WWW - Kommunikation, Internetworking, Web-Technologien",
+            "Publisher": "Springer",
+            "Isbn": "3-540-44276-6"
+        },
+        {
+            "_id": "1194085",
+            "Type": "book",
+            "Year": "1998",
+            "Title": "Algorithms and Data Structures in VLSI Design: OBDD - Foundations and Applications",
+            "Publisher": "Springer",
+            "Isbn": "3-540-64486-5"
+        },
+        {
+            "_id": "1194086",
+            "Type": "book",
+            "Volume": "1164",
+            "Year": "1996",
+            "Title": "Managing Information Highways - The PRISM Book: Principles, Methods, and Case Studies for Designing Telecommunications Management Systems",
+            "Publisher": "Springer",
+            "Isbn": "3-540-62008-7",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1194087",
+            "Type": "book",
+            "Volume": "302",
+            "Year": "1988",
+            "Title": "Attribute Grammar Inversion and Source-to-source Translation",
+            "Publisher": "Springer",
+            "Isbn": "3-540-19072-4",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1194088",
+            "Type": "book",
+            "Year": "1993",
+            "Title": "A Logical Approach to Discrete Math.",
+            "Publisher": "Springer",
+            "Isbn": "0-387-94115-0"
+        },
+        {
+            "_id": "1194089",
+            "Type": "book",
+            "Volume": "135",
+            "Year": "1982",
+            "Title": "An Introduction to the PL/CV2 Programming Logic",
+            "Publisher": "Springer",
+            "Isbn": "3-540-11492-0",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1194090",
+            "Type": "book",
+            "Volume": "99",
+            "Year": "1985",
+            "Title": "Fehlererkennung und Fehlerbehandlung in Speicherungsstrukturen von Datenbanksystemen",
+            "Publisher": "Springer",
+            "Isbn": "3-540-15238-5",
+            "Series": "Informatik-Fachberichte"
+        },
+        {
+            "_id": "1194091",
+            "Type": "book",
+            "Volume": "292",
+            "Year": "1987",
+            "Title": "The Munich Project CIP, Volume II: The Program Transformation System CIP-S",
+            "Publisher": "Springer",
+            "Isbn": "3-540-18779-0",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1194092",
+            "Type": "book",
+            "Volume": "4",
+            "Year": "1985",
+            "Title": "Petri Nets: An Introduction",
+            "Publisher": "Springer",
+            "Isbn": "3-540-13723-8",
+            "Series": "Monographs in Theoretical Computer Science. An EATCS Series"
+        },
+        {
+            "_id": "1194093",
+            "Type": "book",
+            "Volume": "144",
+            "Year": "1987",
+            "Title": "Sprachkonzepte fur benutzergerechte Systeme",
+            "Publisher": "Springer",
+            "Isbn": "3-540-18235-7",
+            "Series": "Informatik-Fachberichte"
+        },
+        {
+            "_id": "1194094",
+            "Type": "book",
+            "Volume": "610",
+            "Year": "1992",
+            "Title": "Coordinating Plans of Autonomous Agents",
+            "Publisher": "Springer",
+            "Isbn": "3-540-55615-X",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1194095",
+            "Type": "book",
+            "Volume": "1630",
+            "Year": "1999",
+            "Title": "Agent-Oriented Programming, From Prolog to Guarded Definite Clauses.",
+            "Publisher": "Springer",
+            "Isbn": "3-540-66683-4",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1194096",
+            "Type": "book",
+            "Volume": "164",
+            "Year": "1988",
+            "Title": "Generierung portabler Compiler: Das portable System POCO",
+            "Publisher": "Springer",
+            "Isbn": "3-540-18937-8",
+            "Series": "Informatik-Fachberichte"
+        },
+        {
+            "_id": "1194097",
+            "Type": "book",
+            "Volume": "1007",
+            "Year": "1995",
+            "Title": "Integrity Primitives for Secure Information Systems, Final Report of RACE Integrity Primitives Evaluation RIPE-RACE 1040",
+            "Publisher": "Springer",
+            "Isbn": "3-540-60640-8",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1194098",
+            "Type": "book",
+            "Volume": "93",
+            "Year": "1980",
+            "Title": "Context-Free Grammars: Covers, Normal Forms, and Parsing",
+            "Publisher": "Springer",
+            "Isbn": "3-540-10245-0",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1194099",
+            "Type": "book",
+            "Volume": "165",
+            "Year": "1988",
+            "Title": "Uberlast in Rechensystemen: Modellierung und Verhinderung",
+            "Publisher": "Springer",
+            "Isbn": "3-540-18944-0",
+            "Series": "Informatik-Fachberichte"
+        },
+        {
+            "_id": "1194100",
+            "Type": "book",
+            "Volume": "517",
+            "Year": "1991",
+            "Title": "Temporally Distributed Symptoms in Technical Diagnosis",
+            "Publisher": "Springer",
+            "Isbn": "3-540-54316-3",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1194101",
+            "Type": "book",
+            "Year": "1989",
+            "Title": "Relationen und Graphen",
+            "Publisher": "Springer",
+            "Isbn": "3-540-50304-8",
+            "Series": "Mathematik fur Informatiker"
+        },
+        {
+            "_id": "1194102",
+            "Type": "book",
+            "Year": "1993",
+            "Title": "Relations and Graphs - Discrete Mathematics for Computer Scientists",
+            "Publisher": "Springer",
+            "Isbn": "3-540-56254-0",
+            "Series": "EATCS Monographs on Theoretical Computer Science"
+        },
+        {
+            "_id": "1194103",
+            "Type": "book",
+            "Volume": "197",
+            "Year": "1989",
+            "Title": "Petri-Netz-Methoden und -Werkzeuge: Hilfsmittel zur Entwurfsspezifikation und -validation von Rechensystemen",
+            "Publisher": "Springer",
+            "Isbn": "3-540-50642-X",
+            "Series": "Informatik-Fachberichte"
+        },
+        {
+            "_id": "1194104",
+            "Type": "book",
+            "Volume": "277",
+            "Year": "1987",
+            "Title": "Systems of Reductions",
+            "Publisher": "Springer",
+            "Isbn": "3-540-18598-4",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1194105",
+            "Type": "book",
+            "Volume": "675",
+            "Year": "1993",
+            "Title": "Live Data Structures in Logic Programs: Derivation by Means of Abstract Interpretation",
+            "Publisher": "Springer",
+            "Isbn": "3-540-56694-5",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1194106",
+            "Type": "book",
+            "Volume": "337",
+            "Year": "1988",
+            "Title": "Efficient Structures for Geometric Data Management",
+            "Publisher": "Springer",
+            "Isbn": "3-540-50463-X",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1194107",
+            "Type": "book",
+            "Volume": "142",
+            "Year": "1987",
+            "Title": "Textgenerierung aus visuellen Daten: Beschreibungen von Strasenszenen",
+            "Publisher": "Springer",
+            "Isbn": "3-540-18026-5",
+            "Series": "Informatik-Fachberichte"
+        },
+        {
+            "_id": "1194108",
+            "Type": "book",
+            "Volume": "421",
+            "Year": "1990",
+            "Title": "A Formal Model of Visualization in Computer Graphics Systems",
+            "Publisher": "Springer",
+            "Isbn": "3-540-52395-2",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1194109",
+            "Type": "book",
+            "Volume": "75",
+            "Year": "1983",
+            "Title": "Ein universelles Konzept zum flexiblen Informationsschutz in und mit Rechensystemen",
+            "Publisher": "Springer",
+            "Isbn": "3-540-12697-X",
+            "Series": "Informatik-Fachberichte"
+        },
+        {
+            "_id": "1194110",
+            "Type": "book",
+            "Volume": "1194",
+            "Year": "1997",
+            "Title": "Evolution of Parallel Cellular Machines, The Cellular Programming Approach",
+            "Publisher": "Springer",
+            "Isbn": "3-540-62613-1",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1194111",
+            "Type": "book",
+            "Volume": "2100",
+            "Year": "2001",
+            "Title": "Non-Standard Inferences in Description Logics",
+            "Publisher": "Springer",
+            "Isbn": "3-540-42397-4",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1194112",
+            "Type": "book",
+            "Volume": "130",
+            "Year": "1982",
+            "Title": "Axiomatising the Logic of Computer Programming",
+            "Publisher": "Springer",
+            "Isbn": "3-540-11210-3",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1194113",
+            "Type": "book",
+            "Volume": "995",
+            "Year": "1995",
+            "Title": "The Complexity of Simple Computer Architectures",
+            "Publisher": "Springer",
+            "Isbn": "3-540-60580-0",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1194114",
+            "Type": "book",
+            "Year": "1981",
+            "Title": "The Science of Programming.",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1194115",
+            "Type": "book",
+            "Volume": "1409",
+            "Year": "1998",
+            "Title": "The Automation of Reasoning with Incomplete Information, From Semantic Foundations to Efficient Computation.",
+            "Publisher": "Springer",
+            "Isbn": "3-540-64515-2",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1194116",
+            "Type": "book",
+            "Year": "1992",
+            "Title": "Ubersetzerbau - Theorie, Konstruktion, Generierung",
+            "Publisher": "Springer",
+            "Isbn": "3-540-55704-0"
+        },
+        {
+            "_id": "1194117",
+            "Type": "book",
+            "Year": "1997",
+            "Title": "Ubersetzerbau - Theorie, Konstruktion, Generierung, 2. Auflage",
+            "Publisher": "Springer",
+            "Isbn": "3-540-61692-6"
+        },
+        {
+            "_id": "1194118",
+            "Type": "book",
+            "Volume": "2262",
+            "Year": "2002",
+            "Title": "Modular Specification and Verification of Object-Oriented Programs",
+            "Publisher": "Springer",
+            "Isbn": "3-540-43167-5",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1194119",
+            "Type": "book",
+            "Volume": "163",
+            "Year": "1988",
+            "Title": "Realistische Computergraphik: Algorithmen, Datenstrukturen und Maschinen",
+            "Publisher": "Springer",
+            "Isbn": "3-540-18924-6",
+            "Series": "Informatik-Fachberichte"
+        },
+        {
+            "_id": "1194120",
+            "Type": "book",
+            "Volume": "1177",
+            "Year": "1996",
+            "Title": "The Design of Intelligent Agents - A Layered Approach",
+            "Publisher": "Springer",
+            "Isbn": "3-540-62003-6",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1194121",
+            "Type": "book",
+            "Volume": "131",
+            "Year": "1987",
+            "Title": "Bildanalyse allgemeiner Dokumente",
+            "Publisher": "Springer",
+            "Isbn": "3-540-17214-9",
+            "Series": "Informatik-Fachberichte"
+        },
+        {
+            "_id": "1194122",
+            "Type": "book",
+            "Volume": "2654",
+            "Year": "2003",
+            "Title": "Inductive Synthesis of Functional Programs, Universal Planning, Folding of Finite Programs, and Schema Abstraction by Analogical Reasoning",
+            "Publisher": "Springer",
+            "Isbn": "3-540-40174-1",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1194123",
+            "Type": "book",
+            "Year": "2003",
+            "Title": "Aspect-Oriented Database Systems",
+            "Publisher": "Springer",
+            "Isbn": "3-540-00948-5"
+        },
+        {
+            "_id": "1194124",
+            "Type": "book",
+            "Volume": "2892",
+            "Year": "2003",
+            "Title": "The Logic System of Concept Graphs with Negation And Its Relationship to Predicate Logic",
+            "Publisher": "Springer",
+            "Isbn": "3-540-20607-8",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1194125",
+            "Type": "book",
+            "Volume": "2900",
+            "Year": "2004",
+            "Title": "Casl User Manual - Introduction to Using the Common Algebraic Specification Language",
+            "Publisher": "Springer",
+            "Isbn": "3-540-20766-X",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1194126",
+            "Type": "book",
+            "Volume": "2953",
+            "Year": "2004",
+            "Title": "Model Generation for Natural Language Interpretation and Analysis",
+            "Publisher": "Springer",
+            "Isbn": "3-540-21069-5",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1194127",
+            "Type": "book",
+            "Volume": "2882",
+            "Year": "2003",
+            "Title": "Matchmaking in Electronic Markets - An Agent-Based Approach towards Matchmaking in Electronic Negotiations",
+            "Publisher": "Springer",
+            "Isbn": "3-540-20500-4",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1194128",
+            "Type": "book",
+            "Volume": "2938",
+            "Year": "2004",
+            "Title": "Agent-Based Hybrid Intelligent Systems: An Agent-Based Framework for Complex Problem Solving",
+            "Publisher": "Springer",
+            "Isbn": "3-540-20908-5",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1194129",
+            "Type": "book",
+            "Volume": "2917",
+            "Year": "2004",
+            "Title": "Model-Checking Based Data Retrieval, An Application to Semistructured and Temporal Data",
+            "Publisher": "Springer",
+            "Isbn": "3-540-20971-9",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1194130",
+            "Type": "book",
+            "Volume": "2960",
+            "Year": "2004",
+            "Title": "CASL Reference Manual, The Complete Documentation of the Common Algebraic Specification Language",
+            "Publisher": "Springer",
+            "Isbn": "3-540-21301-5",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1194131",
+            "Type": "book",
+            "Volume": "2854",
+            "Year": "2003",
+            "Title": "Utilizing Problem Structure in Planning, A Local Search Approach",
+            "Publisher": "Springer",
+            "Isbn": "3-540-20259-5",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1194132",
+            "Type": "book",
+            "Year": "2002",
+            "Title": "Peer-to-Peer: Okonomische, technische und juristische Perspektiven, Das aktuelle P2P-Buch.",
+            "Publisher": "Springer",
+            "Isbn": "3-540-43708-8"
+        },
+        {
+            "_id": "1194133",
+            "Type": "book",
+            "Volume": "2963",
+            "Year": "2004",
+            "Title": "Higher-Level Hardware Synthesis",
+            "Publisher": "Springer",
+            "Isbn": "3-540-21306-6",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1194134",
+            "Type": "book",
+            "Volume": "2754",
+            "Year": "2003",
+            "Title": "Security Engineering with Patterns - Origins, Theoretical Models, and New Applications",
+            "Publisher": "Springer",
+            "Isbn": "3-540-40731-6",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1194135",
+            "Type": "book",
+            "Year": "2004",
+            "Title": "Handbook on Ontologies",
+            "Publisher": "Springer",
+            "Isbn": "3-540-40834-7",
+            "Series": "International Handbooks on Information Systems"
+        },
+        {
+            "_id": "1194136",
+            "Type": "book",
+            "Volume": "3008",
+            "Year": "2004",
+            "Title": "Uncertain Projective Geometry: Statistical Reasoning for Polyhedral Object Reconstruction",
+            "Publisher": "Springer",
+            "Isbn": "3-540-22029-1",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1194137",
+            "Type": "book",
+            "Volume": "2979",
+            "Year": "2004",
+            "Title": "Stateless Core: A Scalable Approach for Quality of Service in the Internet, Winning Thesis of the 2001 ACM Doctoral Dissertation Competition",
+            "Publisher": "Springer",
+            "Isbn": "3-540-21960-9",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1194138",
+            "Type": "book",
+            "Volume": "2967",
+            "Year": "2004",
+            "Title": "Generic Model Management: Concepts and Algorithms",
+            "Publisher": "Springer",
+            "Isbn": "3-540-21980-3",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1194139",
+            "Type": "book",
+            "Year": "2000",
+            "Title": "SAP R/3 Implementation: Methods and Tools",
+            "Publisher": "Springer",
+            "Isbn": "3-540-66863-2"
+        },
+        {
+            "_id": "1194140",
+            "Type": "book",
+            "Volume": "3028",
+            "Year": "2004",
+            "Title": "Probabilistic and Statistical Methods in Cryptology, An Introduction by Selected Topics",
+            "Publisher": "Springer",
+            "Isbn": "3-540-22001-1",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1194141",
+            "Type": "book",
+            "Volume": "2962",
+            "Year": "2004",
+            "Title": "Semirings for Soft Constraint Solving and Programming",
+            "Publisher": "Springer",
+            "Isbn": "3-540-21181-0",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1194142",
+            "Type": "book",
+            "Volume": "3000",
+            "Year": "2004",
+            "Title": "Primality Testing in Polynomial Time, From Randomized Algorithms to _PRIMES Is in P_",
+            "Publisher": "Springer",
+            "Isbn": "3-540-40344-2",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1194143",
+            "Type": "book",
+            "Year": "2004",
+            "Title": "Elements of Finite Model Theory",
+            "Publisher": "Springer",
+            "Isbn": "3-540-21202-7"
+        },
+        {
+            "_id": "1194144",
+            "Type": "book",
+            "Year": "2000",
+            "Title": "Constraint Databases",
+            "Publisher": "Springer",
+            "Isbn": "3-540-66151-4"
+        },
+        {
+            "_id": "1194145",
+            "Type": "book",
+            "Volume": "3204",
+            "Year": "2004",
+            "Title": "Coevolutionary Fuzzy Modeling",
+            "Publisher": "Springer",
+            "Isbn": "3-540-22994-9",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1194146",
+            "Type": "book",
+            "Volume": "3218",
+            "Year": "2004",
+            "Title": "Modular Algorithms in Symbolic Summation and Symbolic Integration",
+            "Publisher": "Springer",
+            "Isbn": "3-540-24061-6",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1194147",
+            "Type": "book",
+            "Volume": "3151",
+            "Year": "2004",
+            "Title": "Least Squares Orthogonal Distance Fitting of Curves and Surfaces in Space",
+            "Publisher": "Springer",
+            "Isbn": "3-540-23966-9",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1194148",
+            "Type": "book",
+            "Volume": "3282",
+            "Year": "2004",
+            "Title": "List Decoding of Error-Correcting Codes (Winning Thesis of the 2002 ACM Doctoral Dissertation Competition)",
+            "Publisher": "Springer",
+            "Isbn": "3-540-24051-9",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1194149",
+            "Type": "book",
+            "Year": "2004",
+            "Title": "Web Dynamics - Adapting to Change in Content, Size, Topology and Use",
+            "Publisher": "Springer",
+            "Isbn": "3-540-40676-X"
+        },
+        {
+            "_id": "1194150",
+            "Type": "book",
+            "Year": "2004",
+            "Title": "Data Compression: The Complete Reference, 3rd Edition",
+            "Publisher": "Springer",
+            "Isbn": "0-387-40697-2"
+        },
+        {
+            "_id": "1194151",
+            "Type": "book",
+            "Year": "2005",
+            "Title": "Data Mining in Bioinformatics",
+            "Publisher": "Springer",
+            "Isbn": "1-85233-671-4"
+        },
+        {
+            "_id": "1194152",
+            "Type": "book",
+            "Year": "2004",
+            "Title": "Modelling in Molecular Biology",
+            "Publisher": "Springer",
+            "Isbn": "3-540-40799-5",
+            "Series": "Natural Computing Series"
+        },
+        {
+            "_id": "1194153",
+            "Type": "book",
+            "Volume": "3128",
+            "Year": "2004",
+            "Title": "Querying Databases Privately: A New Approach to Private Information Retrieval",
+            "Publisher": "Springer",
+            "Isbn": "3-540-22441-6",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1194154",
+            "Type": "book",
+            "Volume": "2966",
+            "Year": "2004",
+            "Title": "Computational Cardiology: Modeling of Anatomy, Electrophysiology, and Mechanics",
+            "Publisher": "Springer",
+            "Isbn": "3-540-21907-2",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1194155",
+            "Type": "book",
+            "Volume": "3159",
+            "Year": "2004",
+            "Title": "Intelligent Information Integration for the Semantic Web",
+            "Publisher": "Springer",
+            "Isbn": "3-540-22993-0",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1194156",
+            "Type": "book",
+            "Volume": "77",
+            "Year": "2001",
+            "Title": "Propositional, Probabilistic and Evidential Reasoning: Integrating Numerical and Symbolic Approaches",
+            "Publisher": "Springer",
+            "Isbn": "3-7908-1414-8",
+            "Series": "Studies in Fuzziness and Soft Computing"
+        },
+        {
+            "_id": "1194157",
+            "Type": "book",
+            "Volume": "3436",
+            "Year": "2005",
+            "Title": "Embedded Systems Design: The ARTIST Roadmap for Research and Development",
+            "Publisher": "Springer",
+            "Isbn": "3-540-25107-3",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1194158",
+            "Type": "book",
+            "Volume": "3456",
+            "Year": "2005",
+            "Title": "Operational Semantics for Timed Systems: A Non-standard Approach to Uniform Modeling of Timed and Hybrid Systems",
+            "Publisher": "Springer",
+            "Isbn": "3-540-25576-1",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1194159",
+            "Type": "book",
+            "Year": "2005",
+            "Title": "Handbook of Networked and Embedded Control Systems",
+            "Publisher": "Birkhauser",
+            "Isbn": "0-8176-3239-5"
+        },
+        {
+            "_id": "1194160",
+            "Type": "book",
+            "Year": "2005",
+            "Title": "The Data Mining and Knowledge Discovery Handbook.",
+            "Publisher": "Springer",
+            "Isbn": "0-387-24435-2"
+        },
+        {
+            "_id": "1194161",
+            "Type": "book",
+            "Year": "2000",
+            "Title": "Knowledge Discovery in Databases - Techniken und Anwendungen",
+            "Publisher": "Springer",
+            "Isbn": "3-540-67328-8"
+        },
+        {
+            "_id": "1194162",
+            "Type": "book",
+            "Volume": "15",
+            "Year": "2005",
+            "Title": "Multi-Agent Programming: Languages, Platforms and Applications",
+            "Publisher": "Springer",
+            "Isbn": "0-387-24568-5",
+            "Series": "Multiagent Systems, Artificial Societies, and Simulated Organizations"
+        },
+        {
+            "_id": "1194163",
+            "Type": "book",
+            "Volume": "3899",
+            "Year": "2006",
+            "Title": "VOCUS: A Visual Attention System for Object Detection and Goal-Directed Search",
+            "Publisher": "Springer",
+            "Isbn": "3-540-32759-2",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1194164",
+            "Type": "book",
+            "Year": "2001",
+            "Title": "Symbolic Algebraic Methods and Verification Methods",
+            "Publisher": "Springer",
+            "Isbn": "3-211-83593-8"
+        },
+        {
+            "_id": "1194165",
+            "Type": "book",
+            "Volume": "24",
+            "Year": "1997",
+            "Title": "Replikationsmanagement in verteilten Informationssystemen.",
+            "Publisher": "Infix Verlag, St. Augustin, Germany",
+            "Isbn": "3-89601-424-2",
+            "Series": "DISDBIS"
+        },
+        {
+            "_id": "1194166",
+            "Type": "book",
+            "Volume": "46",
+            "Year": "1993",
+            "Title": "Produkorientierte automatische Planung von Prufoperationen bei der robotergestutzten Montage.",
+            "Publisher": "Infix Verlag, St. Augustin, Germany",
+            "Isbn": "3-929037-46-7",
+            "Series": "DISKI"
+        },
+        {
+            "_id": "1194167",
+            "Type": "book",
+            "Volume": "21",
+            "Year": "1992",
+            "Title": "Parallele Modelle fur Deduktionssysteme.",
+            "Publisher": "Infix Verlag, St. Augustin, Germany",
+            "Isbn": "3-929037-21-1",
+            "Series": "DISKI"
+        },
+        {
+            "_id": "1194168",
+            "Type": "book",
+            "Volume": "12",
+            "Year": "1992",
+            "Title": "Flexible Steuerung eines sprachverstehenden Systems mit homogener Wissensbasis.",
+            "Publisher": "Infix Verlag, St. Augustin, Germany",
+            "Isbn": "3-929037-12-2",
+            "Series": "DISKI"
+        },
+        {
+            "_id": "1194169",
+            "Type": "book",
+            "Volume": "29",
+            "Year": "1993",
+            "Title": "Grammatikentwicklung mit Constraint Logik Programmierung.  Implementierung einer Grammatik fur das Deutsche mit PROLOG III.",
+            "Publisher": "Infix Verlag, St. Augustin, Germany",
+            "Isbn": "3-929037-29-7",
+            "Series": "DISKI"
+        },
+        {
+            "_id": "1194170",
+            "Type": "book",
+            "Volume": "4",
+            "Year": "1996",
+            "Title": "Fuzzy-Techniken in objektorientierten Datenbanksystemen zur Unterstutzung von Entwurfsprozessen.",
+            "Publisher": "Infix Verlag, St. Augustin, Germany",
+            "Isbn": "3-89601-404-8",
+            "Series": "DISDBIS"
+        },
+        {
+            "_id": "1194171",
+            "Type": "book",
+            "Volume": "48",
+            "Year": "1998",
+            "Title": "Reduktion zur effizienten Programmierung von Methoden in deduktiven objektorientierten Datenbanken.",
+            "Publisher": "Infix Verlag, St. Augustin, Germany",
+            "Isbn": "3-89601-448-X",
+            "Series": "DISDBIS"
+        },
+        {
+            "_id": "1194172",
+            "Type": "book",
+            "Volume": "34",
+            "Year": "1993",
+            "Title": "Situationsanalyse bei Kontakten wahrend der Ausfuhrung von Roboterbewegungen in unsicheren Umgebungen.",
+            "Publisher": "Infix Verlag, St. Augustin, Germany",
+            "Isbn": "3-929037-34-3",
+            "Series": "DISKI"
+        },
+        {
+            "_id": "1194173",
+            "Type": "book",
+            "Volume": "64",
+            "Year": "1999",
+            "Title": "Bedarfsorientierte Dienstvermittlung in vernetzten Systemen.",
+            "Publisher": "Infix Verlag, St. Augustin, Germany",
+            "Isbn": "3-89601-464-1",
+            "Series": "DISDBIS"
+        },
+        {
+            "_id": "1194174",
+            "Type": "book",
+            "Volume": "150",
+            "Year": "1996",
+            "Title": "Vorgangsmodelle. Ein Ansatz zur Reprasentation und Analyse zeitabhangigen Verhaltens bei der Uberwachung und Diagnose technischer Systeme.",
+            "Publisher": "Infix Verlag, St. Augustin, Germany",
+            "Isbn": "3-89601-150-2",
+            "Series": "DISKI"
+        },
+        {
+            "_id": "1194175",
+            "Type": "book",
+            "Volume": "51",
+            "Year": "1993",
+            "Title": "Deduktion mit Shannongraphen fur Pradikatenlogik erster Stufe.",
+            "Publisher": "Infix Verlag, St. Augustin, Germany",
+            "Isbn": "3-929037-51-3",
+            "Series": "DISKI"
+        },
+        {
+            "_id": "1194176",
+            "Type": "book",
+            "Volume": "20",
+            "Year": "1992",
+            "Title": "EMSY - Ein Modellierungskonzept fur okologische und biologische Systeme unter besonderer Berucksichtigung ihrer dynamischen Veranderung.",
+            "Publisher": "Infix Verlag, St. Augustin, Germany",
+            "Isbn": "3-929037-20-3",
+            "Series": "DISKI"
+        },
+        {
+            "_id": "1194177",
+            "Type": "book",
+            "Volume": "44",
+            "Year": "1993",
+            "Title": "Ein modellgestutztes Analysesystem zum Bildverstehen strukturierter Dokumente.",
+            "Publisher": "Infix Verlag, St. Augustin, Germany",
+            "Isbn": "3-929037-44-0",
+            "Series": "DISKI"
+        },
+        {
+            "_id": "1194178",
+            "Type": "book",
+            "Volume": "20",
+            "Year": "1996",
+            "Title": "Replikation in vernetzten Systemen mit mobilen Teilnehmern.",
+            "Publisher": "Infix Verlag, St. Augustin, Germany",
+            "Isbn": "3-89601-420-X",
+            "Series": "DISDBIS"
+        },
+        {
+            "_id": "1194179",
+            "Type": "book",
+            "Volume": "108",
+            "Year": "1995",
+            "Title": "Ein planbasierter Ansatz zur Generierung multimedialer Prasentationen.",
+            "Publisher": "Infix Verlag, St. Augustin, Germany",
+            "Isbn": "3-89601-108-1",
+            "Series": "DISKI"
+        },
+        {
+            "_id": "1194180",
+            "Type": "book",
+            "Volume": "41",
+            "Year": "1998",
+            "Title": "Ein Informationsmodell fur Ableitungsprozesse und ihre Ergebnisse im Wissensgewinnungsprozes.",
+            "Publisher": "Infix Verlag, St. Augustin, Germany",
+            "Isbn": "3-89601-441-2",
+            "Series": "DISDBIS"
+        },
+        {
+            "_id": "1194181",
+            "Type": "book",
+            "Volume": "10",
+            "Year": "1992",
+            "Title": "Wissensbasierte Verfahren zur Synthese mathematischer Beweise: Eine kombinatorische Anwendung.",
+            "Publisher": "Infix Verlag, St. Augustin, Germany",
+            "Isbn": "3-929037-10-6",
+            "Series": "DISKI"
+        },
+        {
+            "_id": "1194182",
+            "Type": "book",
+            "Volume": "14",
+            "Year": "1996",
+            "Title": "Analyse und Optimierung von Indexstrukturen in Geo-Datenbanksystemen.",
+            "Publisher": "Infix Verlag, St. Augustin, Germany",
+            "Isbn": "3-89601-414-5",
+            "Series": "DISDBIS"
+        },
+        {
+            "_id": "1194183",
+            "Type": "book",
+            "Volume": "43",
+            "Year": "1998",
+            "Title": "Schemaintegration fur den Entwurf foderierter Datenbanken.",
+            "Publisher": "Infix Verlag, St. Augustin, Germany",
+            "Isbn": "3-89601-443-9",
+            "Series": "DISDBIS"
+        },
+        {
+            "_id": "1194184",
+            "Type": "book",
+            "Volume": "33",
+            "Year": "1993",
+            "Title": "Zur Darstellung und Verarbeitung von Wissen uber Himmelsrichtungen.",
+            "Publisher": "Infix Verlag, St. Augustin, Germany",
+            "Isbn": "3-929037-33-5",
+            "Series": "DISKI"
+        },
+        {
+            "_id": "1194185",
+            "Type": "book",
+            "Volume": "60",
+            "Year": "1994",
+            "Title": "Modellkonstruktion in MIKE. Methoden und Werkzeuge.",
+            "Publisher": "Infix Verlag, St. Augustin, Germany",
+            "Isbn": "3-929037-60-2",
+            "Series": "DISKI"
+        },
+        {
+            "_id": "1194186",
+            "Type": "book",
+            "Volume": "31",
+            "Year": "1997",
+            "Title": "Modellbildung und Architektur von verteilten Workflow-Management-Systemen.",
+            "Publisher": "Infix Verlag, St. Augustin, Germany",
+            "Isbn": "3-89601-431-5",
+            "Series": "DISDBIS"
+        },
+        {
+            "_id": "1194187",
+            "Type": "book",
+            "Volume": "27",
+            "Year": "1993",
+            "Title": "Erklarungsbasiertes Computer-Sehen von Bildfolgen.",
+            "Publisher": "Infix Verlag, St. Augustin, Germany",
+            "Isbn": "3-929037-27-0",
+            "Series": "DISKI"
+        },
+        {
+            "_id": "1194188",
+            "Type": "book",
+            "Volume": "41",
+            "Year": "1993",
+            "Title": "Ein Datenbankkern zur Speicherung variabel strukturierter Feature-Terme. Implementierungstechniken.",
+            "Publisher": "Infix Verlag, St. Augustin, Germany",
+            "Isbn": "3-929037-41-6",
+            "Series": "DISKI"
+        },
+        {
+            "_id": "1194189",
+            "Type": "book",
+            "Volume": "36",
+            "Year": "1993",
+            "Title": "Oberflachenbasierte Segmentierung von Tiefenbildern.",
+            "Publisher": "Infix Verlag, St. Augustin, Germany",
+            "Isbn": "3-929037-36-X",
+            "Series": "DISKI"
+        },
+        {
+            "_id": "1194190",
+            "Type": "book",
+            "Volume": "61",
+            "Year": "1993",
+            "Title": "Steuerungsansatze auf der Basis Neuronaler Netze fur sechsbeinige Laufmaschinen.",
+            "Publisher": "Infix Verlag, St. Augustin, Germany",
+            "Isbn": "3-929037-61-0",
+            "Series": "DISKI"
+        },
+        {
+            "_id": "1194191",
+            "Type": "book",
+            "Volume": "44",
+            "Year": "1998",
+            "Title": "Materialisation and Parallelism in the Mapping of an Object Model to a Relational Multi-processor System.",
+            "Publisher": "Infix Verlag, St. Augustin, Germany",
+            "Isbn": "3-89601-444-7",
+            "Series": "DISDBIS"
+        },
+        {
+            "_id": "1194192",
+            "Type": "book",
+            "Volume": "53",
+            "Year": "1999",
+            "Title": "Definition of Behavior in Object-Oriented Databases by View Integration.",
+            "Publisher": "Infix Verlag, St. Augustin, Germany",
+            "Isbn": "3-89601-453-6",
+            "Series": "DISDBIS"
+        },
+        {
+            "_id": "1194193",
+            "Type": "book",
+            "Volume": "7",
+            "Year": "1992",
+            "Title": "Adaptive Roboterkontrolle mit konnektionistischen Systemen.",
+            "Publisher": "Infix Verlag, St. Augustin, Germany",
+            "Isbn": "3-929037-07-6",
+            "Series": "DISKI"
+        },
+        {
+            "_id": "1194194",
+            "Type": "book",
+            "Volume": "149",
+            "Year": "1996",
+            "Title": "HAMVIS: Generierung von Visualisierungen in einem Rahmensystem zur systematischen Entwicklung von Benutzungsschnittstellen.",
+            "Publisher": "Infix Verlag, St. Augustin, Germany",
+            "Isbn": "3-89601-149-9",
+            "Series": "DISKI"
+        },
+        {
+            "_id": "1194195",
+            "Type": "book",
+            "Volume": "152",
+            "Year": "1997",
+            "Title": "Symbolisches Losen mathematischer Probleme durch Kooperation algorithmischer und logischer Systeme.",
+            "Publisher": "Infix Verlag, St. Augustin, Germany",
+            "Isbn": "3-89601-152-9",
+            "Series": "DISKI"
+        },
+        {
+            "_id": "1194196",
+            "Type": "book",
+            "Volume": "6",
+            "Year": "1992",
+            "Title": "Wissensbasierte Greifplanung fur Mehrfinger-Roboterhande.",
+            "Publisher": "Infix Verlag, St. Augustin, Germany",
+            "Isbn": "3-929037-06-8",
+            "Series": "DISKI"
+        },
+        {
+            "_id": "1194197",
+            "Type": "book",
+            "Volume": "14",
+            "Year": "1992",
+            "Title": "Selbstorganisierende neuronale Netzwerkmodelle zur Bewegungssteuerung.",
+            "Publisher": "Infix Verlag, St. Augustin, Germany",
+            "Isbn": "3-929037-14-9",
+            "Series": "DISKI"
+        },
+        {
+            "_id": "1194198",
+            "Type": "book",
+            "Volume": "56",
+            "Year": "1994",
+            "Title": "Validierung konzeptueller Schemata.",
+            "Publisher": "Infix Verlag, St. Augustin, Germany",
+            "Isbn": "3-929037-56-4",
+            "Series": "DISKI"
+        },
+        {
+            "_id": "1194199",
+            "Type": "book",
+            "Volume": "50",
+            "Year": "1993",
+            "Title": "Ein Dialogmodul fur ein Spracherkennungs- und Dialogsystem.",
+            "Publisher": "Infix Verlag, St. Augustin, Germany",
+            "Isbn": "3-929037-50-5",
+            "Series": "DISKI"
+        },
+        {
+            "_id": "1194200",
+            "Type": "book",
+            "Volume": "52",
+            "Year": "1993",
+            "Title": "Dynamische semantische Netze - Zur Kontextabhangigkeit von Wortbedeutungen.",
+            "Publisher": "Infix Verlag, St. Augustin, Germany",
+            "Isbn": "3-929037-52-1",
+            "Series": "DISKI"
+        },
+        {
+            "_id": "1194201",
+            "Type": "book",
+            "Volume": "75",
+            "Year": "1995",
+            "Title": "Distributed Machine Learning.",
+            "Publisher": "Infix Verlag, St. Augustin, Germany",
+            "Isbn": "3-929037-75-0",
+            "Series": "DISKI"
+        },
+        {
+            "_id": "1194202",
+            "Type": "book",
+            "Volume": "10",
+            "Year": "1996",
+            "Title": "Dynamische Beziehungen als Modell der Kooperation in verteilten Objektsystemen.",
+            "Publisher": "Infix Verlag, St. Augustin, Germany",
+            "Isbn": "3-89601-410-2",
+            "Series": "DISDBIS"
+        },
+        {
+            "_id": "1194203",
+            "Type": "book",
+            "Volume": "1",
+            "Year": "1996",
+            "Title": "Entwurf einer Sprache fur die verhaltensorientierte konzeptionelle Modellierung von Informationssystemen.",
+            "Publisher": "Infix Verlag, St. Augustin, Germany",
+            "Isbn": "3-89601-401-3",
+            "Series": "DISDBIS"
+        },
+        {
+            "_id": "1194204",
+            "Type": "book",
+            "Volume": "52",
+            "Year": "1999",
+            "Title": "Fehlertolerante und effiziente automatische Analyse digitalisierter Dokumente zur Gewinnung von Hypertextstrukturen.",
+            "Publisher": "Infix Verlag, St. Augustin, Germany",
+            "Isbn": "3-89601-452-8",
+            "Series": "DISDBIS"
+        },
+        {
+            "_id": "1194205",
+            "Type": "book",
+            "Volume": "55",
+            "Year": "1994",
+            "Title": "ALCP - Ein hybrider Ansatz zur Modellierung von Unsicherheit in terminologischen Logiken.",
+            "Publisher": "Infix Verlag, St. Augustin, Germany",
+            "Isbn": "3-929037-55-6",
+            "Series": "DISKI"
+        },
+        {
+            "_id": "1194206",
+            "Type": "book",
+            "Volume": "46",
+            "Year": "1998",
+            "Title": "Entwurf eines objektorientierten Datenbankmodells Fur relationale Datenbanksysteme.",
+            "Publisher": "Infix Verlag, St. Augustin, Germany",
+            "Isbn": "3-89601-446-3",
+            "Series": "DISDBIS"
+        },
+        {
+            "_id": "1194207",
+            "Type": "book",
+            "Volume": "22",
+            "Year": "1997",
+            "Title": "Konzeptionelle Modellierung von Informationssystemen als verteilte Objektsysteme.",
+            "Publisher": "Infix Verlag, St. Augustin, Germany",
+            "Isbn": "3-89601-422-6",
+            "Series": "DISDBIS"
+        },
+        {
+            "_id": "1194208",
+            "Type": "book",
+            "Volume": "30",
+            "Year": "1993",
+            "Title": "Inkrementelle worterbuchbasierte Wortschatzerweiterungen in sprachverarbeitenden Systemen. Entwurf einer konstruktiven Lexikonkonzeption.",
+            "Publisher": "Infix Verlag, St. Augustin, Germany",
+            "Isbn": "3-929037-30-0",
+            "Series": "DISKI"
+        },
+        {
+            "_id": "1194209",
+            "Type": "book",
+            "Volume": "63",
+            "Year": "1994",
+            "Title": "Extraktion von linienformigen Merkmalen und Ermittlung des optischen Flusses mit seinen Ableitungen aus Voll- und Halbbildfolgen.",
+            "Publisher": "Infix Verlag, St. Augustin, Germany",
+            "Isbn": "3-929037-63-7",
+            "Series": "DISKI"
+        },
+        {
+            "_id": "1194210",
+            "Type": "book",
+            "Volume": "8",
+            "Year": "1992",
+            "Title": "Generierung domanenspezifischer Wissensreprasentationssysteme und Transformation von Wissensbasen mit einer Anwendung in der Rechtsinformatik.",
+            "Publisher": "Infix Verlag, St. Augustin, Germany",
+            "Isbn": "3-929037-08-4",
+            "Series": "DISKI"
+        },
+        {
+            "_id": "1194211",
+            "Type": "book",
+            "Volume": "48",
+            "Year": "1993",
+            "Title": "Hypermediabasiertes Knowledge Engineering fur verteilte wissensbasierte Systeme.",
+            "Publisher": "Infix Verlag, St. Augustin, Germany",
+            "Isbn": "3-929037-48-3",
+            "Series": "DISKI"
+        },
+        {
+            "_id": "1194212",
+            "Type": "book",
+            "Volume": "64",
+            "Year": "1999",
+            "Title": "Das Konzept der Transaktionshulle zur konsistenten Spezifikation von Abhanigigkeiten in komplexen Anwendungen.",
+            "Publisher": "Infix Verlag, St. Augustin, Germany",
+            "Series": "DISDBIS"
+        },
+        {
+            "_id": "1194213",
+            "Type": "book",
+            "Volume": "8",
+            "Year": "1996",
+            "Title": "Foderierte Datenbanktechnologie fur die Molekularbiologie: Konzepte, Einsatz und Nutzen.",
+            "Publisher": "Infix Verlag, St. Augustin, Germany",
+            "Isbn": "3-89601-408-0",
+            "Series": "DISDBIS"
+        },
+        {
+            "_id": "1194214",
+            "Type": "book",
+            "Volume": "31",
+            "Year": "1993",
+            "Title": "Die Bildanalysesprache TRIAS.",
+            "Publisher": "Infix Verlag, St. Augustin, Germany",
+            "Isbn": "3-929037-31-9",
+            "Series": "DISKI"
+        },
+        {
+            "_id": "1194215",
+            "Type": "book",
+            "Volume": "35",
+            "Year": "1997",
+            "Title": "Transaction Services for Knowledge Base Management Systems. Modeling Aspects, Architectural Issues, and Realization Techniques.",
+            "Publisher": "Infix Verlag, St. Augustin, Germany",
+            "Isbn": "3-89601-435-8",
+            "Series": "DISDBIS"
+        },
+        {
+            "_id": "1194216",
+            "Type": "book",
+            "Volume": "151",
+            "Year": "1997",
+            "Title": "Dynamische Modularisierung lexikalischer Informationen in einem Wiederverwendungsszenario.",
+            "Publisher": "Infix Verlag, St. Augustin, Germany",
+            "Isbn": "3-89601-151-0",
+            "Series": "DISKI"
+        },
+        {
+            "_id": "1194217",
+            "Type": "book",
+            "Volume": "5",
+            "Year": "1992",
+            "Title": "Modellierung von Expertise uber Konfigurierungsaufgaben.",
+            "Publisher": "Infix Verlag, St. Augustin, Germany",
+            "Isbn": "3-929037-05-X",
+            "Series": "DISKI"
+        },
+        {
+            "_id": "1194218",
+            "Type": "book",
+            "Volume": "56",
+            "Year": "1999",
+            "Title": "Kommunikationsoptimierung fur mobile Agenten durch hierarchisches Klonen.",
+            "Publisher": "Infix Verlag, St. Augustin, Germany",
+            "Isbn": "3-89601-456-0",
+            "Series": "DISDBIS"
+        },
+        {
+            "_id": "1194219",
+            "Type": "book",
+            "Volume": "55",
+            "Year": "1999",
+            "Title": "Ein Verfahren zur semi-automatischen Generierung von Mediatorspezifikationen.",
+            "Publisher": "Infix Verlag, St. Augustin, Germany",
+            "Series": "DISDBIS"
+        },
+        {
+            "_id": "1194220",
+            "Type": "book",
+            "Volume": "45",
+            "Year": "1998",
+            "Title": "Integration of Active and Deductive Database Rules.",
+            "Publisher": "Infix Verlag, St. Augustin, Germany",
+            "Isbn": "3-89601-445-5",
+            "Series": "DISDBIS"
+        },
+        {
+            "_id": "1194221",
+            "Type": "book",
+            "Volume": "37",
+            "Year": "1997",
+            "Title": "Terminierung und Konfluenz in einer aktiven objektorientierten Datenbank.",
+            "Publisher": "Infix Verlag, St. Augustin, Germany",
+            "Isbn": "3-89601-437-4",
+            "Series": "DISDBIS"
+        },
+        {
+            "_id": "1194222",
+            "Type": "book",
+            "Volume": "5",
+            "Year": "1996",
+            "Title": "Heuristic and Randomised Optimisation Techniques in Object-Oriented Database Systems.",
+            "Publisher": "Infix Verlag, St. Augustin, Germany",
+            "Isbn": "3-89601-405-6",
+            "Series": "DISDBIS"
+        },
+        {
+            "_id": "1194223",
+            "Type": "book",
+            "Volume": "50",
+            "Year": "1998",
+            "Title": "Architektur verteilter Workflow-Management-Systeme.",
+            "Publisher": "Infix Verlag, St. Augustin, Germany",
+            "Isbn": "3-89601-450-1",
+            "Series": "DISDBIS"
+        },
+        {
+            "_id": "1194224",
+            "Type": "book",
+            "Volume": "61",
+            "Year": "1999",
+            "Title": "Konzeption eines regelbasierten Systems fur Produktdatenmanagement in CIM.",
+            "Publisher": "Infix Verlag, St. Augustin, Germany",
+            "Isbn": "3-89601-461-7",
+            "Series": "DISDBIS"
+        },
+        {
+            "_id": "1194225",
+            "Type": "book",
+            "Volume": "35",
+            "Year": "1993",
+            "Title": "Erweiterung der Wissensbasierten CAD-Konstruktion um Restriktionsnetztechniken.",
+            "Publisher": "Infix Verlag, St. Augustin, Germany",
+            "Isbn": "3-929037-35-1",
+            "Series": "DISKI"
+        },
+        {
+            "_id": "1194226",
+            "Type": "book",
+            "Volume": "6",
+            "Year": "1996",
+            "Title": "Verfeinerung in objektorientierten Spezifikationen.",
+            "Publisher": "Infix Verlag, St. Augustin, Germany",
+            "Isbn": "3-89601-406-4",
+            "Series": "DISDBIS"
+        },
+        {
+            "_id": "1194227",
+            "Type": "book",
+            "Volume": "59",
+            "Year": "1994",
+            "Title": "Qualitative Analyse im Rahmen qualitativen und modellbasierten Schliesens.",
+            "Publisher": "Infix Verlag, St. Augustin, Germany",
+            "Isbn": "3-929037-59-9",
+            "Series": "DISKI"
+        },
+        {
+            "_id": "1194228",
+            "Type": "book",
+            "Volume": "63",
+            "Year": "1999",
+            "Title": "Semantic Integrity Constraints in Federated Database Schemata.",
+            "Publisher": "Infix Verlag, St. Augustin, Germany",
+            "Isbn": "3-89601-463-3",
+            "Series": "DISDBIS"
+        },
+        {
+            "_id": "1194229",
+            "Type": "book",
+            "Volume": "11",
+            "Year": "1992",
+            "Title": "Begleitende Montageablaufplanung fur ein sensorgestutztes Zweiarm-Manipulatorsystem.",
+            "Publisher": "Infix Verlag, St. Augustin, Germany",
+            "Isbn": "3-929037-11-4",
+            "Series": "DISKI"
+        },
+        {
+            "_id": "1194230",
+            "Type": "book",
+            "Volume": "40",
+            "Year": "1993",
+            "Title": "Kognitives Parsing: Reprasentation und Verarbeitung sprachlichen Wissens.",
+            "Publisher": "Infix Verlag, St. Augustin, Germany",
+            "Isbn": "3-929037-40-8",
+            "Series": "DISKI"
+        },
+        {
+            "_id": "1194231",
+            "Type": "book",
+            "Volume": "40",
+            "Year": "1998",
+            "Title": "Indexierung und Retrieval von Feature-Baumen am Beispiel der linguistischen Analyse von Textkorpora.",
+            "Publisher": "Infix Verlag, St. Augustin, Germany",
+            "Series": "DISDBIS"
+        },
+        {
+            "_id": "1194232",
+            "Type": "book",
+            "Volume": "23",
+            "Year": "1997",
+            "Title": "Sichtenmanagement in Client-Server-Systemen.",
+            "Publisher": "Infix Verlag, St. Augustin, Germany",
+            "Isbn": "3-89601-423-4",
+            "Series": "DISDBIS"
+        },
+        {
+            "_id": "1194233",
+            "Type": "book",
+            "Volume": "16",
+            "Year": "1996",
+            "Title": "An Approach to Query Processing in Advanced Database Systems.",
+            "Publisher": "Infix Verlag, St. Augustin, Germany",
+            "Isbn": "3-89601-416-1",
+            "Series": "DISDBIS"
+        },
+        {
+            "_id": "1194234",
+            "Type": "book",
+            "Volume": "28",
+            "Year": "1997",
+            "Title": "Inkrementelle, domanenunabhangige Thesauruserstellung in dokumentbasierten Informationssystemen durch Kombination von Konstruktionsverfahren.",
+            "Publisher": "Infix Verlag, St. Augustin, Germany",
+            "Isbn": "3-89601-428-5",
+            "Series": "DISDBIS"
+        },
+        {
+            "_id": "1194235",
+            "Type": "book",
+            "Volume": "3",
+            "Year": "1996",
+            "Title": "Unterstutzung anwendungsspezifischer Zugriffsprofile in Objektbanksystemen.",
+            "Publisher": "Infix Verlag, St. Augustin, Germany",
+            "Isbn": "3-89601-403-X",
+            "Series": "DISDBIS"
+        },
+        {
+            "_id": "1194236",
+            "Type": "book",
+            "Volume": "33",
+            "Year": "1997",
+            "Title": "DB-gestutzte Kooperationsdienste fur technische Entwurfsanwendungen.",
+            "Publisher": "Infix Verlag, St. Augustin, Germany",
+            "Isbn": "3-89601-433-1",
+            "Series": "DISDBIS"
+        },
+        {
+            "_id": "1194237",
+            "Type": "book",
+            "Volume": "3",
+            "Year": "1992",
+            "Title": "Flexible Kontrolle in Expertensystemen zur Planung und Konfigurierung in technischen Domanen.",
+            "Publisher": "Infix Verlag, St. Augustin, Germany",
+            "Isbn": "3-929037-03-3",
+            "Series": "DISKI"
+        },
+        {
+            "_id": "1194238",
+            "Type": "book",
+            "Volume": "9",
+            "Year": "1992",
+            "Title": "Digitale und Allgemeine Topologie in der bildhaften Wissensreprasentation.",
+            "Publisher": "Infix Verlag, St. Augustin, Germany",
+            "Isbn": "3-929037-09-2",
+            "Series": "DISKI"
+        },
+        {
+            "_id": "1194239",
+            "Type": "book",
+            "Volume": "15",
+            "Year": "1992",
+            "Title": "Das 3-stufige Frame-Reprasentationsschema - eine mehrdimensional modulare Basis fur die Entwicklung von Expertensystemkernen.",
+            "Publisher": "Infix Verlag, St. Augustin, Germany",
+            "Isbn": "3-929037-15-7",
+            "Series": "DISKI"
+        },
+        {
+            "_id": "1194240",
+            "Type": "book",
+            "Volume": "29",
+            "Year": "1997",
+            "Title": "Schematransformationen in Datenbanken.",
+            "Publisher": "Infix Verlag, St. Augustin, Germany",
+            "Isbn": "3-89601-429-3",
+            "Series": "DISDBIS"
+        },
+        {
+            "_id": "1194241",
+            "Type": "book",
+            "Volume": "51",
+            "Year": "1998",
+            "Title": "Akquisition von Integritatsbedingungen in Datenbanken.",
+            "Publisher": "Infix Verlag, St. Augustin, Germany",
+            "Isbn": "3-89601-451-X",
+            "Series": "DISDBIS"
+        },
+        {
+            "_id": "1194242",
+            "Type": "book",
+            "Volume": "19",
+            "Year": "1992",
+            "Title": "Anderungskontrolle in deduktiven Datenbanken.",
+            "Publisher": "Infix Verlag, St. Augustin, Germany",
+            "Isbn": "3-929037-19-X",
+            "Series": "DISKI"
+        },
+        {
+            "_id": "1194243",
+            "Type": "book",
+            "Volume": "39",
+            "Year": "1993",
+            "Title": "Eine mehrschichtige Architektur zur Fehlerdiagnose und Fehlerbehebung bei der Entwicklung logischer Programme.",
+            "Publisher": "Infix Verlag, St. Augustin, Germany",
+            "Isbn": "3-929037-39-4",
+            "Series": "DISKI"
+        },
+        {
+            "_id": "1194244",
+            "Type": "book",
+            "Volume": "38",
+            "Year": "1993",
+            "Title": "Integration von Aktionsplanung und Konfigurierung.",
+            "Publisher": "Infix Verlag, St. Augustin, Germany",
+            "Isbn": "3-929037-38-6",
+            "Series": "DISKI"
+        },
+        {
+            "_id": "1194245",
+            "Type": "book",
+            "Volume": "37",
+            "Year": "1993",
+            "Title": "Wissensbasiertes Losen von Ablaufplanungsproblemen durch explizite Heuristiken.",
+            "Publisher": "Infix Verlag, St. Augustin, Germany",
+            "Isbn": "3-929037-37-8",
+            "Series": "DISKI"
+        },
+        {
+            "_id": "1194246",
+            "Type": "book",
+            "Volume": "57",
+            "Year": "1994",
+            "Title": "MODEL-K: Modellierung und Operationalisierung von Selbsteinschatzung und -steuerung durch Reflexion und Metawissen.",
+            "Publisher": "Infix Verlag, St. Augustin, Germany",
+            "Isbn": "3-929037-57-2",
+            "Series": "DISKI"
+        },
+        {
+            "_id": "1194247",
+            "Type": "book",
+            "Volume": "17",
+            "Year": "1992",
+            "Title": "Wissensintensives Lernen fur zeitkritische technische Diagnoseaufgaben.",
+            "Publisher": "Infix Verlag, St. Augustin, Germany",
+            "Isbn": "3-929037-17-3",
+            "Series": "DISKI"
+        },
+        {
+            "_id": "1194248",
+            "Type": "book",
+            "Volume": "25",
+            "Year": "1997",
+            "Title": "Externe Schemata in objektorientierten Datenbansystemen.",
+            "Publisher": "Infix Verlag, St. Augustin, Germany",
+            "Isbn": "3-89601-425-0",
+            "Series": "DISDBIS"
+        },
+        {
+            "_id": "1194249",
+            "Type": "book",
+            "Volume": "36",
+            "Year": "1997",
+            "Title": "Zur naturlichsprachlichen interaktiven Unterstutzung im Datenbankentwurf.",
+            "Publisher": "Infix Verlag, St. Augustin, Germany",
+            "Isbn": "3-89601-436-6",
+            "Series": "DISDBIS"
+        },
+        {
+            "_id": "1194250",
+            "Type": "book",
+            "Volume": "42",
+            "Year": "1998",
+            "Title": "Skalierbare Multicast-Kommunikation in Weitverkehrsnetzen.",
+            "Publisher": "Infix Verlag, St. Augustin, Germany",
+            "Isbn": "3-89601-442-0",
+            "Series": "DISDBIS"
+        },
+        {
+            "_id": "1194251",
+            "Type": "book",
+            "Volume": "28",
+            "Year": "1993",
+            "Title": "Erklarungen fur komplexe Wissensbasen.",
+            "Publisher": "Infix Verlag, St. Augustin, Germany",
+            "Isbn": "3-929037-28-9",
+            "Series": "DISKI"
+        },
+        {
+            "_id": "1194252",
+            "Type": "book",
+            "Volume": "54",
+            "Year": "1999",
+            "Title": "Control Mechanisms in Distributed Object Bases. Synchronization, Deadlock Detection, Migration.",
+            "Publisher": "Infix Verlag, St. Augustin, Germany",
+            "Isbn": "3-89601-454-4",
+            "Series": "DISDBIS"
+        },
+        {
+            "_id": "1194253",
+            "Type": "book",
+            "Volume": "7",
+            "Year": "1996",
+            "Title": "Effiziente Pufferverwaltung in parallelen relationalen Datenbanksystemen.",
+            "Publisher": "Infix Verlag, St. Augustin, Germany",
+            "Isbn": "3-89601-407-2",
+            "Series": "DISDBIS"
+        },
+        {
+            "_id": "1194254",
+            "Type": "book",
+            "Volume": "24",
+            "Year": "1993",
+            "Title": "Adaptive Neuronale Netze und ihre Anwendung als Modelle der Entwicklung kortikaler Karten.",
+            "Publisher": "Infix Verlag, St. Augustin, Germany",
+            "Isbn": "3-929037-24-6",
+            "Series": "DISKI"
+        },
+        {
+            "_id": "1194255",
+            "Type": "book",
+            "Volume": "16",
+            "Year": "1992",
+            "Title": "Lernen durch Genetisch-Neuronale Evolution: Aktive Anpassung an unbekannte Umgebungen mit selbstentwickelten parallelen Netzwerken.",
+            "Publisher": "Infix Verlag, St. Augustin, Germany",
+            "Isbn": "3-929037-16-5",
+            "Series": "DISKI"
+        },
+        {
+            "_id": "1194256",
+            "Type": "book",
+            "Volume": "9",
+            "Year": "1996",
+            "Title": "Entwicklung verteilter Objektstrukturen fur skalierbare und hochgradig verfugbare Informationssysteme.",
+            "Publisher": "Infix Verlag, St. Augustin, Germany",
+            "Isbn": "3-89601-409-9",
+            "Series": "DISDBIS"
+        }
+    ]
+}

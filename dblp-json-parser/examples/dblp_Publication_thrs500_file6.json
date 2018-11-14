@@ -1,0 +1,4183 @@
+{
+    "docs": [
+        {
+            "_id": "1186775",
+            "Type": "proceedings",
+            "Volume": "1267",
+            "Year": "1997",
+            "Title": "Fast Software Encryption, 4th International Workshop, FSE _97, Haifa, Israel, January 20-22, 1997, Proceedings",
+            "Conference": "FSE",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186776",
+            "Type": "proceedings",
+            "Volume": "1372",
+            "Year": "1998",
+            "Title": "Fast Software Encryption, 5th International Workshop, FSE _98, Paris, France, March 23-25, 1998, Proceedings",
+            "Conference": "FSE",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186777",
+            "Type": "proceedings",
+            "Volume": "1636",
+            "Year": "1999",
+            "Title": "Fast Software Encryption, 6th International Workshop, FSE _99, Rome, Italy, March 24-26, 1999, Proceedings",
+            "Conference": "FSE",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186778",
+            "Type": "proceedings",
+            "Volume": "1978",
+            "Year": "2001",
+            "Title": "Fast Software Encryption, 7th International Workshop, FSE 2000, New York, NY, USA, April 10-12, 2000, Proceedings",
+            "Conference": "FSE",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186779",
+            "Type": "proceedings",
+            "Volume": "2355",
+            "Year": "2002",
+            "Title": "Fast Software Encryption, 8th International Workshop, FSE 2001 Yokohama, Japan, April 2-4, 2001, Revised Papers",
+            "Conference": "FSE",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186780",
+            "Type": "proceedings",
+            "Volume": "2365",
+            "Year": "2002",
+            "Title": "Fast Software Encryption, 9th International Workshop, FSE 2002, Leuven, Belgium, February 4-6, 2002, Revised Papers",
+            "Conference": "FSE",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186781",
+            "Type": "proceedings",
+            "Volume": "2887",
+            "Year": "2003",
+            "Title": "Fast Software Encryption, 10th International Workshop, FSE 2003, Lund, Sweden, February 24-26, 2003, Revised Papers",
+            "Conference": "FSE",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186782",
+            "Type": "proceedings",
+            "Volume": "3017",
+            "Year": "2004",
+            "Title": "Fast Software Encryption, 11th International Workshop, FSE 2004, Delhi, India, February 5-7, 2004, Revised Papers",
+            "Conference": "FSE",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186783",
+            "Type": "proceedings",
+            "Volume": "3557",
+            "Year": "2005",
+            "Title": "Fast Software Encryption: 12th International Workshop, FSE 2005, Paris, France, February 21-23, 2005, Revised Selected Papers",
+            "Conference": "FSE",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186784",
+            "Type": "proceedings",
+            "Volume": "1761",
+            "Year": "2000",
+            "Title": "Automated Deduction in Classical and Non-Classical Logics, Selected Papers",
+            "Conference": "FTP (LNCS Selection)",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186785",
+            "Type": "proceedings",
+            "Year": "1996",
+            "Title": "GIS _96, Proceedings of the fourth ACM workshop on Advances on Advances in Geographic Information Systems, November 15-16, 1996, Rockville, Maryland, USA",
+            "Publisher": "ACM"
+        },
+        {
+            "_id": "1186786",
+            "Type": "proceedings",
+            "Year": "1997",
+            "Title": "GIS _97. Proceedings of the 5th International Workshop on Advances in Geographic Information Systems, November 13-14, 1997, Las Vegas, Nevada, USA",
+            "Publisher": "ACM"
+        },
+        {
+            "_id": "1186787",
+            "Type": "proceedings",
+            "Year": "1998",
+            "Title": "ACM-GIS _98, Proceedings of the 6th international symposium on Advances in Geographic Information Systems, November 6-7, 1998, Washington, DC, USA",
+            "Publisher": "ACM"
+        },
+        {
+            "_id": "1186788",
+            "Type": "proceedings",
+            "Year": "1999",
+            "Title": "ACM-GIS _99, Proceedings of the 7th International Symposium on Advances in Geographic Information Systems, November 2-6, 1999, Kansas City, USA",
+            "Publisher": "ACM"
+        },
+        {
+            "_id": "1186789",
+            "Type": "proceedings",
+            "Volume": "639",
+            "Year": "1992",
+            "Title": "Theories and Methods of Spatio-Temporal Reasoning in Geographic Space, International Conference GIS - From Space to Territory: Theories and Methods of Spatio-Temporal Reasoning, Pisa, Italy, September 21-23, 1992, Proceedings",
+            "Conference": "Spatio-Temporal Reasoning",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186790",
+            "Type": "proceedings",
+            "Year": "2000",
+            "Title": "ACM-GIS 2000, Proceedings of the Eighth ACM Symposium on Advances in Geographic Information Systems, November 10-11, 2000, Washington D.C., USA",
+            "Publisher": "ACM"
+        },
+        {
+            "_id": "1186791",
+            "Type": "proceedings",
+            "Year": "2001",
+            "Title": "ACM-GIS 2001, Proceedings of the Ninth ACM International Symposium on Advances in Geographic Information Systems, Atlanta, GA, USA, November 9-10, 2001",
+            "Publisher": "ACM"
+        },
+        {
+            "_id": "1186792",
+            "Type": "proceedings",
+            "Year": "2002",
+            "Title": "ACM-GIS 2002, Proceedings of the Tenth ACM International Symposium on Advances in Geographic Information Systems, McLean, VA (near Washington, DC), USA, USA, November 8-9, 2002",
+            "Publisher": "ACM"
+        },
+        {
+            "_id": "1186793",
+            "Type": "proceedings",
+            "Year": "2003",
+            "Title": "ACM-GIS 2003, Proceedings of the Eleventh ACM International Symposium on Advances in Geographic Information Systems, New Orleans, Louisiana, USA, November 7-8, 2003",
+            "Conference": "GIS",
+            "Publisher": "ACM"
+        },
+        {
+            "_id": "1186794",
+            "Type": "proceedings",
+            "Year": "2004",
+            "Title": "12th ACM International Workshop on Geographic Information Systems, ACM-GIS 2004, November 12-13, 2004, Washington, DC, USA, Proceedings",
+            "Conference": "GIS",
+            "Publisher": "ACM"
+        },
+        {
+            "_id": "1186795",
+            "Type": "proceedings",
+            "Year": "2005",
+            "Title": "13th ACM International Workshop on Geographic Information Systems, ACM-GIS 2005, November 4-5, 2005, Bremen, Germany, Proceedings",
+            "Conference": "GIS",
+            "Publisher": "ACM"
+        },
+        {
+            "_id": "1186796",
+            "Type": "proceedings",
+            "Volume": "185",
+            "Year": "2000",
+            "Title": "Computers and Networks in the Age of Globalization, IFIP TC9 World Conference on Human Choice and Computers, August 25-28, 1998, Geneva, Switzerland",
+            "Conference": "HCC",
+            "Publisher": "Kluwer"
+        },
+        {
+            "_id": "1186797",
+            "Type": "proceedings",
+            "Volume": "225",
+            "Year": "2002",
+            "Title": "Human Choice and Computers: Issues of Choice and Quality of Life in the Information Society, IFIP 17th World Computer Congress - TC9 Stream / 6th International Conference on Human Choice and Computers: Issues of Choice and Quality of Life in the Information Society (HCC-6), August 25-30, 2002, Montreal, Quebec, Canada",
+            "Conference": "HCC",
+            "Publisher": "Kluwer"
+        },
+        {
+            "_id": "1186798",
+            "Type": "proceedings",
+            "Year": "2002",
+            "Title": "2002 Geometric Modeling and Processing (GMP 2002), Theory and Applications, 10-12 July 2002, Wako, Saitama, Japan",
+            "Conference": "GMP",
+            "Publisher": "IEEE Computer Society"
+        },
+        {
+            "_id": "1186799",
+            "Type": "proceedings",
+            "Year": "2004",
+            "Title": "2004 Geometric Modeling and Processing (GMP 2004), Theory and Applications, 13-15 April 2004, Beijing, China",
+            "Conference": "GMP",
+            "Publisher": "IEEE Computer Society"
+        },
+        {
+            "_id": "1186800",
+            "Type": "proceedings",
+            "Year": "1987",
+            "Title": "Social, Ergonomic and Stress Aspects of Work with Computers, Proceedings of the Second International Conference on Human-Computer Interaction, Honolulu, Hawaii, August 10-14, 1987, Volume 1",
+            "Conference": "HCI (1)",
+            "Publisher": "Elsevier"
+        },
+        {
+            "_id": "1186801",
+            "Type": "proceedings",
+            "Year": "1987",
+            "Title": "Cognitive Engeineering in the Design of Human-Computer Interaction and Expert Systems, Proceedings of the Second International Conference on Human-Computer Interaction, Honolulu, Hawaii, August 10-14, 1987, Volume 2",
+            "Conference": "HCI (2)",
+            "Publisher": "Elsevier"
+        },
+        {
+            "_id": "1186802",
+            "Type": "proceedings",
+            "Year": "1993",
+            "Title": "Human-Computer Interaction: Applications and Case Studies, Proceedings of the Fifth International Conference on Human-Computer Interaction, (HCI International _93), Orlando, Florida, USA, August 8-13, 1993, Volume 1",
+            "Conference": "HCI (1)",
+            "Publisher": "Elsevier"
+        },
+        {
+            "_id": "1186803",
+            "Type": "proceedings",
+            "Year": "1993",
+            "Title": "Human-Computer Interaction: Software and Hardware Interfaces, Proceedings of the Fifth International Conference on Human-Computer Interaction, (HCI International _93), Orlando, Florida, USA, August 8-13, 1993, Volume 2",
+            "Conference": "HCI (2)",
+            "Publisher": "Elsevier"
+        },
+        {
+            "_id": "1186804",
+            "Type": "proceedings",
+            "Year": "1997",
+            "Title": "Design of Computing Systems: Cognitive Considerations, Proceedings of the Seventh International Conference on Human-Computer Interaction, (HCI International _97), San Francisco, California, USA, August 24-29, 1997, Volume 1",
+            "Conference": "HCI (1)",
+            "Publisher": "Elsevier"
+        },
+        {
+            "_id": "1186805",
+            "Type": "proceedings",
+            "Year": "1997",
+            "Title": "Design of Computing Systems: Social and Ergonomic Considerations, Proceedings of the Seventh International Conference on Human-Computer Interaction, (HCI International _97), San Francisco, California, USA, August 24-29, 1997, Volume 2",
+            "Conference": "HCI (2)",
+            "Publisher": "Elsevier"
+        },
+        {
+            "_id": "1186806",
+            "Type": "proceedings",
+            "Year": "1999",
+            "Title": "Human-Computer Interaction: Ergonomics and User Interfaces, Proceedings of HCI International _99 (the 8th International Conference on Human-Computer Interaction), Munich, Germany, August 22-26, 1999, Volume 1",
+            "Conference": "HCI (1)",
+            "Publisher": "Lawrence Erlbaum"
+        },
+        {
+            "_id": "1186807",
+            "Type": "proceedings",
+            "Year": "1999",
+            "Title": "Human-Computer Interaction: Communication, Cooperation, and Application Design, Proceedings of HCI International _99 (the 8th International Conference on Human-Computer Interaction), Munich, Germany, August 22-26, 1999, Volume 2",
+            "Conference": "HCI (2)",
+            "Publisher": "Lawrence Erlbaum"
+        },
+        {
+            "_id": "1186808",
+            "Type": "proceedings",
+            "Year": "2001",
+            "Title": "Universal Access In HCI: Towards an Information Society for All, Proceedings of HCI International _2001 (the 9th International Conference on Human-Computer Interaction), New Orleans, USA, August 5-10, 2001, Volume 3",
+            "Conference": "HCI (3)",
+            "Publisher": "Lawrence Erlbaum"
+        },
+        {
+            "_id": "1186809",
+            "Type": "proceedings",
+            "Year": "1997",
+            "Title": "6th Heterogeneous Computing Workshop (HCW _97), 1 April 1997, Geneva, Switzerland",
+            "Conference": "Heterogeneous Computing Workshop",
+            "Publisher": "IEEE Computer Society"
+        },
+        {
+            "_id": "1186810",
+            "Type": "proceedings",
+            "Volume": "108",
+            "Year": "1981",
+            "Title": "Graph Theory and Algorithms, 17th Symposium of Research Institute of Electric Communication, Tohoku University, Sendai, Japan, October 24-25, 1980, Proceedings",
+            "Conference": "Graph Theory and Algorithms",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186811",
+            "Type": "proceedings",
+            "Volume": "249",
+            "Year": "1990",
+            "Title": "Hypertext und Hypermedia: Von theoretischen Konzepten zur praktischen Anwendung",
+            "Conference": "Hypertext und Hypermedia",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186812",
+            "Type": "proceedings",
+            "Volume": "276",
+            "Year": "1991",
+            "Title": "Hypertext/Hypermedia, Tagung der GI, SI und OCG, Graz, 27./28 Mai 1991, Proceedings",
+            "Conference": "Hypertext/Hypermedia",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186813",
+            "Type": "proceedings",
+            "Year": "1992",
+            "Title": "Hypertext und Hypermedia 1992, Konzepte und Anwendungen auf dem Weg in die Praxis, Fachtagung und Tutorien, Munchen, 14.-16. September 1992",
+            "Conference": "Hypertext und Hypermedia",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186814",
+            "Type": "proceedings",
+            "Year": "2002",
+            "Title": "Hybrid Information Systems, First International Workshop on Hybrid Intelligent Systems, Adelaide, Australia, December 11-12, 2001, Proceedings",
+            "Conference": "HIS",
+            "Publisher": "Physica-Verlag"
+        },
+        {
+            "_id": "1186815",
+            "Type": "proceedings",
+            "Volume": "87",
+            "Year": "2002",
+            "Title": "Soft Computing Systems - Design, Management and Applications, HIS 2002, December 1-4, 2002, Santiago, Chile",
+            "Conference": "HIS",
+            "Publisher": "IOS Press"
+        },
+        {
+            "_id": "1186816",
+            "Type": "proceedings",
+            "Volume": "105",
+            "Year": "2003",
+            "Title": "Design and Application of Hybrid Intelligent Systems, HIS03, the Third International Conference on Hybrid Intelligent Systems, Melbourne, Australia, December 14-17, 2003",
+            "Conference": "HIS",
+            "Publisher": "IOS Press"
+        },
+        {
+            "_id": "1186817",
+            "Type": "proceedings",
+            "Year": "2005",
+            "Title": "4th International Conference on Hybrid Intelligent Systems (HIS 2004), 5-8 December 2004, Kitakyushu, Japan",
+            "Conference": "HIS",
+            "Publisher": "IEEE Computer Society"
+        },
+        {
+            "_id": "1186818",
+            "Type": "proceedings",
+            "Year": "2002",
+            "Title": "Tagungsband zum 14. GI-Workshop Grundlagen von Datenbanken, Strandhotel Fischland, Halbinsel Fischland-Dars-Zingst, Mecklenburg-Vorpommern, 21. bis 24. Mai 2002",
+            "Conference": "Grundlagen von Datenbanken",
+            "Publisher": "Fachbereich Informatik, Universitat Rostock"
+        },
+        {
+            "_id": "1186819",
+            "Type": "proceedings",
+            "Year": "2003",
+            "Title": "Tagungsband zum 15. GI-Workshop Grundlagen von Datenbanken, Tangermunde, Sachsen-Anhalt, 10.-13. Juni 2003",
+            "Conference": "Grundlagen von Datenbanken",
+            "Publisher": "Fakultat fur Informatik, Universitat Magdeburg"
+        },
+        {
+            "_id": "1186820",
+            "Type": "proceedings",
+            "Year": "2004",
+            "Title": "Tagungsband zum 16. GI-Workshop Grundlagen von Datenbanken, Mohnheim, NRW, 1.-4. Juni 2004",
+            "Conference": "Grundlagen von Datenbanken",
+            "Publisher": "Universitat Dusseldorf"
+        },
+        {
+            "_id": "1186821",
+            "Type": "proceedings",
+            "Year": "2005",
+            "Title": "Tagungsband zum 17. GI-Workshop uber Grundlagen von Datenbanken (17th GI-Workshop on the Foundations of Databases), Worlitz, Sachsen-Anhalt, 17.-20. Mai 2005",
+            "Conference": "Grundlagen von Datenbanken",
+            "Publisher": "Institute of Computer Science, Martin-Luther-University"
+        },
+        {
+            "_id": "1193304",
+            "Type": "book",
+            "Volume": "105",
+            "Year": "2004",
+            "Title": "Information Modelling and Knowledge Bases XV, 13th European-Japanese Conference on Information Modelling and Knowledge Bases (EJC 2003), Kitakyushu, Japan,  June 3-6, 2003",
+            "Publisher": "IOS Press",
+            "Isbn": "1-58603-396-4",
+            "Series": "Frontiers in Artificial Intelligence and Applications"
+        },
+        {
+            "_id": "1193305",
+            "Type": "book",
+            "Year": "1988",
+            "Title": "Computing with Logic: Logic Programming with Prolog",
+            "Publisher": "Benjamin/Cummings",
+            "Isbn": "0-8053-6681-4"
+        },
+        {
+            "_id": "1193306",
+            "Type": "book",
+            "Year": "1994",
+            "Title": "Fundamentals of Database Systems, 2nd Edition.",
+            "Publisher": "Benjamin/Cummings",
+            "Isbn": "0-8053-1748-1"
+        },
+        {
+            "_id": "1193307",
+            "Type": "book",
+            "Year": "1989",
+            "Title": "Fundamentals of Database Systems",
+            "Publisher": "Benjamin/Cummings"
+        },
+        {
+            "_id": "1193308",
+            "Type": "book",
+            "Year": "1991",
+            "Title": "Crafting a Compiler with C",
+            "Publisher": "Benjamin/Cummings",
+            "Isbn": "0-8053-2166-7"
+        },
+        {
+            "_id": "1193309",
+            "Type": "book",
+            "Year": "1992",
+            "Title": "Conceptual Database Design: An Entity-Relationship Approach.",
+            "Publisher": "Benjamin/Cummings",
+            "Isbn": "0-8053-0244-1"
+        },
+        {
+            "_id": "1193310",
+            "Type": "book",
+            "Year": "1993",
+            "Title": "Relational Database Theory",
+            "Publisher": "Benjamin/Cummings",
+            "Isbn": "0-8053-0249-2"
+        },
+        {
+            "_id": "1193311",
+            "Type": "book",
+            "Year": "1993",
+            "Title": "Temporal Databases: Theory, Design, and Implementation",
+            "Publisher": "Benjamin/Cummings",
+            "Isbn": "0-8053-2413-5"
+        },
+        {
+            "_id": "1193312",
+            "Type": "book",
+            "Year": "1994",
+            "Title": "Introduction to Parallel Computing.",
+            "Publisher": "Benjamin/Cummings",
+            "Isbn": "0-8053-3170-0"
+        },
+        {
+            "_id": "1193313",
+            "Type": "book",
+            "Year": "1990",
+            "Title": "Object-Oriented Design with Applications",
+            "Publisher": "Benjamin/Cummings"
+        },
+        {
+            "_id": "1193314",
+            "Type": "book",
+            "Year": "1986",
+            "Title": "Database System Concepts, 1st Edition.",
+            "Publisher": "McGraw-Hill Book Company",
+            "Isbn": "0-07-100529-3"
+        },
+        {
+            "_id": "1193315",
+            "Type": "book",
+            "Year": "1989",
+            "Title": "Introduction to Algorithms",
+            "Publisher": "The MIT Press and McGraw-Hill Book Company",
+            "Isbn": "0-262-03141-8"
+        },
+        {
+            "_id": "1193316",
+            "Type": "book",
+            "Year": "2001",
+            "Title": "Introduction to Algorithms, Second Edition",
+            "Publisher": "The MIT Press and McGraw-Hill Book Company",
+            "Isbn": "0-262-03293-7"
+        },
+        {
+            "_id": "1193317",
+            "Type": "book",
+            "Year": "2001",
+            "Title": "Database Design, Revised 2nd Edition."
+        },
+        {
+            "_id": "1193318",
+            "Type": "book",
+            "Year": "1998",
+            "Title": "Multimedia Data Management: Using Metadata to Integrate and Apply Digital Media",
+            "Publisher": "McGraw-Hill",
+            "Isbn": "0-07-057735-8"
+        },
+        {
+            "_id": "1193319",
+            "Type": "book",
+            "Year": "1997",
+            "Title": "Database System Concepts, 3rd Edition.",
+            "Publisher": "McGraw-Hill Book Company",
+            "Isbn": "0-07-044756-X"
+        },
+        {
+            "_id": "1193320",
+            "Type": "book",
+            "Year": "1987",
+            "Title": "File Organisation for Database Design.",
+            "Publisher": "McGraw-Hill Book Company",
+            "Isbn": "0-07-100340-1"
+        },
+        {
+            "_id": "1193321",
+            "Type": "book",
+            "Year": "1998",
+            "Title": "Database Management Systems.",
+            "Publisher": "WCB/McGraw-Hill",
+            "Isbn": "0-07-050775-9"
+        },
+        {
+            "_id": "1193322",
+            "Type": "book",
+            "Year": "1984",
+            "Title": "Introduction to Modern Information Retrieval.",
+            "Publisher": "McGraw-Hill Book Company",
+            "Isbn": "0-07-054484-0"
+        },
+        {
+            "_id": "1193323",
+            "Type": "book",
+            "Year": "1984",
+            "Title": "Distributed Databases: Principles and Systems",
+            "Publisher": "McGraw-Hill Book Company",
+            "Isbn": "0-07-010829-3"
+        },
+        {
+            "_id": "1193324",
+            "Type": "book",
+            "Year": "1977",
+            "Title": "Database Design.",
+            "Publisher": "McGraw-Hill Book Company"
+        },
+        {
+            "_id": "1193325",
+            "Type": "book",
+            "Year": "1983",
+            "Title": "Database Design, Second Edition.",
+            "Publisher": "McGraw-Hill Book Company"
+        },
+        {
+            "_id": "1193326",
+            "Type": "book",
+            "Year": "1993",
+            "Title": "SQL - The Standard Handbook",
+            "Publisher": "McGraw-Hill Book Company"
+        },
+        {
+            "_id": "1193327",
+            "Type": "book",
+            "Year": "1999",
+            "Title": "Database Systems - Concepts, Languages and Architectures",
+            "Publisher": "McGraw-Hill Book Company",
+            "Isbn": "0-07-709500-6"
+        },
+        {
+            "_id": "1193328",
+            "Type": "book",
+            "Year": "2001",
+            "Title": "Database System Concepts, 4th Edition.",
+            "Publisher": "McGraw-Hill Book Company",
+            "Isbn": "0-07-228363-7"
+        },
+        {
+            "_id": "1193329",
+            "Type": "book",
+            "Year": "1991",
+            "Title": "Database System Concepts, 2nd Edition.",
+            "Publisher": "McGraw-Hill Book Company"
+        },
+        {
+            "_id": "1193330",
+            "Type": "book",
+            "Year": "1998",
+            "Title": "Natural Language Processing with Thought Treasure",
+            "Publisher": "Signiform",
+            "Isbn": "0-9660746-0-2"
+        },
+        {
+            "_id": "1193331",
+            "Type": "book",
+            "Year": "1992",
+            "Title": "Design of Relational Databases",
+            "Publisher": "Addison-Wesley",
+            "Isbn": "0-201-56523-4"
+        },
+        {
+            "_id": "1193332",
+            "Type": "book",
+            "Year": "1992",
+            "Title": "Advanced Programming in the UNIX Environment",
+            "Publisher": "Addison-Wesley",
+            "Isbn": "0-201-56317-7"
+        },
+        {
+            "_id": "1193333",
+            "Type": "book",
+            "Year": "1994",
+            "Title": "TCP/IP Illustrated, Volume 1: The Protocols",
+            "Publisher": "Addison-Wesley",
+            "Isbn": "0-201-63346-9"
+        },
+        {
+            "_id": "1193334",
+            "Type": "book",
+            "Year": "1996",
+            "Title": "TCP/IP Illustrated, Volume 3: TCP for Transactions, HTTP, NNTP, and the UNIX Domain Protocolls",
+            "Publisher": "Addison-Wesley",
+            "Isbn": "0-201-63495-3"
+        },
+        {
+            "_id": "1193335",
+            "Type": "book",
+            "Year": "1999",
+            "Title": "The Java Developers Almanac 1999",
+            "Publisher": "Addison-Wesley",
+            "Isbn": "0-201-43298-6"
+        },
+        {
+            "_id": "1193336",
+            "Type": "book",
+            "Year": "1975",
+            "Title": "An Introduction to Database Systems",
+            "Publisher": "Addison-Wesley",
+            "Isbn": "0-201-14452-2"
+        },
+        {
+            "_id": "1193337",
+            "Type": "book",
+            "Year": "1977",
+            "Title": "An Introduction to Database Systems, 2nd Edition",
+            "Publisher": "Addison-Wesley"
+        },
+        {
+            "_id": "1193338",
+            "Type": "book",
+            "Year": "1981",
+            "Title": "An Introduction to Database Systems, 3rd Edition",
+            "Publisher": "Addison-Wesley"
+        },
+        {
+            "_id": "1193339",
+            "Type": "book",
+            "Year": "1983",
+            "Title": "An Introduction to Database Systems, Volume II.",
+            "Publisher": "Addison-Wesley",
+            "Isbn": "0-201-14474-3"
+        },
+        {
+            "_id": "1193340",
+            "Type": "book",
+            "Year": "1984",
+            "Title": "A Guide to DB2, 1st Edition",
+            "Publisher": "Addison-Wesley"
+        },
+        {
+            "_id": "1193341",
+            "Type": "book",
+            "Year": "1986",
+            "Title": "An Introduction to Database Systems, Volume I, 4th Edition.",
+            "Publisher": "Addison-Wesley"
+        },
+        {
+            "_id": "1193342",
+            "Type": "book",
+            "Year": "1990",
+            "Title": "An Introduction to Database Systems, Volume I, 5th Edition.",
+            "Publisher": "Addison-Wesley",
+            "Isbn": "0-201-52878-9"
+        },
+        {
+            "_id": "1193343",
+            "Type": "book",
+            "Year": "1995",
+            "Title": "An Introduction to Database Systems, 6th Edition.",
+            "Publisher": "Addison-Wesley",
+            "Isbn": "0-201-82458-2"
+        },
+        {
+            "_id": "1193344",
+            "Type": "book",
+            "Year": "1990",
+            "Title": "The Relational Model for Database Management, Version 2",
+            "Publisher": "Addison-Wesley",
+            "Isbn": "0-201-14192-2"
+        },
+        {
+            "_id": "1193345",
+            "Type": "book",
+            "Year": "1983",
+            "Title": "Algorithms",
+            "Publisher": "Addison-Wesley",
+            "Isbn": "0-201-06672-6"
+        },
+        {
+            "_id": "1193346",
+            "Type": "book",
+            "Year": "1988",
+            "Title": "Algorithms, 2nd Edition",
+            "Publisher": "Addison-Wesley",
+            "Isbn": "0-201-06673-4"
+        },
+        {
+            "_id": "1193347",
+            "Type": "book",
+            "Year": "1992",
+            "Title": "Deductive Databases and Logic Programming",
+            "Publisher": "Addison-Wesley",
+            "Isbn": "0-201-56897-7"
+        },
+        {
+            "_id": "1193348",
+            "Type": "book",
+            "Year": "1992",
+            "Title": "An Introduction to Parallel Algorithms",
+            "Publisher": "Addison-Wesley",
+            "Isbn": "0-201-54856-9"
+        },
+        {
+            "_id": "1193349",
+            "Type": "book",
+            "Year": "1989",
+            "Title": "Object-Oriented Concepts, Databases, and Applications.",
+            "Publisher": "ACM Press and Addison-Wesley",
+            "Isbn": "0-201-14410-7"
+        },
+        {
+            "_id": "1193350",
+            "Type": "book",
+            "Year": "1994",
+            "Title": "Mehrrechner-Datenbanksysteme - Grundlagen der verteilten und parallelen Datenbankverarbeitung.",
+            "Publisher": "Addison-Wesley",
+            "Isbn": "3-89319-702-8"
+        },
+        {
+            "_id": "1193351",
+            "Type": "book",
+            "Year": "1992",
+            "Title": "Advanced C++: Programming Syles and Idioms",
+            "Publisher": "Addison-Wesley",
+            "Isbn": "0-201-54855-0"
+        },
+        {
+            "_id": "1193352",
+            "Type": "book",
+            "Year": "1989",
+            "Title": "Advanced Prolog: Techniques and Examples",
+            "Publisher": "Addison-Wesley",
+            "Isbn": "0-201-17527-4"
+        },
+        {
+            "_id": "1193353",
+            "Type": "book",
+            "Year": "1997",
+            "Title": "The Java Virtual Machine Specification",
+            "Publisher": "Addison-Wesley",
+            "Isbn": "0-201-63452-X"
+        },
+        {
+            "_id": "1193354",
+            "Type": "book",
+            "Year": "1984",
+            "Title": "Conceptual Structures: Information Processing in Mind and Machine",
+            "Publisher": "Addison-Wesley",
+            "Isbn": "0-201-14472-7"
+        },
+        {
+            "_id": "1193355",
+            "Type": "book",
+            "Year": "1997",
+            "Title": "Designing Database Applications with Objects and Rules: The IDEA Methodology",
+            "Publisher": "Addison-Wesley",
+            "Isbn": "0-201-40369-2"
+        },
+        {
+            "_id": "1193356",
+            "Type": "book",
+            "Year": "1997",
+            "Title": "The Java Class Libraries - An Annotated Reference",
+            "Publisher": "Addison-Wesley",
+            "Isbn": "0-201-63458-9"
+        },
+        {
+            "_id": "1193357",
+            "Type": "book",
+            "Year": "1998",
+            "Title": "The Java Class Libraries, Second Edition, Volume 2",
+            "Publisher": "Addison-Wesley",
+            "Isbn": "0-201-31003-1"
+        },
+        {
+            "_id": "1193358",
+            "Type": "book",
+            "Year": "2001",
+            "Title": "Web Caching and Replication",
+            "Publisher": "Addison-Wesley",
+            "Isbn": "0-201-61570-3"
+        },
+        {
+            "_id": "1193359",
+            "Type": "book",
+            "Year": "1987",
+            "Title": "Concurrency Control and Recovery in Database Systems.",
+            "Publisher": "Addison-Wesley",
+            "Isbn": "0-201-10715-5"
+        },
+        {
+            "_id": "1193360",
+            "Type": "book",
+            "Year": "1949",
+            "Title": "Human Behaviour and the Principle of Least Effort: an Introduction to Human Ecology",
+            "Publisher": "Addison-Wesley"
+        },
+        {
+            "_id": "1193361",
+            "Type": "book",
+            "Year": "1992",
+            "Title": "Relational Database Writings 1989-1991",
+            "Publisher": "Addison-Wesley",
+            "Isbn": "0-201-54303-6"
+        },
+        {
+            "_id": "1193362",
+            "Type": "book",
+            "Year": "1993",
+            "Title": "A Guide to SQL Standard, 3rd Edition",
+            "Publisher": "Addison-Wesley",
+            "Isbn": "0-201-55822-X"
+        },
+        {
+            "_id": "1193363",
+            "Type": "book",
+            "Year": "1997",
+            "Title": "A Guide to SQL Standard, 4th Edition",
+            "Publisher": "Addison-Wesley",
+            "Isbn": "0-201-96426-0"
+        },
+        {
+            "_id": "1193364",
+            "Type": "book",
+            "Year": "1988",
+            "Title": "A Guide to DB2, 2nd Edition",
+            "Publisher": "Addison-Wesley",
+            "Isbn": "0-201-09428-2"
+        },
+        {
+            "_id": "1193365",
+            "Type": "book",
+            "Year": "1990",
+            "Title": "A Guide to DB2, 3rd Edition",
+            "Publisher": "Addison-Wesley"
+        },
+        {
+            "_id": "1193366",
+            "Type": "book",
+            "Year": "2001",
+            "Title": "Databases and Transaction Processing: An Application-Oriented Approach",
+            "Publisher": "Addison-Wesley",
+            "Isbn": "0-201-70872-8"
+        },
+        {
+            "_id": "1193367",
+            "Type": "book",
+            "Year": "2001",
+            "Title": "Intelligent Database Systems",
+            "Publisher": "Addison-Wesley",
+            "Isbn": "0-201-87736-8"
+        },
+        {
+            "_id": "1193368",
+            "Type": "book",
+            "Year": "1986",
+            "Title": "The INGRES Papers: Anatomy of a Relational Database System",
+            "Publisher": "Addison-Wesley",
+            "Isbn": "0-201-07185-1"
+        },
+        {
+            "_id": "1193369",
+            "Type": "book",
+            "Year": "1993",
+            "Title": "Functional Programming and Parallel Graph Rewriting",
+            "Publisher": "Addison-Wesley",
+            "Isbn": "0-201-41663-8"
+        },
+        {
+            "_id": "1193370",
+            "Type": "book",
+            "Year": "1989",
+            "Title": "Natural Language Processing in PROLOG",
+            "Publisher": "Addison-Wesley",
+            "Isbn": "0-201-18053-7"
+        },
+        {
+            "_id": "1193371",
+            "Type": "book",
+            "Year": "1995",
+            "Title": "TCP/IP Illustrated, Volume 2: The Implementation",
+            "Publisher": "Addison-Wesley",
+            "Isbn": "0-201-63354-X"
+        },
+        {
+            "_id": "1193372",
+            "Type": "book",
+            "Year": "1995",
+            "Title": "Foundations of Databases.",
+            "Publisher": "Addison-Wesley",
+            "Isbn": "0-201-53771-0"
+        },
+        {
+            "_id": "1193373",
+            "Type": "book",
+            "Year": "1990",
+            "Title": "The Design and Analysis of Spatial Data Structures",
+            "Publisher": "Addison-Wesley"
+        },
+        {
+            "_id": "1193374",
+            "Type": "book",
+            "Year": "1968",
+            "Title": "The Art of Computer Programming, Volume I: Fundamental Algorithms",
+            "Publisher": "Addison-Wesley"
+        },
+        {
+            "_id": "1193375",
+            "Type": "book",
+            "Year": "1969",
+            "Title": "The Art of Computer Programming, Volume II: Seminumerical Algorithms",
+            "Publisher": "Addison-Wesley"
+        },
+        {
+            "_id": "1193376",
+            "Type": "book",
+            "Year": "1973",
+            "Title": "The Art of Computer Programming, Volume III: Sorting and Searching",
+            "Publisher": "Addison-Wesley",
+            "Isbn": "0-201-03803-X"
+        },
+        {
+            "_id": "1193377",
+            "Type": "book",
+            "Year": "1981",
+            "Title": "The Art of Computer Programming, Volume II: Seminumerical Algorithms, 2nd Edition",
+            "Publisher": "Addison-Wesley",
+            "Isbn": "0-201-03822-6"
+        },
+        {
+            "_id": "1193378",
+            "Type": "book",
+            "Year": "1986",
+            "Title": "The TeXbook",
+            "Publisher": "Addison-Wesley",
+            "Isbn": "0-201-13447-0"
+        },
+        {
+            "_id": "1193379",
+            "Type": "book",
+            "Year": "1991",
+            "Title": "Object Data Management: Object-Oriented and Extended Relational Database Systems",
+            "Publisher": "Addison-Wesley",
+            "Isbn": "0-201-53092-9"
+        },
+        {
+            "_id": "1193380",
+            "Type": "book",
+            "Year": "1994",
+            "Title": "Object Data Management: Object-Oriented and Extended Relational Database Systems (Revised Edition)",
+            "Publisher": "Addison-Wesley",
+            "Isbn": "0-201-54748-1"
+        },
+        {
+            "_id": "1193381",
+            "Type": "book",
+            "Year": "1982",
+            "Title": "Cryptography and Data Security",
+            "Publisher": "Addison-Wesley"
+        },
+        {
+            "_id": "1193382",
+            "Type": "book",
+            "Year": "1986",
+            "Title": "LaTeX: User_s Guide a Reference Manual",
+            "Publisher": "Addison-Wesley",
+            "Isbn": "0-201-15790-X"
+        },
+        {
+            "_id": "1193383",
+            "Type": "book",
+            "Year": "2000",
+            "Title": "Java Platform Performance - Strategies and Tactics",
+            "Publisher": "Addison-Wesley",
+            "Isbn": "0-201-70969-4"
+        },
+        {
+            "_id": "1193384",
+            "Type": "book",
+            "Year": "1999",
+            "Title": "Modern Information Retrieval",
+            "Publisher": "ACM Press / Addison-Wesley",
+            "Isbn": "0-201-39829-X"
+        },
+        {
+            "_id": "1193385",
+            "Type": "book",
+            "Year": "1990",
+            "Title": "Das DB2-Handbuch.",
+            "Publisher": "Addison-Wesley",
+            "Isbn": "3-89319-175-5"
+        },
+        {
+            "_id": "1193386",
+            "Type": "book",
+            "Year": "1994",
+            "Title": "Operating System Concepts, 4th edition.",
+            "Publisher": "Addison-Wesley",
+            "Isbn": "0-201-50480-4"
+        },
+        {
+            "_id": "1193387",
+            "Type": "book",
+            "Year": "1990",
+            "Title": "Datenmodelle, Datenbanksprachen und Datenbank-Management-Systeme",
+            "Publisher": "Addison-Wesley"
+        },
+        {
+            "_id": "1193388",
+            "Type": "book",
+            "Year": "1994",
+            "Title": "Datenmodelle, Datenbanksprachen und Datenbank-Management-Systeme. 2. Auflage",
+            "Publisher": "Addison-Wesley",
+            "Isbn": "3-89319-566-1"
+        },
+        {
+            "_id": "1193389",
+            "Type": "book",
+            "Year": "1989",
+            "Title": "Genetic Algorithms in Search Optimization and Machine Learning",
+            "Publisher": "Addison-Wesley",
+            "Isbn": "0-201-15767-5"
+        },
+        {
+            "_id": "1193390",
+            "Type": "book",
+            "Year": "1996",
+            "Title": "The Java Programming Language",
+            "Publisher": "Addison-Wesley",
+            "Isbn": "0-201-63455-4"
+        },
+        {
+            "_id": "1193391",
+            "Type": "book",
+            "Year": "1999",
+            "Title": "The Java Programming Language, Second Edition",
+            "Publisher": "Addison-Wesley",
+            "Isbn": "0-201-31006-6"
+        },
+        {
+            "_id": "1193392",
+            "Type": "book",
+            "Year": "1999",
+            "Title": "The Practice of Programming",
+            "Publisher": "Addison-Wesley",
+            "Isbn": "0-201-61586-X"
+        },
+        {
+            "_id": "1193393",
+            "Type": "book",
+            "Year": "1995",
+            "Title": "How to Set Up and Maintain a World Wide Web Site: The Guide for Information Providers.",
+            "Publisher": "Addison-Wesley",
+            "Isbn": "0-201-63389-2"
+        },
+        {
+            "_id": "1193394",
+            "Type": "book",
+            "Year": "1989",
+            "Title": "Automatic Text Processing: The Transformation, Analysis, and Retrieval of Information by Computer.",
+            "Publisher": "Addison-Wesley",
+            "Isbn": "0-201-12227-8"
+        },
+        {
+            "_id": "1193395",
+            "Type": "book",
+            "Year": "1986",
+            "Title": "The C++ Programming Language, First Edition",
+            "Publisher": "Addison-Wesley",
+            "Isbn": "0-201-12078-X"
+        },
+        {
+            "_id": "1193396",
+            "Type": "book",
+            "Year": "1991",
+            "Title": "The C++ Programming Language, Second Edition",
+            "Publisher": "Addison-Wesley",
+            "Isbn": "0-201-53992-6"
+        },
+        {
+            "_id": "1193397",
+            "Type": "book",
+            "Year": "1994",
+            "Title": "Time Series Prediction: Forecasting the Future and Understanding the Past.",
+            "Publisher": "Addison-Wesley",
+            "Isbn": "0-201-62601-2"
+        },
+        {
+            "_id": "1193398",
+            "Type": "book",
+            "Year": "1994",
+            "Title": "Tcl and the Tk Toolkit",
+            "Publisher": "Addison-Wesley",
+            "Isbn": "0-201-63337-X"
+        },
+        {
+            "_id": "1193399",
+            "Type": "book",
+            "Year": "1990",
+            "Title": "PROLOG Programming for Artificial Intelligence, Second Edition",
+            "Publisher": "Addison-Wesley",
+            "Isbn": "0-201-41606-9"
+        },
+        {
+            "_id": "1193400",
+            "Type": "book",
+            "Year": "1979",
+            "Title": "Introduction to Automata Theory, Languages and Computation.",
+            "Publisher": "Addison-Wesley",
+            "Isbn": "0-201-02988-X"
+        },
+        {
+            "_id": "1193401",
+            "Type": "book",
+            "Year": "1973",
+            "Title": "Introduction to Linear and Nonlinear Programming.",
+            "Publisher": "Addison-Wesley"
+        },
+        {
+            "_id": "1193402",
+            "Type": "book",
+            "Year": "1996",
+            "Title": "The Java Language Specification.",
+            "Publisher": "Addison-Wesley",
+            "Isbn": "0-201-63451-1"
+        },
+        {
+            "_id": "1193403",
+            "Type": "book",
+            "Year": "1990",
+            "Title": "The Annotated C++ Reference Manual.",
+            "Publisher": "Addison-Wesley",
+            "Isbn": "0-201-51459-1"
+        },
+        {
+            "_id": "1193404",
+            "Type": "book",
+            "Year": "1973",
+            "Title": "The Art of Computer Programming, Volume I: Fundamental Algorithms, 2nd Edition.",
+            "Publisher": "Addison-Wesley"
+        },
+        {
+            "_id": "1193405",
+            "Type": "book",
+            "Year": "1986",
+            "Title": "TeX: The Program",
+            "Publisher": "Addison-Wesley",
+            "Isbn": "0-201-13437-3"
+        },
+        {
+            "_id": "1193406",
+            "Type": "book",
+            "Year": "1993",
+            "Title": "Object-Oriented Database Systems",
+            "Publisher": "Addison-Wesley",
+            "Isbn": "0-201-62439-7"
+        },
+        {
+            "_id": "1193407",
+            "Type": "book",
+            "Year": "1983",
+            "Title": "Smalltalk-80: The Language and Its Implementation.",
+            "Publisher": "Addison-Wesley"
+        },
+        {
+            "_id": "1193408",
+            "Type": "book",
+            "Year": "1995",
+            "Title": "Database Security.",
+            "Publisher": "Addison-Wesley a ACM Press",
+            "Isbn": "0-201-59375-0"
+        },
+        {
+            "_id": "1193409",
+            "Type": "book",
+            "Year": "1986",
+            "Title": "Introduction to Expert Systems, 1st Edition.",
+            "Publisher": "Addison-Wesley"
+        },
+        {
+            "_id": "1193410",
+            "Type": "book",
+            "Year": "1990",
+            "Title": "Introduction to Expert Systems, 2nd Edition.",
+            "Publisher": "Addison-Wesley"
+        },
+        {
+            "_id": "1193411",
+            "Type": "book",
+            "Year": "1999",
+            "Title": "Introduction to Expert Systems, 3rd Edition.",
+            "Publisher": "Addison-Wesley"
+        },
+        {
+            "_id": "1193412",
+            "Type": "book",
+            "Year": "2000",
+            "Title": "The Java Programming Language, Third Edition",
+            "Publisher": "Addison-Wesley",
+            "Isbn": "0-201-70433-1"
+        },
+        {
+            "_id": "1193413",
+            "Type": "book",
+            "Year": "1989",
+            "Title": "Relational Databases and Knowledge Bases",
+            "Publisher": "Addison-Wesley",
+            "Isbn": "0-201-09955-1"
+        },
+        {
+            "_id": "1193414",
+            "Type": "book",
+            "Year": "1988",
+            "Title": "Functional Programming",
+            "Publisher": "Addison-Wesley",
+            "Isbn": "0-201-19249-7"
+        },
+        {
+            "_id": "1193415",
+            "Type": "book",
+            "Year": "1992",
+            "Title": "Objektorientierte Datenbanken: Konzepte, Modelle, Systeme.",
+            "Publisher": "Addison-Wesley",
+            "Isbn": "3-89319-315-4"
+        },
+        {
+            "_id": "1193416",
+            "Type": "book",
+            "Year": "1997",
+            "Title": "Objektorientierte Datenbanken: Konzepte, Modelle, Systeme, 2. Auflage.",
+            "Publisher": "Addison-Wesley"
+        },
+        {
+            "_id": "1193417",
+            "Type": "book",
+            "Year": "1998",
+            "Title": "The Java Class Libraries, Second Edition, Volume 1",
+            "Publisher": "Addison-Wesley",
+            "Isbn": "0-201-31002-3"
+        },
+        {
+            "_id": "1193418",
+            "Type": "book",
+            "Year": "1999",
+            "Title": "The Java Class Libraries, Second Edition, Volume 1, Supplement for the Java 2 Platform Standard Edition, v1.2",
+            "Publisher": "Addison-Wesley",
+            "Isbn": "0-201-48552-4"
+        },
+        {
+            "_id": "1193419",
+            "Type": "book",
+            "Year": "1974",
+            "Title": "The Design and Analysis of Computer Algorithms.",
+            "Publisher": "Addison-Wesley",
+            "Isbn": "0-201-00029-6"
+        },
+        {
+            "_id": "1193420",
+            "Type": "book",
+            "Year": "1983",
+            "Title": "Data Structures and Algorithms.",
+            "Publisher": "Addison-Wesley",
+            "Isbn": "0-201-00023-7"
+        },
+        {
+            "_id": "1193421",
+            "Type": "book",
+            "Year": "1988",
+            "Title": "The AWK Programming Language",
+            "Publisher": "Addison-Wesley"
+        },
+        {
+            "_id": "1193422",
+            "Type": "book",
+            "Year": "1986",
+            "Title": "Compilers: Princiles, Techniques, and Tools.",
+            "Publisher": "Addison-Wesley",
+            "Isbn": "0-201-10088-6"
+        },
+        {
+            "_id": "1193423",
+            "Type": "book",
+            "Year": "1996",
+            "Title": "Inside the C++ Object Model",
+            "Publisher": "Addison-Wesley",
+            "Isbn": "0-201-83454-5"
+        },
+        {
+            "_id": "1193424",
+            "Type": "book",
+            "Year": "1995",
+            "Title": "A Retargetable C Compiler: Design and Implementation",
+            "Publisher": "Addison Wesley",
+            "Isbn": "0-8053-1670-1"
+        },
+        {
+            "_id": "1193425",
+            "Type": "book",
+            "Year": "1996",
+            "Title": "High performance compilers for parallel computing",
+            "Publisher": "Addison-Wesley",
+            "Isbn": "0-8053-2730-4"
+        },
+        {
+            "_id": "1193426",
+            "Type": "book",
+            "Year": "2003",
+            "Title": "Code Reading: The Open Source Perspective",
+            "Publisher": "Addison-Wesley",
+            "Isbn": "0-201-79940-5"
+        },
+        {
+            "_id": "1193427",
+            "Type": "book",
+            "Year": "2002",
+            "Title": "Specifying Systems, The TLA+ Language and Tools for Hardware and Software Engineers",
+            "Publisher": "Addison-Wesley",
+            "Isbn": "0-3211-4306-X"
+        },
+        {
+            "_id": "1193428",
+            "Type": "book",
+            "Year": "2005",
+            "Title": "Introduction to Data Mining",
+            "Publisher": "Addison-Wesley",
+            "Isbn": "0-321-32136-7"
+        },
+        {
+            "_id": "1193429",
+            "Type": "book",
+            "Year": "2003",
+            "Title": "Effective Databases for Text a Document Management.",
+            "Publisher": "IRM Press",
+            "Isbn": "1-931777-47-0"
+        },
+        {
+            "_id": "1193430",
+            "Type": "book",
+            "Year": "2005",
+            "Title": "Encyclopedia of Information Science and Technology (5 Volumes)",
+            "Publisher": "Idea Group",
+            "Isbn": "1-59140-553-X"
+        },
+        {
+            "_id": "1193431",
+            "Type": "book",
+            "Year": "2005",
+            "Title": "Information Modeling Methods and Methodologies",
+            "Publisher": "Idea Group",
+            "Isbn": "1-59140-376-6"
+        },
+        {
+            "_id": "1193432",
+            "Type": "book",
+            "Year": "2001",
+            "Title": "Information Modeling in the New Millennium",
+            "Publisher": "Idea Group",
+            "Isbn": "1-878289-77-2"
+        },
+        {
+            "_id": "1193433",
+            "Type": "book",
+            "Year": "2002",
+            "Title": "Advanced Topics in Database Research, Vol. 1",
+            "Publisher": "Idea Group",
+            "Isbn": "1-930708-41-6"
+        },
+        {
+            "_id": "1193434",
+            "Type": "book",
+            "Year": "2003",
+            "Title": "Advanced Topics in Database Research, Vol. 2",
+            "Publisher": "Idea Group",
+            "Isbn": "1-59140-063-5"
+        },
+        {
+            "_id": "1193435",
+            "Type": "book",
+            "Year": "2003",
+            "Title": "Web-Powered Databases",
+            "Publisher": "Idea Group",
+            "Isbn": "1-59140035-X"
+        },
+        {
+            "_id": "1193436",
+            "Type": "book",
+            "Year": "2005",
+            "Title": "Spatial Databases: Technologies, Techniques and Trends",
+            "Publisher": "Idea Group",
+            "Isbn": "1-59140-388-X"
+        },
+        {
+            "_id": "1193437",
+            "Type": "book",
+            "Year": "2004",
+            "Title": "Advanced Topics in Database Research, Vol. 3",
+            "Publisher": "Idea Group",
+            "Isbn": "1-59140-296-4"
+        },
+        {
+            "_id": "1193438",
+            "Type": "book",
+            "Year": "2005",
+            "Title": "Encyclopedia of Database Technologies and Applications",
+            "Publisher": "Idea Group",
+            "Isbn": "1-59140-560-2"
+        },
+        {
+            "_id": "1193439",
+            "Type": "book",
+            "Year": "2003",
+            "Title": "Multidimensional Databases: Problems and Solutions",
+            "Publisher": "Idea Group",
+            "Isbn": "1-59140-053-8"
+        },
+        {
+            "_id": "1193440",
+            "Type": "book",
+            "Year": "2002",
+            "Title": "Database Integrity: Challenges and Solutions",
+            "Publisher": "Idea Group",
+            "Isbn": "1-930708-38-6"
+        },
+        {
+            "_id": "1193441",
+            "Type": "book",
+            "Year": "2001",
+            "Title": "Unified Modeling Language: Systems Analysis, Design and Development Issues",
+            "Publisher": "Idea Group",
+            "Isbn": "1-930708-05-X"
+        },
+        {
+            "_id": "1193442",
+            "Type": "book",
+            "Year": "1992",
+            "Title": "Statistical and Scientific Databases",
+            "Publisher": "Ellis Horwood"
+        },
+        {
+            "_id": "1193443",
+            "Type": "book",
+            "Year": "1982",
+            "Title": "Pascal Implementation: The P4 Compiler and Interpreter",
+            "Publisher": "Ellis Horwood",
+            "Isbn": "0-13-653-0311"
+        },
+        {
+            "_id": "1193444",
+            "Type": "book",
+            "Year": "1994",
+            "Title": "Machine Learning, Neural and Statistical Classification",
+            "Publisher": "Ellis Horwood",
+            "Isbn": "0-13-106360-X"
+        },
+        {
+            "_id": "1193445",
+            "Type": "book",
+            "Year": "1987",
+            "Title": "Abstract Interpretation of Declarative Languages",
+            "Publisher": "Ellis Horwood",
+            "Isbn": "0-7458-0109-9"
+        },
+        {
+            "_id": "1193446",
+            "Type": "book",
+            "Year": "2002",
+            "Title": "Natural Language Processing for Online Applications: Text Retrieval, Extraction a Categorization",
+            "Publisher": "John Benjamins",
+            "Isbn": "90-272-4989-X"
+        },
+        {
+            "_id": "1193447",
+            "Type": "book",
+            "Volume": "95",
+            "Year": "2003",
+            "Title": "Knowledge Transformation for the Semantic Web",
+            "Publisher": "IOS Press",
+            "Isbn": "1-58603-325-5",
+            "Series": "Frontiers in Artificial Intelligence and Applications"
+        },
+        {
+            "_id": "1193448",
+            "Type": "book",
+            "Volume": "99",
+            "Year": "2003",
+            "Title": "Machine Reconstruction of Human Control Strategies",
+            "Publisher": "IOS Press",
+            "Isbn": "1-58603-376-X",
+            "Series": "Frontiers in Artificial Intelligence and Applications"
+        },
+        {
+            "_id": "1193449",
+            "Type": "book",
+            "Year": "1999",
+            "Title": "Flexible Working - New Network Technologies",
+            "Publisher": "IOS Press",
+            "Isbn": "1-58603028-0"
+        },
+        {
+            "_id": "1193450",
+            "Type": "book",
+            "Year": "1999",
+            "Title": "Data on the Web: From Relations to Semistructured Data and XML",
+            "Publisher": "Morgan Kaufmann",
+            "Isbn": "1-55860-622-X"
+        },
+        {
+            "_id": "1193451",
+            "Type": "book",
+            "Year": "1998",
+            "Title": "Web Farming for the Data Warehouse",
+            "Publisher": "Morgan Kaufmann",
+            "Isbn": "1-55860-503-7"
+        },
+        {
+            "_id": "1193452",
+            "Type": "book",
+            "Year": "2000",
+            "Title": "Data Mining: Concepts and Techniques",
+            "Publisher": "Morgan Kaufmann",
+            "Isbn": "1-55860-489-8"
+        },
+        {
+            "_id": "1193453",
+            "Type": "book",
+            "Year": "2003",
+            "Title": "Data Quality: The Accuracy Dimension",
+            "Publisher": "Morgan Kaufmann",
+            "Isbn": "1-55860-891-5"
+        },
+        {
+            "_id": "1193454",
+            "Type": "book",
+            "Year": "1991",
+            "Title": "The Benchmark Handbook for Database and Transaction Systems (1st Edition).",
+            "Publisher": "Morgan Kaufmann"
+        },
+        {
+            "_id": "1193455",
+            "Type": "book",
+            "Year": "1993",
+            "Title": "The Benchmark Handbook for Database and Transaction Systems (2nd Edition).",
+            "Publisher": "Morgan Kaufmann",
+            "Isbn": "1-55860-292-5"
+        },
+        {
+            "_id": "1193456",
+            "Type": "book",
+            "Year": "2000",
+            "Title": "Fuzzy Modeling Tools for Data Mining and Knowledge Discovery: Knowledge Discovery, Fuzzy Rule Induction, and Autonomous Agents for Databases and Spreadsheets",
+            "Publisher": "Morgan Kaufmann",
+            "Isbn": "0-12-194275-9"
+        },
+        {
+            "_id": "1193457",
+            "Type": "book",
+            "Year": "1992",
+            "Title": "A Guide to Developing Client/Server SQL Applications",
+            "Publisher": "Morgan Kaufmann",
+            "Isbn": "1-55860-147-3"
+        },
+        {
+            "_id": "1193458",
+            "Type": "book",
+            "Year": "1997",
+            "Title": "Priniples of Database Query Processing for Advanced Applications",
+            "Publisher": "Morgan Kaufmann",
+            "Isbn": "1-55860-434-0"
+        },
+        {
+            "_id": "1193459",
+            "Type": "book",
+            "Year": "1997",
+            "Title": "Practical Digital Libraries: Books, Bytes, and Bucks",
+            "Publisher": "Morgan Kaufmann",
+            "Isbn": "1-55860-459-6"
+        },
+        {
+            "_id": "1193460",
+            "Type": "book",
+            "Year": "1992",
+            "Title": "Building an Object-Oriented Database System, The Story of O2",
+            "Publisher": "Morgan Kaufmann",
+            "Isbn": "1-55860-169-4"
+        },
+        {
+            "_id": "1193461",
+            "Type": "book",
+            "Year": "1998",
+            "Title": "Universal Database Management: A Guide to Object/Relational Technology",
+            "Publisher": "Morgan Kaufmann",
+            "Isbn": "1-55860-519-3"
+        },
+        {
+            "_id": "1193462",
+            "Type": "book",
+            "Year": "1990",
+            "Title": "Computer Architecture: A Quantitative Approach.",
+            "Publisher": "Morgan Kaufmann",
+            "Isbn": "1-55860-188-0"
+        },
+        {
+            "_id": "1193463",
+            "Type": "book",
+            "Year": "1994",
+            "Title": "Computer Organization a Design: The Hardware/Software Interface",
+            "Publisher": "Morgan Kaufmann",
+            "Isbn": "1-55860-282-8"
+        },
+        {
+            "_id": "1193464",
+            "Type": "book",
+            "Year": "1997",
+            "Title": "Computer Organization a Design: The Hardware/Software Interface, Second Edition",
+            "Publisher": "Morgan Kaufmann",
+            "Isbn": "1-55860-428-6"
+        },
+        {
+            "_id": "1193465",
+            "Type": "book",
+            "Year": "1996",
+            "Title": "Active Database Systems: Triggers and Rules For Advanced Database Processing.",
+            "Publisher": "Morgan Kaufmann",
+            "Isbn": "1-55860-304-2"
+        },
+        {
+            "_id": "1193466",
+            "Type": "book",
+            "Year": "1999",
+            "Title": "Data Preparation for Data Mining",
+            "Publisher": "Morgan Kaufmann",
+            "Isbn": "1-55860-529-0"
+        },
+        {
+            "_id": "1193467",
+            "Type": "book",
+            "Year": "1994",
+            "Title": "Query Processing for Advanced Database Systems, Selected Contributions from a Workshop on _Query Processing in Object-Oriented, Complex-Object and Nested Relation Databases_, Interationales Begegnungs- und Forschungszentrum fur Informatik, Schloss Dagstuhl, Germany, June 1991",
+            "Publisher": "Morgan Kaufmann",
+            "Isbn": "1-55860-271-2"
+        },
+        {
+            "_id": "1193468",
+            "Type": "book",
+            "Year": "1995",
+            "Title": "SQL for Smarties: Advanced SQL Programming",
+            "Publisher": "Morgan Kaufmann",
+            "Isbn": "1-55860-323-9"
+        },
+        {
+            "_id": "1193469",
+            "Type": "book",
+            "Year": "1997",
+            "Title": "Joe Celko_s SQL Puzzles a Answers",
+            "Publisher": "Morgan Kaufmann",
+            "Isbn": "1-55860-453-7"
+        },
+        {
+            "_id": "1193470",
+            "Type": "book",
+            "Year": "1999",
+            "Title": "SQL for Smarties: Advanced SQL Programming, Second Edition",
+            "Publisher": "Morgan Kaufmann",
+            "Isbn": "1-55860-576-2"
+        },
+        {
+            "_id": "1193471",
+            "Type": "book",
+            "Year": "2000",
+            "Title": "Data Warehousing: Using the Wal-Mart Model",
+            "Publisher": "Morgan Kaufmann",
+            "Isbn": "1-55860-684-X"
+        },
+        {
+            "_id": "1193472",
+            "Type": "book",
+            "Year": "1988",
+            "Title": "Foundations of Deductive Databases and Logic Programming",
+            "Publisher": "Morgan Kaufmann",
+            "Isbn": "0-934613-40-0"
+        },
+        {
+            "_id": "1193473",
+            "Type": "book",
+            "Year": "1995",
+            "Title": "Migrating Legacy Systems: Gateways, Interfaces, and the Incremental Approach",
+            "Publisher": "Morgan Kaufmann",
+            "Isbn": "1-55860-330-1"
+        },
+        {
+            "_id": "1193474",
+            "Type": "book",
+            "Year": "1998",
+            "Title": "Object-Relational DBMSs, Second Edition",
+            "Publisher": "Morgan Kaufmann",
+            "Isbn": "1-55860-452-9"
+        },
+        {
+            "_id": "1193475",
+            "Type": "book",
+            "Year": "2000",
+            "Title": "Database: Principles, Programming, and Performance, Second Edition",
+            "Publisher": "Morgan Kaufmann",
+            "Isbn": "1-55860-438-3"
+        },
+        {
+            "_id": "1193476",
+            "Type": "book",
+            "Year": "1988",
+            "Title": "Readings in Database Systems, First Edition",
+            "Publisher": "Morgan Kaufmann",
+            "Isbn": "0-934613-65-6"
+        },
+        {
+            "_id": "1193477",
+            "Type": "book",
+            "Year": "1994",
+            "Title": "Readings in Database Systems, Second Edition",
+            "Publisher": "Morgan Kaufmann",
+            "Isbn": "1-55860-252-6"
+        },
+        {
+            "_id": "1193478",
+            "Type": "book",
+            "Year": "1996",
+            "Title": "Object-Relational DBMSs: The Next Great Wave",
+            "Publisher": "Morgan Kaufmann",
+            "Isbn": "1-55860-397-2"
+        },
+        {
+            "_id": "1193479",
+            "Type": "book",
+            "Year": "1998",
+            "Title": "Readings in Database Systems, Third Edition",
+            "Publisher": "Morgan Kaufmann",
+            "Isbn": "1-55860-523-1"
+        },
+        {
+            "_id": "1193480",
+            "Type": "book",
+            "Year": "2000",
+            "Title": "Information Visualization in Data Mining and Knowledge Discovery",
+            "Publisher": "Morgan Kaufmann",
+            "Isbn": "1-55860-689-0"
+        },
+        {
+            "_id": "1193481",
+            "Type": "book",
+            "Year": "1999",
+            "Title": "Database-Driven Web Sites",
+            "Publisher": "Morgan Kaufmann",
+            "Isbn": "0-12-251336-3"
+        },
+        {
+            "_id": "1193482",
+            "Type": "book",
+            "Year": "2000",
+            "Title": "Understanding the New SQL: A Complete Guide, Second Edition, Volume I",
+            "Publisher": "Morgan Kaufmann",
+            "Isbn": "1-55860-456-1"
+        },
+        {
+            "_id": "1193483",
+            "Type": "book",
+            "Year": "1993",
+            "Title": "Understanding the New SQL: A Complete Guide",
+            "Publisher": "Morgan Kaufmann",
+            "Isbn": "1-55860-245-3"
+        },
+        {
+            "_id": "1193484",
+            "Type": "book",
+            "Year": "1998",
+            "Title": "The Jasmine Object Database: Multimedia Applications for the Web",
+            "Publisher": "Morgan Kaufmann",
+            "Isbn": "1-55860-494-4"
+        },
+        {
+            "_id": "1193485",
+            "Type": "book",
+            "Year": "1998",
+            "Title": "Principles of Multimedia Database Systems",
+            "Publisher": "Morgan Kaufmann",
+            "Isbn": "1-55860-466-9"
+        },
+        {
+            "_id": "1193486",
+            "Type": "book",
+            "Year": "2000",
+            "Title": "The Object Data Standard: ODMG 3.0",
+            "Publisher": "Morgan Kaufmann",
+            "Isbn": "1-55860-647-5"
+        },
+        {
+            "_id": "1193487",
+            "Type": "book",
+            "Year": "1993",
+            "Title": "The Object Database Standard: ODMG-93",
+            "Publisher": "Morgan Kaufmann",
+            "Isbn": "1-55860-302-6"
+        },
+        {
+            "_id": "1193488",
+            "Type": "book",
+            "Year": "1994",
+            "Title": "The Object Database Standard: ODMG-93 (Release 1.1)",
+            "Publisher": "Morgan Kaufmann"
+        },
+        {
+            "_id": "1193489",
+            "Type": "book",
+            "Year": "1996",
+            "Title": "The Object Database Standard: ODMG-93 (Release 1.2)",
+            "Publisher": "Morgan Kaufmann"
+        },
+        {
+            "_id": "1193490",
+            "Type": "book",
+            "Year": "1997",
+            "Title": "The Object Database Standard: ODMG 2.0",
+            "Publisher": "Morgan Kaufmann"
+        },
+        {
+            "_id": "1193491",
+            "Type": "book",
+            "Year": "1992",
+            "Title": "Database Transaction Models for Advanced Applications.",
+            "Publisher": "Morgan Kaufmann",
+            "Isbn": "1-55860-214-3"
+        },
+        {
+            "_id": "1193492",
+            "Type": "book",
+            "Year": "1994",
+            "Title": "Elements of Machine Learning.",
+            "Publisher": "Morgan Kaufmann",
+            "Isbn": "1-55860-301-8"
+        },
+        {
+            "_id": "1193493",
+            "Type": "book",
+            "Year": "1999",
+            "Title": "Managing Gigabytes: Compressing and Indexing Documents and Images, Second Edition",
+            "Publisher": "Morgan Kaufmann",
+            "Isbn": "1-55860-570-3"
+        },
+        {
+            "_id": "1193494",
+            "Type": "book",
+            "Year": "2001",
+            "Title": "Information Visualization in Data Mining and Knowledge Discovery",
+            "Publisher": "Morgan Kaufmann",
+            "Isbn": "1-55860-689-0"
+        },
+        {
+            "_id": "1193495",
+            "Type": "book",
+            "Year": "1996",
+            "Title": "Principles of Transaction Processing for Systems Professionals.",
+            "Publisher": "Morgan Kaufmann",
+            "Isbn": "1-55860-415-4"
+        },
+        {
+            "_id": "1193496",
+            "Type": "book",
+            "Year": "1991",
+            "Title": "Camelot and Avalon: A Distributed Transaction Facility",
+            "Publisher": "Morgan Kaufmann",
+            "Isbn": "1-55860-185-6"
+        },
+        {
+            "_id": "1193497",
+            "Type": "book",
+            "Year": "1994",
+            "Title": "Database Principles, Programming, Performance",
+            "Publisher": "Morgan Kaufmann",
+            "Isbn": "1-55860-219-4"
+        },
+        {
+            "_id": "1193498",
+            "Type": "book",
+            "Year": "2000",
+            "Title": "Understanding SQL and Java Together: A Guide to SGLJ, JDBC, and Related Technologies",
+            "Publisher": "Morgan Kaufmann",
+            "Isbn": "1-55860-562-2"
+        },
+        {
+            "_id": "1193499",
+            "Type": "book",
+            "Year": "1998",
+            "Title": "Understanding SQL Stored Procedures: A Complete Guide to SQL/PSM",
+            "Publisher": "Morgan Kaufmann",
+            "Isbn": "1-55860-461-8"
+        },
+        {
+            "_id": "1193500",
+            "Type": "book",
+            "Year": "1986",
+            "Title": "The Mathematics of Inheritance Systems",
+            "Publisher": "Morgan Kaufmann",
+            "Isbn": "0-934613-06-0"
+        },
+        {
+            "_id": "1193501",
+            "Type": "book",
+            "Year": "1990",
+            "Title": "Readings in Object-Oriented Database Systems",
+            "Publisher": "Morgan Kaufmann",
+            "Isbn": "1-55860-000-0"
+        },
+        {
+            "_id": "1193502",
+            "Type": "book",
+            "Year": "1993",
+            "Title": "Essentials of Artificial Intelligence",
+            "Publisher": "Morgan Kaufmann",
+            "Isbn": "1-55860-221-6"
+        },
+        {
+            "_id": "1193503",
+            "Type": "book",
+            "Year": "1999",
+            "Title": "Joe Celko_s Data and Databases: Concepts in Practice",
+            "Publisher": "Morgan Kaufmann",
+            "Isbn": "1-55860-432-4"
+        },
+        {
+            "_id": "1193504",
+            "Type": "book",
+            "Year": "1990",
+            "Title": "Computer Systems That Learn: Classification and Prediction Methods from Statistics, Neural Nets, Machine Learning and Expert Systems",
+            "Publisher": "Morgan Kaufmann",
+            "Isbn": "1-55860-065-5"
+        },
+        {
+            "_id": "1193505",
+            "Type": "book",
+            "Year": "1991",
+            "Title": "Machine Learning: A Theoretical Approach.",
+            "Publisher": "Morgan Kaufmann",
+            "Isbn": "1-55860-148-1"
+        },
+        {
+            "_id": "1193506",
+            "Type": "book",
+            "Year": "1998",
+            "Title": "Database Modeling a Design, Third Edition",
+            "Publisher": "Morgan Kaufmann",
+            "Isbn": "1-55860-500-2"
+        },
+        {
+            "_id": "1193507",
+            "Type": "book",
+            "Year": "1997",
+            "Title": "Advanced Database Systems.",
+            "Publisher": "Morgan Kaufmann",
+            "Isbn": "1-55860-443-X"
+        },
+        {
+            "_id": "1193508",
+            "Type": "book",
+            "Year": "2000",
+            "Title": "MICO: An Open Source CORBA Implementation",
+            "Publisher": "Morgan Kaufmann",
+            "Isbn": "1-55860-666-1"
+        },
+        {
+            "_id": "1193509",
+            "Type": "book",
+            "Year": "2003",
+            "Title": "How to Build a Digital Libary",
+            "Publisher": "Morgan Kaufmann",
+            "Isbn": "1-55860-790-0"
+        },
+        {
+            "_id": "1193510",
+            "Type": "book",
+            "Year": "1999",
+            "Title": "Data Mining: Practical Machine Learning Tools and Techniques with Java Implementations",
+            "Publisher": "Morgan Kaufmann",
+            "Isbn": "1-55860-552-5"
+        },
+        {
+            "_id": "1193511",
+            "Type": "book",
+            "Year": "1999",
+            "Title": "Recovery in Parallel Database Systems, Second Edition",
+            "Publisher": "Morgan Kaufmann",
+            "Isbn": "3-52-815411-X"
+        },
+        {
+            "_id": "1193512",
+            "Type": "book",
+            "Year": "1996",
+            "Title": "Distributed Algorithms",
+            "Publisher": "Morgan Kaufmann",
+            "Isbn": "1-55860-348-4"
+        },
+        {
+            "_id": "1193513",
+            "Type": "book",
+            "Year": "1993",
+            "Title": "Atomic Transactions",
+            "Publisher": "Morgan Kaufmann",
+            "Isbn": "1-55860-104-X"
+        },
+        {
+            "_id": "1193514",
+            "Type": "book",
+            "Year": "1987",
+            "Title": "A Many-Sorted Calculus Based on Resolution and Paramodulation.",
+            "Publisher": "Pitman / Morgan Kaufmann",
+            "Isbn": "0-273-08718-5"
+        },
+        {
+            "_id": "1193515",
+            "Type": "book",
+            "Year": "1996",
+            "Title": "Using the New DB2: IBM_s Object-Relational Database System.",
+            "Publisher": "Morgan Kaufmann",
+            "Isbn": "1-55860-373-5"
+        },
+        {
+            "_id": "1193516",
+            "Type": "book",
+            "Year": "1998",
+            "Title": "A Complete Guide to DB2 Universal Database",
+            "Publisher": "Morgan Kaufmann",
+            "Isbn": "1-55860-482-0"
+        },
+        {
+            "_id": "1193517",
+            "Type": "book",
+            "Year": "2000",
+            "Title": "Component Database Systems",
+            "Publisher": "Morgan Kaufmann",
+            "Isbn": "1-55860-642-4"
+        },
+        {
+            "_id": "1193518",
+            "Type": "book",
+            "Year": "1996",
+            "Title": "Computer Architecture: A Quantitative Approach, 2nd Edition",
+            "Publisher": "Morgan Kaufmann",
+            "Isbn": "1-55860-329-8"
+        },
+        {
+            "_id": "1193519",
+            "Type": "book",
+            "Year": "1996",
+            "Title": "Introduction to Data Compression",
+            "Publisher": "Morgan Kaufmann",
+            "Isbn": "1-55860-346-8"
+        },
+        {
+            "_id": "1193520",
+            "Type": "book",
+            "Year": "1999",
+            "Title": "Developing Time-Oriented Database Applications in SQL",
+            "Publisher": "Morgan Kaufmann",
+            "Isbn": "1-55860-436-7"
+        },
+        {
+            "_id": "1193521",
+            "Type": "book",
+            "Year": "1993",
+            "Title": "C4.5: Programs for Machine Learning",
+            "Publisher": "Morgan Kaufmann",
+            "Isbn": "1-55860-238-0"
+        },
+        {
+            "_id": "1193522",
+            "Type": "book",
+            "Year": "2000",
+            "Title": "Introduction to Spatial Databases: Applications to GIS",
+            "Publisher": "Morgan Kaufmann",
+            "Isbn": "1-55860-689-0"
+        },
+        {
+            "_id": "1193523",
+            "Type": "book",
+            "Year": "1993",
+            "Title": "Transaction Processing: Concepts and Techniques",
+            "Publisher": "Morgan Kaufmann",
+            "Isbn": "1-55860-190-2"
+        },
+        {
+            "_id": "1193524",
+            "Type": "book",
+            "Year": "1999",
+            "Title": "Database Design for Smarties: Using UML for Data Modeling",
+            "Publisher": "Morgan Kaufmann",
+            "Isbn": "1-55860-515-0"
+        },
+        {
+            "_id": "1193525",
+            "Type": "book",
+            "Year": "2001",
+            "Title": "Optimizing Compilers for Modern Architectures: A Dependence-based Approach",
+            "Publisher": "Morgan Kaufmann",
+            "Isbn": "1-55860-286-0"
+        },
+        {
+            "_id": "1193526",
+            "Type": "book",
+            "Year": "1997",
+            "Title": "Advanced Compiler Design and Implementation",
+            "Publisher": "Morgan Kaufmann",
+            "Isbn": "1-55860-320-4"
+        },
+        {
+            "_id": "1193527",
+            "Type": "book",
+            "Year": "2004",
+            "Title": "Engineering a Compiler",
+            "Publisher": "Morgan Kaufmann",
+            "Isbn": "1-55860-699-8"
+        },
+        {
+            "_id": "1193528",
+            "Type": "book",
+            "Year": "2004",
+            "Title": "Location-Based Services",
+            "Publisher": "Morgan Kaufmann",
+            "Isbn": "1-55860-929-6"
+        },
+        {
+            "_id": "1193529",
+            "Type": "book",
+            "Year": "2005",
+            "Title": "Moving Objects Databases",
+            "Publisher": "Morgan Kaufmann",
+            "Isbn": "0-12-088799-1"
+        },
+        {
+            "_id": "1193530",
+            "Type": "book",
+            "Year": "1974",
+            "Title": "Classification, Estimation and Pattern Recognition.",
+            "Publisher": "Elsevier"
+        },
+        {
+            "_id": "1193531",
+            "Type": "book",
+            "Year": "1990",
+            "Title": "Handbook of Theoretical Computer Science, Volume B: Formal Models and Sematics",
+            "Publisher": "Elsevier and MIT Press",
+            "Isbn": "0-444-88074-7"
+        },
+        {
+            "_id": "1193532",
+            "Type": "book",
+            "Year": "1985",
+            "Title": "Computer-Aided Database Design: the DATAID approach.",
+            "Publisher": "North-Holland",
+            "Isbn": "0-444-87735-5"
+        },
+        {
+            "_id": "1193533",
+            "Type": "book",
+            "Year": "1990",
+            "Title": "Handbook of Theoretical Computer Science, Volume A: Algorithms and Complexity",
+            "Publisher": "Elsevier and MIT Press",
+            "Isbn": "0-444-88071-2"
+        },
+        {
+            "_id": "1193534",
+            "Type": "book",
+            "Year": "1992",
+            "Title": "Tree Automata and Languages.",
+            "Publisher": "North-Holland"
+        },
+        {
+            "_id": "1193535",
+            "Type": "book",
+            "Year": "1983",
+            "Title": "Methodology and Tools for Data Base Design.",
+            "Publisher": "North-Holland"
+        },
+        {
+            "_id": "1193536",
+            "Type": "book",
+            "Year": "2001",
+            "Title": "Handbook of Automated Reasoning (in 2 volumes)",
+            "Publisher": "Elsevier and MIT Press",
+            "Isbn": "0-444-50813-9"
+        },
+        {
+            "_id": "1193537",
+            "Type": "book",
+            "Year": "1995",
+            "Title": "Inside ODBC.",
+            "Publisher": "Microsoft Press",
+            "Isbn": "1-55615-815-7"
+        },
+        {
+            "_id": "1193538",
+            "Type": "book",
+            "Year": "1997",
+            "Title": "Inside COM.",
+            "Publisher": "Microsoft Press",
+            "Isbn": "1-57231-349-8"
+        },
+        {
+            "_id": "1193539",
+            "Type": "book",
+            "Year": "1994",
+            "Title": "Spatial Analysis and GIS.",
+            "Publisher": "Taylor a Francis",
+            "Isbn": "0-7484-0103-2"
+        },
+        {
+            "_id": "1193540",
+            "Type": "book",
+            "Year": "1978",
+            "Title": "Methodes de Programmation, 1st edition",
+            "Publisher": "Eyrolles"
+        },
+        {
+            "_id": "1193541",
+            "Type": "book",
+            "Year": "1984",
+            "Title": "Methodes de Programmation, 3rd edition",
+            "Publisher": "Eyrolles"
+        },
+        {
+            "_id": "1193542",
+            "Type": "book",
+            "Year": "1991",
+            "Title": "Wissensbasierte Textverarbeitung: Schriftsatz und Typographie - Moglichkeiten einer intelligenteren Textverarbeitung",
+            "Publisher": "Deutscher Universitatsverlag",
+            "Isbn": "3-8244-2020-1"
+        },
+        {
+            "_id": "1193543",
+            "Type": "book",
+            "Year": "1993",
+            "Title": "Anfrageverarbeitung in Komplexobjekt-Datenbanksystemen",
+            "Publisher": "Deutscher Universitatsverlag"
+        },
+        {
+            "_id": "1193544",
+            "Type": "book",
+            "Year": "1997",
+            "Title": "Database Programming with JDBC and Java",
+            "Publisher": "O_Reilly",
+            "Isbn": "1-56592-270-0"
+        },
+        {
+            "_id": "1193545",
+            "Type": "book",
+            "Year": "1999",
+            "Title": "Java Power Reference",
+            "Publisher": "O_Reilly",
+            "Isbn": "1-56592-589-0"
+        },
+        {
+            "_id": "1193546",
+            "Type": "book",
+            "Year": "2001",
+            "Title": "XML in a Nutshell",
+            "Publisher": "O_Reilly",
+            "Isbn": "0-596-00058-8"
+        },
+        {
+            "_id": "1193547",
+            "Type": "book",
+            "Year": "2001",
+            "Title": "Java Cookbook",
+            "Publisher": "O_Reilly",
+            "Isbn": "0-596-00170-3"
+        },
+        {
+            "_id": "1193548",
+            "Type": "book",
+            "Year": "2000",
+            "Title": "Java Examples in a Nutshell",
+            "Publisher": "O_Reilly",
+            "Isbn": "0-596-00039-1"
+        },
+        {
+            "_id": "1193549",
+            "Type": "book",
+            "Year": "1999",
+            "Title": "Windows 98 in a Nutshell",
+            "Publisher": "O_Reilly",
+            "Isbn": "1-56592-486-X"
+        },
+        {
+            "_id": "1193550",
+            "Type": "book",
+            "Year": "1996",
+            "Title": "Java in a Nutshell - A Desktop Quick Reference for Java Programmers, Covers Java 1.0",
+            "Publisher": "O_Reilly",
+            "Isbn": "1-56592-183-6"
+        },
+        {
+            "_id": "1193551",
+            "Type": "book",
+            "Year": "2001",
+            "Title": "JavaServer Pages",
+            "Publisher": "O_Reilly",
+            "Isbn": "1-56592-746-X"
+        },
+        {
+            "_id": "1193552",
+            "Type": "book",
+            "Year": "1997",
+            "Title": "Java Virtual Machine",
+            "Publisher": "O_Reilly",
+            "Isbn": "1-56592-194-1"
+        },
+        {
+            "_id": "1193553",
+            "Type": "book",
+            "Year": "1999",
+            "Title": "Java Foundation Classes in a Nutshell",
+            "Publisher": "O_Reilly",
+            "Isbn": "1-56592-488-6"
+        },
+        {
+            "_id": "1193554",
+            "Type": "book",
+            "Year": "2000",
+            "Title": "Java and XML",
+            "Publisher": "O_Reilly",
+            "Isbn": "0-596-00016-2"
+        },
+        {
+            "_id": "1193555",
+            "Type": "book",
+            "Year": "2000",
+            "Title": "Java Performance Tuning",
+            "Publisher": "O_Reilly",
+            "Isbn": "0-596-00015-4"
+        },
+        {
+            "_id": "1193556",
+            "Type": "book",
+            "Year": "1997",
+            "Title": "Java Fundamental Classes Reference",
+            "Publisher": "O_Reilly",
+            "Isbn": "1-56592-241-7"
+        },
+        {
+            "_id": "1193557",
+            "Type": "book",
+            "Year": "1999",
+            "Title": "Java 2D Graphics",
+            "Publisher": "O_Reilly",
+            "Isbn": "1-56592-484-3"
+        },
+        {
+            "_id": "1193558",
+            "Type": "book",
+            "Year": "2000",
+            "Title": "Digitale Bibliotheken - Informatik-Losungen fur globale Wissensmarkte",
+            "Publisher": "dpunkt",
+            "Isbn": "3-932588-77-0"
+        },
+        {
+            "_id": "1193559",
+            "Type": "book",
+            "Year": "2002",
+            "Title": "Objektrelationale und objektorientierte Datenbankkonzepts und -systeme",
+            "Publisher": "dpunkt",
+            "Isbn": "3-89864-124-4"
+        },
+        {
+            "_id": "1193560",
+            "Type": "book",
+            "Year": "1998",
+            "Title": "Systemsoftware: Grundlagen moderner Betriebssysteme",
+            "Publisher": "dpunkt",
+            "Isbn": "3-920993-74-8"
+        },
+        {
+            "_id": "1193561",
+            "Type": "book",
+            "Year": "2002",
+            "Title": "HTML a XHTML - die Sprachen des Web, Lehrgang und Referenz, 5. Auflage",
+            "Publisher": "dpunkt",
+            "Isbn": "3-89864-155-4"
+        },
+        {
+            "_id": "1193562",
+            "Type": "book",
+            "Year": "2001",
+            "Title": "Linux Sicherheit: Security mit Open-Source-Software, Grundlagen und Praxis",
+            "Publisher": "dpunkt",
+            "Isbn": "3-932588-04-5"
+        },
+        {
+            "_id": "1193563",
+            "Type": "book",
+            "Year": "2000",
+            "Title": "Datenbanken a Java - JDBC, SQLJ und ODMG",
+            "Publisher": "dpunkt",
+            "Isbn": "3-932588-54-1"
+        },
+        {
+            "_id": "1193564",
+            "Type": "book",
+            "Year": "2003",
+            "Title": "SQL:1999 a SQL:2003 - Objektrelationales SQL, SQLJ a SQL/XML",
+            "Publisher": "dpunkt",
+            "Isbn": "3-89864-219-4"
+        },
+        {
+            "_id": "1193565",
+            "Type": "book",
+            "Year": "1996",
+            "Title": "Objektorientierte Datenbanksysteme. Ein Praktikum.",
+            "Publisher": "dpunkt",
+            "Isbn": "3-920993-62-4"
+        },
+        {
+            "_id": "1193566",
+            "Type": "book",
+            "Year": "2003",
+            "Title": "Web Engineering: Systematische Entwicklung von Web-Anwendungen",
+            "Publisher": "dpunkt",
+            "Isbn": "3-89864-234-8"
+        },
+        {
+            "_id": "1193567",
+            "Type": "book",
+            "Year": "2002",
+            "Title": "Object-Oriented Reengineering Patterns",
+            "Publisher": "dpunkt",
+            "Isbn": "3-89864-197-X"
+        },
+        {
+            "_id": "1193568",
+            "Type": "book",
+            "Year": "2003",
+            "Title": "Web a Datenbanken. Konzepte, Architekturen, Anwendungen",
+            "Publisher": "dpunkt",
+            "Isbn": "3-89864-189-9"
+        },
+        {
+            "_id": "1193569",
+            "Type": "book",
+            "Year": "1998",
+            "Title": "Logics for Databases and Information Systems (the book grow out of the Dagstuhl Seminar 9529: Role of Logics in Information Systems, 1995)",
+            "Publisher": "Kluwer"
+        },
+        {
+            "_id": "1193570",
+            "Type": "book",
+            "Year": "2003",
+            "Title": "Clustering and Information Retrieval",
+            "Publisher": "Kluwer",
+            "Isbn": "1-4020-7682-7"
+        },
+        {
+            "_id": "1193571",
+            "Type": "book",
+            "Year": "2001",
+            "Title": "Mining the World Wide Web: An Information Search Approach",
+            "Publisher": "Kluwer",
+            "Isbn": "0-7923-7349-9"
+        },
+        {
+            "_id": "1193572",
+            "Type": "book",
+            "Volume": "27",
+            "Year": "2003",
+            "Title": "Advanced Signature Indexing for Multimedia and Web Applications",
+            "Publisher": "Kluwer",
+            "Series": "Advances in Databases Systems"
+        },
+        {
+            "_id": "1193573",
+            "Type": "book",
+            "Year": "1996",
+            "Title": "Client Data Caching: A Foundation for High Performance Object Oriented Database Systems",
+            "Publisher": "Kluwer",
+            "Isbn": "0-7923-9701-0"
+        },
+        {
+            "_id": "1193574",
+            "Type": "book",
+            "Year": "2001",
+            "Title": "Data Quality",
+            "Publisher": "Kluwer",
+            "Isbn": "0-7923-7215-8"
+        },
+        {
+            "_id": "1193575",
+            "Type": "book",
+            "Year": "1995",
+            "Title": "The Design and Implementation of a Log-Structured File-System.",
+            "Publisher": "Kluwer",
+            "Isbn": "0-7923-9541-7"
+        },
+        {
+            "_id": "1193576",
+            "Type": "book",
+            "Year": "2000",
+            "Title": "Computers and Education in the 21st Century",
+            "Publisher": "Kluwer"
+        },
+        {
+            "_id": "1193577",
+            "Type": "book",
+            "Year": "1997",
+            "Title": "Indexing Techniques for Advanced Database Systems",
+            "Publisher": "Kluwer",
+            "Isbn": "0-7923-9985-4"
+        },
+        {
+            "_id": "1193578",
+            "Type": "book",
+            "Year": "1997",
+            "Title": "Advanced Transaction Models and Architectures",
+            "Publisher": "Kluwer",
+            "Isbn": "0-7923-9880-7"
+        },
+        {
+            "_id": "1193579",
+            "Type": "book",
+            "Year": "1999",
+            "Title": "Software Prototyping in Data and Knowledge Engineering",
+            "Publisher": "Kluwer",
+            "Isbn": "0-7923-6016-8"
+        },
+        {
+            "_id": "1193580",
+            "Type": "book",
+            "Volume": "28",
+            "Year": "2002",
+            "Title": "The Discovery of the Artificial. Behavior, Mind and Machines Before and Beyond Cybernetics",
+            "Publisher": "Kluwer",
+            "Isbn": "1-4020-0606-3",
+            "Series": "Studies in Cognitive Systems"
+        },
+        {
+            "_id": "1193581",
+            "Type": "book",
+            "Year": "2001",
+            "Title": "Computers and Education. Towards an Interconnected Society",
+            "Publisher": "Kluwer"
+        },
+        {
+            "_id": "1193582",
+            "Type": "book",
+            "Year": "2001",
+            "Title": "Ontology-Based Query Processing for Global Information Systems",
+            "Publisher": "Kluwer",
+            "Isbn": "0-7923-7375-8"
+        },
+        {
+            "_id": "1193583",
+            "Type": "book",
+            "Volume": "575",
+            "Year": "2000",
+            "Title": "Loop Tiling for Parallelism",
+            "Publisher": "Kluwer",
+            "Isbn": "0-7923-7933-0",
+            "Series": "Kluwer International Series in Engineering and Computer Science"
+        },
+        {
+            "_id": "1193584",
+            "Type": "book",
+            "Volume": "22",
+            "Year": "2002",
+            "Title": "Multimedia Mining: A Highway to Intelligent Multimedia Documents",
+            "Publisher": "Kluwer",
+            "Isbn": "1-4020-7247-3",
+            "Series": "Multimedia Systems and Applications"
+        },
+        {
+            "_id": "1193585",
+            "Type": "book",
+            "Year": "2002",
+            "Title": "Open Source GIS: A GRASS GIS Approach",
+            "Publisher": "Kluwer",
+            "Isbn": "1-4020-7088-8"
+        },
+        {
+            "_id": "1193586",
+            "Type": "book",
+            "Year": "1995",
+            "Title": "The TSQL2 Temporal Query Language",
+            "Publisher": "Kluwer",
+            "Isbn": "0-7923-9614-6"
+        },
+        {
+            "_id": "1193587",
+            "Type": "book",
+            "Volume": "17",
+            "Year": "1999",
+            "Title": "Advanced Database Indexing",
+            "Publisher": "Kluwer",
+            "Isbn": "0-7923-7716-8",
+            "Series": "Advances in Databases Systems"
+        },
+        {
+            "_id": "1193588",
+            "Type": "book",
+            "Volume": "371",
+            "Year": "1996",
+            "Title": "Advanced Relational Programming: Mathematics and Its Applications.",
+            "Publisher": "Kluwer",
+            "Isbn": "0-7923-4081-7",
+            "Series": "Mathematics and Its Applications"
+        },
+        {
+            "_id": "1193589",
+            "Type": "book",
+            "Year": "2002",
+            "Title": "Compression and Coding Algorithms",
+            "Publisher": "Kluwer",
+            "Isbn": "0-7923-7668-4"
+        },
+        {
+            "_id": "1193590",
+            "Type": "book",
+            "Year": "1999",
+            "Title": "Datenbanken: Implementierungstechniken",
+            "Publisher": "MITP-Verlag",
+            "Isbn": "3-8266-0513-6"
+        },
+        {
+            "_id": "1193591",
+            "Type": "book",
+            "Year": "1995",
+            "Title": "Datenbanken: Konzepte und Sprachen",
+            "Publisher": "International Thompson Publishing"
+        },
+        {
+            "_id": "1193592",
+            "Type": "book",
+            "Volume": "567",
+            "Year": "1974",
+            "Title": "Kleeme-Algebren Formaler Ausdrucke",
+            "Publisher": "Suomalainen Tiedeakatemia, Helsinki",
+            "Series": "Annales Academiae Scientiarum Fennecae, Series A"
+        },
+        {
+            "_id": "1193593",
+            "Type": "book",
+            "Year": "2002",
+            "Title": "LogOut - Warum Computer nichts im Klassenzimmer zu suchen haben und andere High-Tech-Ketzereien",
+            "Publisher": "Fischer Taschenbuch Verlag",
+            "Isbn": "3-596-15512-6"
+        },
+        {
+            "_id": "1193594",
+            "Type": "book",
+            "Year": "2003",
+            "Title": "Six Degrees: The Science of a Connected Age.",
+            "Publisher": "W. W. Norton, New York",
+            "Isbn": "0-393-32542-3"
+        },
+        {
+            "_id": "1193595",
+            "Type": "book",
+            "Year": "1993",
+            "Title": "Cluster Analysis.",
+            "Publisher": "Edward Arnold and Halsted Press"
+        },
+        {
+            "_id": "1193596",
+            "Type": "book",
+            "Year": "1998",
+            "Title": "Building an Optimizing Compiler.",
+            "Publisher": "Butterworth",
+            "Isbn": "1-55558179-X"
+        },
+        {
+            "_id": "1193597",
+            "Type": "book",
+            "Year": "1979",
+            "Title": "Information Retrieval.",
+            "Publisher": "Butterworth",
+            "Isbn": "0-408-70929-4"
+        },
+        {
+            "_id": "1193598",
+            "Type": "book",
+            "Year": "1991",
+            "Title": "Fractals, Chaos, Power Laws: Minutes From an Infinite Paradise.",
+            "Publisher": "W. H. Freeman"
+        },
+        {
+            "_id": "1193599",
+            "Type": "book",
+            "Year": "1977",
+            "Title": "Fractal Geometry of Nature.",
+            "Publisher": "W. H. Freeman"
+        },
+        {
+            "_id": "1193600",
+            "Type": "book",
+            "Year": "1979",
+            "Title": "Computer and Intractability: A Guide to the Theory of NP-Completeness.",
+            "Publisher": "W. H. Freeman",
+            "Isbn": "0-7167-1044-7"
+        },
+        {
+            "_id": "1193601",
+            "Type": "book",
+            "Year": "1991",
+            "Title": "Expertensysteme fur die Planung der Produktion",
+            "Publisher": "Verlag TUV Rheinland",
+            "Isbn": "3-88585-974-2"
+        },
+        {
+            "_id": "1193602",
+            "Type": "book",
+            "Volume": "73",
+            "Year": "1997",
+            "Title": "Nonmonotonic Reasoning: An Overview",
+            "Publisher": "CSLI Publications, Stanford, CA",
+            "Isbn": "1-88-1526-84-4",
+            "Series": "CSLI Lecture Notes"
+        },
+        {
+            "_id": "1193603",
+            "Type": "book",
+            "Volume": "4",
+            "Year": "1986",
+            "Title": "An Introduction to Unification-Based Approaches to Grammar",
+            "Publisher": "CSLI Publications, Stanford, CA",
+            "Isbn": "0-937073-00-8",
+            "Series": "CSLI Lecture Notes"
+        },
+        {
+            "_id": "1193604",
+            "Type": "book",
+            "Volume": "8",
+            "Year": "1987",
+            "Title": "Word Order and Constituent Structure in German",
+            "Publisher": "CSLI Publications, Stanford, CA",
+            "Isbn": "0-937073-10-5",
+            "Series": "CSLI Lecture Notes"
+        },
+        {
+            "_id": "1193605",
+            "Type": "book",
+            "Year": "1995",
+            "Title": "Erfolgsschlussel Objekttechnologie -- Managerfuhrer zur Neuorganisation des Softwareprozesses",
+            "Publisher": "Carl Hanser Verlag",
+            "Isbn": "3-446-18697-2"
+        },
+        {
+            "_id": "1193606",
+            "Type": "book",
+            "Year": "1990",
+            "Title": "Objektorientierte Softwareentwicklung",
+            "Publisher": "Carl Hanser Verlag",
+            "Isbn": "3-446-15773-5"
+        },
+        {
+            "_id": "1193607",
+            "Type": "book",
+            "Year": "1994",
+            "Title": "Managing Gigabytes: Compressing and Indexing Documents and Images.",
+            "Publisher": "Van Nostrand Reinhold",
+            "Isbn": "0-442-01863-0"
+        },
+        {
+            "_id": "1193608",
+            "Type": "book",
+            "Year": "1986",
+            "Title": "Introduction to Combinators and Lambda-Calculus.",
+            "Publisher": "Cambridge University Press"
+        },
+        {
+            "_id": "1193609",
+            "Type": "book",
+            "Year": "1995",
+            "Title": "Randomized Algorithms.",
+            "Publisher": "Cambridge University Press",
+            "Isbn": "0-521-47465-5"
+        },
+        {
+            "_id": "1193610",
+            "Type": "book",
+            "Year": "1998",
+            "Title": "Modern Compiler Implementation in C",
+            "Publisher": "Cambridge University Press",
+            "Isbn": "0-521-58390-X"
+        },
+        {
+            "_id": "1193611",
+            "Type": "book",
+            "Year": "1997",
+            "Title": "Modern Compiler Implementation in Java: Basic Techniques",
+            "Publisher": "Cambridge University Press",
+            "Isbn": "0-521-58654-2"
+        },
+        {
+            "_id": "1193612",
+            "Type": "book",
+            "Year": "1998",
+            "Title": "Modern Compiler Implementation in Java",
+            "Publisher": "Cambridge University Press",
+            "Isbn": "0-521-58388-8"
+        },
+        {
+            "_id": "1193613",
+            "Type": "book",
+            "Year": "1992",
+            "Title": "Compiling with Continuations",
+            "Publisher": "Cambridge University Press",
+            "Isbn": "0-521-41695-7"
+        },
+        {
+            "_id": "1193614",
+            "Type": "book",
+            "Year": "1980",
+            "Title": "On the Construction of Programs",
+            "Publisher": "Cambridge University Press"
+        },
+        {
+            "_id": "1193615",
+            "Type": "book",
+            "Year": "2002",
+            "Title": "Modern Compiler Implementation in Java, 2nd edition.",
+            "Publisher": "Cambridge University Press",
+            "Isbn": "0-521-82060-X"
+        },
+        {
+            "_id": "1193616",
+            "Type": "book",
+            "Year": "1998",
+            "Title": "Biological Sequence Analysis: Probabilistic Models of Proteins and Nucleic Acids",
+            "Publisher": "Cambridge University Press",
+            "Isbn": "0-521-62971-3"
+        },
+        {
+            "_id": "1193617",
+            "Type": "book",
+            "Year": "1997",
+            "Title": "Modern Compiler Implementation in C: Basic Techniques",
+            "Publisher": "Cambridge University Press",
+            "Isbn": "0-521-58653-4"
+        },
+        {
+            "_id": "1193618",
+            "Type": "book",
+            "Year": "1997",
+            "Title": "Algorithms on Strings, Trees, and Sequences - Computer Science and Computational Biology",
+            "Publisher": "Cambridge University Press",
+            "Isbn": "0-521-58519-8"
+        },
+        {
+            "_id": "1193619",
+            "Type": "book",
+            "Year": "1999",
+            "Title": "LEDA: A Platform for Combinatorial and Geometric Computing.",
+            "Publisher": "Cambridge University Press",
+            "Isbn": "0-521-56329-1"
+        },
+        {
+            "_id": "1193620",
+            "Type": "book",
+            "Year": "1992",
+            "Title": "Numerical Recipes in C, 2nd Edition.",
+            "Publisher": "Cambridge University Press"
+        },
+        {
+            "_id": "1193621",
+            "Type": "book",
+            "Year": "1982",
+            "Title": "An Introduction to Mathematical Taxonomy",
+            "Publisher": "Cambridge University Press"
+        },
+        {
+            "_id": "1193622",
+            "Type": "book",
+            "Year": "1998",
+            "Title": "Modern Compiler Implementation in ML",
+            "Publisher": "Cambridge University Press",
+            "Isbn": "0-521-58274-1"
+        },
+        {
+            "_id": "1193623",
+            "Type": "book",
+            "Year": "1997",
+            "Title": "Modern Compiler Implementation in ML: Basic Techniques",
+            "Publisher": "Cambridge University Press",
+            "Isbn": "0-521-58775-1"
+        },
+        {
+            "_id": "1193624",
+            "Type": "book",
+            "Year": "1986",
+            "Title": "Introduction to Knowledge Base Systems",
+            "Publisher": "Collins",
+            "Isbn": "0-00-383114-0"
+        },
+        {
+            "_id": "1193625",
+            "Type": "book",
+            "Year": "1995",
+            "Title": "Konstruktion von Anfrageoptimierern fur Objektbanken.",
+            "Publisher": "Verlag Shaker, Aachen",
+            "Isbn": "3-8265-0869-6"
+        },
+        {
+            "_id": "1193626",
+            "Type": "book",
+            "Year": "1995",
+            "Title": "Modern Database Systems: The Object Model, Interoperability, and Beyond.",
+            "Publisher": "ACM Press and Addison-Wesley",
+            "Isbn": "0-201-59098-0"
+        },
+        {
+            "_id": "1193627",
+            "Type": "book",
+            "Year": "2000",
+            "Title": "Readings in Music and Artificial Intelligence",
+            "Publisher": "Harwood Academic publishers",
+            "Isbn": "90-5755-094-6"
+        },
+        {
+            "_id": "1193628",
+            "Type": "book",
+            "Year": "2005",
+            "Title": "Ahnlichkeitssuche in Multimedia-Datenbanken - Retrieval, Suchalgorithmen und Anfragebehandlung",
+            "Publisher": "Oldenbourg",
+            "Isbn": "3-486-57907-X"
+        },
+        {
+            "_id": "1193629",
+            "Type": "book",
+            "Year": "2003",
+            "Title": "Rechneraufbau und Rechnerstrukturen, 9. Auflage",
+            "Publisher": "Oldenbourg",
+            "Isbn": "3-486-27206-3"
+        },
+        {
+            "_id": "1193630",
+            "Type": "book",
+            "Year": "1999",
+            "Title": "Einfuhrung in die objektorientierte Programmierung mit Java, 1. Auflage",
+            "Publisher": "Oldenbourg",
+            "Isbn": "3-486-24786-7"
+        },
+        {
+            "_id": "1193631",
+            "Type": "book",
+            "Year": "2002",
+            "Title": "Einfuhrung in die objektorientierte Programmierung mit Java, 2. Auflage",
+            "Publisher": "Oldenbourg",
+            "Isbn": "3-486-25342-5"
+        },
+        {
+            "_id": "1193632",
+            "Type": "book",
+            "Year": "2001",
+            "Title": "Datenbanken im Unternehmen: Analyse, Modellbildung und Einsatz",
+            "Publisher": "Oldenbourg",
+            "Isbn": "3-486-25580-0"
+        },
+        {
+            "_id": "1193633",
+            "Type": "book",
+            "Year": "1991",
+            "Title": "Studien- und Forschungsfuhrer Informatik der neuen Bundeslander (Fakultatentag Informatik, Arbeitskreis _Informatik an Deutschen Universitaten und Wissenschaftlichen Hochschulen_), 2. Aufl.",
+            "Publisher": "Oldenbourg"
+        },
+        {
+            "_id": "1193634",
+            "Type": "book",
+            "Year": "2000",
+            "Title": "Einfuhrung in die Theoretische Informatik: Formale Sprachen und Automatentheorie",
+            "Publisher": "Oldenbourg",
+            "Isbn": "3-486-25515-0"
+        },
+        {
+            "_id": "1193635",
+            "Type": "book",
+            "Year": "2001",
+            "Title": "Datenbanksysteme - Eine Einfuhrung, 4. Auflage",
+            "Publisher": "Oldenbourg",
+            "Isbn": "3-486-25706-4"
+        },
+        {
+            "_id": "1193636",
+            "Type": "book",
+            "Year": "2002",
+            "Title": "Ideen der Informatik: Grundlegende Modelle und Konzepte",
+            "Publisher": "Oldenbourg",
+            "Isbn": "3-486-25899-0"
+        },
+        {
+            "_id": "1193637",
+            "Type": "book",
+            "Year": "2004",
+            "Title": "CSCL-Kompendium. Lehr- und Handbuch zum computerunterstutzten kooperativen Lernen",
+            "Publisher": "Oldenbourg",
+            "Isbn": "3-486-27436-8"
+        },
+        {
+            "_id": "1193638",
+            "Type": "book",
+            "Year": "2001",
+            "Title": "Java 2, Von den Grundlagen bis zu Threads und Netzen, 2. Auflage",
+            "Publisher": "Oldenbourg",
+            "Isbn": "3-486-25423-5"
+        },
+        {
+            "_id": "1193639",
+            "Type": "book",
+            "Year": "2003",
+            "Title": "Algorithmen in Java",
+            "Publisher": "Oldenbourg",
+            "Isbn": "3-486-25900-8"
+        },
+        {
+            "_id": "1193640",
+            "Type": "book",
+            "Year": "2000",
+            "Title": "Datenmodelle, Datenbanksprachen und Datenbankmanagementsysteme, 4. Auflage",
+            "Publisher": "Oldenbourg",
+            "Isbn": "3-486-25339-5"
+        },
+        {
+            "_id": "1193641",
+            "Type": "book",
+            "Year": "2001",
+            "Title": "Theoretische Informatik: Eine anwendungsorientierte Einfuhrung, 2. Auflage",
+            "Publisher": "Oldenbourg",
+            "Isbn": "3-486-25776-5"
+        },
+        {
+            "_id": "1193642",
+            "Type": "book",
+            "Year": "2004",
+            "Title": "Datenbanksysteme - Eine Einfuhrung, 5. Auflage",
+            "Publisher": "Oldenbourg",
+            "Isbn": "3-486-27392-2"
+        },
+        {
+            "_id": "1193643",
+            "Type": "book",
+            "Year": "1990",
+            "Title": "Ubersetzerbau",
+            "Publisher": "Oldenbourg",
+            "Isbn": "3-486-20780-6"
+        },
+        {
+            "_id": "1193644",
+            "Type": "book",
+            "Year": "2006",
+            "Title": "Datenbanksysteme - Eine Einfuhrung, 6. Auflage",
+            "Publisher": "Oldenbourg",
+            "Isbn": "3-486-57690-9"
+        },
+        {
+            "_id": "1193645",
+            "Type": "book",
+            "Year": "1999",
+            "Title": "Pattern Discovery in Biomolecular Data: Tools, Techniques and Applications",
+            "Publisher": "Oxford University Press",
+            "Isbn": "0-19-511940-1"
+        },
+        {
+            "_id": "1193646",
+            "Type": "book",
+            "Year": "1994",
+            "Title": "Handbook of Logic in Artificial Intelligence and Logic Programming, Volume2, Deduction Methodologies",
+            "Publisher": "Oxford University Press",
+            "Isbn": "0-19-853746-8"
+        },
+        {
+            "_id": "1193647",
+            "Type": "book",
+            "Year": "1994",
+            "Title": "Text Algorithms",
+            "Publisher": "Oxford University Press",
+            "Isbn": "0-19-508609-0"
+        },
+        {
+            "_id": "1193648",
+            "Type": "book",
+            "Volume": "193",
+            "Year": "1988",
+            "Title": "Datenbanksysteme fur Software-Produktionsumgebungen",
+            "Publisher": "Springer",
+            "Isbn": "3-540-50539-3",
+            "Series": "Informatik-Fachberichte"
+        },
+        {
+            "_id": "1193649",
+            "Type": "book",
+            "Volume": "241",
+            "Year": "1990",
+            "Title": "Migrationssteuerung und Konfigurationsverwaltung fur verteilte objektorientierte Anwendungen",
+            "Publisher": "Springer",
+            "Isbn": "3-540-52542-4",
+            "Series": "Informatik-Fachberichte"
+        },
+        {
+            "_id": "1193650",
+            "Type": "book",
+            "Volume": "151",
+            "Year": "1983",
+            "Title": "CONLAN Report",
+            "Publisher": "Springer",
+            "Isbn": "3-540-12275-3",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193651",
+            "Type": "book",
+            "Volume": "404",
+            "Year": "1989",
+            "Title": "Concepts, Design, and Performance Analysis of a Parallel Prolog Machine",
+            "Publisher": "Springer",
+            "Isbn": "3-540-52053-8",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193652",
+            "Type": "book",
+            "Volume": "128",
+            "Year": "1986",
+            "Title": "Dynamische nicht-normalisierte Relationen und symbolische Bildbeschreibung",
+            "Publisher": "Springer",
+            "Isbn": "3-540-16823-0",
+            "Series": "Informatik-Fachberichte"
+        },
+        {
+            "_id": "1193653",
+            "Type": "book",
+            "Volume": "703",
+            "Year": "1993",
+            "Title": "Ray Shooting, Depth Orders and Hidden Surface Removal",
+            "Publisher": "Springer",
+            "Isbn": "3-540-57020-9",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193654",
+            "Type": "book",
+            "Volume": "1635",
+            "Year": "1999",
+            "Title": "Artificial Animals for Computer Animation, Biomechanics, Locomotion, Perception, and Behavior",
+            "Publisher": "Springer",
+            "Isbn": "3-540-66939-6",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193655",
+            "Type": "book",
+            "Volume": "2341",
+            "Year": "2002",
+            "Title": "High-Dimensional Indexing: Transformational Approaches to High-Dimensional Range and Similarity Searches",
+            "Publisher": "Springer",
+            "Isbn": "3-540-44199-9",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193656",
+            "Type": "book",
+            "Volume": "217",
+            "Year": "1989",
+            "Title": "Kopplung von Rechnernetzen: Techniken zu Planung, Entwurf, Vermessung und Leistungsoptimierung",
+            "Publisher": "Springer",
+            "Isbn": "3-540-51873-8",
+            "Series": "Informatik-Fachberichte"
+        },
+        {
+            "_id": "1193657",
+            "Type": "book",
+            "Volume": "941",
+            "Year": "1995",
+            "Title": "Tractable Reasoning in Artificial Intelligence",
+            "Publisher": "Springer",
+            "Isbn": "3-540-60058-2",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193658",
+            "Type": "book",
+            "Volume": "1173",
+            "Year": "1996",
+            "Title": "Efficient Visual Recognition Using the Hausdorff Distance",
+            "Publisher": "Springer",
+            "Isbn": "3-540-61993-3",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193659",
+            "Type": "book",
+            "Volume": "173",
+            "Year": "1988",
+            "Title": "Testmustergenerierung und Fehlersimulation in digitalen Schaltungen mit hoher Komplexitat",
+            "Publisher": "Springer",
+            "Isbn": "3-540-50051-0",
+            "Series": "Informatik-Fachberichte"
+        },
+        {
+            "_id": "1193660",
+            "Type": "book",
+            "Year": "1975",
+            "Title": "Pascal User Manual and Report, Second Edition",
+            "Publisher": "Springer",
+            "Isbn": "3-540-90144-2"
+        },
+        {
+            "_id": "1193661",
+            "Type": "book",
+            "Volume": "82",
+            "Year": "1984",
+            "Title": "Mikroarchitekturen und Mikroprogrammierung: Formale Beschreibung und Optimierung",
+            "Publisher": "Springer",
+            "Isbn": "3-540-13380-1",
+            "Series": "Informatik-Fachberichte"
+        },
+        {
+            "_id": "1193662",
+            "Type": "book",
+            "Volume": "562",
+            "Year": "1991",
+            "Title": "Algebraic Specification Techniques in Object Oriented Programming Environments",
+            "Publisher": "Springer",
+            "Isbn": "3-540-54972-2",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193663",
+            "Type": "book",
+            "Year": "2003",
+            "Title": "Mapping Scientific Frontiers: The Quest for Knowledge Visualization",
+            "Publisher": "Springer",
+            "Isbn": "1-85233-494-0"
+        },
+        {
+            "_id": "1193664",
+            "Type": "book",
+            "Year": "1999",
+            "Title": "Information Visualisation and Virtual Environments",
+            "Publisher": "Springer",
+            "Isbn": "1-85233-136-4"
+        },
+        {
+            "_id": "1193665",
+            "Type": "book",
+            "Volume": "245",
+            "Year": "1987",
+            "Title": "Lectures on the Complexity of Bilinear Problems",
+            "Publisher": "Springer",
+            "Isbn": "3-540-17205-X",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193666",
+            "Type": "book",
+            "Volume": "565",
+            "Year": "1991",
+            "Title": "Conclog: A Methodological Approach to Concurrent Logic Programming",
+            "Publisher": "Springer",
+            "Isbn": "3-540-54938-2",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193667",
+            "Type": "book",
+            "Volume": "1658",
+            "Year": "2000",
+            "Title": "Mobile Agents: Control Algorithms",
+            "Publisher": "Springer",
+            "Isbn": "3-540-41192-5",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193668",
+            "Type": "book",
+            "Volume": "299",
+            "Year": "1992",
+            "Title": "Software-Bewertung: Ein semantischer Ansatz fur Infomationsmase",
+            "Publisher": "Springer",
+            "Isbn": "3-540-55151-4",
+            "Series": "Informatik-Fachberichte"
+        },
+        {
+            "_id": "1193669",
+            "Type": "book",
+            "Volume": "146",
+            "Year": "1987",
+            "Title": "Entwurf und Verifikation mikroprogrammierter Rechnerarchitekturen",
+            "Publisher": "Springer",
+            "Isbn": "3-540-18320-5",
+            "Series": "Informatik-Fachberichte"
+        },
+        {
+            "_id": "1193670",
+            "Type": "book",
+            "Volume": "119",
+            "Year": "1981",
+            "Title": "Anaphora in Natural Language Understanding: A Survey",
+            "Publisher": "Springer",
+            "Isbn": "3-540-10858-0",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193671",
+            "Type": "book",
+            "Volume": "110",
+            "Year": "1981",
+            "Title": "The Adaptation of Virtual Man-Computer Interfaces to User Requirements in Dialogs",
+            "Publisher": "Springer",
+            "Isbn": "3-540-10826-2",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193672",
+            "Type": "book",
+            "Volume": "586",
+            "Year": "1992",
+            "Title": "Parallel Execution of Parlog",
+            "Publisher": "Springer",
+            "Isbn": "3-540-55382-7",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193673",
+            "Type": "book",
+            "Volume": "373",
+            "Year": "1989",
+            "Title": "Algorithms for Parallel Polygon Rendering",
+            "Publisher": "Springer",
+            "Isbn": "3-540-51394-9",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193674",
+            "Type": "book",
+            "Volume": "251",
+            "Year": "1987",
+            "Title": "Unobstructed Shortest Paths in Polyhedral Environments",
+            "Publisher": "Springer",
+            "Isbn": "3-540-17629-2",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193675",
+            "Type": "book",
+            "Volume": "229",
+            "Year": "1989",
+            "Title": "Erfahrung und Berechnung: Kritik der Expertensystemtechnik",
+            "Publisher": "Springer",
+            "Isbn": "3-540-51893-2",
+            "Series": "Informatik-Fachberichte"
+        },
+        {
+            "_id": "1193676",
+            "Type": "book",
+            "Volume": "271",
+            "Year": "1987",
+            "Title": "From Logic Design to Logic Programming: Theorem Proving Techniques and P-Functions",
+            "Publisher": "Springer",
+            "Isbn": "3-540-18217-9",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193677",
+            "Type": "book",
+            "Year": "1978",
+            "Title": "The Design of Well-Structured and Correct Programs",
+            "Publisher": "Springer",
+            "Isbn": "0-387-90299-6"
+        },
+        {
+            "_id": "1193678",
+            "Type": "book",
+            "Volume": "2628",
+            "Year": "2003",
+            "Title": "Advanced Symbolic Analysis for Compilers: New Techniques and Algorithms for Symbolic Program Analysis and Optimization",
+            "Publisher": "Springer",
+            "Isbn": "3-540-01185-4",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193679",
+            "Type": "book",
+            "Volume": "922",
+            "Year": "1995",
+            "Title": "Efficient Graph Rewriting and Its Implementation",
+            "Publisher": "Springer",
+            "Isbn": "3-540-60055-8",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193680",
+            "Type": "book",
+            "Volume": "2766",
+            "Year": "2003",
+            "Title": "Hierarchical Neural Networks for Image Interpretation",
+            "Publisher": "Springer",
+            "Isbn": "3-540-40722-7",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193681",
+            "Type": "book",
+            "Volume": "42",
+            "Year": "1981",
+            "Title": "Personalinformationssysteme in deutschen Grosunternehmen: Ausbaustand und Rechtsprobleme",
+            "Publisher": "Springer",
+            "Isbn": "3-540-10643-X",
+            "Series": "Informatik-Fachberichte"
+        },
+        {
+            "_id": "1193682",
+            "Type": "book",
+            "Volume": "2432",
+            "Year": "2002",
+            "Title": "Experience Management: Foundations, Development Methodology, and Internet-Based Applications",
+            "Publisher": "Springer",
+            "Isbn": "3-540-44191-3",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193683",
+            "Type": "book",
+            "Volume": "1539",
+            "Year": "1998",
+            "Title": "Interacting Code Motion Transformations: Their Impact and Their Complexity.",
+            "Publisher": "Springer",
+            "Isbn": "3-540-65510-7",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193684",
+            "Type": "book",
+            "Volume": "455",
+            "Year": "1990",
+            "Title": "A Collection of Test Problems for Constrained Global Optimization Problems",
+            "Publisher": "Springer",
+            "Isbn": "3-540-53032-0",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193685",
+            "Type": "book",
+            "Volume": "281",
+            "Year": "1991",
+            "Title": "Modellbildung, Wissensrevision und Wissensreprasentation im Maschinellen Lernen",
+            "Publisher": "Springer",
+            "Isbn": "3-540-54523-9",
+            "Series": "Informatik-Fachberichte"
+        },
+        {
+            "_id": "1193686",
+            "Type": "book",
+            "Year": "2000",
+            "Title": "Entzifferte Geheimnisse: Methoden und Maximen der Kryptologie, 3. Auflage",
+            "Publisher": "Springer",
+            "Isbn": "3-540-67931-6"
+        },
+        {
+            "_id": "1193687",
+            "Type": "book",
+            "Year": "1997",
+            "Title": "Entzifferte Geheimnisse: Methoden und Maximen der Kryptologie, 2. Auflage",
+            "Publisher": "Springer",
+            "Isbn": "3-540-62632-8"
+        },
+        {
+            "_id": "1193688",
+            "Type": "book",
+            "Volume": "55",
+            "Year": "1982",
+            "Title": "Verkehrsanalyse in endlichen Zeitraumen: Grundlagen und Erweiterungen der operationalen Analyse",
+            "Publisher": "Springer",
+            "Isbn": "3-540-11561-7",
+            "Series": "Informatik-Fachberichte"
+        },
+        {
+            "_id": "1193689",
+            "Type": "book",
+            "Volume": "36",
+            "Year": "1975",
+            "Title": "Theory of Program Structures: Schemes, Semantics, Verification",
+            "Publisher": "Springer",
+            "Isbn": "3-540-07415-5",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193690",
+            "Type": "book",
+            "Volume": "1583",
+            "Year": "1999",
+            "Title": "View Synthesis Using Stereo Vision",
+            "Publisher": "Springer",
+            "Isbn": "3-540-66159-X",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193691",
+            "Type": "book",
+            "Volume": "288",
+            "Year": "1987",
+            "Title": "MetaSoft Primer, Towards a Metalanguage for Applied Denotational Semantics",
+            "Publisher": "Springer",
+            "Isbn": "3-540-18657-3",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193692",
+            "Type": "book",
+            "Volume": "206",
+            "Year": "1989",
+            "Title": "Approximative Public-Key-Kryptosysteme",
+            "Publisher": "Springer",
+            "Isbn": "3-540-50904-6",
+            "Series": "Informatik-Fachberichte"
+        },
+        {
+            "_id": "1193693",
+            "Type": "book",
+            "Volume": "651",
+            "Year": "1992",
+            "Title": "Specifying Message Passing and Time-Critical Systems with Temporal Logic",
+            "Publisher": "Springer",
+            "Isbn": "3-540-56283-4",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193694",
+            "Type": "book",
+            "Volume": "1322",
+            "Year": "1997",
+            "Title": "Formal Foundations for Software Engineeing Methods",
+            "Publisher": "Springer",
+            "Isbn": "3-540-63613-7",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193695",
+            "Type": "book",
+            "Volume": "243",
+            "Year": "1990",
+            "Title": "Lexikalisch verteiltes Text-Parsing: Eine objektorientierte Spezifikation eines Wortexpertensystems auf der Grundlage des Aktorenmodells",
+            "Publisher": "Springer",
+            "Isbn": "3-540-53230-7",
+            "Series": "Informatik-Fachberichte"
+        },
+        {
+            "_id": "1193696",
+            "Type": "book",
+            "Volume": "1116",
+            "Year": "1996",
+            "Title": "Management of Telecommunication Systems and Services, Modelling and Implementing TMN-Based Multi-Domain Management",
+            "Publisher": "Springer",
+            "Isbn": "3-540-61578-4",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193697",
+            "Type": "book",
+            "Volume": "828",
+            "Year": "1994",
+            "Title": "Isabelle - A Generic Theorem Prover (with a contribution by T. Nipkow)",
+            "Publisher": "Springer",
+            "Isbn": "3-540-58244-4",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193698",
+            "Type": "book",
+            "Volume": "500",
+            "Year": "1991",
+            "Title": "On the Computational Geometry of Pocket Machining",
+            "Publisher": "Springer",
+            "Isbn": "3-540-54103-9",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193699",
+            "Type": "book",
+            "Volume": "288",
+            "Year": "1991",
+            "Title": "Symbolische und konnektionistische Modelle der menschlichen Informationsverarbeitung - Eine kritische Gegenuberstellung",
+            "Publisher": "Springer",
+            "Isbn": "3-540-54575-1",
+            "Series": "Informatik-Fachberichte"
+        },
+        {
+            "_id": "1193700",
+            "Type": "book",
+            "Volume": "6",
+            "Year": "1977",
+            "Title": "GPSS-FORTRAN, Version II: Einfuhrung in die Simulation diskreter Systeme mit Hilfe eines FORTRAN-Programmpaketes",
+            "Publisher": "Springer",
+            "Isbn": "3-540-07956-4",
+            "Series": "Informatik-Fachberichte"
+        },
+        {
+            "_id": "1193701",
+            "Type": "book",
+            "Volume": "479",
+            "Year": "1991",
+            "Title": "Meta-Level Control for Deductive Database Systems",
+            "Publisher": "Springer",
+            "Isbn": "3-540-53754-6",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193702",
+            "Type": "book",
+            "Volume": "1053",
+            "Year": "1996",
+            "Title": "Term Indexing",
+            "Publisher": "Springer",
+            "Isbn": "3-540-61040-5",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193703",
+            "Type": "book",
+            "Volume": "90",
+            "Year": "1980",
+            "Title": "Using Sophisticated Models in Resolution Theorem Proving",
+            "Publisher": "Springer",
+            "Isbn": "3-540-10231-0",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193704",
+            "Type": "book",
+            "Volume": "106",
+            "Year": "1981",
+            "Title": "The Programming Language Ada Reference Manual, Proposed Standard Document, United States Department of Defense",
+            "Publisher": "Springer",
+            "Isbn": "3-540-10693-6",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193705",
+            "Type": "book",
+            "Volume": "155",
+            "Year": "1983",
+            "Title": "The Programming Language Ada Reference Manual, American National Standards Institute, Inc., ANSI/MIL-STD-1815A-1983",
+            "Publisher": "Springer",
+            "Isbn": "3-540-12328-8",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193706",
+            "Type": "book",
+            "Volume": "234",
+            "Year": "1986",
+            "Title": "Concepts in User Interfaces: A Reference Model for the Command and Response Languages (By Members of IFIP WG2.7)",
+            "Publisher": "Springer",
+            "Isbn": "3-540-16791-9",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193707",
+            "Type": "book",
+            "Year": "1992",
+            "Title": "Theorie der logischen Programmierung",
+            "Publisher": "Springer",
+            "Isbn": "3-540-55702-4"
+        },
+        {
+            "_id": "1193708",
+            "Type": "book",
+            "Volume": "1772",
+            "Year": "2000",
+            "Title": "Concurrent Reactive Plans, Anticipation and Forestalling Execution Failures",
+            "Publisher": "Springer",
+            "Isbn": "3-540-67241-9",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193709",
+            "Type": "book",
+            "Volume": "2554",
+            "Year": "2002",
+            "Title": "Plan-Based Control of Robotic Agents: Improving the Capabilities of Autonomous Robots",
+            "Publisher": "Springer",
+            "Isbn": "3-540-00335-5",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193710",
+            "Type": "book",
+            "Volume": "59",
+            "Year": "1978",
+            "Title": "A Comparative Study of Very Large Data Bases",
+            "Publisher": "Springer",
+            "Isbn": "3-540-08653-6",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193711",
+            "Type": "book",
+            "Volume": "290",
+            "Year": "1987",
+            "Title": "Co-oP, A Group Decision Support System for Cooperative Multiple Criteria Group Decision Making",
+            "Publisher": "Springer",
+            "Isbn": "3-540-18753-7",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193712",
+            "Type": "book",
+            "Volume": "764",
+            "Year": "1994",
+            "Title": "Vivid Logic: Knowledge-Based Reasoning with Two Kinds of Negation",
+            "Publisher": "Springer",
+            "Isbn": "3-540-57604-5",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193713",
+            "Type": "book",
+            "Year": "1999",
+            "Title": "Active Rules in Database Systems",
+            "Publisher": "Springer, New York",
+            "Isbn": "0-387-98529-8"
+        },
+        {
+            "_id": "1193714",
+            "Type": "book",
+            "Volume": "2048",
+            "Year": "2001",
+            "Title": "Learning-Based Robot Vision, Principles and Applications",
+            "Publisher": "Springer",
+            "Isbn": "3-540-42108-4",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193715",
+            "Type": "book",
+            "Volume": "174",
+            "Year": "1988",
+            "Title": "Rechtsprechung und Computer in den neunziger Jahren: Am Beispiel von Begriff und Typologie der Korperschaft des Offentlichen Rechts",
+            "Publisher": "Springer",
+            "Isbn": "3-540-50131-2",
+            "Series": "Informatik-Fachberichte"
+        },
+        {
+            "_id": "1193716",
+            "Type": "book",
+            "Volume": "200",
+            "Year": "1989",
+            "Title": "Spielbaum-Suchverfahren",
+            "Publisher": "Springer",
+            "Isbn": "3-540-50742-6",
+            "Series": "Informatik-Fachberichte"
+        },
+        {
+            "_id": "1193717",
+            "Type": "book",
+            "Volume": "1859",
+            "Year": "2002",
+            "Title": "Index Structures for Data Warehouses",
+            "Publisher": "Springer",
+            "Isbn": "3-540-43368-6",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193718",
+            "Type": "book",
+            "Volume": "2160",
+            "Year": "2002",
+            "Title": "Automatic Generation of Computer Animation: Using AI for Movie Animation",
+            "Publisher": "Springer",
+            "Isbn": "3-540-43114-4",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193719",
+            "Type": "book",
+            "Volume": "321",
+            "Year": "1989",
+            "Title": "Compositionality, Concurrency and Partial Correctness - Proof Theories for Networks of Processes, and Their Relationship",
+            "Publisher": "Springer",
+            "Isbn": "3-540-50845-7",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193720",
+            "Type": "book",
+            "Volume": "795",
+            "Year": "1994",
+            "Title": "FM8501: A Verified Microprocessor",
+            "Publisher": "Springer",
+            "Isbn": "3-540-57960-5",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193721",
+            "Type": "book",
+            "Volume": "179",
+            "Year": "1984",
+            "Title": "How to Multiply Matrices Faster",
+            "Publisher": "Springer",
+            "Isbn": "3-540-13866-8",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193722",
+            "Type": "book",
+            "Volume": "471",
+            "Year": "1990",
+            "Title": "Efficient Query Processing in Geographic Information Systems",
+            "Publisher": "Springer",
+            "Isbn": "3-540-53474-1",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193723",
+            "Type": "book",
+            "Volume": "908",
+            "Year": "1995",
+            "Title": "Extensions of the UNITY Methodology - Compositionality, Fairness and Probability in Parallelism",
+            "Publisher": "Springer",
+            "Isbn": "3-540-59173-7",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193724",
+            "Type": "book",
+            "Volume": "297",
+            "Year": "1991",
+            "Title": "Featurebasierte Integration von CAD/CAM-Systemen",
+            "Publisher": "Springer",
+            "Isbn": "3-540-54991-9",
+            "Series": "Informatik-Fachberichte"
+        },
+        {
+            "_id": "1193725",
+            "Type": "book",
+            "Year": "1988",
+            "Title": "An Introduction to Formal Language Theory",
+            "Publisher": "Springer",
+            "Isbn": "0-387-96698-6"
+        },
+        {
+            "_id": "1193726",
+            "Type": "book",
+            "Volume": "460",
+            "Year": "1990",
+            "Title": "A Systematic Catalogue of Reusable Abstract Data Types",
+            "Publisher": "Springer",
+            "Isbn": "3-540-53229-3",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193727",
+            "Type": "book",
+            "Volume": "13",
+            "Year": "1978",
+            "Title": "Datenschutz bei riskanten Systemen: Eine Konzeption entwickelt am Beispiel eines medizinischen Informationssystems",
+            "Publisher": "Springer",
+            "Isbn": "3-540-08684-6",
+            "Series": "Informatik-Fachberichte"
+        },
+        {
+            "_id": "1193728",
+            "Type": "book",
+            "Volume": "138",
+            "Year": "1987",
+            "Title": "Entwurf und Realisierung eines Multiprozessors",
+            "Publisher": "Springer",
+            "Isbn": "3-540-17909-7",
+            "Series": "Informatik-Fachberichte"
+        },
+        {
+            "_id": "1193729",
+            "Type": "book",
+            "Volume": "63",
+            "Year": "1983",
+            "Title": "Korrekte Zugriffe zu verteilten Daten",
+            "Publisher": "Springer",
+            "Isbn": "3-540-12282-6",
+            "Series": "Informatik-Fachberichte"
+        },
+        {
+            "_id": "1193730",
+            "Type": "book",
+            "Volume": "325",
+            "Year": "1988",
+            "Title": "Modern Cryptology - A Tutorial",
+            "Publisher": "Springer",
+            "Isbn": "3-540-96842-3",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193731",
+            "Type": "book",
+            "Volume": "1220",
+            "Year": "1997",
+            "Title": "Input/Output Intensive Massively Parallel Computing - Language Support, Automatic Parallelization, Advanced Optimization, and Runtime Systems",
+            "Publisher": "Springer",
+            "Isbn": "3-540-62840-1",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193732",
+            "Type": "book",
+            "Volume": "681",
+            "Year": "1993",
+            "Title": "The Logic of Information Structures",
+            "Publisher": "Springer",
+            "Isbn": "3-540-56734-8",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193733",
+            "Type": "book",
+            "Volume": "662",
+            "Year": "1993",
+            "Title": "Filtering, Segmentation and Depth",
+            "Publisher": "Springer",
+            "Isbn": "3-540-56484-5",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193734",
+            "Type": "book",
+            "Volume": "160",
+            "Year": "1987",
+            "Title": "Fehlertolerante dezentrale Prozesautomatisierung",
+            "Publisher": "Springer",
+            "Isbn": "3-540-18754-5",
+            "Series": "Informatik-Fachberichte"
+        },
+        {
+            "_id": "1193735",
+            "Type": "book",
+            "Year": "1997",
+            "Title": "CyberLaw: The Law of the Internet",
+            "Publisher": "Springer",
+            "Isbn": "0-387-94832-5"
+        },
+        {
+            "_id": "1193736",
+            "Type": "book",
+            "Year": "1987",
+            "Title": "Datenbankhandbuch.",
+            "Publisher": "Springer",
+            "Isbn": "3-540-10741-X"
+        },
+        {
+            "_id": "1193737",
+            "Type": "book",
+            "Volume": "224",
+            "Year": "1989",
+            "Title": "Software-Diversitat und ihre Modellierung: Software-Fehlertoleranz und ihre Bewertung durch Fehler- und Kostenmodelle",
+            "Publisher": "Springer",
+            "Isbn": "3-540-51827-4",
+            "Series": "Informatik-Fachberichte"
+        },
+        {
+            "_id": "1193738",
+            "Type": "book",
+            "Volume": "161",
+            "Year": "1987",
+            "Title": "Synchronisation in zentralisierten Datenbanksystemen: Algorithmen, Realisierungsmoglichkeiten und quantitative Analyse",
+            "Publisher": "Springer",
+            "Isbn": "3-540-18752-9",
+            "Series": "Informatik-Fachberichte"
+        },
+        {
+            "_id": "1193739",
+            "Type": "book",
+            "Volume": "101",
+            "Year": "1985",
+            "Title": "Relationale Anfragen - Zerlegung und Optimierung",
+            "Publisher": "Springer",
+            "Isbn": "3-540-15646-1",
+            "Series": "Informatik-Fachberichte"
+        },
+        {
+            "_id": "1193740",
+            "Type": "book",
+            "Volume": "201",
+            "Year": "1989",
+            "Title": "Triggermechanismen in Datenbanksystemen",
+            "Publisher": "Springer",
+            "Isbn": "3-540-50743-4",
+            "Series": "Informatik-Fachberichte"
+        },
+        {
+            "_id": "1193741",
+            "Type": "book",
+            "Volume": "413",
+            "Year": "1990",
+            "Title": "Grup Theoretical Methods in Image Processing",
+            "Publisher": "Springer",
+            "Isbn": "3-540-52290-5",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193742",
+            "Type": "book",
+            "Volume": "191",
+            "Year": "1988",
+            "Title": "Planen fur autonome Montageroboter",
+            "Publisher": "Springer",
+            "Isbn": "3-540-50530-X",
+            "Series": "Informatik-Fachberichte"
+        },
+        {
+            "_id": "1193743",
+            "Type": "book",
+            "Volume": "224",
+            "Year": "1986",
+            "Title": "Current Trends in Concurrency, Overviews and Tutorials",
+            "Publisher": "Springer",
+            "Isbn": "3-540-16488-X",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193744",
+            "Type": "book",
+            "Year": "1989",
+            "Title": "The Structure of the Relational Database Model",
+            "Publisher": "Springer",
+            "Isbn": "3-540-13714-9"
+        },
+        {
+            "_id": "1193745",
+            "Type": "book",
+            "Volume": "1994",
+            "Year": "2001",
+            "Title": "Iterative Software Engineering for Multiagent Systems: The MASSIVE Method",
+            "Publisher": "Springer",
+            "Isbn": "3-540-42166-1",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193746",
+            "Type": "book",
+            "Volume": "886",
+            "Year": "1994",
+            "Title": "Planning and Learning by Analogical Reasoning",
+            "Publisher": "Springer",
+            "Isbn": "3-540-58811-6",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193747",
+            "Type": "book",
+            "Volume": "32",
+            "Year": "1980",
+            "Title": "CAD und Arbeitssituation: Untersuchungen zu den Auswirkungen von CAD sowie zur menschengerechten Gestaltung von CAD-Systemen",
+            "Publisher": "Springer",
+            "Isbn": "3-540-10324-4",
+            "Series": "Informatik-Fachberichte"
+        },
+        {
+            "_id": "1193748",
+            "Type": "book",
+            "Volume": "198",
+            "Year": "1985",
+            "Title": "PORTAL Language Description - Second, Extended Edition",
+            "Publisher": "Springer",
+            "Isbn": "3-540-18960-2",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193749",
+            "Type": "book",
+            "Volume": "157",
+            "Year": "1988",
+            "Title": "Attributierte Grammatiken und Attributierungsalgorithmen",
+            "Publisher": "Springer",
+            "Isbn": "3-540-18650-6",
+            "Series": "Informatik-Fachberichte"
+        },
+        {
+            "_id": "1193750",
+            "Type": "book",
+            "Volume": "265",
+            "Year": "1991",
+            "Title": "Mehrbenutzerkontrolle in Nicht-Standard-Datenbanksystemen",
+            "Publisher": "Springer",
+            "Isbn": "3-540-53576-4",
+            "Series": "Informatik-Fachberichte"
+        },
+        {
+            "_id": "1193751",
+            "Type": "book",
+            "Volume": "1549",
+            "Year": "1999",
+            "Title": "Compiling Natural Semantics.",
+            "Publisher": "Springer",
+            "Isbn": "3-540-65968-4",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193752",
+            "Type": "book",
+            "Volume": "97",
+            "Year": "1980",
+            "Title": "Reliability Evaluation of Some Fault-Tolerant Computer Architectures",
+            "Publisher": "Springer",
+            "Isbn": "3-540-10274-4",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193753",
+            "Type": "book",
+            "Volume": "2249",
+            "Year": "2001",
+            "Title": "Transactional Agents: Towards a Robust Multi-Agent System",
+            "Publisher": "Springer",
+            "Isbn": "3-540-43046-6",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193754",
+            "Type": "book",
+            "Volume": "1637",
+            "Year": "1999",
+            "Title": "Integer Optimization by Local Search",
+            "Publisher": "Springer",
+            "Isbn": "3-540-66367-3",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193755",
+            "Type": "book",
+            "Volume": "95",
+            "Year": "1980",
+            "Title": "Coroutines: A Programming Methodology, a Language Design and an Implementation",
+            "Publisher": "Springer",
+            "Isbn": "3-540-10256-6",
+            "Series": "Lecture Notes in Computer Science"
+        },
+        {
+            "_id": "1193756",
+            "Type": "book",
+            "Volume": "213",
+            "Year": "1989",
+            "Title": "Datenbankgestutzte Reprasentation und Extraktion von Episodenbeschreibungen aus Bildfolgen",
+            "Publisher": "Springer",
+            "Isbn": "3-540-51462-7",
+            "Series": "Informatik-Fachberichte"
+        }
+    ]
+}

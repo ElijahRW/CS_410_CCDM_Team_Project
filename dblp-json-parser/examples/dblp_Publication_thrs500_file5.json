@@ -1,0 +1,4322 @@
+{
+    "docs": [
+        {
+            "_id": "1186275",
+            "Type": "proceedings",
+            "Year": "1992",
+            "Title": "Proceedings of the 1992 IEEE Workshop on Visual Languages, September 15-18, 1992, Seattle, Washington, USA",
+            "Conference": "VL",
+            "Publisher": "IEEE Computer Society"
+        },
+        {
+            "_id": "1186276",
+            "Type": "proceedings",
+            "Year": "1993",
+            "Title": "Proceedings of the 1993 IEEE Workshop on Visual Languages, August 24-27, 1993, Bergen, Norway",
+            "Conference": "VL",
+            "Publisher": "IEEE Computer Society"
+        },
+        {
+            "_id": "1186277",
+            "Type": "proceedings",
+            "Year": "2001",
+            "Title": "2002 IEEE CS International Symposium on Human-Centric Computing Languages and Environments (HCC 2001), September 5-7, 2001 Stresa, Italy",
+            "Conference": "HCC",
+            "Publisher": "IEEE Computer Society"
+        },
+        {
+            "_id": "1186278",
+            "Type": "proceedings",
+            "Year": "2002",
+            "Title": "2002 IEEE CS International Symposium on Human-Centric Computing Languages and Environments (HCC 2002), 3-6 September 2002, Arlington, VA, USA",
+            "Conference": "HCC",
+            "Publisher": "IEEE Computer Society"
+        },
+        {
+            "_id": "1186279",
+            "Type": "proceedings",
+            "Year": "2003",
+            "Title": "2003 IEEE Symposium on Human Centric Computing Languages and Environments (HCC 2003), 28-31 October 2003, Auckland, New Zealand",
+            "Conference": "HCC",
+            "Publisher": "IEEE Computer Society"
+        },
+        {
+            "_id": "1186280",
+            "Type": "proceedings",
+            "Year": "2005",
+            "Title": "2005 IEEE Symposium on Visual Languages and Human-Centric Computing (VL/HCC 2005), 21-24 September 2005, Dallas, TX, USA",
+            "Conference": "VL/HCC",
+            "Publisher": "IEEE Computer Society"
+        },
+        {
+            "_id": "1186281",
+            "Type": "proceedings",
+            "Year": "2004",
+            "Title": "2004 IEEE Symposium on Visual Languages and Human-Centric Computing (VL/HCC 2004), 26-29 September 2004, Rome, Italy",
+            "Conference": "VL/HCC",
+            "Publisher": "IEEE Computer Society"
+        },
+        {
+            "_id": "1186282",
+            "Type": "proceedings",
+            "Volume": "18",
+            "Year": "1979",
+            "Title": "Virtuelle Maschinen, Nachbildung und Vervielfachung maschinenorientierter Schnittstellen, GI-Arbeitsseminar, Munchen 1979",
+            "Conference": "Textverarbeitung und Informatik",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186283",
+            "Type": "proceedings",
+            "Year": "2003",
+            "Title": "IEEE Virtual Reality Conference 2003 (VR 2003), 22-26 March 2003, Los Angeles, CA, USA, Proceedings",
+            "Conference": "VR",
+            "Publisher": "IEEE Computer Society"
+        },
+        {
+            "_id": "1186284",
+            "Type": "proceedings",
+            "Year": "2004",
+            "Title": "IEEE Virtual Reality Conference 2004 (VR 2004), 27-31 March 2004, Chicago, IL, USA, Proceedings",
+            "Conference": "VR",
+            "Publisher": "IEEE Computer Society"
+        },
+        {
+            "_id": "1186285",
+            "Type": "proceedings",
+            "Volume": "100",
+            "Year": "1981",
+            "Title": "Graphtheoretic Concepts in Computer Science, Proceedings of the International Workshop WG _80, Bad Honnef, Germany, June 15-18, 1980",
+            "Conference": "WG",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186286",
+            "Type": "proceedings",
+            "Volume": "246",
+            "Year": "1987",
+            "Title": "Graphtheoretic Concepts in Computer Science, International Workshop, WG _86, Bernried, Germany, June 17-19, 1986,  Proceedings",
+            "Conference": "WG",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186287",
+            "Type": "proceedings",
+            "Volume": "314",
+            "Year": "1988",
+            "Title": "Graph-Theoretic Concepts in Computer Science, International Workshop, WG _87, Kloster Banz/Staffelstein, Germany, June 29 - July 1, 1987, Proceedings",
+            "Conference": "WG",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186288",
+            "Type": "proceedings",
+            "Volume": "344",
+            "Year": "1989",
+            "Title": "Graph-Theoretic Concepts in Computer Science, 14th International Workshop, WG _88, Amsterdam, The Netherlands, June 15-17, 1988, Proceedings",
+            "Conference": "WG",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186289",
+            "Type": "proceedings",
+            "Volume": "411",
+            "Year": "1990",
+            "Title": "Graph-Theoretic Concepts in Computer Science, 15th International Workshop, WG _89, Castle Rolduc, The Netherlands, June 14-16, 1989, Proceedings",
+            "Conference": "WG",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186290",
+            "Type": "proceedings",
+            "Volume": "484",
+            "Year": "1991",
+            "Title": "Graph-Theoretic Concepts in Computer Science, 16rd International Workshop, WG _90, Berlin, Germany, June 20-22, 1990, Proceedings",
+            "Conference": "WG",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186291",
+            "Type": "proceedings",
+            "Volume": "570",
+            "Year": "1992",
+            "Title": "17th International Workshop, WG _91, Fischbachau, Germany, June 17-19, 1991, Proceedings",
+            "Conference": "WG",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186292",
+            "Type": "proceedings",
+            "Volume": "657",
+            "Year": "1993",
+            "Title": "Graph-Theoretic Concepts in Computer Science, 18th International Workshop, WG _92, Wiesbaden-Naurod, Germany, June 19-20, 1992, Proceedings",
+            "Conference": "WG",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186293",
+            "Type": "proceedings",
+            "Volume": "790",
+            "Year": "1994",
+            "Title": "Graph-Theoretic Concepts in Computer Science, 19th International Workshop, WG _93, Utrecht, The Netherlands, June 16-18, 1993, Proceedings",
+            "Conference": "WG",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186294",
+            "Type": "proceedings",
+            "Volume": "903",
+            "Year": "1995",
+            "Title": "Graph-Theoretic Concepts in Computer Science, 20th International Workshop, WG _94, Herrsching, Germany, June 16-18, 1994, Proceedings",
+            "Conference": "WG",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186295",
+            "Type": "proceedings",
+            "Volume": "1017",
+            "Year": "1995",
+            "Title": "Graph-Theoretic Concepts in Computer Science, 21st International Workshop, WG _95, Aachen, Germany, June 20-22, 1995, Proceedings",
+            "Conference": "WG",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186296",
+            "Type": "proceedings",
+            "Volume": "1197",
+            "Year": "1997",
+            "Title": "Graph-Theoretic Concepts in Computer Science, 22nd International Workshop, WG _96, Cadenabbia (Como), Italy, June 12-14, 1996, Proceedings",
+            "Conference": "WG",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186297",
+            "Type": "proceedings",
+            "Volume": "1335",
+            "Year": "1997",
+            "Title": "Graph-Theoretic Concepts in Computer Science, 23rd International Workshop, WG _97, Berlin, Germany, June 18-20, 1997, Proceedings",
+            "Conference": "WG",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186298",
+            "Type": "proceedings",
+            "Volume": "1517",
+            "Year": "1998",
+            "Title": "Graph-Theoretic Concepts in Computer Science, 24th International Workshop, WG _98, Smolenice Castle, Slovak Republic, June 18-20, 1998, Proceedings",
+            "Conference": "WG",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186299",
+            "Type": "proceedings",
+            "Volume": "1665",
+            "Year": "1999",
+            "Title": "Graph-Theoretic Concepts in Computer Science, 25th International Workshop, WG _99, Ascona, Switzerland, June 17-19, 1999, Proceedings",
+            "Conference": "WG",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186300",
+            "Type": "proceedings",
+            "Volume": "1928",
+            "Year": "2000",
+            "Title": "Graph-Theoretic Concepts in Computer Science, 26th International Workshop, WG 2000, Konstanz, Germany, June 15-17, 2000, Proceedings",
+            "Conference": "WG",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186301",
+            "Type": "proceedings",
+            "Volume": "2204",
+            "Year": "2001",
+            "Title": "Graph-Theoretic Concepts in Computer Science, 27th International Workshop, WG 2001, Boltenhagen, Germany, June 14-16, 2001, Proceedings",
+            "Conference": "WG",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186302",
+            "Type": "proceedings",
+            "Volume": "2573",
+            "Year": "2002",
+            "Title": "Graph-Theoretic Concepts in Computer Science, 28th International Workshop, WG 2002, Cesky Krumlov, Czech Republic, June 13-15, 2002, Revised Papers",
+            "Conference": "WG",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186303",
+            "Type": "proceedings",
+            "Volume": "2880",
+            "Year": "2003",
+            "Title": "Graph-Theoretic Concepts in Computer Science, 29th International Workshop, WG 2003, Elspeet, The Netherlands, June 19-21, 2003, Revised Papers",
+            "Conference": "WG",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186304",
+            "Type": "proceedings",
+            "Volume": "3353",
+            "Year": "2004",
+            "Title": "Graph-Theoretic Concepts in Computer Science, 30th International Workshop,WG 2004, Bad Honnef, Germany, June 21-23, 2004, Revised Papers",
+            "Conference": "WG",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186305",
+            "Type": "proceedings",
+            "Volume": "3787",
+            "Year": "2005",
+            "Title": "Graph-Theoretic Concepts in Computer Science, 31st International Workshop, WG 2005, Metz, France, June 23-25, 2005, Revised Selected Papers",
+            "Conference": "WG",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186306",
+            "Type": "proceedings",
+            "Volume": "112",
+            "Year": "1985",
+            "Title": "Wissensbasierte Systeme, 1. Internationaler GI-Kongress, Munchen, 28.-29. Oktober 1985, Proceedings",
+            "Conference": "Wissensbasierte Systeme",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186307",
+            "Type": "proceedings",
+            "Volume": "169",
+            "Year": "1988",
+            "Title": "Wissensarten und ihre Darstellung, Beitrage aus Philosophie, Informatik und Linguistik [Workshop 20./21. November 1986, Universitat Erlangen-Nurnberg]",
+            "Conference": "Wissensarten und ihre Darstellung",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186308",
+            "Type": "proceedings",
+            "Volume": "155",
+            "Year": "1987",
+            "Title": "Wissensbasierte Systeme, 2. Internationaler GI-Kongress, Munchen, 20./21. Oktober 1987, Proceedings",
+            "Conference": "Wissensbasierte Systeme",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186309",
+            "Type": "proceedings",
+            "Volume": "227",
+            "Year": "1989",
+            "Title": "Wissensbasierte Systeme, 3. Internationaler GI-Kongress, Munchen, 16./17. Oktober 1989, Proceedings",
+            "Conference": "Wissensbasierte Systeme",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186310",
+            "Type": "proceedings",
+            "Volume": "291",
+            "Year": "1991",
+            "Title": "Verteilte Kunstliche Intelligenz und kooperatives Arbeiten, 4. Internationaler GI-Kongress Wissensbasierte Systeme, Munchen, 23.-24. Oktober 1991, Proceedings",
+            "Conference": "Wissensbasierte Systeme",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186311",
+            "Type": "proceedings",
+            "Volume": "1434",
+            "Year": "1998",
+            "Title": "Virtual Worlds, First International Conference, VW_98, Paris, France, July 1-3, 1998, Proceedings",
+            "Conference": "Virtual Worlds",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186312",
+            "Type": "proceedings",
+            "Volume": "1834",
+            "Year": "2000",
+            "Title": "Virtual Worlds, Second International Conference, VW 2000, Paris, France, July 5-7, 2000, Proceedings",
+            "Conference": "Virtual Worlds",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186313",
+            "Type": "proceedings",
+            "Volume": "28",
+            "Year": "2003",
+            "Title": "WM 2003: Professionelles Wissesmanagement - Erfahrungen und Visionen, Beitrage der 2. Konferenz Professionelles Wissensmanagement, 2.-4. April 2003 in Luzern",
+            "Conference": "Wissensmanagement",
+            "Publisher": "GI"
+        },
+        {
+            "_id": "1186314",
+            "Type": "proceedings",
+            "Year": "2005",
+            "Title": "WM 2005: Professional Knowledge Management - Experiences and Visions, Contributions to the 3rd Conference Professional Knowledge Management - Experiences and Visions, April 10-13, 2005, Kaiserslautern, Germany",
+            "Conference": "Wissensmanagement",
+            "Publisher": "DFKI, Kaiserslautern"
+        },
+        {
+            "_id": "1186315",
+            "Type": "proceedings",
+            "Year": "1980",
+            "Title": "XP1 Workshop on Relational Database Theory, 30 June - 2 July 1980, SUNY at Stony Brook, NY, USA",
+            "Conference": "XP1 Workshop on Database Theory"
+        },
+        {
+            "_id": "1186316",
+            "Type": "proceedings",
+            "Year": "1981",
+            "Title": "XP2 Workshop on Relational Database Theory, June 22-24 1981, The Pennsylvania State University, PA, USA",
+            "Conference": "XP2 Workshop on Relational Database Theory"
+        },
+        {
+            "_id": "1186317",
+            "Type": "proceedings",
+            "Year": "1983",
+            "Title": "XP4.5 Workshop on Database Theory, 1983 Palo Alto, California, USA",
+            "Conference": "XP4.5 Workshop on Database Theory"
+        },
+        {
+            "_id": "1186318",
+            "Type": "proceedings",
+            "Year": "1986",
+            "Title": "XP / 7.52 Workshop on Database Theory, University of Texas at Austin, TX, USA, August 13-15, 1986",
+            "Conference": "XP7.52 Workshop on Database Theory"
+        },
+        {
+            "_id": "1186319",
+            "Type": "proceedings",
+            "Year": "1988",
+            "Title": "Proceedings of the Sixteenth ACM Annual Conference on Computer Science, Atlanta, Georgia, USA, February 23-25, 1988",
+            "Conference": "ACM Conference on Computer Science",
+            "Publisher": "ACM"
+        },
+        {
+            "_id": "1186320",
+            "Type": "proceedings",
+            "Year": "1987",
+            "Title": "Proceedings of the 15th ACM Annual Conference on Computer Science, St. Louis, Missouri, USA, February 16-19, 1987",
+            "Conference": "ACM Conference on Computer Science",
+            "Publisher": "ACM"
+        },
+        {
+            "_id": "1186321",
+            "Type": "proceedings",
+            "Year": "1986",
+            "Title": "Proceedings of the 14th ACM Annual Conference on Computer Science, Cincinnati, Ohio, USA, 1986",
+            "Conference": "ACM Conference on Computer Science",
+            "Publisher": "ACM"
+        },
+        {
+            "_id": "1186322",
+            "Type": "proceedings",
+            "Year": "1985",
+            "Title": "Proceedings of the 13th ACM Annual Conference on Computer Science, New Orleans, Louisiana, USA, 1985",
+            "Conference": "ACM Conference on Computer Science",
+            "Publisher": "ACM"
+        },
+        {
+            "_id": "1186323",
+            "Type": "proceedings",
+            "Year": "1978",
+            "Title": "Proceedings 1978 ACM Annual Conference, Washington, DC, USA, December 4-6, 1978, Volume I",
+            "Conference": "ACM Annual Conference (1)",
+            "Publisher": "ACM"
+        },
+        {
+            "_id": "1186324",
+            "Type": "proceedings",
+            "Year": "1978",
+            "Title": "Proceedings 1978 ACM Annual Conference, Washington, DC, USA, December 4-6, 1978, Volume II",
+            "Conference": "ACM Annual Conference (2)",
+            "Publisher": "ACM"
+        },
+        {
+            "_id": "1186325",
+            "Type": "proceedings",
+            "Volume": "819",
+            "Year": "1994",
+            "Title": "Applications of Databases, First International Conference, ADB-94, Vadstena, Sweden, June 21-23, 1994, Proceedings",
+            "Conference": "ADB",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186326",
+            "Type": "proceedings",
+            "Volume": "20",
+            "Year": "1998",
+            "Title": "Database Systems 98, Proceedings of the 9th Australasian Database Conference, ADC _98, Perth, Australia, 2-3 February 1998",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186327",
+            "Type": "proceedings",
+            "Volume": "17",
+            "Year": "2003",
+            "Title": "Database Technologies 2003, Proceedings of the 14th Australasian Database Conference, ADC 2003, Adelaide, South Australia, February 2003",
+            "Conference": "ADC",
+            "Publisher": "Australian Computer Society"
+        },
+        {
+            "_id": "1186328",
+            "Type": "proceedings",
+            "Volume": "27",
+            "Year": "2004",
+            "Title": "Database Technologies 2004, Proceedings of the Fifteenth Australasian Database Conference, ADC 2004, Dunedin, New Zealand, 18-22 January 2004",
+            "Conference": "ADC",
+            "Publisher": "Australian Computer Society"
+        },
+        {
+            "_id": "1186329",
+            "Type": "proceedings",
+            "Volume": "5",
+            "Year": "2002",
+            "Title": "Database Technologies 2002, Thirteenth Australasian Database Conference (ADC2002), Monash University, Melbourne, Victoria, January/February 2002",
+            "Conference": "ADC",
+            "Publisher": "Australian Computer Society"
+        },
+        {
+            "_id": "1186330",
+            "Type": "proceedings",
+            "Volume": "39",
+            "Year": "2005",
+            "Title": "Database Technologies 2005, Proceedings of the Sixteenth Australasian Database Conference, ADC 2005, Newcastle, Australia, January 31st - February 3rd 2005",
+            "Conference": "ADC",
+            "Publisher": "Australian Computer Society"
+        },
+        {
+            "_id": "1186331",
+            "Type": "proceedings",
+            "Volume": "1360",
+            "Year": "1997",
+            "Title": "Automated Deduction in Geometry, International Workshop on Automated Deduction in Geometry, Toulouse, France, September  27-29, 1996, Selected Papers",
+            "Conference": "Automated Deduction in Geometry",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186332",
+            "Type": "proceedings",
+            "Volume": "1669",
+            "Year": "1999",
+            "Title": "Automated Deduction in Geometry, Second International Workshop, ADG_98, Beijing, China, August 1-3, 1998, Proceedings",
+            "Conference": "Automated Deduction in Geometry",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186333",
+            "Type": "proceedings",
+            "Volume": "2061",
+            "Year": "2001",
+            "Title": "Automated Deduction in Geometry, Third International Workshop, ADG 2000, Zurich, Switzerland, September 25-27, 2000, Revised Papers",
+            "Conference": "Automated Deduction in Geometry",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186334",
+            "Type": "proceedings",
+            "Volume": "2930",
+            "Year": "2004",
+            "Title": "Automated Deduction in Geometry, 4th International Workshop, ADG 2002, Hagenberg Castle, Austria, September 4-6, 2002, Revised Papers",
+            "Conference": "Automated Deduction in Geometry",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186335",
+            "Type": "proceedings",
+            "Volume": "3763",
+            "Year": "2006",
+            "Title": "Automated Deduction in Geometry, 5th International Workshop, ADG 2004, Gainesville, FL, USA, September 16-18, 2004, Revised Papers",
+            "Conference": "Automated Deduction in Geometry",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186336",
+            "Type": "proceedings",
+            "Volume": "207",
+            "Year": "1985",
+            "Title": "The Analysis of Concurrent Systems, Cambridge, September 12-16, 1983, Proceedings",
+            "Conference": "The Analysis of Concurrent Systems",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186337",
+            "Type": "proceedings",
+            "Volume": "1082",
+            "Year": "1996",
+            "Title": "Digital Libraries, Research and Technology Advances, ADL _95 Forum, McLean, Virginia, USA, May 15-17, 1995, Selected Papers",
+            "Conference": "ADL",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186338",
+            "Type": "proceedings",
+            "Volume": "116",
+            "Year": "1985",
+            "Title": "Recent Trends in Data Type Specification, 3rd Workshop on Theory and Applications of Abstract Data Types, Bremen, November 13-16, 1984, Selected Papers",
+            "Conference": "ADT",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186339",
+            "Type": "proceedings",
+            "Volume": "332",
+            "Year": "1987",
+            "Title": "Recent Trends in Data Type Specification, 5th Workshop on Abstract Data Types, Gullane, Scotland, September 1-4, 1987, Selected Papers",
+            "Conference": "ADT",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186340",
+            "Type": "proceedings",
+            "Volume": "534",
+            "Year": "1991",
+            "Title": "Recent Trends in Data Type Specification, Proceedings 7th Workshop on Abstract Data Types, Wusterhausen, Dosse, Germany, April 17-20, 1990",
+            "Conference": "ADT",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186341",
+            "Type": "proceedings",
+            "Volume": "3373",
+            "Year": "2005",
+            "Title": "Advanced Encryption Standard - AES, 4th International Conference, AES 2004, Bonn, Germany, May 10-12, 2004, Revised Selected and Invited Papers",
+            "Conference": "AES Conference",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186342",
+            "Type": "proceedings",
+            "Volume": "1608",
+            "Year": "1999",
+            "Title": "Advanced Functional Programming, Third International School, Braga, Portugal, September 12-19, 1998, Revised Lectures",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186343",
+            "Type": "proceedings",
+            "Volume": "1129",
+            "Year": "1996",
+            "Title": "Advanced Functional Programming, Second International School, Olympia, WA, USA, August 26-30, 1996, Tutorial Text",
+            "Conference": "Advanced Functional Programming",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186344",
+            "Type": "proceedings",
+            "Volume": "2638",
+            "Year": "2003",
+            "Title": "Advanced Functional Programming, 4th International School, AFP 2002, Oxford, UK, August 19-24, 2002, Revised Lectures",
+            "Conference": "Advanced Functional Programming",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186345",
+            "Type": "proceedings",
+            "Volume": "3622",
+            "Year": "2005",
+            "Title": "Advanced Functional Programming, 5th International School, AFP 2004, Tartu, Estonia, August 14-21, 2004, Revised Lectures",
+            "Conference": "Advanced Functional Programming",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186346",
+            "Type": "proceedings",
+            "Volume": "925",
+            "Year": "1995",
+            "Title": "Advanced Functional Programming, First International Spring School on Advanced Functional Programming Techniques, Bastad, Sweden, May 24-30, 1995, Tutorial Text",
+            "Conference": "Advanced Functional Programming",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186347",
+            "Type": "proceedings",
+            "Volume": "215",
+            "Year": "1986",
+            "Title": "Mathematical Methods of Specification and Synthesis of Software Systems _85, Proceedings of the International Spring School, Wendisch-Rietz, GDR, April 22-26, 1985",
+            "Conference": "Mathematical Methods of Specification and Synthesis of Software Systems",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186348",
+            "Type": "proceedings",
+            "Volume": "265",
+            "Year": "1987",
+            "Title": "Analogical and Inductive Inference, International Workshop AII _86, Wendisch-Rietz, GDR, October 6-10, 1986, Proceedings",
+            "Conference": "AII",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186349",
+            "Type": "proceedings",
+            "Volume": "397",
+            "Year": "1989",
+            "Title": "Analogical and Inductive Inference, International Workshop AII _89, Reinhardsbrunn Castle, GDR, October 1-6, 1989, Proceedings",
+            "Conference": "AII",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186350",
+            "Type": "proceedings",
+            "Volume": "642",
+            "Year": "1992",
+            "Title": "Analogical and Inductive Inference, International Workshop AII _92, Dagstuhl Castle, Germany, October 5-9, 1992, Proceedings",
+            "Conference": "AII",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186351",
+            "Type": "proceedings",
+            "Volume": "95",
+            "Year": "1997",
+            "Title": "Algorithmic Languages and Calculi, IFIP TC2 WG2.1 International Workshop on Algorithmic Languages and Calculi, 17-22 February 1997, Alsace, France",
+            "Conference": "Algorithmic Languages and Calculi",
+            "Publisher": "Chapman a Hall"
+        },
+        {
+            "_id": "1186352",
+            "Type": "proceedings",
+            "Volume": "343",
+            "Year": "1988",
+            "Title": "Algebraic and Logic Programming, International Workshop, Gaussig, GDR, November 14-18, 1988, Proceedings",
+            "Conference": "ALP",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186353",
+            "Type": "proceedings",
+            "Volume": "463",
+            "Year": "1990",
+            "Title": "Algebraic and Logic Programming, Second International Conference, Nancy, France, October 1-3, 1990, Proceedings",
+            "Conference": "ALP",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186354",
+            "Type": "proceedings",
+            "Volume": "632",
+            "Year": "1992",
+            "Title": "Algebraic and Logic Programming, Third International Conference, Volterra, Italy, September 2-4, 1992, Proceedings",
+            "Conference": "ALP",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186355",
+            "Type": "proceedings",
+            "Volume": "850",
+            "Year": "1994",
+            "Title": "Algebraic and Logic Programming, 4th International Conference, ALP_94, Madid, Spain, September 14-16, 1994, Proceedings",
+            "Conference": "ALP",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186356",
+            "Type": "proceedings",
+            "Volume": "1139",
+            "Year": "1996",
+            "Title": "Algebraic and Logic Programming, 5th International Conference, ALP_96, Aachen, Germany, September 25-27, 1996,  Proceedings",
+            "Conference": "ALP",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186357",
+            "Type": "proceedings",
+            "Volume": "1298",
+            "Year": "1997",
+            "Title": "Algebraic and Logic Programming, 6th International Joint Conference, ALP _97 - HOA _97, Southampton, U.K., Spetember 3-5, 1997, Proceedings",
+            "Conference": "ALP/HOA",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186358",
+            "Type": "proceedings",
+            "Volume": "2684",
+            "Year": "2003",
+            "Title": "Anticipatory Behavior in Adaptive Learning Systems, Foundations, Theories, and Systems",
+            "Conference": "Anticipatory Behavior in Adaptive Learning Systems",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186359",
+            "Type": "proceedings",
+            "Volume": "743",
+            "Year": "1993",
+            "Title": "Algorithmic Learning Theory, Third Workshop, ALT _92, Tokyo, Japan, October 20-22, 1992, Proceedings",
+            "Conference": "ALT",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186360",
+            "Type": "proceedings",
+            "Volume": "744",
+            "Year": "1993",
+            "Title": "Algorithmic Learning Theory, 4th International Workshop, ALT _93, Tokyo, Japan, November 8-10, 1993, Proceedings",
+            "Conference": "ALT",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186361",
+            "Type": "proceedings",
+            "Volume": "872",
+            "Year": "1994",
+            "Title": "Algorithmic Learning Theory, 4th International Workshop on Analogical and Inductive Inference, AII _94, 5th International Workshop on Algorithmic Learning Theory, ALT _94, Reinhardsbrunn Castle, Germany, October 10-15, 1994, Proceedings",
+            "Conference": "AII/ALT",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186362",
+            "Type": "proceedings",
+            "Volume": "997",
+            "Year": "1995",
+            "Title": "Algorithmic Learning Theory, 6th International Conference, ALT _95, Fukuoka, Japan, October 18-20, 1995, Proceedings",
+            "Conference": "ALT",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186363",
+            "Type": "proceedings",
+            "Volume": "1160",
+            "Year": "1996",
+            "Title": "Algorithmic Learning Theory, 7th International Workshop, ALT _96, Sydney, Australia, October 23-25, 1996, Proceedings",
+            "Conference": "ALT",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186364",
+            "Type": "proceedings",
+            "Volume": "1316",
+            "Year": "1997",
+            "Title": "Algorithmic Learning Theory, 8th International Conference, ALT _97, Sendai, Japan, October 6-8, 1997, Proceedings",
+            "Conference": "ALT",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186365",
+            "Type": "proceedings",
+            "Volume": "1501",
+            "Year": "1998",
+            "Title": "Algorithmic Learning Theory, 9th International Conference, ALT _98, Otzenhausen, Germany, October 8-10, 1998, Proceedings",
+            "Conference": "ALT",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186366",
+            "Type": "proceedings",
+            "Volume": "1720",
+            "Year": "1999",
+            "Title": "Algorithmic Learning Theory, 10th International Conference, ALT _99, Tokyo, Japan, December 6-8, 1999, Proceedings",
+            "Conference": "ALT",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186367",
+            "Type": "proceedings",
+            "Volume": "1968",
+            "Year": "2000",
+            "Title": "Algorithmic Learning Theory, 11th International Conference, ALT 2000, Sydney, Australia, December 11-13, 2000, Proceedings",
+            "Conference": "ALT",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186368",
+            "Type": "proceedings",
+            "Volume": "2225",
+            "Year": "2001",
+            "Title": "Algorithmic Learning Theory, 12th International Conference, ALT 2001, Washington, DC, USA, November 25-28, 2001, Proceedings",
+            "Conference": "ALT",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186369",
+            "Type": "proceedings",
+            "Volume": "2533",
+            "Year": "2002",
+            "Title": "Algorithmic Learning Theory, 13th International Conference, ALT 2002, Lubeck, Germany, November 24-26, 2002, Proceedings",
+            "Conference": "ALT",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186370",
+            "Type": "proceedings",
+            "Volume": "2842",
+            "Year": "2003",
+            "Title": "Algorithmic Learning Theory, 14th International Conference, ALT 2003, Sapporo, Japan, October 17-19, 2003, Proceedings",
+            "Conference": "ALT",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186371",
+            "Type": "proceedings",
+            "Volume": "3244",
+            "Year": "2004",
+            "Title": "Algorithmic Learning Theory, 15th International Conference, ALT 2004, Padova, Italy, October 2-5, 2004, Proceedings",
+            "Conference": "ALT",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186372",
+            "Type": "proceedings",
+            "Volume": "3734",
+            "Year": "2005",
+            "Title": "Algorithmic Learning Theory, 16th International Conference, ALT 2005, Singapore, October 8-11, 2005, Proceedings",
+            "Conference": "ALT",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186373",
+            "Type": "proceedings",
+            "Year": "1995",
+            "Title": "Autonome Mobile Systeme 1995, 11. Fachgesprach, Karlsruhe, 30. November - 1. Dezember 1995",
+            "Conference": "AMS",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186374",
+            "Type": "proceedings",
+            "Year": "1996",
+            "Title": "Autonome Mobile Systeme 1996, 12. Fachgesprach, Munchen, 14.-15. Oktober 1996",
+            "Conference": "AMS",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186375",
+            "Type": "proceedings",
+            "Year": "1997",
+            "Title": "Autonome Mobile Systeme 1997, 13. Fachgesprach, Stuttgart, 6.-7. Oktober 1997",
+            "Conference": "AMS",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186376",
+            "Type": "proceedings",
+            "Year": "1999",
+            "Title": "Autonome Mobile Systeme 1998, 14. Fachgesprach, Karlsruhe, 30. November - 1. Dezember 1998",
+            "Conference": "AMS",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186377",
+            "Type": "proceedings",
+            "Year": "2000",
+            "Title": "Autonome Mobile Systeme 1999, 15. Fachgesprach, Munchen, 26.-27. November 1999",
+            "Conference": "AMS",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186378",
+            "Type": "proceedings",
+            "Year": "2000",
+            "Title": "Autonome Mobile Systeme 2000, 16. Fachgesprach, Karlsruhe, 20./21. November 2000",
+            "Conference": "AMS",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186379",
+            "Type": "proceedings",
+            "Year": "2001",
+            "Title": "Autonome Mobile Systeme 2001, 17. Fachgesprach, Stuttgart, 11./12. Oktober 2001",
+            "Conference": "AMS",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186380",
+            "Type": "proceedings",
+            "Volume": "2252",
+            "Year": "2001",
+            "Title": "Active Media Technology, 6th International Computer Science Conference, AMT 2001, Hong Kong, China, December 18-20, 2001, Proceedings",
+            "Conference": "AMT",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186381",
+            "Type": "proceedings",
+            "Year": "1990",
+            "Title": "Sixiemes Journees Bases de Donnees Avancees, 25-28 Septembre 1990, Montpellier",
+            "Conference": "BDA",
+            "Publisher": "INRIA"
+        },
+        {
+            "_id": "1186382",
+            "Type": "proceedings",
+            "Year": "1985",
+            "Title": "Journees Bases de Donnees Avances, 6-8 Mars 1985, St. Pierre de Chartreuse",
+            "Conference": "BDA",
+            "Publisher": "INRIA"
+        },
+        {
+            "_id": "1186383",
+            "Type": "proceedings",
+            "Year": "1986",
+            "Title": "2emes Journees Bases de Donnees Avances, 22-25 Avril 1986, Giens",
+            "Conference": "BDA",
+            "Publisher": "INRIA"
+        },
+        {
+            "_id": "1186384",
+            "Type": "proceedings",
+            "Year": "1987",
+            "Title": "Troisiemes Journees Bases de Donnees Avancees, 20-22 Mai 1987, Port-Camargue",
+            "Conference": "BDA",
+            "Publisher": "INRIA"
+        },
+        {
+            "_id": "1186385",
+            "Type": "proceedings",
+            "Year": "1992",
+            "Title": "VIIIemes Journees Bases de Donnees Avancees, 15-18 Septembre 1992, Tregastel",
+            "Conference": "BDA",
+            "Publisher": "INRIA"
+        },
+        {
+            "_id": "1186386",
+            "Type": "proceedings",
+            "Year": "1993",
+            "Title": "Neuviemes Journees Bases de Donnees Avancees, 27-30 Septembre 1993, Toulouse",
+            "Conference": "BDA",
+            "Publisher": "INRIA"
+        },
+        {
+            "_id": "1186387",
+            "Type": "proceedings",
+            "Year": "1994",
+            "Title": "Dixiemes Journees Bases de Donnees Avancees, 30 Aout - 2 Septembre 1994, Clermont-Ferrand",
+            "Conference": "BDA",
+            "Publisher": "INRIA"
+        },
+        {
+            "_id": "1186388",
+            "Type": "proceedings",
+            "Year": "1991",
+            "Title": "VIIemes Journees Bases de Donnees Avancees, 25-27 Septembre 1991, Lyon",
+            "Conference": "BDA",
+            "Publisher": "INRIA"
+        },
+        {
+            "_id": "1186389",
+            "Type": "proceedings",
+            "Year": "1995",
+            "Title": "Onziemes Journees Bases de Donnees Avancees, 29 Aout - 1er Septembre 1995, Nancy",
+            "Conference": "BDA",
+            "Publisher": "INRIA"
+        },
+        {
+            "_id": "1186390",
+            "Type": "proceedings",
+            "Year": "1996",
+            "Title": "12emes Journees Bases de Donnees Avancees, 27-30 Aout 1996, Cassis",
+            "Conference": "BDA",
+            "Publisher": "INRIA"
+        },
+        {
+            "_id": "1186391",
+            "Type": "proceedings",
+            "Year": "1989",
+            "Title": "Cinquiemes Journees Bases de Donnees Avancees, 26-28 Septembre 1989, Geneve, Suisse",
+            "Conference": "BDA",
+            "Publisher": "INRIA"
+        },
+        {
+            "_id": "1186392",
+            "Type": "proceedings",
+            "Year": "1988",
+            "Title": "Quatriemes Journees Bases de Donnees Avancees, 17-20 Mai 1988, Benodet, France (2 Volumes)",
+            "Conference": "BDA",
+            "Publisher": "INRIA"
+        },
+        {
+            "_id": "1186393",
+            "Type": "proceedings",
+            "Volume": "931",
+            "Year": "1995",
+            "Title": "Artificial Neural Networks: An Introduction to ANN Theory and Practice",
+            "Conference": "Artificial Neural Networks",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186394",
+            "Type": "proceedings",
+            "Volume": "52",
+            "Year": "1982",
+            "Title": "Application and Theory of Petri Nets, Selected Papers from the First and the Second European Workshop on Application and Theory of Petri Nets, Stasbourg 23.-26. September 1980, Bad Honnef 28.-30. September 1981",
+            "Conference": "Selected Papers from the First and the Second European Workshop on Application and Theory of Petri Nets",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186395",
+            "Type": "proceedings",
+            "Volume": "66",
+            "Year": "1983",
+            "Title": "Applications and Theory of Petri Nets, Selected Papers from the 3rd European Workshop on Applications and Theory of Petri Nets, Varenna, Italy, September 27-30, 1982",
+            "Conference": "European Workshop on Applications and Theory of Petri Nets",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186396",
+            "Type": "proceedings",
+            "Volume": "188",
+            "Year": "1985",
+            "Title": "Advances in Petri Nets 1984, European Workshop on Applications and Theory in Petri Nets, covers the last two years which include the workshop 1983 in Toulouse and the workshop 1984 in Aarhus, selected papers",
+            "Conference": "European Workshop on Applications and Theory in Petri Nets",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186397",
+            "Type": "proceedings",
+            "Volume": "222",
+            "Year": "1986",
+            "Title": "Advances in Petri Nets 1985, covers the 6th European Workshop on Applications and Theory in Petri Nets, Espoo, Finland in June 1985, selected papers",
+            "Conference": "Applications and Theory of Petri Nets",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186398",
+            "Type": "proceedings",
+            "Volume": "266",
+            "Year": "1987",
+            "Title": "Advances in Petri Nets 1987, covers the 7th European Workshop on Applications and Theory of Petri Nets, Oxford, UK, June 1986",
+            "Conference": "Applications and Theory of Petri Nets",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186399",
+            "Type": "proceedings",
+            "Volume": "340",
+            "Year": "1988",
+            "Title": "Advances in Petri Nets 1988, covers the 8th European Workshop on Applications and Theory of Petri Nets, held in Zaragoza, Spain in June 1987, selected papers",
+            "Conference": "European Workshop on Applications and Theory of Petri Nets",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186400",
+            "Type": "proceedings",
+            "Volume": "424",
+            "Year": "1990",
+            "Title": "Advances in Petri Nets 1989, covers the 9th European Workshop on Applications and Theory in Petri Nets, held in Venice, Italy in June 1988, selected papers",
+            "Conference": "Applications and Theory of Petri Nets",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186401",
+            "Type": "proceedings",
+            "Volume": "483",
+            "Year": "1991",
+            "Title": "Advances in Petri Nets 1990 [10th International Conference on Applications and Theory of Petri Nets, Bonn, Germany, June 1989, Proceedings]",
+            "Conference": "Applications and Theory of Petri Nets",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186402",
+            "Type": "proceedings",
+            "Volume": "524",
+            "Year": "1991",
+            "Title": "Advances in Petri Nets 1991, Papers from the 11th International Conference on Applications and Theory of Petri Nets,  Paris, France, June 1990",
+            "Conference": "Applications and Theory of Petri Nets",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186403",
+            "Type": "proceedings",
+            "Volume": "674",
+            "Year": "1993",
+            "Title": "Advances in Petri Nets 1993, Papers from the 12th International Conference on Applications and Theory of Petri Nets, Gjern, Denmark, June 1991",
+            "Conference": "Applications and Theory of Petri Nets",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186404",
+            "Type": "proceedings",
+            "Volume": "616",
+            "Year": "1992",
+            "Title": "Application and Theory of Petri Nets 1992, 13th International Conference, Sheffield, UK, June 22-26, 1992, Proceedings",
+            "Conference": "Application and Theory of Petri Nets",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186405",
+            "Type": "proceedings",
+            "Volume": "691",
+            "Year": "1993",
+            "Title": "Application and Theory of Petri Nets 1993, 14th International Conference, Chicago, Illinois, USA, June 21-25, 1993, Proceedings",
+            "Conference": "Application and Theory of Petri Nets",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186406",
+            "Type": "proceedings",
+            "Volume": "815",
+            "Year": "1994",
+            "Title": "Application and Theory of Petri Nets 1994, 15th International Conference, Zaragoza, Spain, June 20-24, 1994, Proceedings",
+            "Conference": "Application and Theory of Petri Nets",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186407",
+            "Type": "proceedings",
+            "Volume": "935",
+            "Year": "1995",
+            "Title": "Application and Theory of Petri Nets 1995, 16th International Conference, Turin, Italy, June 26-30, 1995, Proceedings",
+            "Conference": "Application and Theory of Petri Nets",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186408",
+            "Type": "proceedings",
+            "Volume": "1091",
+            "Year": "1996",
+            "Title": "Application and Theory of Petri Nets 1996, 17th International Conference, Osaka, Japan, June 24-28, 1996, Proceedings",
+            "Conference": "Application and Theory of Petri Nets",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186409",
+            "Type": "proceedings",
+            "Volume": "1248",
+            "Year": "1997",
+            "Title": "Application and Theory of Petri Nets 1997, 18th International Conference, ICATPN _97, Toulouse, France, June 23-27, 1997, Proceedings",
+            "Conference": "ICATPN",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186410",
+            "Type": "proceedings",
+            "Volume": "1420",
+            "Year": "1998",
+            "Title": "Application and Theory of Petri Nets 1998, 19th International Conference, ICATPN _98, Lisbon, Portugal, June  22-26, 1998, Proceedings",
+            "Conference": "ICATPN",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186411",
+            "Type": "proceedings",
+            "Volume": "1639",
+            "Year": "1999",
+            "Title": "Application and Theory of Petri Nets 1999, 20th International Conference, ICATPN _99, Williamsburg, Virginia, USA, June  21-25, 1999, Proceedings",
+            "Conference": "ICATPN",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186412",
+            "Type": "proceedings",
+            "Volume": "1825",
+            "Year": "2000",
+            "Title": "Application and Theory of Petri Nets 2000, 21st International Conference, ICATPN 2000, Aarhus, Denmark, June 26-30, 2000, Proceeding",
+            "Conference": "ICATPN",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186413",
+            "Type": "proceedings",
+            "Volume": "2075",
+            "Year": "2001",
+            "Title": "Application and Theory of Petri Nets 2001, 22nd International Conference, ICATPN 2001, Newcastle upon Tyne, UK, June 25-29, 2001, Proceedings",
+            "Conference": "ICATPN",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186414",
+            "Type": "proceedings",
+            "Volume": "2360",
+            "Year": "2002",
+            "Title": "Applications and Theory of Petri Nets 2002, 23rd International Conference, ICATPN 2002, Adelaide, Australia, June 24-30, 2002, Proceedings",
+            "Conference": "ICATPN",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186415",
+            "Type": "proceedings",
+            "Volume": "2679",
+            "Year": "2003",
+            "Title": "Applications and Theory of Petri Nets 2003, 24th International Conference, ICATPN 2003, Eindhoven, The Netherlands, June 23-27, 2003, Proceedings",
+            "Conference": "ICATPN",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186416",
+            "Type": "proceedings",
+            "Volume": "3099",
+            "Year": "2004",
+            "Title": "Applications and Theory of Petri Nets 2004, 25th International Conference, ICATPN 2004, Bologna, Italy, June 21-25, 2004, Proceedings",
+            "Conference": "ICATPN",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186417",
+            "Type": "proceedings",
+            "Volume": "609",
+            "Year": "1992",
+            "Title": "Advances in Petri Nets 1992, The DEMON Project",
+            "Conference": "Advances in Petri Nets: The DEMON Project",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186418",
+            "Type": "proceedings",
+            "Volume": "2128",
+            "Year": "2001",
+            "Title": "Unifying Petri Nets, Advances in Petri Nets",
+            "Conference": "Unifying Petri Nets",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186419",
+            "Type": "proceedings",
+            "Volume": "3536",
+            "Year": "2005",
+            "Title": "Applications and Theory of Petri Nets 2005, 26th International Conference, ICATPN 2005, Miami, USA, June 20-25, 2005, Proceedings",
+            "Conference": "ICATPN",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186420",
+            "Type": "proceedings",
+            "Volume": "1605",
+            "Year": "1999",
+            "Title": "Application of Petri Nets to Communication Networks, Advances in Petri Nets",
+            "Conference": "Application of Petri Nets to Communication Networks",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186421",
+            "Type": "proceedings",
+            "Year": "2000",
+            "Title": "Artificial Intelligence and Soft Computing, July 24-26, 2000, Banff, Alberta, Canada",
+            "Conference": "Artificial Intelligence and Soft Computing",
+            "Publisher": "IASTED/ACTA Press"
+        },
+        {
+            "_id": "1186422",
+            "Type": "proceedings",
+            "Volume": "1912",
+            "Year": "2000",
+            "Title": "Abstract State Machines, Theory and Applications, International Workshop, ASM 2000, Monte Verita, Switzerland, March 19-24, 2000, Proceedings",
+            "Conference": "Abstract State Machines",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186423",
+            "Type": "proceedings",
+            "Volume": "2589",
+            "Year": "2003",
+            "Title": "Abstract State Machines, Advances in Theory and Practice, 10th International Workshop, ASM 2003, Taormina, Italy, March 3-7, 2003, Proceedings",
+            "Conference": "Abstract State Machines",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186424",
+            "Type": "proceedings",
+            "Volume": "3052",
+            "Year": "2004",
+            "Title": "Abstract State Machines 2004. Advances in Theory and Practice, 11th International Workshop, ASM 2004, Lutherstadt Wittenberg, Germany, May 24-28, 2004. Proceedings",
+            "Conference": "Abstract State Machines",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186425",
+            "Type": "proceedings",
+            "Year": "1995",
+            "Title": "4th Asian Test Symposium (ATS _95), November 23-24, 1995. Bangalore, India",
+            "Conference": "Asian Test Symposium",
+            "Publisher": "IEEE Computer Society"
+        },
+        {
+            "_id": "1186426",
+            "Type": "proceedings",
+            "Year": "1996",
+            "Title": "5th Asian Test Symposium (ATS _96), November 20-22, 1996, Hsinchu, Taiwan",
+            "Conference": "Asian Test Symposium",
+            "Publisher": "IEEE Computer Society"
+        },
+        {
+            "_id": "1186427",
+            "Type": "proceedings",
+            "Year": "1997",
+            "Title": "6th Asian Test Symposium (ATS _97), 17-18 November 1997, Akita, Japan",
+            "Conference": "Asian Test Symposium",
+            "Publisher": "IEEE Computer Society"
+        },
+        {
+            "_id": "1186428",
+            "Type": "proceedings",
+            "Year": "1998",
+            "Title": "7th Asian Test Symposium (ATS _98), 2-4 December 1998, Singapore",
+            "Conference": "Asian Test Symposium",
+            "Publisher": "IEEE Computer Society"
+        },
+        {
+            "_id": "1186429",
+            "Type": "proceedings",
+            "Year": "1999",
+            "Title": "8th Asian Test Symposium (ATS _99), 16-18 November 1999, Shanghai, China",
+            "Conference": "Asian Test Symposium",
+            "Publisher": "IEEE Computer Society"
+        },
+        {
+            "_id": "1186430",
+            "Type": "proceedings",
+            "Year": "2000",
+            "Title": "9th Asian Test Symposium (ATS 2000), 4-6 December 2000, Taipei, Taiwan",
+            "Conference": "Asian Test Symposium",
+            "Publisher": "IEEE Computer Society"
+        },
+        {
+            "_id": "1186431",
+            "Type": "proceedings",
+            "Year": "2001",
+            "Title": "10th Asian Test Symposium (ATS 2001), 19-21 November 2001, Kyoto, Japan",
+            "Conference": "Asian Test Symposium",
+            "Publisher": "IEEE Computer Society"
+        },
+        {
+            "_id": "1186432",
+            "Type": "proceedings",
+            "Year": "2002",
+            "Title": "11th Asian Test Symposium (ATS 2002), 18-20 November 2002, Guam, USA",
+            "Conference": "Asian Test Symposium",
+            "Publisher": "IEEE Computer Society"
+        },
+        {
+            "_id": "1186433",
+            "Type": "proceedings",
+            "Year": "2003",
+            "Title": "12th Asian Test Symposium (ATS 2003), 17-19 November 2003, Xian, China",
+            "Conference": "Asian Test Symposium",
+            "Publisher": "IEEE Computer Society"
+        },
+        {
+            "_id": "1186434",
+            "Type": "proceedings",
+            "Year": "2004",
+            "Title": "13th Asian Test Symposium (ATS 2004), 15-17 November 2004, Kenting, Taiwan",
+            "Conference": "Asian Test Symposium",
+            "Publisher": "IEEE Computer Society"
+        },
+        {
+            "_id": "1186435",
+            "Type": "proceedings",
+            "Year": "2005",
+            "Title": "14th Asian Test Symposium (ATS 2005), 18-21 December 2005, Calcutta, India",
+            "Conference": "Asian Test Symposium",
+            "Publisher": "IEEE Computer Society"
+        },
+        {
+            "_id": "1186436",
+            "Type": "proceedings",
+            "Year": "1998",
+            "Title": "Proceedings of the working conference on Advanced visual interfaces 1998, L_Aquila, Italy, May 24 - 27, 1998",
+            "Conference": "AVI",
+            "Publisher": "ACM Press"
+        },
+        {
+            "_id": "1186437",
+            "Type": "proceedings",
+            "Year": "1996",
+            "Title": "Proceedings of the workshop on Advanced visual interfaces 1996, Gubbio, Italy, May 27-29, 1996",
+            "Conference": "AVI",
+            "Publisher": "ACM Press"
+        },
+        {
+            "_id": "1186438",
+            "Type": "proceedings",
+            "Year": "2004",
+            "Title": "Proceedings of the working conference on Advanced visual interfaces, AVI 2004, Gallipoli, Italy, May 25-28, 2004",
+            "Conference": "AVI",
+            "Publisher": "ACM Press"
+        },
+        {
+            "_id": "1186439",
+            "Type": "proceedings",
+            "Volume": "11",
+            "Year": "1977",
+            "Title": "Methoden der Informatik fur Rechnerunterstutztes Entwerfen und Konstruieren, GI-Fachtagung, Munchen, 19./21. Oktober 1977",
+            "Conference": "CAD-Fachgesprach",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186440",
+            "Type": "proceedings",
+            "Volume": "89",
+            "Year": "1980",
+            "Title": "Computer Aided Design: Modelling, Systems Engineering, CAD-Systems - CREST Advanced Course, Darmstadt, Germany, September 8-19, 1980",
+            "Conference": "CAD Advanced Course",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186441",
+            "Type": "proceedings",
+            "Volume": "65",
+            "Year": "1983",
+            "Title": "Geometrisches Modellieren, Fachtagung der GI und der Technischen Universitat Berlin, Berlin, 24.-26. November 1982, Proceedings",
+            "Conference": "Geometrisches Modellieren",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186442",
+            "Type": "proceedings",
+            "Year": "2002",
+            "Title": "CAD 2002: Corporate Engineering Research, Dresden, March 4-5, 2002",
+            "Conference": "CAD",
+            "Publisher": "GI German Informatics Society"
+        },
+        {
+            "_id": "1186443",
+            "Type": "proceedings",
+            "Volume": "34",
+            "Year": "1980",
+            "Title": "CAD-Fachgesprach, GI - 10. Jahrestagung, Saarbrucken, 30. September - 2. Oktober 1980, Proceedings",
+            "Conference": "CAD-Fachgesprach",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186444",
+            "Type": "proceedings",
+            "Volume": "584",
+            "Year": "1992",
+            "Title": "Computer Algebra and Parallelism, Second International Workshop, Ithaca, USA, May 9-11, 1990",
+            "Conference": "CAP",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186445",
+            "Type": "proceedings",
+            "Volume": "531",
+            "Year": "1991",
+            "Title": "Computer Aided Verification, 2nd International Workshop, CAV _90, New Brunswick, NJ, USA, June 18-21, 1990, Proceedings",
+            "Conference": "CAV",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186446",
+            "Type": "proceedings",
+            "Volume": "575",
+            "Year": "1992",
+            "Title": "Computer Aided Verification, 3rd International Workshop, CAV _91, Aalborg, Denmark, July, 1-4, 1991, Proceedings",
+            "Conference": "CAV",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186447",
+            "Type": "proceedings",
+            "Volume": "663",
+            "Year": "1993",
+            "Title": "Computer Aided Verification, Fourth International Workshop, CAV _92, Montreal, Canada, June 29 - July 1, 1992, Proceedings",
+            "Conference": "CAV",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186448",
+            "Type": "proceedings",
+            "Volume": "697",
+            "Year": "1993",
+            "Title": "Computer Aided Verification, 5th International Conference, CAV _93, Elounda, Greece, June 28 - July 1, 1993, Proceedings",
+            "Conference": "CAV",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186449",
+            "Type": "proceedings",
+            "Volume": "818",
+            "Year": "1994",
+            "Title": "Computer Aided Verification, 6th International Conference, CAV _94, Stanford, California, USA, June 21-23, 1994, Proceedings",
+            "Conference": "CAV",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186450",
+            "Type": "proceedings",
+            "Volume": "939",
+            "Year": "1995",
+            "Title": "Computer Aided Verification, 7th International Conference, Liege, Belgium, July, 3-5, 1995, Proceedings",
+            "Conference": "CAV",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186451",
+            "Type": "proceedings",
+            "Volume": "1102",
+            "Year": "1996",
+            "Title": "Computer Aided Verification, 8th International Conference, CAV _96, New Brunswick, NJ, USA, July 31 - August 3, 1996, Proceedings",
+            "Conference": "CAV",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186452",
+            "Type": "proceedings",
+            "Volume": "1254",
+            "Year": "1997",
+            "Title": "Computer Aided Verification, 9th International Conference, CAV _97, Haifa, Israel, June 22-25, 1997, Proceedings",
+            "Conference": "CAV",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186453",
+            "Type": "proceedings",
+            "Volume": "1427",
+            "Year": "1998",
+            "Title": "Computer Aided Verification, 10th International Conference, CAV _98, Vancouver, BC, Canada, June 28 - July 2, 1998, Proceedings",
+            "Conference": "CAV",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186454",
+            "Type": "proceedings",
+            "Volume": "1633",
+            "Year": "1999",
+            "Title": "Computer Aided Verification, 11th International Conference, CAV _99, Trento, Italy, July 6-10, 1999, Proceedings",
+            "Conference": "CAV",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186455",
+            "Type": "proceedings",
+            "Volume": "1855",
+            "Year": "2000",
+            "Title": "Computer Aided Verification, 12th International Conference, CAV 2000, Chicago, IL, USA, July 15-19, 2000, Proceedings",
+            "Conference": "CAV",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186456",
+            "Type": "proceedings",
+            "Volume": "2102",
+            "Year": "2001",
+            "Title": "Computer Aided Verification, 13th International Conference, CAV 2001, Paris, France, July 18-22, 2001, Proceedings",
+            "Conference": "CAV",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186457",
+            "Type": "proceedings",
+            "Volume": "2404",
+            "Year": "2002",
+            "Title": "Computer Aided Verification, 14th International Conference, CAV 2002,Copenhagen, Denmark, July 27-31, 2002, Proceedings",
+            "Conference": "CAV",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186458",
+            "Type": "proceedings",
+            "Volume": "2725",
+            "Year": "2003",
+            "Title": "Computer Aided Verification, 15th International Conference, CAV 2003, Boulder, CO, USA, July 8-12, 2003, Proceedings",
+            "Conference": "CAV",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186459",
+            "Type": "proceedings",
+            "Volume": "3114",
+            "Year": "2004",
+            "Title": "Computer Aided Verification, 16th International Conference, CAV 2004, Boston, MA, USA, July 13-17, 2004, Proceedings",
+            "Conference": "CAV",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186460",
+            "Type": "proceedings",
+            "Volume": "3576",
+            "Year": "2005",
+            "Title": "Computer Aided Verification, 17th International Conference, CAV 2005, Edinburgh, Scotland, UK, July 6-10, 2005, Proceedings",
+            "Conference": "CAV",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186461",
+            "Type": "proceedings",
+            "Volume": "2064",
+            "Year": "2001",
+            "Title": "Computability and Complexity in Analysis, 4th International Workshop, CCA 2000, Swansea, UK, September 17-19, 2000, Selected Papers",
+            "Conference": "CCA",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186462",
+            "Type": "proceedings",
+            "Volume": "326-7/2005",
+            "Year": "2005",
+            "Title": "CCA 2005 - Second International Conference on Computability and Complexity in Analysis, August 25-29, 2005, Kyoto, Japan",
+            "Conference": "CCA",
+            "Publisher": "FernUniversitat Hagen, Germany"
+        },
+        {
+            "_id": "1186463",
+            "Type": "proceedings",
+            "Year": "1992",
+            "Title": "Algorithms and Parallel VLSI Architectures II, Proceedings of the International Workshop Algorithms and Parallel VLSI Architectures II, Chateau de Bonas, Gers, France, June 3-6, 1991",
+            "Conference": "Algorithms and Parallel VLSI Architectures",
+            "Publisher": "Elsevier"
+        },
+        {
+            "_id": "1186464",
+            "Type": "proceedings",
+            "Volume": "2002",
+            "Year": "2001",
+            "Title": "Constraints in Computational Logics: Theory and Applications, International Summer School, CCL_99 Gif-sur-Yvette, France, September 5-8, 1999, Revised Lectures",
+            "Conference": "CCL",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186465",
+            "Type": "proceedings",
+            "Volume": "845",
+            "Year": "1994",
+            "Title": "Constraints in Computational Logics, First International Conference, CCL_94, Munich, Germant, September 7-9, 1994",
+            "Conference": "CCL",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186466",
+            "Type": "proceedings",
+            "Volume": "1034",
+            "Year": "1996",
+            "Title": "Constraint Databases and Applications, ESPRIT WG CONTESSA Workshop, Friedrichshafen, Germany, September 8-9, 1995, Proceedings",
+            "Conference": "CDB",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186467",
+            "Type": "proceedings",
+            "Volume": "1191",
+            "Year": "1997",
+            "Title": "Constraint Databases and Their Applications, Second International Workshop on Constraint Database Systems, CDB _97, Delphi, Greece, January 11-12, 1997, CP _96 Workshop on Constraints and Databases, Cambridge, MA, USA, August 19, 1996, Selected Papers",
+            "Conference": "CDB",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186468",
+            "Type": "proceedings",
+            "Volume": "3074",
+            "Year": "2004",
+            "Title": "Constraint Databases, Proceedings of the 1st International Symposium on Applications of Constraint Databases, CDB_04, Paris, June 12-13, 2004",
+            "Conference": "CDB",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186469",
+            "Type": "proceedings",
+            "Volume": "2241",
+            "Year": "2001",
+            "Title": "Computational Combinatorial Optimization, Optimal or Provably Near-Optimal Solutions [based on a Spring School, Schlos Dagstuhl, Germany, 15-19 May 2000]",
+            "Conference": "Computational Combinatorial Optimization",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186470",
+            "Type": "proceedings",
+            "Year": "2002",
+            "Title": "Proceedings of the 9th ACM Conference on Computer and Communications Security, CCS 2002, Washingtion, DC, USA, November 18-22, 2002",
+            "Conference": "ACM Conference on Computer and Communications Security",
+            "Publisher": "ACM"
+        },
+        {
+            "_id": "1186471",
+            "Type": "proceedings",
+            "Volume": "2320",
+            "Year": "2002",
+            "Title": "Security and Privacy in Digital Rights Management, ACM CCS-8 Workshop DRM 2001, Philadelphia, PA, USA, November 5, 2001, Revised Papers",
+            "Conference": "Digital Rights Management Workshop",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186472",
+            "Type": "proceedings",
+            "Volume": "2696",
+            "Year": "2003",
+            "Title": "Security and Privacy in Digital Rights Management, ACM CCS-9 Workshop, DRM 2002, Washington, DC, USA, November 18, 2002, Revised Papers",
+            "Conference": "Digital Rights Management Workshop",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186473",
+            "Type": "proceedings",
+            "Year": "2004",
+            "Title": "Proceedings of the 2004 ACM Workshop on Formal Methods in Security Engineering, FMSE 2004, Washingtion, DC, USA, October 29, 2004",
+            "Conference": "FMSE",
+            "Publisher": "ACM"
+        },
+        {
+            "_id": "1186474",
+            "Type": "proceedings",
+            "Year": "2003",
+            "Title": "Proceedings of the 10th ACM Conference on Computer and Communications Security, CCS 2003, Washingtion, DC, USA, October 27-30, 2003",
+            "Conference": "ACM Conference on Computer and Communications Security",
+            "Publisher": "ACM"
+        },
+        {
+            "_id": "1186475",
+            "Type": "proceedings",
+            "Year": "2005",
+            "Title": "Proceedings of the 12th ACM Conference on Computer and Communications Security, CCS 2005, Alexandria, VA, USA, November 7-11, 2005",
+            "Conference": "ACM Conference on Computer and Communications Security",
+            "Publisher": "ACM"
+        },
+        {
+            "_id": "1186476",
+            "Type": "proceedings",
+            "Year": "2004",
+            "Title": "Proceedings of the 11th ACM Conference on Computer and Communications Security, CCS 2004, Washingtion, DC, USA, October 25-29, 2004",
+            "Conference": "ACM Conference on Computer and Communications Security",
+            "Publisher": "ACM"
+        },
+        {
+            "_id": "1186477",
+            "Type": "proceedings",
+            "Volume": "1806",
+            "Year": "2000",
+            "Title": "Business Process Management, Models, Techniques, and Empirical Studies",
+            "Conference": "Business Process Management",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186478",
+            "Type": "proceedings",
+            "Volume": "2678",
+            "Year": "2003",
+            "Title": "Business Process Management, International Conference, BPM 2003, Eindhoven, The Netherlands, June 26-27, 2003, Proceedings",
+            "Conference": "Business Process Management",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186479",
+            "Type": "proceedings",
+            "Volume": "3080",
+            "Year": "2004",
+            "Title": "Business Process Management: Second International Conference, BPM 2004, Potsdam, Germany, June 17-18, 2004. Proceedings",
+            "Conference": "Business Process Management",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186480",
+            "Type": "proceedings",
+            "Volume": "3649",
+            "Year": "2005",
+            "Title": "Business Process Management, 3rd International Conference, BPM 2005, Nancy, France, September 5-8, 2005, Proceedings",
+            "Conference": "Business Process Management"
+        },
+        {
+            "_id": "1186481",
+            "Type": "proceedings",
+            "Volume": "3812",
+            "Year": "2006",
+            "Title": "Business Process Management Workshops, BPM 2005 International Workshops, BPI, BPD, ENEI, BPRM, WSCOBPM, BPS, Nancy, France, September 5, 2005, Revised Selected Papers",
+            "Conference": "Business Process Management Workshops"
+        },
+        {
+            "_id": "1186482",
+            "Type": "proceedings",
+            "Volume": "333",
+            "Year": "1988",
+            "Title": "Computational Geometry and its Applications, CG_88, International Workshop on Computational Geometry, Wurzburg, Germany, March 24-25, 1988",
+            "Conference": "Workshop on Computational Geometry",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186483",
+            "Type": "proceedings",
+            "Volume": "553",
+            "Year": "1991",
+            "Title": "Computational Geometry - Methods, Algorithms and Applications, International Workshop on Computational Geometry CG_91, Bern, Switzerland, March 21-22, 1991",
+            "Conference": "Workshop on Computational Geometry",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186484",
+            "Type": "proceedings",
+            "Year": "1998",
+            "Title": "1998 Computer Graphics International (CGI _98), June 22-24, 1998 - Hannover, Germany, Proceedings",
+            "Conference": "Computer Graphics International",
+            "Publisher": "IEEE Computer Society"
+        },
+        {
+            "_id": "1186485",
+            "Type": "proceedings",
+            "Year": "2001",
+            "Title": "Computer Graphics International 2001 (CGI_01), July 3-6, 2001, Hong Kong, China, Proceedings",
+            "Conference": "Computer Graphics International",
+            "Publisher": "IEEE Computer Society"
+        },
+        {
+            "_id": "1186486",
+            "Type": "proceedings",
+            "Year": "2003",
+            "Title": "2003 Computer Graphics International (CGI 2003), 9-11 July 2003, Tokyo, Japan",
+            "Conference": "Computer Graphics International",
+            "Publisher": "IEEE Computer Society"
+        },
+        {
+            "_id": "1186487",
+            "Type": "proceedings",
+            "Year": "2004",
+            "Title": "2004 Computer Graphics International (CGI 2004), 16-19 June 2004, Crete, Greece",
+            "Conference": "Computer Graphics International",
+            "Publisher": "IEEE Computer Society"
+        },
+        {
+            "_id": "1186488",
+            "Type": "proceedings",
+            "Year": "2004",
+            "Title": "Proceedings of the 2004 Conference on Human Factors in Computing Systems, CHI 2004, Vienna, Austria, April 24 - 29, 2004",
+            "Conference": "CHI",
+            "Publisher": "ACM"
+        },
+        {
+            "_id": "1186489",
+            "Type": "proceedings",
+            "Year": "2003",
+            "Title": "Proceedings of the 2003 Conference on Human Factors in Computing Systems, CHI 2003, Ft. Lauderdale, Florida, USA, April 5-10, 2003",
+            "Conference": "CHI",
+            "Publisher": "ACM"
+        },
+        {
+            "_id": "1186490",
+            "Type": "proceedings",
+            "Year": "2004",
+            "Title": "Extended abstracts of the 2004 Conference on Human Factors in Computing Systems, CHI 2004, Vienna, Austria, April 24 - 29, 2004",
+            "Conference": "CHI Extended Abstracts",
+            "Publisher": "ACM"
+        },
+        {
+            "_id": "1186491",
+            "Type": "proceedings",
+            "Year": "2003",
+            "Title": "Extended abstracts of the 2003 Conference on Human Factors in Computing Systems, CHI 2003, Ft. Lauderdale, Florida, USA, April 5-10, 2003",
+            "Conference": "CHI Extended Abstracts",
+            "Publisher": "ACM"
+        },
+        {
+            "_id": "1186492",
+            "Type": "proceedings",
+            "Year": "2005",
+            "Title": "Proceedings of the 2005 Conference on Human Factors in Computing Systems, CHI 2005, Portland, Oregon, USA, April 2-7, 2005",
+            "Conference": "CHI",
+            "Publisher": "ACM"
+        },
+        {
+            "_id": "1186493",
+            "Type": "proceedings",
+            "Year": "1994",
+            "Title": "Conference on Human Factors in Computing Systems, CHI 1994, Boston, Massachusetts, USA, April 24-28, 1994, Proceedings",
+            "Conference": "CHI",
+            "Publisher": "ACM"
+        },
+        {
+            "_id": "1186494",
+            "Type": "proceedings",
+            "Volume": "3345",
+            "Year": "2005",
+            "Title": "Ambient Intelligence for Scientific Discovery - Foundations, Theories, andSystems [outcome of the SIGCHI Workshop, Vienna, April 25, 2004]",
+            "Conference": "Ambient Intelligence for Scientific Discovery",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186495",
+            "Type": "proceedings",
+            "Year": "2005",
+            "Title": "Extended Abstracts Proceedings of the 2005 Conference on Human Factors in Computing Systems, CHI 2005, Portland, Oregon, USA, April 2-7, 2005",
+            "Conference": "CHI Extended Abstracts",
+            "Publisher": "ACM"
+        },
+        {
+            "_id": "1186496",
+            "Type": "proceedings",
+            "Year": "1994",
+            "Title": "Conference on Human Factors in Computing Systems, CHI 1994, Boston, Massachusetts, USA, April 24-28, 1994, Conference Companion",
+            "Conference": "CHI Conference Companion",
+            "Publisher": "ACM"
+        },
+        {
+            "_id": "1186497",
+            "Type": "proceedings",
+            "Volume": "1202",
+            "Year": "1997",
+            "Title": "Cooperative Information Agents, First International Workshop, CIA_ 97, Kiel, Germany, February 26-28, 1997, Proceedings",
+            "Conference": "CIA",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186498",
+            "Type": "proceedings",
+            "Volume": "1435",
+            "Year": "1998",
+            "Title": "Cooperative Information Agents II, Learning, Mobility and Electronic Commerce for Information Discovery on the Internet, Second International Workshop, CIA_ 98, Paris, France, July 4-7, 1998, Proceedings",
+            "Conference": "CIA",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186499",
+            "Type": "proceedings",
+            "Volume": "1652",
+            "Year": "1999",
+            "Title": "Cooperative Information Agents III, Third International Workshop, CIA_ 99, Uppsala, Sweden, July 31 - August 2, 1999, Proceedings",
+            "Conference": "CIA",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186500",
+            "Type": "proceedings",
+            "Volume": "1860",
+            "Year": "2000",
+            "Title": "Cooperative Information Agents IV, The Future of Information Agents in Cyberspace, 4th International Workshop, CIA 2000, Boston, MA, USA, July 7-9, 2000, Proceedings",
+            "Conference": "CIA",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186501",
+            "Type": "proceedings",
+            "Volume": "2182",
+            "Year": "2001",
+            "Title": "Cooperative Information Agents V, 5th International Workshop, CIA 2001, Modena, Italy, September 6-8, 2001, Proceedings",
+            "Conference": "CIA",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186502",
+            "Type": "proceedings",
+            "Volume": "2446",
+            "Year": "2002",
+            "Title": "Cooperative Information Agents VI, 6th International Workshop, CIA 2002, Madrid, Spain, September 18-20, 2002, Proceedings",
+            "Conference": "CIA",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186503",
+            "Type": "proceedings",
+            "Volume": "2782",
+            "Year": "2003",
+            "Title": "Cooperative Information Agents VII, 7th International Workshop, CIA 2003, Helsinki, Finland, August 27-29, 2003, Proceedings",
+            "Conference": "CIA",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186504",
+            "Type": "proceedings",
+            "Volume": "3191",
+            "Year": "2004",
+            "Title": "Cooperative Information Agents VIII, 8th International Workshop, CIA 2004, Erfurt, Germany, September 27-29, 2004, Proceedings",
+            "Conference": "CIA",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186505",
+            "Type": "proceedings",
+            "Year": "2003",
+            "Title": "Proceedings of the International Conference on Communications in Computing, CIC _03, June 23 - 26, 2003, Las Vegas, Nevada, USA",
+            "Conference": "Communications in Computing",
+            "Publisher": "CSREA Press"
+        },
+        {
+            "_id": "1186506",
+            "Type": "proceedings",
+            "Year": "2004",
+            "Title": "Proceedings of the International Conference on Communications in Computing, CIC _04, June 21-24, 2004, Las Vegas, Nevada, USA",
+            "Conference": "Communications in Computing",
+            "Publisher": "CSREA Press"
+        },
+        {
+            "_id": "1186507",
+            "Type": "proceedings",
+            "Year": "2005",
+            "Title": "Proceedings of the 2005 International Conference on Communications in Computing, CIC 2005, Las Vegas, Nevada, USA",
+            "Conference": "Communications in Computing",
+            "Publisher": "CSREA Press"
+        },
+        {
+            "_id": "1186508",
+            "Type": "proceedings",
+            "Volume": "168",
+            "Year": "1984",
+            "Title": "Methods and Tools for Computer Integrated Manufacturing, Advanced CREST Course on Computer Integrated Manufacturing (CIM 83), Karlsruhe, Germany, September 5-16, 1983",
+            "Conference": "Methods and Tools for Computer Integrated Manufacturing",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186509",
+            "Type": "proceedings",
+            "Volume": "544",
+            "Year": "1991",
+            "Title": "Method of Programming, Selected Papers on the CIP-Project",
+            "Conference": "Method of Programming",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186510",
+            "Type": "proceedings",
+            "Volume": "94",
+            "Year": "1985",
+            "Title": "Datenbanksysteme fur Buro, Technik und Wissenschaft, GI-Fachtagung, Karlsruhe, 20.-22. Marz 1985, Proceedings",
+            "Conference": "BTW",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186511",
+            "Type": "proceedings",
+            "Volume": "136",
+            "Year": "1987",
+            "Title": "Datenbanksysteme in Buro, Technik und Wissenschaft, GI-Fachtagung, Darmstadt, 1.-3. April 1987, Proceedings",
+            "Conference": "BTW",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186512",
+            "Type": "proceedings",
+            "Volume": "204",
+            "Year": "1989",
+            "Title": "Datenbanksysteme in Buro, Technik und Wissenschaft, GI/Si-Fachtagung, Zurich, 1.-3. Marz 1989, Proceedings",
+            "Conference": "BTW",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186513",
+            "Type": "proceedings",
+            "Volume": "270",
+            "Year": "1991",
+            "Title": "Datenbanksysteme in Buro, Technik und Wissenschaft, GI-Fachtagung, Kaiserslautern, 6.-8. Marz 1991, Proceedings",
+            "Conference": "BTW",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186514",
+            "Type": "proceedings",
+            "Year": "1993",
+            "Title": "Datenbanksysteme in Buro, Technik und Wissenschaft, GI-Fachtagung, Braunschweig, 3.-5. Marz 1993, Proceedings",
+            "Conference": "BTW",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186515",
+            "Type": "proceedings",
+            "Year": "1995",
+            "Title": "Datenbanksysteme in Buro, Technik und Wissenschaft (BTW), GI-Fachtagung, Dresden, 22.-24. Marz 1995, Proceedings",
+            "Conference": "BTW",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186516",
+            "Type": "proceedings",
+            "Year": "1997",
+            "Title": "Datenbanksysteme in Buro, Technik und Wissenschaft (BTW), GI-Fachtagung, Ulm, 5.-7. Marz 1997, Proceedings",
+            "Conference": "BTW",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186517",
+            "Type": "proceedings",
+            "Year": "1999",
+            "Title": "Datenbanksysteme in Buro, Technik und Wissenschaft (BTW), GI-Fachtagung, Freiburg, 1.-3. Marz 1999, Proceedings",
+            "Conference": "BTW",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186518",
+            "Type": "proceedings",
+            "Volume": "72",
+            "Year": "1983",
+            "Title": "Sprachen fur Datenbanken, Fachgesprach auf der 13. GI-Jahrestagung, Hamburg 3.-7. Oktober 1983",
+            "Conference": "Sprachen fur Datenbanken",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186519",
+            "Type": "proceedings",
+            "Year": "2001",
+            "Title": "Datenbanksysteme in Buro, Technik und Wissenschaft (BTW), 9. GI-Fachtagung, Oldenburg, 7.-9. Marz 2001, Proceedings",
+            "Conference": "BTW",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186520",
+            "Type": "proceedings",
+            "Volume": "26",
+            "Year": "2003",
+            "Title": "BTW 2003, Datenbanksysteme fur Business, Technologie und Web, Tagungsband der 10. BTW-Konferenz, 26.-28. Februar 2003, Leipzig",
+            "Conference": "BTW",
+            "Publisher": "GI"
+        },
+        {
+            "_id": "1186521",
+            "Type": "proceedings",
+            "Volume": "65",
+            "Year": "2005",
+            "Title": "Datenbanksysteme in Business, Technologie und Web,  11. Fachtagung des GI-Fachbereichs _Datenbanken und Informationssysteme_ (DBIS), Karlsruhe, 2.-4. Marz 2005",
+            "Conference": "BTW",
+            "Publisher": "GI"
+        },
+        {
+            "_id": "1186522",
+            "Type": "proceedings",
+            "Year": "2005",
+            "Title": "Beitragsband zum Studierenden-Programm bei der 11. Fachtagung _Datenbanken fur Business, Technologie and Web_, GI Fachbereich Datenbanken und Informationssysteme, Karlsruhe, 1. Marz 2005",
+            "Conference": "BTW Studierendenprogramm",
+            "Publisher": "Universitat Magdeburg, Fakultat fur Informatik"
+        },
+        {
+            "_id": "1186523",
+            "Type": "proceedings",
+            "Year": "2001",
+            "Title": "Proceedings of the 38th Design Automation Conference, DAC 2001, Las Vegas, NV, USA, June 18-22, 2001",
+            "Conference": "DAC",
+            "Publisher": "ACM"
+        },
+        {
+            "_id": "1186524",
+            "Type": "proceedings",
+            "Year": "2002",
+            "Title": "Proceedings of the 39th Design Automation Conference, DAC 2002, New Orleans, LA, USA, June 10-14, 2002",
+            "Conference": "DAC",
+            "Publisher": "ACM"
+        },
+        {
+            "_id": "1186525",
+            "Type": "proceedings",
+            "Year": "2003",
+            "Title": "Proceedings of the 40th Design Automation Conference, DAC 2003, Anaheim, CA, USA, June 2-6, 2003",
+            "Conference": "DAC",
+            "Publisher": "ACM"
+        },
+        {
+            "_id": "1186526",
+            "Type": "proceedings",
+            "Year": "2004",
+            "Title": "Proceedings of the 41th Design Automation Conference, DAC 2004, San Diego, CA, USA, June 7-11, 2004",
+            "Conference": "DAC",
+            "Publisher": "ACM"
+        },
+        {
+            "_id": "1186527",
+            "Type": "proceedings",
+            "Year": "2005",
+            "Title": "Proceedings of the 42nd Design Automation Conference, DAC 2005, San Diego, CA, USA, June 13-17, 2005",
+            "Conference": "DAC",
+            "Publisher": "ACM"
+        },
+        {
+            "_id": "1186528",
+            "Type": "proceedings",
+            "Volume": "1544",
+            "Year": "1998",
+            "Title": "Multi-Agent Systems: Theories, Languages, and Applications, 4th Australian Workshop on Distributed Artificial Intelligence, Brisbane, Queensland, Australia, July 13, 1998, Selected Papers",
+            "Conference": "DAI",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186529",
+            "Type": "proceedings",
+            "Volume": "1286",
+            "Year": "1997",
+            "Title": "Multi-Agent Systems: Methodologies and Applications, Second Australian Workshop on Distributed Artificial Intelligence, Cairns, Queensland, Australia, August 27, 1996, Revised Papers",
+            "Conference": "DAI",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186530",
+            "Type": "proceedings",
+            "Volume": "1087",
+            "Year": "1996",
+            "Title": "Distributed Artificial Intelligence: Architecture and Modelling, First Australian Workshop on DAI, Canberra, ACT, Australia, November 13, 1995, Proceedings",
+            "Conference": "DAI",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186531",
+            "Type": "proceedings",
+            "Volume": "2155",
+            "Year": "2001",
+            "Title": "Cooperative Multimodal Communication, Second International Conference, CMC_98, Tilburg, The Netherlands, January 28-30, 1998, Revised Papers",
+            "Conference": "Cooperative Multimodal Communication",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186532",
+            "Type": "proceedings",
+            "Volume": "1374",
+            "Year": "1998",
+            "Title": "Multimodal Human-Computer Communication, Systems, Techniques, and Experiments",
+            "Conference": "Multimodal Human-Computer Communication",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186533",
+            "Type": "proceedings",
+            "Year": "1976",
+            "Title": "Second International Computer Measurement Group Conference, Atlanta, GA, USA, November 16-18, 1976, Proceedings",
+            "Conference": "Int. CMG Conference",
+            "Publisher": "Computer Measurement Group"
+        },
+        {
+            "_id": "1186534",
+            "Type": "proceedings",
+            "Year": "1977",
+            "Title": "Third International Computer Measurement Group Conference, Washington, DC, USA, November 29 - December 2, 1977, Proceedings",
+            "Conference": "Int. CMG Conference",
+            "Publisher": "Computer Measurement Group"
+        },
+        {
+            "_id": "1186535",
+            "Type": "proceedings",
+            "Year": "1978",
+            "Title": "Fourth International Computer Measurement Group Conference, San Francisco, CA, USA, December 5-8, 1978, Proceedings",
+            "Conference": "Int. CMG Conference",
+            "Publisher": "Computer Measurement Group"
+        },
+        {
+            "_id": "1186536",
+            "Type": "proceedings",
+            "Year": "1979",
+            "Title": "Fifth International Computer Measurement Group Conference, Dallas, TX, USA, December 4-7, 1979, Proceedings",
+            "Conference": "Int. CMG Conference",
+            "Publisher": "Computer Measurement Group"
+        },
+        {
+            "_id": "1186537",
+            "Type": "proceedings",
+            "Year": "1980",
+            "Title": "Sixth International Computer Measurement Group Conference, Boston, MA, USA, December 2-5, 1980, Proceedings",
+            "Conference": "Int. CMG Conference",
+            "Publisher": "Computer Measurement Group"
+        },
+        {
+            "_id": "1186538",
+            "Type": "proceedings",
+            "Year": "1981",
+            "Title": "Seventh International Computer Measurement Group Conference, New Orleans, LA, USA, December 1-4, 1981, Proceedings",
+            "Conference": "Int. CMG Conference",
+            "Publisher": "Computer Measurement Group"
+        },
+        {
+            "_id": "1186539",
+            "Type": "proceedings",
+            "Year": "1982",
+            "Title": "Eigth International Computer Measurement Group Conference, San Diego, CA, USA, December 13-17, 1982, Proceedings",
+            "Conference": "Int. CMG Conference",
+            "Publisher": "Computer Measurement Group"
+        },
+        {
+            "_id": "1186540",
+            "Type": "proceedings",
+            "Year": "1983",
+            "Title": "Ninth International Computer Measurement Group Conference, Washington, DC, USA, December 5-9, 1983, Proceedings",
+            "Conference": "Int. CMG Conference",
+            "Publisher": "Computer Measurement Group"
+        },
+        {
+            "_id": "1186541",
+            "Type": "proceedings",
+            "Year": "1984",
+            "Title": "Tenth International Computer Measurement Group Conference, San Francisco, CA, USA, December 3-7, 1984, Proceedings",
+            "Conference": "Int. CMG Conference",
+            "Publisher": "Computer Measurement Group"
+        },
+        {
+            "_id": "1186542",
+            "Type": "proceedings",
+            "Year": "1985",
+            "Title": "Eleventh International Computer Measurement Group Conference, Dallas, TX, USA, December 9-13, 1985, Proceedings",
+            "Conference": "Int. CMG Conference",
+            "Publisher": "Computer Measurement Group"
+        },
+        {
+            "_id": "1186543",
+            "Type": "proceedings",
+            "Year": "1986",
+            "Title": "Twelfth International Computer Measurement Group Conference, Las Vegas, NV, USA, December 8-12, 1986, Proceedings",
+            "Conference": "Int. CMG Conference",
+            "Publisher": "Computer Measurement Group"
+        },
+        {
+            "_id": "1186544",
+            "Type": "proceedings",
+            "Year": "1987",
+            "Title": "13th International Computer Measurement Group Conference, Orlando, FL, USA, December 7-11, 1987, Proceedings",
+            "Conference": "Int. CMG Conference",
+            "Publisher": "Computer Measurement Group"
+        },
+        {
+            "_id": "1186545",
+            "Type": "proceedings",
+            "Year": "1988",
+            "Title": "14th International Computer Measurement Group Conference, Dallas, Texas, USA, December 12-16, 1988, Proceedings",
+            "Conference": "Int. CMG Conference",
+            "Publisher": "Computer Measurement Group"
+        },
+        {
+            "_id": "1186546",
+            "Type": "proceedings",
+            "Year": "1989",
+            "Title": "15th International Computer Measurement Group Conference, Reno, Nevada, USA, December 11-15, 1989, Proceedings",
+            "Conference": "Int. CMG Conference",
+            "Publisher": "Computer Measurement Group"
+        },
+        {
+            "_id": "1186547",
+            "Type": "proceedings",
+            "Year": "1990",
+            "Title": "16th International Computer Measurement Group Conference, December 10-14, 1990, Orlando, FL, USA, Proceedings",
+            "Conference": "Int. CMG Conference",
+            "Publisher": "Computer Measurement Group"
+        },
+        {
+            "_id": "1186548",
+            "Type": "proceedings",
+            "Year": "1991",
+            "Title": "17th International Computer Measurement Group Conference, Nashville, TN, USA, December 9-13, 1991, Proceedings",
+            "Conference": "Int. CMG Conference",
+            "Publisher": "Computer Measurement Group"
+        },
+        {
+            "_id": "1186549",
+            "Type": "proceedings",
+            "Year": "1992",
+            "Title": "18th International Computer Measurement Group Conference, December 7-11, 1992, Reno, Nevada, USA, Proceedings",
+            "Conference": "Int. CMG Conference",
+            "Publisher": "Computer Measurement Group"
+        },
+        {
+            "_id": "1186550",
+            "Type": "proceedings",
+            "Year": "1994",
+            "Title": "20st International Computer Measurement Group Conference, December 5-9, 1994, Orlando, FL, USA, Proceedings",
+            "Conference": "Int. CMG Conference",
+            "Publisher": "Computer Measurement Group"
+        },
+        {
+            "_id": "1186551",
+            "Type": "proceedings",
+            "Year": "1995",
+            "Title": "21st International Computer Measurement Group Conference, December 4-8, 1995, Nashville, TN, USA, Proceedings",
+            "Conference": "Int. CMG Conference",
+            "Publisher": "Computer Measurement Group"
+        },
+        {
+            "_id": "1186552",
+            "Type": "proceedings",
+            "Year": "1996",
+            "Title": "22nd International Computer Measurement Group Conference, December 10-13, 1996, San Diego, CA, USA, Proceedings",
+            "Conference": "Int. CMG Conference",
+            "Publisher": "Computer Measurement Group"
+        },
+        {
+            "_id": "1186553",
+            "Type": "proceedings",
+            "Year": "1997",
+            "Title": "23rd International Computer Measurement Group Conference, December 7-12, 1997, Orlando, Florida, USA, Proceedings",
+            "Conference": "Int. CMG Conference",
+            "Publisher": "Computer Measurement Group"
+        },
+        {
+            "_id": "1186554",
+            "Type": "proceedings",
+            "Year": "1998",
+            "Title": "24th International Computer Measurement Group Conference, December 6-11, 1998, Anaheim, California, USA, Proceedings",
+            "Conference": "Int. CMG Conference",
+            "Publisher": "Computer Measurement Group"
+        },
+        {
+            "_id": "1186555",
+            "Type": "proceedings",
+            "Year": "1999",
+            "Title": "25th International Computer Measurement Group Conference, December 5-10, 1999, Reno, Nevada, USA, Proceedings",
+            "Conference": "Int. CMG Conference",
+            "Publisher": "Computer Measurement Group"
+        },
+        {
+            "_id": "1186556",
+            "Type": "proceedings",
+            "Year": "2000",
+            "Title": "26th International Computer Measurement Group Conference, December 10-15, 2000, Orlando, FL, USA, Proceedings",
+            "Conference": "Int. CMG Conference",
+            "Publisher": "Computer Measurement Group"
+        },
+        {
+            "_id": "1186557",
+            "Type": "proceedings",
+            "Year": "2002",
+            "Title": "28th International Computer Measurement Group Conference, December 8-13, 2002, Reno, Nevada, USA, Proceedings",
+            "Conference": "Int. CMG Conference",
+            "Publisher": "Computer Measurement Group"
+        },
+        {
+            "_id": "1186558",
+            "Type": "proceedings",
+            "Year": "2003",
+            "Title": "29th International Computer Measurement Group Conference, December 7-12, 2003, Dallas, Texas, USA, Proceedings",
+            "Conference": "Int. CMG Conference",
+            "Publisher": "Computer Measurement Group"
+        },
+        {
+            "_id": "1186559",
+            "Type": "proceedings",
+            "Year": "2004",
+            "Title": "30th International Computer Measurement Group Conference, December 5-10, 2004, Las Vegas, Nevada, USA, Proceedings",
+            "Conference": "Int. CMG Conference",
+            "Publisher": "Computer Measurement Group"
+        },
+        {
+            "_id": "1186560",
+            "Type": "proceedings",
+            "Year": "2005",
+            "Title": "31th International Computer Measurement Group Conference, December 4-9, 2005, Orlando, Florida, USA, Proceedings",
+            "Conference": "Int. CMG Conference",
+            "Publisher": "Computer Measurement Group"
+        },
+        {
+            "_id": "1186561",
+            "Type": "proceedings",
+            "Volume": "1655",
+            "Year": "1999",
+            "Title": "Document Analysis Systems: Theory and Practice, Third IAPR Workshop, DAS_98, Nagano, Japan, November 4-6, 1998, Selected Papers",
+            "Conference": "Document Analysis Systems",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186562",
+            "Type": "proceedings",
+            "Volume": "2423",
+            "Year": "2002",
+            "Title": "Document Analysis Systems V, 5th International Workshop, DAS 2002, Princeton, NY, USA, August 19-21, 2002, Proceedings",
+            "Conference": "Document Analysis Systems",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186563",
+            "Type": "proceedings",
+            "Volume": "3163",
+            "Year": "2004",
+            "Title": "Document Analysis Systems VI, 6th International Workshop, DAS 2004, Florence, Italy, September 8-10, 2004, Proceedings",
+            "Conference": "Document Analysis Systems",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186564",
+            "Type": "proceedings",
+            "Volume": "3872",
+            "Year": "2006",
+            "Title": "Document Analysis Systems VII, 7th International Workshop, DAS 2006, Nelson, New Zealand, February 13-15, 2006, Proceedings",
+            "Conference": "Document Analysis Systems",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186565",
+            "Type": "proceedings",
+            "Year": "2002",
+            "Title": "2002 Data Compression Conference (DCC 2002), 2-4 April, 2002, Snowbird, UT, USA",
+            "Conference": "DCC",
+            "Publisher": "IEEE Computer Society"
+        },
+        {
+            "_id": "1186566",
+            "Type": "proceedings",
+            "Year": "2003",
+            "Title": "2003 Data Compression Conference (DCC 2003), 25-27 March 2003, Snowbird, UT, USA",
+            "Conference": "DCC",
+            "Publisher": "IEEE Computer Society"
+        },
+        {
+            "_id": "1186567",
+            "Type": "proceedings",
+            "Year": "2004",
+            "Title": "2004 Data Compression Conference (DCC 2004), 23-25 March 2004, Snowbird, UT, USA",
+            "Conference": "DCC",
+            "Publisher": "IEEE Computer Society"
+        },
+        {
+            "_id": "1186568",
+            "Type": "proceedings",
+            "Year": "2005",
+            "Title": "2005 Data Compression Conference (DCC 2005), 29-31 March 2005, Snowbird, UT, USA",
+            "Conference": "DCC",
+            "Publisher": "IEEE Computer Society"
+        },
+        {
+            "_id": "1186569",
+            "Type": "proceedings",
+            "Volume": "731",
+            "Year": "1993",
+            "Title": "DCE - The OSF Distributed Computing Environment, Client/Server Model and Beyond, International DCE Workshop, Karlsruhr, Germany, October 7-8, 1993, Proceedings",
+            "Conference": "DCE Workshop",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186570",
+            "Type": "proceedings",
+            "Volume": "70",
+            "Year": "1996",
+            "Title": "Communications and Multimedia Security II, Proceedings of the IFIP TC6/TC11 International Conference on Communications and Multimedia Security at Essen, Germany, 23-24 September 1996",
+            "Conference": "Communications and Multimedia Security",
+            "Publisher": "Chapman a Hall"
+        },
+        {
+            "_id": "1186571",
+            "Type": "proceedings",
+            "Volume": "152",
+            "Year": "1999",
+            "Title": "Secure Information Networks: Communications and Multimedia Security, IFIP TC6/TC11 Joint Working Conference on Communications and Multimedia Security (CMS _99), September 20-21, 1999, Leuven, Belgium",
+            "Conference": "Communications and Multimedia Security",
+            "Publisher": "Kluwer"
+        },
+        {
+            "_id": "1186572",
+            "Type": "proceedings",
+            "Volume": "192",
+            "Year": "2001",
+            "Title": "Communications and Multimedia Security Issues of the New Century, Proceedings of the IFIP TC6/TC11 International Conference on Communications and Multimedia Security Issues, May 21-22, 2001, Darmstadt, Germany",
+            "Conference": "Communications and Multimedia Security",
+            "Publisher": "Kluwer"
+        },
+        {
+            "_id": "1186573",
+            "Type": "proceedings",
+            "Volume": "228",
+            "Year": "2002",
+            "Title": "Advanced Communications and Multimedia Security, IFIP TC6/TC11 Sixth Joint Working Conference on Communications and Multimedia Security, September 26-27, 2002, Portoroz, Slovenia",
+            "Conference": "Communications and Multimedia Security",
+            "Publisher": "Kluwer"
+        },
+        {
+            "_id": "1186574",
+            "Type": "proceedings",
+            "Volume": "2828",
+            "Year": "2003",
+            "Title": "Communications and Multimedia Security - Advanced Techniques for Network and Data Protection, 7th IFIP TC-6 TC-11 International Conference, CMS 2003, Torino, Italy, October 2-3, 2003, Proceedings",
+            "Conference": "Communications and Multimedia Security",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186575",
+            "Type": "proceedings",
+            "Volume": "3677",
+            "Year": "2005",
+            "Title": "Communications and Multimedia Security, 9th IFIP TC-6 TC-11 International Conference, CMS 2005, Salzburg, Austria, September 19-21, 2005, Proceedings",
+            "Conference": "Communications and Multimedia Security",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186576",
+            "Type": "proceedings",
+            "Volume": "2",
+            "Year": "1979",
+            "Title": "Datenbanktechnologie, Einsatz groser, verteilter und intelligenter Datenbanken, Tagung II/1979 des German Chapter of the ACM am 21. und 22.9.1979 in Bad Nauheim",
+            "Conference": "Datenbanktechnologie",
+            "Publisher": "Teubner"
+        },
+        {
+            "_id": "1186577",
+            "Type": "proceedings",
+            "Year": "2001",
+            "Title": "2nd International Workshop on Digital and Computational Video (DCV 2001), 9 February 2001, Tampa, Florida, USA",
+            "Conference": "Workshop on Digital and Computational Video",
+            "Publisher": "IEEE Computer Society"
+        },
+        {
+            "_id": "1186578",
+            "Type": "proceedings",
+            "Volume": "2468",
+            "Year": "2002",
+            "Title": "Distributed Communities on the Web, 4th International Workshop, DCW 2002, Sydney, Australia, April 3-5, 2002, Revised Papers",
+            "Conference": "DCW",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186579",
+            "Type": "proceedings",
+            "Volume": "1830",
+            "Year": "2000",
+            "Title": "Distributed Communities on the Web, Third International Workshop, DCW 2000, Quebec City, Canada, June 19-21, 2000, Proceedings",
+            "Conference": "DCW",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186580",
+            "Type": "proceedings",
+            "Volume": "1029",
+            "Year": "1995",
+            "Title": "Cryptography: Policy and Algorithms, International Conference, Brisbane, Queensland, Australia, July 3-5, 1995, Proceedings",
+            "Conference": "Cryptography: Policy and Algorithms",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186581",
+            "Type": "proceedings",
+            "Volume": "794",
+            "Year": "1994",
+            "Title": "Computer Performance Evaluation, Modeling Techniques and Tools, 7th International Conference, Vienna, Austria, May 3-6, 1994, Proceedings",
+            "Conference": "Computer Performance Evaluation",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186582",
+            "Type": "proceedings",
+            "Volume": "1245",
+            "Year": "1997",
+            "Title": "Computer Performance Evaluation: Modelling Techniques and Tools, 9th International Conference, St. Malo, France, June  3-6, 1997, Proceedings",
+            "Conference": "Computer Performance Evaluation",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186583",
+            "Type": "proceedings",
+            "Volume": "1469",
+            "Year": "1998",
+            "Title": "Computer Performance Evaluation: Modelling Techniques and Tools, 10th International Conference, Tools _98, Palma de Mallorca, Spain, September 14-18, 1998, Proceedings",
+            "Conference": "Computer Performance Evaluation (Tools)",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186584",
+            "Type": "proceedings",
+            "Volume": "1786",
+            "Year": "2000",
+            "Title": "Computer Performance Evaluation: Modelling Techniques and Tools, 11th International Conference, TOOLS 2000, Schaumburg, IL, USA, March 27-31, 2000, Proceedings",
+            "Conference": "Computer Performance Evaluation / TOOLS",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186585",
+            "Type": "proceedings",
+            "Volume": "2324",
+            "Year": "2002",
+            "Title": "Computer Performance Evaluation, Modelling Techniques and Tools 12th International Conference, TOOLS 2002, London, UK, April 14-17, 2002, Proceedings",
+            "Conference": "Computer Performance Evaluation / TOOLS",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186586",
+            "Type": "proceedings",
+            "Volume": "2794",
+            "Year": "2003",
+            "Title": "Computer Performance Evaluations, Modelling Techniques and Tools. 13th International Conference, TOOLS 2003, Urbana, IL, USA, September 2-5, 2003, Proceedings",
+            "Conference": "Computer Performance Evaluation / TOOLS",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186587",
+            "Type": "proceedings",
+            "Volume": "2181",
+            "Year": "2001",
+            "Title": "Digital Earth Moving, First International Symposium, DEM 2001, Manno, Switzerland, September 5-7, 2001, Proceedings",
+            "Conference": "Digital Earth Moving",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186588",
+            "Type": "proceedings",
+            "Volume": "937",
+            "Year": "1995",
+            "Title": "Combinatorial Pattern Matching, 6th Annual Symposium, CPM 95, Espoo, Finland, July 5-7, 1995, Proceedings",
+            "Conference": "CPM",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186589",
+            "Type": "proceedings",
+            "Volume": "644",
+            "Year": "1992",
+            "Title": "Combinatorial Pattern Matching, Third Annual Symposium, CPM 92, Tucson, Arizona, USA, April 29 - May 1, 1992, Proceedings",
+            "Conference": "CPM",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186590",
+            "Type": "proceedings",
+            "Volume": "684",
+            "Year": "1993",
+            "Title": "Combinatorial Pattern Matching, 4th Annual Symposium, CPM 93, Padova, Italy, June 2-4, 1993, Proceedings",
+            "Conference": "CPM",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186591",
+            "Type": "proceedings",
+            "Volume": "807",
+            "Year": "1994",
+            "Title": "Combinatorial Pattern Matching, 5th Annual Symposium, CPM 94, Asilomar, California, USA, June 5-8, 1994, Proceedings",
+            "Conference": "CPM",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186592",
+            "Type": "proceedings",
+            "Volume": "1075",
+            "Year": "1996",
+            "Title": "Combinatorial Pattern Matching, 7th Annual Symposium, CPM 96, Laguna Beach, California, USA, June 10-12, 1996, Proceedings",
+            "Conference": "CPM",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186593",
+            "Type": "proceedings",
+            "Volume": "1264",
+            "Year": "1997",
+            "Title": "Combinatorial Pattern Matching, 8th Annual Symposium, CPM 97, Aarhus, Denmark, June 30 - July 2, 1997, Proceedings",
+            "Conference": "CPM",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186594",
+            "Type": "proceedings",
+            "Volume": "1448",
+            "Year": "1998",
+            "Title": "Combinatorial Pattern Matching, 9th Annual Symposium, CPM 98, Piscataway, New Jersey, USA, July 20-22, 1998, Proceedings",
+            "Conference": "CPM",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186595",
+            "Type": "proceedings",
+            "Volume": "1645",
+            "Year": "1999",
+            "Title": "Combinatorial Pattern Matching, 10th Annual Symposium, CPM 99, Warwick University, UK, July 22-24, 1999, Proceedings",
+            "Conference": "CPM",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186596",
+            "Type": "proceedings",
+            "Volume": "1848",
+            "Year": "2000",
+            "Title": "Combinatorial Pattern Matching, 11th Annual Symposium, CPM 2000, Montreal, Canada, June 21-23, 2000, Proceedings",
+            "Conference": "CPM",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186597",
+            "Type": "proceedings",
+            "Volume": "2089",
+            "Year": "2001",
+            "Title": "Combinatorial Pattern Matching, 12th Annual Symposium, CPM 2001 Jerusalem, Israel, July 1-4, 2001 Proceedings",
+            "Conference": "CPM",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186598",
+            "Type": "proceedings",
+            "Volume": "2373",
+            "Year": "2002",
+            "Title": "Combinatorial Pattern Matching, 13th Annual Symposium, CPM 2002, Fukuoka, Japan, July 3-5, 2002, Proceedings",
+            "Conference": "CPM",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186599",
+            "Type": "proceedings",
+            "Volume": "2676",
+            "Year": "2003",
+            "Title": "Combinatorial Pattern Matching, 14th Annual Symposium, CPM 2003, Morelia, Michocan, Mexico, June 25-27, 2003, Proceedings",
+            "Conference": "CPM",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186600",
+            "Type": "proceedings",
+            "Volume": "3109",
+            "Year": "2004",
+            "Title": "Combinatorial Pattern Matching, 15th Annual Symposium, CPM 2004, Istanbul,Turkey, July 5-7, 2004, Proceedings",
+            "Conference": "CPM",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186601",
+            "Type": "proceedings",
+            "Volume": "3537",
+            "Year": "2005",
+            "Title": "Combinatorial Pattern Matching, 16th Annual Symposium, CPM 2005, Jeju Island, Korea, June 19-22, 2005, Proceedings",
+            "Conference": "CPM",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186602",
+            "Type": "proceedings",
+            "Volume": "309",
+            "Year": "1988",
+            "Title": "Experiences with Distributed Systems, International Workshop, Kaiserslautern, FRG, September 28-30, 1987, Proceedings",
+            "Conference": "Experiences with Distributed Systems",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186603",
+            "Type": "proceedings",
+            "Volume": "594",
+            "Year": "1992",
+            "Title": "Data Structures and Efficient Algorithms, Final Report on the DFG Special Joint Initiative",
+            "Conference": "Data Structures and Efficient Algorithm",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186604",
+            "Type": "proceedings",
+            "Volume": "732",
+            "Year": "1993",
+            "Title": "Parallel Computer Architectures: Theory, Hardware, Software, Applications",
+            "Conference": "Parallel Computer Architectures",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186605",
+            "Type": "proceedings",
+            "Volume": "4",
+            "Year": "2001",
+            "Title": "Rechner- und sensorgestutzte Chirurgie, Proceedings zum Workshop, 19.-20. Juli 2001, Heidelberg, Veranstaltet vom Sonderforschungsbereich 414, Proceedings",
+            "Conference": "Rechner- und sensorgestutzte Chirurgie",
+            "Publisher": "GI"
+        },
+        {
+            "_id": "1186606",
+            "Type": "proceedings",
+            "Volume": "2472",
+            "Year": "2003",
+            "Title": "Petri Net Technology for Communication-Based Systems - Advances in Petri Nets",
+            "Conference": "Petri Net Technology for Communication-Based Systems",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186607",
+            "Type": "proceedings",
+            "Volume": "3147",
+            "Year": "2004",
+            "Title": "Integration of Software Specification Techniques for Applications in Engineering, Priority Program SoftSpez of the German Research Foundation (DFG), Final Report",
+            "Conference": "SoftSpez Final Report",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186608",
+            "Type": "proceedings",
+            "Volume": "9",
+            "Year": "2001",
+            "Title": "Innovative Anwendungen in Kommunikationsnetzen, 15. DFN-Arbeitstagung uber Kommunikationsnetze, Dusseldorf, 6.-8. Juni 2001",
+            "Conference": "DFN-Arbeitstagung uber Kommunikationsnetze",
+            "Publisher": "GI"
+        },
+        {
+            "_id": "1186609",
+            "Type": "proceedings",
+            "Volume": "17",
+            "Year": "2002",
+            "Title": "Zukunft der Netze - Die Verlezbarkeit meistern, 16. DFN-Arbeitstagung uber Kommunikationsnetze, Dusseldorf, 2002",
+            "Conference": "DFN-Arbeitstagung uber Kommunikationsnetze",
+            "Publisher": "GI"
+        },
+        {
+            "_id": "1186610",
+            "Type": "proceedings",
+            "Volume": "44",
+            "Year": "2004",
+            "Title": "Security, E-Learning, E-Services, 17. DFN-Arbeitstagung uber Kommunikationsnetze, Dusseldorf, 2003",
+            "Conference": "DFN-Arbeitstagung uber Kommunikationsnetze",
+            "Publisher": "GI"
+        },
+        {
+            "_id": "1186611",
+            "Type": "proceedings",
+            "Volume": "55",
+            "Year": "2004",
+            "Title": "E-Science and Grid - Ad-hoc-Netze - Medienintegration, 18. DFN-Arbeitstagung uber Kommunikationsnetze, Dusseldorf, 2004",
+            "Conference": "DFN-Arbeitstagung uber Kommunikationsnetze",
+            "Publisher": "GI"
+        },
+        {
+            "_id": "1186612",
+            "Type": "proceedings",
+            "Volume": "73",
+            "Year": "2005",
+            "Title": "_Heute schon das Morgen sehen_, 19. DFN-Arbeitstagung uber Kommunikationsnetze, Dusseldorf, 2004",
+            "Conference": "DFN-Arbeitstagung uber Kommunikationsnetze",
+            "Publisher": "GI"
+        },
+        {
+            "_id": "1186613",
+            "Type": "proceedings",
+            "Year": "1993",
+            "Title": "The IEEE International Workshop on Defect and Fault Tolerance in VLSI Systems, October 27-29, 1993, Venice, Italy, Proceedings",
+            "Conference": "DFT",
+            "Publisher": "IEEE Computer Society"
+        },
+        {
+            "_id": "1186614",
+            "Type": "proceedings",
+            "Year": "1994",
+            "Title": "The IEEE International Workshop on Defect and Fault Tolerance in VLSI Systems, October 17-19, 1994, Montreal, Quebec, Canada, Proceedings",
+            "Conference": "DFT",
+            "Publisher": "IEEE Computer Society"
+        },
+        {
+            "_id": "1186615",
+            "Type": "proceedings",
+            "Year": "1997",
+            "Title": "1997 Workshop on Defect and Fault-Tolerance in VLSI Systems (DFT _97), 20-22 October 1997, Paris, France",
+            "Conference": "DFT",
+            "Publisher": "IEEE Computer Society"
+        },
+        {
+            "_id": "1186616",
+            "Type": "proceedings",
+            "Year": "1998",
+            "Title": "13th International Symposium on Defect and Fault-Tolerance in VLSI Systems (DFT _98), 2-4 November 1998, Austin, TX, USA, Proceedings",
+            "Conference": "DFT",
+            "Publisher": "IEEE Computer Society"
+        },
+        {
+            "_id": "1186617",
+            "Type": "proceedings",
+            "Year": "1999",
+            "Title": "14th International Symposium on Defect and Fault-Tolerance in VLSI Systems (DFT _99), November 1-3, 1999, Albuquerque, NM, USA, Proceedings",
+            "Conference": "DFT",
+            "Publisher": "IEEE Computer Society"
+        },
+        {
+            "_id": "1186618",
+            "Type": "proceedings",
+            "Year": "2000",
+            "Title": "15th IEEE International Symposium on Defect and Fault-Tolerance in VLSI Systems (DFT 2000), 25-27 October 2000, Yamanashi, Japan, Proceedings",
+            "Conference": "DFT",
+            "Publisher": "IEEE Computer Society"
+        },
+        {
+            "_id": "1186619",
+            "Type": "proceedings",
+            "Year": "2001",
+            "Title": "16th IEEE International Symposium on Defect and Fault-Tolerance in VLSI Systems (DFT 2001), 24-26 October 2001, San Francisco, CA, USA, Proceedings",
+            "Conference": "DFT",
+            "Publisher": "IEEE Computer Society"
+        },
+        {
+            "_id": "1186620",
+            "Type": "proceedings",
+            "Year": "2002",
+            "Title": "17th IEEE International Symposium on Defect and Fault-Tolerance in VLSI Systems (DFT 2002), 6-8 November 2002, Vancouver, BC, Canada, Proceedings",
+            "Conference": "DFT",
+            "Publisher": "IEEE Computer Society"
+        },
+        {
+            "_id": "1186621",
+            "Type": "proceedings",
+            "Year": "2003",
+            "Title": "18th  IEEE International Symposium on Defect and Fault-Tolerance in VLSI Systems (DFT 2003), 3-5 November 2003, Boston, MA, USA, Proceedings",
+            "Conference": "DFT",
+            "Publisher": "IEEE Computer Society"
+        },
+        {
+            "_id": "1186622",
+            "Type": "proceedings",
+            "Year": "2004",
+            "Title": "19th IEEE International Symposium on Defect and Fault-Tolerance in VLSI Systems (DFT 2004), 10-13 October 2004, Cannes, France, Proceedings",
+            "Conference": "DFT",
+            "Publisher": "IEEE Computer Society"
+        },
+        {
+            "_id": "1186623",
+            "Type": "proceedings",
+            "Year": "2005",
+            "Title": "20th IEEE International Symposium on Defect and Fault-Tolerance in VLSI Systems (DFT 2005), 3-5 October 2005, Monterey, CA, USA",
+            "Conference": "DFT",
+            "Publisher": "IEEE Computer Society"
+        },
+        {
+            "_id": "1186624",
+            "Type": "proceedings",
+            "Year": "2002",
+            "Title": "1st IEEE Computer Society Bioinformatics Conference (CSB 2002), 14-16 August 2002, Stanford, CA, USA",
+            "Conference": "CSB",
+            "Publisher": "IEEE Computer Society"
+        },
+        {
+            "_id": "1186625",
+            "Type": "proceedings",
+            "Year": "2003",
+            "Title": "2nd IEEE Computer Society Bioinformatics Conference (CSB 2003), 11-14 August 2003, Stanford, CA, USA",
+            "Conference": "CSB",
+            "Publisher": "IEEE Computer Society"
+        },
+        {
+            "_id": "1186626",
+            "Type": "proceedings",
+            "Year": "2004",
+            "Title": "3rd  International IEEE Computer Society Computational Systems Bioinformatics Conference (CSB 2004), 16-19 August 2004, Stanford, CA, USA",
+            "Conference": "CSB",
+            "Publisher": "IEEE Computer Society"
+        },
+        {
+            "_id": "1186627",
+            "Type": "proceedings",
+            "Year": "2005",
+            "Title": "Fourth International IEEE Computer Society Computational Systems Bioinformatics Conference (CSB 2005), 8-11 August 2005, Stanford, CA, USA",
+            "Conference": "CSB",
+            "Publisher": "IEEE Computer Society"
+        },
+        {
+            "_id": "1186628",
+            "Type": "proceedings",
+            "Year": "2005",
+            "Title": "Fourth International IEEE Computer Society Computational Systems Bioinformatics Conference Workshops a Poster Abstracts (CSB 2005 Workshops), 8-11 August 2005, Stanford, CA, USA",
+            "Conference": "CSB Workshops",
+            "Publisher": "IEEE Computer Society"
+        },
+        {
+            "_id": "1186629",
+            "Type": "proceedings",
+            "Volume": "1456",
+            "Year": "1998",
+            "Title": "Collective Robotics, First International Workshop, CRW_98, Paris, France, July 4-5, 1998, Proceedings.",
+            "Conference": "CRW",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186630",
+            "Type": "proceedings",
+            "Volume": "329",
+            "Year": "1988",
+            "Title": "CSL _87, 1st Workshop on Computer Science Logic, Karlsruhe, Germany, October 12-16, 1987, Proceedings",
+            "Conference": "CSL",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186631",
+            "Type": "proceedings",
+            "Volume": "385",
+            "Year": "1989",
+            "Title": "CSL _88, 2nd Workshop on Computer Science Logic, Duisburg, Germany, October 3-7, 1988, Proceedings",
+            "Conference": "CSL",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186632",
+            "Type": "proceedings",
+            "Volume": "440",
+            "Year": "1990",
+            "Title": "CSL _89, 3rd Workshop on Computer Science Logic, Kaiserslautern, Germany, October 2-6, 1989, Proceedings",
+            "Conference": "CSL",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186633",
+            "Type": "proceedings",
+            "Volume": "533",
+            "Year": "1991",
+            "Title": "Computer Science Logic, 4th Workshop, CSL _90, Heidelberg, Germany, October 1-5, 1990, Proceedings",
+            "Conference": "CSL",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186634",
+            "Type": "proceedings",
+            "Volume": "626",
+            "Year": "1992",
+            "Title": "Computer Science Logic, 5th Workshop, CSL _91, Berne, Switzerland, October 7-11, 1991, Proceedings",
+            "Conference": "CSL",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186635",
+            "Type": "proceedings",
+            "Volume": "702",
+            "Year": "1993",
+            "Title": "Computer Science Logic, 6th Workshop, CSL _92, San Miniato, Italy, September 28 - October 2, 1992, Selected Papers",
+            "Conference": "CSL",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186636",
+            "Type": "proceedings",
+            "Volume": "832",
+            "Year": "1994",
+            "Title": "Computer Science Logic, 7th Workshop, CSL _93, Swansea, United Kingdom, September 13-17, 1993, Selected Papers",
+            "Conference": "CSL",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186637",
+            "Type": "proceedings",
+            "Volume": "933",
+            "Year": "1995",
+            "Title": "Computer Science Logic, 8th International Workshop, CSL _94, Kazimierz, Poland, September 25-30, 1994, Selected Papers",
+            "Conference": "CSL",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186638",
+            "Type": "proceedings",
+            "Volume": "1092",
+            "Year": "1996",
+            "Title": "Computer Science Logic, 9th International Workshop, CSL _95, Annual Conference of the EACSL, Paderborn, Germany, September 22-29, 1995, Selected Papers",
+            "Conference": "CSL",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186639",
+            "Type": "proceedings",
+            "Volume": "1258",
+            "Year": "1997",
+            "Title": "Computer Science Logic, 10th International Workshop, CSL _96, Annual Conference of the EACSL, Utrecht, The Netherlands, September 21-27, 1996, Selected Papers",
+            "Conference": "CSL",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186640",
+            "Type": "proceedings",
+            "Volume": "1414",
+            "Year": "1998",
+            "Title": "Computer Science Logic, 11th International Workshop, CSL _97, Annual Conference of the EACSL, Aarhus, Denmark, August 23-29, 1997, Selected Papers",
+            "Conference": "CSL",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186641",
+            "Type": "proceedings",
+            "Volume": "1584",
+            "Year": "1999",
+            "Title": "Computer Science Logic, 12th International Workshop, CSL _98, Annual Conference of the EACSL, Brno, Czech Republic, August 24-28, 1998, Proceedings",
+            "Conference": "CSL",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186642",
+            "Type": "proceedings",
+            "Volume": "1683",
+            "Year": "1999",
+            "Title": "Computer Science Logic, 13th International Workshop, CSL _99, 8th Annual Conference of the EACSL, Madrid, Spain, September 20-25, 1999, Proceedings",
+            "Conference": "CSL",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186643",
+            "Type": "proceedings",
+            "Volume": "1862",
+            "Year": "2000",
+            "Title": "Computer Science Logic, 14th Annual Conference of the EACSL, Fischbachau, Germany, August 21-26, 2000, Proceedings",
+            "Conference": "CSL",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186644",
+            "Type": "proceedings",
+            "Volume": "2142",
+            "Year": "2001",
+            "Title": "Computer Science Logic, 15th International Workshop, CSL 2001. 10th Annual Conference of the EACSL, Paris, France, September 10-13, 2001, Proceedings",
+            "Conference": "CSL",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186645",
+            "Type": "proceedings",
+            "Volume": "2471",
+            "Year": "2002",
+            "Title": "Computer Science Logic, 16th International Workshop, CSL 2002, 11th Annual Conference of the EACSL, Edinburgh, Scotland, UK, September 22-25, 2002, Proceedings",
+            "Conference": "CSL",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186646",
+            "Type": "proceedings",
+            "Volume": "2803",
+            "Year": "2003",
+            "Title": "Computer Science Logic, 17th International Workshop, CSL 2003, 12th Annual Conference of the EACSL, and 8th Kurt Gudel Colloquium, KGC 2003, Vienna, Austria, August 25-30, 2003, Proceedings",
+            "Conference": "CSL",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186647",
+            "Type": "proceedings",
+            "Volume": "3210",
+            "Year": "2004",
+            "Title": "Computer Science Logic, 18th International Workshop, CSL 2004, 13th Annual Conference of the EACSL, Karpacz, Poland, September 20-24, 2004, Proceedings",
+            "Conference": "CSL",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186648",
+            "Type": "proceedings",
+            "Volume": "3634",
+            "Year": "2005",
+            "Title": "Computer Science Logic, 19th International Workshop, CSL 2005, 14th Annual Conference of the EACSL, Oxford, UK, August 22-25, 2005, Proceedings",
+            "Conference": "CSL",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186649",
+            "Type": "proceedings",
+            "Volume": "202",
+            "Year": "2001",
+            "Title": "Towards The E-Society: E-Commerce, E-Business, and E-Government, The First IFIP Conference on E-Commerce, E-Business, E-Government (I3E 2001), October 3-5, Zurich, Switzerland",
+            "Conference": "I3E",
+            "Publisher": "Kluwer"
+        },
+        {
+            "_id": "1186650",
+            "Type": "proceedings",
+            "Volume": "233",
+            "Year": "2002",
+            "Title": "Towards The Knowledge Society: eCommerce, eBusiness, and eGovernment, The Second IFIP Conference on E-Commerce, E-Business, E-Government (I3E 2002), October 7-9, 2002, Lisbon, Portugal",
+            "Conference": "I3E",
+            "Publisher": "Kluwer"
+        },
+        {
+            "_id": "1186651",
+            "Type": "proceedings",
+            "Volume": "268",
+            "Year": "2004",
+            "Title": "Digital Communities in a Networked Society: eCommerce, eBusiness, and eGovernment, The Third IFIP Conference on E-Commerce, E-Business, E-Government (I3E 2003), September 21-24, 2003, Sao Paulo, Brazil",
+            "Conference": "I3E",
+            "Publisher": "Kluwer"
+        },
+        {
+            "_id": "1186652",
+            "Type": "proceedings",
+            "Year": "2004",
+            "Title": "Building The E-Service Society: E-Commerce, E-Business, and E-Government -IFIP 18th World Computer Congress TC6/TC8/TC11 4th International Conference on E-Commerce, E-Business, E-Government (I3E 2004), 22-27 August 2004, Toulouse, France",
+            "Conference": "I3E",
+            "Publisher": "Kluwer"
+        },
+        {
+            "_id": "1186653",
+            "Type": "proceedings",
+            "Volume": "1532",
+            "Year": "1998",
+            "Title": "Discovery Science, First International Conference, DS _98, Fukuoka, Japan, December 14-16, 1998, Proceedings",
+            "Conference": "Discovery Science",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186654",
+            "Type": "proceedings",
+            "Volume": "1721",
+            "Year": "1999",
+            "Title": "Discovery Science, Second International Conference, DS _99, Tokyo, Japan, December, 1999, Proceedings",
+            "Conference": "Discovery Science",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186655",
+            "Type": "proceedings",
+            "Volume": "1967",
+            "Year": "2000",
+            "Title": "Discovery Science, Third International Conference, DS 2000, Kyoto, Japan, December 4-6, 2000,  Proceedings",
+            "Conference": "Discovery Science",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186656",
+            "Type": "proceedings",
+            "Volume": "2226",
+            "Year": "2001",
+            "Title": "Discovery Science, 4th International Conference, DS 2001, Washington, DC, USA, November 25-28, 2001, Proceedings",
+            "Conference": "Discovery Science",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186657",
+            "Type": "proceedings",
+            "Volume": "2534",
+            "Year": "2002",
+            "Title": "Discovery Science, 5th International Conference, DS 2002, Lubeck, Germany, November 24-26, 2002, Proceedings",
+            "Conference": "Discovery Science",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186658",
+            "Type": "proceedings",
+            "Volume": "2843",
+            "Year": "2003",
+            "Title": "Discovery Science, 6th International Conference, DS 2003, Sapporo, Japan, October 17-19,2003, Proceedings",
+            "Conference": "Discovery Science",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186659",
+            "Type": "proceedings",
+            "Volume": "3245",
+            "Year": "2004",
+            "Title": "Discovery Science, 7th International Conference, DS 2004, Padova, Italy, October 2-5, 2004, Proceedings",
+            "Conference": "Discovery Science",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186660",
+            "Type": "proceedings",
+            "Volume": "3735",
+            "Year": "2005",
+            "Title": "Discovery Science, 8th International Conference, DS 2005, Singapore, October 8-11, 2005, Proceedings",
+            "Conference": "Discovery Science",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186661",
+            "Type": "proceedings",
+            "Volume": "2295",
+            "Year": "2002",
+            "Title": "Developments in Language Theory, 5th International Conference, DLT 2001, Vienna, Austria, July 16-21, 2001, Revised Papers",
+            "Conference": "Developments in Language Theory",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186662",
+            "Type": "proceedings",
+            "Volume": "2450",
+            "Year": "2003",
+            "Title": "Developments in Language Theory, 6th International Conference, DLT 2002, Kyoto, Japan, September 18-21, 2002, Revised Papers",
+            "Conference": "Developments in Language Theory",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186663",
+            "Type": "proceedings",
+            "Volume": "2710",
+            "Year": "2003",
+            "Title": "Developments in Language Theory, 7th International Conference, DLT 2003, Szeged, Hungary, July 7-11, 2003, Proceedings",
+            "Conference": "Developments in Language Theory",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186664",
+            "Type": "proceedings",
+            "Year": "2000",
+            "Title": "Developments in Language Theory, Foundations, Applications, and Perspectives, Aachen, Germany, 6-9 July 1999",
+            "Conference": "Developments in Language Theory",
+            "Publisher": "World Scientific"
+        },
+        {
+            "_id": "1186665",
+            "Type": "proceedings",
+            "Volume": "3340",
+            "Year": "2004",
+            "Title": "Developments in Language Theory, 8th International Conference, DLT 2004, Auckland, New Zealand, December 13-17, 2004, Proceedings",
+            "Conference": "Developments in Language Theory",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186666",
+            "Type": "proceedings",
+            "Volume": "3572",
+            "Year": "2005",
+            "Title": "Developments in Language Theory, 9th International Conference, DLT 2005, Palermo, Italy, July 4-8, 2005, Proceedings",
+            "Conference": "Developments in Language Theory",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186667",
+            "Type": "proceedings",
+            "Volume": "2054",
+            "Year": "2001",
+            "Title": "DNA Computing, 6th International Workshop on DNA-Based Computers, DNA 2000, Leiden, The Netherlands, June 13-17, 2000, Revised Papers",
+            "Conference": "DNA",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186668",
+            "Type": "proceedings",
+            "Volume": "2340",
+            "Year": "2002",
+            "Title": "DNA Computing, 7th International Workshop on DNA-Based Computers, DNA7, Tampa, Florida, USA, June 10-13, 2001, Revised Papers",
+            "Conference": "DNA",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186669",
+            "Type": "proceedings",
+            "Volume": "2568",
+            "Year": "2003",
+            "Title": "DNA Computing, 8th International Workshop on DNA Based Computers, DNA8, Sapporo, Japan, June 10-13, 2002, Revised Papers",
+            "Conference": "DNA",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186670",
+            "Type": "proceedings",
+            "Volume": "2943",
+            "Year": "2004",
+            "Title": "DNA Computing, 9th International Workshop on DNA Based Computers, DNA9, Madison, WI, USA, June 1-3, 2003, revised Papers",
+            "Conference": "DNA",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186671",
+            "Type": "proceedings",
+            "Volume": "3384",
+            "Year": "2005",
+            "Title": "DNA Computing, 10th International Workshop on DNA Computing, DNA 10, Milan, Italy, June 7-10, 2004, Revised Selected Papers",
+            "Conference": "DNA",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186672",
+            "Type": "proceedings",
+            "Volume": "44",
+            "Year": "1976",
+            "Title": "ECI Conference 1976, Proceedings of the 1st European Cooperation in Informatics, Amsterdam, The Netherlands, August 9-12, 1976, Proceedings",
+            "Conference": "ECI",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186673",
+            "Type": "proceedings",
+            "Volume": "65",
+            "Year": "1978",
+            "Title": "Information Systems Methodology, Proceedings, 2nd Conference of the European Cooperation in Informatics, Venice, Italy, October 10-12, 1978",
+            "Conference": "ECI",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186674",
+            "Type": "proceedings",
+            "Volume": "123",
+            "Year": "1981",
+            "Title": "Trends in Information Processing Systems, 3rd Conference of the European Cooperation in Informatics, Munich, Germany, October 20-22, 1981, Proceedings",
+            "Conference": "ECI",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186675",
+            "Type": "proceedings",
+            "Volume": "1348",
+            "Year": "1997",
+            "Title": "Recent Advances in AI Planning, 4th European Conference on Planning, ECP_97, Toulouse, France, September 24-26, 1997, Proceedings",
+            "Conference": "ECP",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186676",
+            "Type": "proceedings",
+            "Volume": "1809",
+            "Year": "2000",
+            "Title": "Recent Advances in AI Planning, 5th European Conference on Planning, ECP_99, Durham, UK, September  8-10, 1999, Proceedings",
+            "Conference": "ECP",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186677",
+            "Type": "proceedings",
+            "Volume": "2596",
+            "Year": "2003",
+            "Title": "Software Engineering and Middleware, Third International Workshop, SEM 2002. Orlando, FL, USA, May 20-21, 2002, Revised Papers",
+            "Conference": "SEM",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186678",
+            "Type": "proceedings",
+            "Volume": "1999",
+            "Year": "2001",
+            "Title": "Engineering Distributed Objects, Second International Workshop, EDO 2000, Davis, CA, USA, November 2-3, 2000, Revised Papers",
+            "Conference": "EDO",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186679",
+            "Type": "proceedings",
+            "Year": "2005",
+            "Title": "Proceedings of the 5th International Workshop on Software Engineering and Middleware, SEM 2005, Lisbon, Portugal, September 5-6, 2005",
+            "Conference": "SEM",
+            "Publisher": "ACM"
+        },
+        {
+            "_id": "1186680",
+            "Type": "proceedings",
+            "Volume": "1494",
+            "Year": "1998",
+            "Title": "Lectures on Embedded Systems, European Educational Forum, School on Embedded Systems, Veldhoven, The Netherlands, November 25-29, 1996",
+            "Conference": "School on Embedded Systems",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186681",
+            "Type": "proceedings",
+            "Volume": "2090",
+            "Year": "2001",
+            "Title": "Lectures on Formal Methods and Performance Analysis, First EEF/Euro Summer School on Trends in Computer Science, Berg en Dal, The Netherlands, July 3-7, 2000, Revised Lectures",
+            "Conference": "Euro Summer School on Trends in Computer Science",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186682",
+            "Type": "proceedings",
+            "Year": "1986",
+            "Title": "Expert Database Systems, Proceedings From the First international Workshop, Kiawah Island, South Carolina, USA, October 24-27, 1984",
+            "Publisher": "Benjamin/Cummings"
+        },
+        {
+            "_id": "1186683",
+            "Type": "proceedings",
+            "Year": "1987",
+            "Title": "Expert Database Systems, Proceedings From the First International Conference, Charleston, South Carolina, USA, April 1-4, 1986",
+            "Publisher": "Benjamin/Cummings"
+        },
+        {
+            "_id": "1186684",
+            "Type": "proceedings",
+            "Year": "1989",
+            "Title": "Expert Database Systems, Proceedings from the Second International Conference, Vienna, Virginia, USA, April 25-27, 1988",
+            "Publisher": "Benjamin/Cummings"
+        },
+        {
+            "_id": "1186685",
+            "Type": "proceedings",
+            "Year": "1987",
+            "Title": "Advances in Computer Graphics Hardware I (Eurographics_86 Workshop)",
+            "Conference": "Advances in Computer Graphics Hardware I",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186686",
+            "Type": "proceedings",
+            "Year": "1988",
+            "Title": "Advances in Computer Graphics Hardware II (Eurographics_87 Workshop)",
+            "Conference": "Advances in Computer Graphics Hardware II",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186687",
+            "Type": "proceedings",
+            "Year": "1991",
+            "Title": "Advances in Computer Graphics Hardware III (Eurographics_88 Workshop)",
+            "Conference": "Advances in Computer Graphics Hardware III",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186688",
+            "Type": "proceedings",
+            "Year": "1991",
+            "Title": "Advances in Computer Graphics Hardware IV (Eurographics_89 Workshop)",
+            "Conference": "Advances in Computer Graphics Hardware IV",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186689",
+            "Type": "proceedings",
+            "Year": "1993",
+            "Title": "Rendering, Visualization and Rasterization Hardware (Eurographics_91 Workshop)",
+            "Conference": "Advances in Computer Graphics Hardware VI",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186690",
+            "Type": "proceedings",
+            "Year": "1986",
+            "Title": "Advances in Computer Graphics I (Tutorials from Eurographics_84 and Eurographics_85 Conf.)",
+            "Conference": "Advances in Computer Graphics I",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186691",
+            "Type": "proceedings",
+            "Year": "1986",
+            "Title": "Advances in Computer Graphics II (Tutorials from Eurographics_86 Conf.)",
+            "Conference": "Advances in Computer Graphics II",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186692",
+            "Type": "proceedings",
+            "Year": "1988",
+            "Title": "Advances in Computer Graphics III (Tutorials from Eurographics_87 Conf.)",
+            "Conference": "Advances in Computer Graphics III",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186693",
+            "Type": "proceedings",
+            "Year": "1991",
+            "Title": "Advances in Computer Graphics IV (Tutorials from Eurographics_88 Conf.)",
+            "Conference": "Advances in Computer Graphics IV",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186694",
+            "Type": "proceedings",
+            "Year": "1989",
+            "Title": "Advances in Computer Graphics V (Tutorials from Eurographics_89 Conf.)",
+            "Conference": "Advances in Computer Graphics V",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186695",
+            "Type": "proceedings",
+            "Year": "1991",
+            "Title": "Advances in Computer Graphics VI, Images: Synthesis, Analysis, and Interaction (Tutorials from Eurographics_90 Conf.)",
+            "Conference": "Advances in Computer Graphics VI",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186696",
+            "Type": "proceedings",
+            "Volume": "AC",
+            "Year": "2003",
+            "Title": "Discrete Random Walks, DRW_03, Paris, France, September 1-5, 2003",
+            "Conference": "DRW",
+            "Publisher": "DMTCS"
+        },
+        {
+            "_id": "1186697",
+            "Type": "proceedings",
+            "Year": "2000",
+            "Title": "2000 International Conference on Dependable Systems and Networks (DSN 2000) (formerly FTCS-30 and DCCA-8), 25-28 June 2000, New York, NY, USA",
+            "Conference": "DSN",
+            "Publisher": "IEEE Computer Society"
+        },
+        {
+            "_id": "1186698",
+            "Type": "proceedings",
+            "Year": "2001",
+            "Title": "2001 International Conference on Dependable Systems and Networks (DSN 2001) (formerly: FTCS), 1-4 July 2001, Goteborg, Sweden, Proceedings",
+            "Conference": "DSN",
+            "Publisher": "IEEE Computer Society"
+        },
+        {
+            "_id": "1186699",
+            "Type": "proceedings",
+            "Year": "2002",
+            "Title": "2002 International Conference on Dependable Systems and Networks (DSN 2002), 23-26 June 2002, Bethesda, MD, USA, Proceedings",
+            "Conference": "DSN",
+            "Publisher": "IEEE Computer Society"
+        },
+        {
+            "_id": "1186700",
+            "Type": "proceedings",
+            "Year": "2003",
+            "Title": "2003 International Conference on Dependable Systems and Networks (DSN 2003), 22-25 June 2003, San Francisco, CA, USA, Proceedings",
+            "Conference": "DSN",
+            "Publisher": "IEEE Computer Society"
+        },
+        {
+            "_id": "1186701",
+            "Type": "proceedings",
+            "Year": "2004",
+            "Title": "2004 International Conference on Dependable Systems and Networks (DSN 2004), 28 June - 1 July 2004, Florence, Italy, Proceedings",
+            "Conference": "DSN",
+            "Publisher": "IEEE Computer Society"
+        },
+        {
+            "_id": "1186702",
+            "Type": "proceedings",
+            "Year": "2005",
+            "Title": "2005 International Conference on Dependable Systems and Networks (DSN 2005), 28 June - 1 July 2005, Yokohama, Japan, Proceedings",
+            "Conference": "DSN",
+            "Publisher": "IEEE Computer Society"
+        },
+        {
+            "_id": "1186703",
+            "Type": "proceedings",
+            "Volume": "2281",
+            "Year": "2002",
+            "Title": "Progress in Discovery Science, Final Report of the Japanese Discovery Science Project",
+            "Conference": "Progress in Discovery Science",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186704",
+            "Type": "proceedings",
+            "Volume": "475",
+            "Year": "1991",
+            "Title": "Extensions of Logic Programming, International Workshop, Tubingen, FRG, December 8-10, 1989, Proceedings",
+            "Conference": "ELP",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186705",
+            "Type": "proceedings",
+            "Volume": "596",
+            "Year": "1992",
+            "Title": "Extensions of Logic Programming, Second International Workshop, ELP_91, Stockholm, Sweden, January 27-29, 1991, Proceedings",
+            "Conference": "ELP",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186706",
+            "Type": "proceedings",
+            "Volume": "660",
+            "Year": "1993",
+            "Title": "Extensions of Logic Programming, Third International Workshop, ELP_92, Bologna, Italy, February 26-28, 1992, Proceedings",
+            "Conference": "ELP",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186707",
+            "Type": "proceedings",
+            "Volume": "798",
+            "Year": "1994",
+            "Title": "Extensions of Logic Programming, 4th International Workshop, ELP_93, St. Andrews, U.K., March 29 - April 1, 1993, Proceedings",
+            "Conference": "ELP",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186708",
+            "Type": "proceedings",
+            "Volume": "1050",
+            "Year": "1996",
+            "Title": "Extensions of Logic Programming, 5th International Workshop, ELP_96, Leipzig, Germany, March 28-30, 1996, Proceedings",
+            "Conference": "ELP",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186709",
+            "Type": "proceedings",
+            "Volume": "1993",
+            "Year": "2001",
+            "Title": "Evolutionary Multi-Criterion Optimization, First International Conference, EMO 2001, Zurich, Switzerland, March 7-9, 2001, Proceedings",
+            "Conference": "EMO",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186710",
+            "Type": "proceedings",
+            "Volume": "2632",
+            "Year": "2003",
+            "Title": "Evolutionary Multi-Criterion Optimization, Second International Conference, EMO 2003, Faro, Portugal, April 8-11, 2003, Proceedings",
+            "Conference": "EMO",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186711",
+            "Type": "proceedings",
+            "Volume": "3410",
+            "Year": "2005",
+            "Title": "Evolutionary Multi-Criterion Optimization, Third International Conference,EMO 2005, Guanajuato, Mexico, March 9-11, 2005, Proceedings",
+            "Conference": "EMO",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186712",
+            "Type": "proceedings",
+            "Year": "1993",
+            "Title": "Formale Methoden fur verteilte Systeme, GI/ITG-Fachgesprach, Magdeburg, 10.-11. Juni 1992",
+            "Conference": "FBT",
+            "Publisher": "K. G. Saur Verlag"
+        },
+        {
+            "_id": "1186713",
+            "Type": "proceedings",
+            "Volume": "315",
+            "Year": "1997",
+            "Title": "Formale Beschreibungstechniken fur verteilte Systeme, GI/ITG-Fachgesprach, Berlin, 19.-20. Juni 1997",
+            "Conference": "FBT",
+            "Publisher": "GMD-Forschungszentrum Informationstechnik GmbH"
+        },
+        {
+            "_id": "1186714",
+            "Type": "proceedings",
+            "Year": "1999",
+            "Title": "Formale Beschreibungstechniken fur verteilte Systeme, 9. GI/ITG-Fachgesprach, Munchen, Juni 1999",
+            "Conference": "FBT",
+            "Publisher": "Herbert Utz Verlag"
+        },
+        {
+            "_id": "1186715",
+            "Type": "proceedings",
+            "Year": "2000",
+            "Title": "Formale Beschreibungstechniken fur verteilte Systeme, 10. GI/ITG-Fachgesprach, Lubeck, Juni 2000",
+            "Conference": "FBT",
+            "Publisher": "Verlag Shaker"
+        },
+        {
+            "_id": "1186716",
+            "Type": "proceedings",
+            "Year": "1998",
+            "Title": "Formale Beschreibungstechniken fur verteilte Systeme, 8. GI/ITG-Fachgesprach, Cottbus, 4. und 5. Juni 1998",
+            "Conference": "FBT",
+            "Publisher": "Verlag Shaker"
+        },
+        {
+            "_id": "1186717",
+            "Type": "proceedings",
+            "Volume": "56",
+            "Year": "1977",
+            "Title": "Fundamentals of Computation Theory, Proceedings of the 1977 International FCT-Conference, Poznan-Kornik, Poland, September 19-23, 1977",
+            "Conference": "FCT",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186718",
+            "Type": "proceedings",
+            "Volume": "117",
+            "Year": "1981",
+            "Title": "Fundamentals of Computation Theory, FCT_81, Proceedings of the 1981 International FCT-Conference, Szeged, Hungary, August 24-28, 1981",
+            "Conference": "FCT",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186719",
+            "Type": "proceedings",
+            "Volume": "158",
+            "Year": "1983",
+            "Title": "Fundamentals of Computation Theory, Proceedings of the 1983 International FCT-Conference, Borgholm, Sweden, August 21-27, 1983",
+            "Conference": "FCT",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186720",
+            "Type": "proceedings",
+            "Volume": "199",
+            "Year": "1985",
+            "Title": "Fundamentals of Computation Theory, FCT _85, Cottbus, GDR, September 9-13, 1985",
+            "Conference": "FCT",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186721",
+            "Type": "proceedings",
+            "Volume": "278",
+            "Year": "1987",
+            "Title": "Fundamentals of Computation Theory, International Conference FCT_87, Kazan, USSR, June 22-26, 1987, Proceedings",
+            "Conference": "FCT",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186722",
+            "Type": "proceedings",
+            "Volume": "380",
+            "Year": "1989",
+            "Title": "Fundamentals of Computation Theory, International Conference FCT_89, Szeged, Hungary, August 21-25, 1989, Proceedings",
+            "Conference": "FCT",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186723",
+            "Type": "proceedings",
+            "Volume": "529",
+            "Year": "1991",
+            "Title": "Fundamentals of Computation Theory, 8th International Symposium, FCT _91, Gosen, Germany, September 9-13, 1991, Proceedings",
+            "Conference": "FCT",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186724",
+            "Type": "proceedings",
+            "Volume": "710",
+            "Year": "1993",
+            "Title": "Fundamentals of Computation Theory, 9th International Symposium, FCT _93, Szeged, Hungary, August 23-27, 1993, Proceedings",
+            "Conference": "FCT",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186725",
+            "Type": "proceedings",
+            "Volume": "965",
+            "Year": "1995",
+            "Title": "Fundamentals of Computation Theory, 10th International Symposium, FCT _95, Dresden, Germany, August 22-25, 1995, Proceedings",
+            "Conference": "FCT",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186726",
+            "Type": "proceedings",
+            "Volume": "1279",
+            "Year": "1997",
+            "Title": "Fundamentals of Computation Theory, 11th International Symposium, FCT _97, Krakow, Poland, September 1-3, 1997, Proceedings",
+            "Conference": "FCT",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186727",
+            "Type": "proceedings",
+            "Volume": "1684",
+            "Year": "1999",
+            "Title": "Fundamentals of Computation Theory, 12th International Symposium, FCT _99, Iasi, Romania, August 30 - September 3, 1999, Proceedings",
+            "Conference": "FCT",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186728",
+            "Type": "proceedings",
+            "Volume": "2138",
+            "Year": "2001",
+            "Title": "Fundamentals of Computation Theory, 13th International Symposium, FCT 2001, Riga, Latvia, August 22-24, 2001, Proceedings",
+            "Conference": "FCT",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186729",
+            "Type": "proceedings",
+            "Volume": "2751",
+            "Year": "2003",
+            "Title": "Fundamentals of Computation Theory, 14th International Symposium, FCT 2003, Malmo, Sweden, August 12-15, 2003, Proceedings",
+            "Conference": "FCT",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186730",
+            "Type": "proceedings",
+            "Volume": "3623",
+            "Year": "2005",
+            "Title": "Fundamentals of Computation Theory, 15th International Symposium, FCT 2005, Lubeck, Germany, August 17-20, 2005, Proceedings",
+            "Conference": "FCT",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186731",
+            "Type": "proceedings",
+            "Volume": "1213",
+            "Year": "1997",
+            "Title": "Evolutionary Programming VI, 6th International Conference, EP97, Indianapolis, Indiana, USA, April 13-16, 1997, Proceedings",
+            "Conference": "Evolutionary Programming",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186732",
+            "Type": "proceedings",
+            "Volume": "1447",
+            "Year": "1998",
+            "Title": "Evolutionary Programming VII, 7th International Conference, EP98, San Diego, CA, USA, March 25-27, 1998, Proceedings",
+            "Conference": "Evolutionary Programming",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186733",
+            "Type": "proceedings",
+            "Volume": "726",
+            "Year": "1993",
+            "Title": "Algorithms - ESA _93, First Annual European Symposium, Bad Honnef, Germany, September 30 - October 2, 1993, Proceedings",
+            "Conference": "ESA",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186734",
+            "Type": "proceedings",
+            "Volume": "855",
+            "Year": "1994",
+            "Title": "Algorithms - ESA _94, Second Annual European Symposium, Utrecht, The Netherlands, September 26-28, 1994, Proceedings",
+            "Conference": "ESA",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186735",
+            "Type": "proceedings",
+            "Volume": "979",
+            "Year": "1995",
+            "Title": "Algorithms - ESA _95, Third Annual European Symposium, Corfu, Greece, September 25-27, 1995, Proceedings",
+            "Conference": "ESA",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186736",
+            "Type": "proceedings",
+            "Volume": "1136",
+            "Year": "1996",
+            "Title": "Algorithms - ESA _96, Fourth Annual European Symposium, Barcelona, Spain, September 25-27, 1996, Proceedings",
+            "Conference": "ESA",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186737",
+            "Type": "proceedings",
+            "Volume": "1284",
+            "Year": "1997",
+            "Title": "Algorithms - ESA _97, 5th Annual European Symposium, Graz, Austria, September 15-17, 1997, Proceedings",
+            "Conference": "ESA",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186738",
+            "Type": "proceedings",
+            "Volume": "1461",
+            "Year": "1998",
+            "Title": "Algorithms - ESA _98, 6th Annual European Symposium, Venice, Italy, August 24-26, 1998, Proceedings",
+            "Conference": "ESA",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186739",
+            "Type": "proceedings",
+            "Volume": "1643",
+            "Year": "1999",
+            "Title": "Algorithms - ESA _99, 7th Annual European Symposium, Prague, Czech Republic, July 16-18, 1999, Proceedings",
+            "Conference": "ESA",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186740",
+            "Type": "proceedings",
+            "Volume": "1879",
+            "Year": "2000",
+            "Title": "Algorithms - ESA 2000, 8th Annual European Symposium, Saarbrucken, Germany, September 5-8, 2000, Proceedings",
+            "Conference": "ESA",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186741",
+            "Type": "proceedings",
+            "Volume": "2161",
+            "Year": "2001",
+            "Title": "Algorithms - ESA 2001, 9th Annual European Symposium, Aarhus, Denmark, August 28-31, 2001, Proceedings",
+            "Conference": "ESA",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186742",
+            "Type": "proceedings",
+            "Volume": "2461",
+            "Year": "2002",
+            "Title": "Algorithms - ESA 2002, 10th Annual European Symposium, Rome, Italy, September 17-21, 2002, Proceedings",
+            "Conference": "ESA",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186743",
+            "Type": "proceedings",
+            "Volume": "2832",
+            "Year": "2003",
+            "Title": "Algorithms - ESA 2003, 11th Annual European Symposium, Budapest, Hungary, September 16-19, 2003, Proceedings",
+            "Conference": "ESA",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186744",
+            "Type": "proceedings",
+            "Volume": "3221",
+            "Year": "2004",
+            "Title": "Algorithms - ESA 2004, 12th Annual European Symposium, Bergen, Norway, September 14-17, 2004, Proceedings",
+            "Conference": "ESA",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186745",
+            "Type": "proceedings",
+            "Volume": "3669",
+            "Year": "2005",
+            "Title": "Algorithms - ESA 2005, 13th Annual European Symposium, Palma de Mallorca, Spain, October 3-6, 2005, Proceedings",
+            "Conference": "ESA",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186746",
+            "Type": "proceedings",
+            "Volume": "71",
+            "Year": "1983",
+            "Title": "First European Simulation Congress ESC 83, Aachen, September 12-16, 1983, Proceedings",
+            "Conference": "ESC",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186747",
+            "Type": "proceedings",
+            "Volume": "462",
+            "Year": "1990",
+            "Title": "Expert Systems in Engineering, Principles and Applications, International Workshop, Vienna, Austria, September 24-26, 1990, Proceedings",
+            "Conference": "Expert Systems in Engineering",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186748",
+            "Type": "proceedings",
+            "Volume": "2447",
+            "Year": "2002",
+            "Title": "Pattern Detection and Discovery, ESF Exploratory Workshop, London, UK, September 16-19, 2002, Proceedings",
+            "Conference": "Pattern Detection and Discovery",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186749",
+            "Type": "proceedings",
+            "Year": "1998",
+            "Title": "12th European Simulation Multiconference - Simulation - Past, Present and Future, June 16-19, 1998, Machester, United Kingdom",
+            "Conference": "ESM",
+            "Publisher": "SCS Europe"
+        },
+        {
+            "_id": "1186750",
+            "Type": "proceedings",
+            "Year": "2000",
+            "Title": "14th European Simulation Multiconference - Simulation and Modelling: Enablers for a Better Quality of Life, May 23-26, 2000, Ghent, Belgium",
+            "Conference": "ESM",
+            "Publisher": "SCS Europe"
+        },
+        {
+            "_id": "1186751",
+            "Type": "proceedings",
+            "Year": "2002",
+            "Title": "16th European Simulation Multiconference: Modelling and Simulation 2002, June 3-5, 2002, Fachhochschule Darmstadt, Darmstadt, Germany",
+            "Conference": "ESM",
+            "Publisher": "SCS Europe"
+        },
+        {
+            "_id": "1186752",
+            "Type": "proceedings",
+            "Volume": "1287",
+            "Year": "1997",
+            "Title": "Formal Hardware Verification - Methods and Systems in Comparison",
+            "Conference": "Formal Hardware Verification",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186753",
+            "Type": "proceedings",
+            "Volume": "1278",
+            "Year": "1997",
+            "Title": "Bioinformatics, German Conference on Bioinformatics, Leipzig, Germany, September 30 - October 2, 1996, Selected Papers",
+            "Conference": "German Conference on Bioinformatics - Selected Papers",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186754",
+            "Type": "proceedings",
+            "Year": "2000",
+            "Title": "Proceedings of the German Conference on Bioinformatics (GCB 2000), Heidelberg, October 5-7, 2000",
+            "Conference": "German Conference on Bioinformatics",
+            "Publisher": "Logos Verlag"
+        },
+        {
+            "_id": "1186755",
+            "Type": "proceedings",
+            "Volume": "53",
+            "Year": "2004",
+            "Title": "Proceedings of the German Conference on Bioinformatics (GCB 2004), Bielefeld, Germany, October 4-6, 2004",
+            "Conference": "German Conference on Bioinformatics",
+            "Publisher": "GI"
+        },
+        {
+            "_id": "1186756",
+            "Type": "proceedings",
+            "Year": "2001",
+            "Title": "Computer science and biology: Proceedings of the German Conference on Bioinformatics, GCB 2001, October 7-10, 2001, Braunschweig, Germany",
+            "Conference": "German Conference on Bioinformatics",
+            "Publisher": "German Research Center for Biotechnology"
+        },
+        {
+            "_id": "1186757",
+            "Type": "proceedings",
+            "Year": "2003",
+            "Title": "Proceedings of the German Conference on Bioinformatics, GCB 2003, October 12-14, 2003, Neuherberg/Garching near Munich, Germany",
+            "Conference": "German Conference on Bioinformatics"
+        },
+        {
+            "_id": "1186758",
+            "Type": "proceedings",
+            "Volume": "71",
+            "Year": "2005",
+            "Title": "Proceedings of the German Conference on Bioinformatics (GCB 2005), Hamburg, Germany, October 5-7, 2005",
+            "Conference": "German Conference on Bioinformatics",
+            "Publisher": "GI"
+        },
+        {
+            "_id": "1186759",
+            "Type": "proceedings",
+            "Volume": "849",
+            "Year": "1994",
+            "Title": "Field-Programmable Logic, Architectures, Synthesis and Applications, 4th International Workshop on Field-Programmable Logic and Applications, FPL _94, Prague, Czech Republic, September 7-9, 1994, Proceedings",
+            "Conference": "FPL",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186760",
+            "Type": "proceedings",
+            "Volume": "975",
+            "Year": "1995",
+            "Title": "Field-Programmable Logic and Applications, 5th International Workshop, FPL _95, Oxford, UK, August 29 - September 1, 1995, Proceedings",
+            "Conference": "FPL",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186761",
+            "Type": "proceedings",
+            "Volume": "1142",
+            "Year": "1996",
+            "Title": "Field-Programmable Logic, Smart Applications, New Paradigms and Compilers, 6th International Workshop on Field-Programmable Logic, FPL _96, Darmstadt, Germany, September 23-25, 1996, Proceedings",
+            "Conference": "FPL",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186762",
+            "Type": "proceedings",
+            "Volume": "1304",
+            "Year": "1997",
+            "Title": "Field-Programmable Logic and Applications, 7th International Workshop, FPL _97, London, UK, September 1-3, 1997, Proceedings",
+            "Conference": "FPL",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186763",
+            "Type": "proceedings",
+            "Volume": "1482",
+            "Year": "1998",
+            "Title": "Field-Programmable Logic and Applications, From FPGAs to Computing Paradigm, 8th International Workshop, FPL_98, Tallinn, Estonia, August 31 - September 3, 1998, Proceedings",
+            "Conference": "FPL",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186764",
+            "Type": "proceedings",
+            "Volume": "1673",
+            "Year": "1999",
+            "Title": "Field-Programmable Logic and Applications, 9th International Workshop, FPL_99, Glasgow, UK, August 30 - September 1, 1999, Proceedings",
+            "Conference": "FPL",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186765",
+            "Type": "proceedings",
+            "Volume": "1896",
+            "Year": "2000",
+            "Title": "Field-Programmable Logic and Applications, The Roadmap to Reconfigurable Computing, 10th International Workshop, FPL 2000, Villach, Austria, August 27-30, 2000, Proceedings",
+            "Conference": "FPL",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186766",
+            "Type": "proceedings",
+            "Volume": "2147",
+            "Year": "2001",
+            "Title": "Field-Programmable Logic and Applications, 11th International Conference, FPL 2001, Belfast, Northern Ireland, UK, August 27-29, 2001, Proceedings",
+            "Conference": "FPL",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186767",
+            "Type": "proceedings",
+            "Volume": "2438",
+            "Year": "2002",
+            "Title": "Field-Programmable Logic and Applications, Reconfigurable Computing Is Going Mainstream, 12th International Conference, FPL 2002, Montpellier, France, September 2-4, 2002, Proceedings",
+            "Conference": "FPL",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186768",
+            "Type": "proceedings",
+            "Volume": "2778",
+            "Year": "2003",
+            "Title": "Field Programmable Logic and Application, 13th International Conference, FPL 2003, Lisbon, Portugal, September 1-3, 2003, Proceedings",
+            "Conference": "FPL",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186769",
+            "Type": "proceedings",
+            "Volume": "3203",
+            "Year": "2004",
+            "Title": "Field Programmable Logic and Application, 14th International Conference , FPL 2004, Leuven, Belgium, August 30-September 1, 2004, Proceedings",
+            "Conference": "FPL",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186770",
+            "Type": "proceedings",
+            "Year": "2005",
+            "Title": "Proceedings of the 2005 International Conference on Field Programmable Logic and Applications (FPL), Tampere, Finland, August 24-26, 2005",
+            "Conference": "FPL",
+            "Publisher": "IEEE"
+        },
+        {
+            "_id": "1186771",
+            "Type": "proceedings",
+            "Volume": "208",
+            "Year": "2001",
+            "Title": "From Geometric Modeling to Shape Modeling, IFIP TC5 WG5.2 Seventh Workshop on Geometric Modeling: Fundamentals and Applications, October 2-4, 2000, Parma, Italy",
+            "Conference": "Workshop on Geometric Modeling",
+            "Publisher": "Kluwer"
+        },
+        {
+            "_id": "1186772",
+            "Type": "proceedings",
+            "Volume": "809",
+            "Year": "1994",
+            "Title": "Fast Software Encryption, Cambridge Security Workshop, Cambridge, UK, December 9-11, 1993, Proceedings",
+            "Conference": "FSE",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186773",
+            "Type": "proceedings",
+            "Volume": "1008",
+            "Year": "1995",
+            "Title": "Fast Software Encryption: Second International Workshop. Leuven, Belgium, 14-16 December 1994, Proceedings",
+            "Conference": "FSE",
+            "Publisher": "Springer"
+        },
+        {
+            "_id": "1186774",
+            "Type": "proceedings",
+            "Volume": "1039",
+            "Year": "1996",
+            "Title": "Fast Software Encryption, Third International Workshop, Cambridge, UK, February 21-23, 1996, Proceedings",
+            "Conference": "FSE",
+            "Publisher": "Springer"
+        }
+    ]
+}

@@ -1,0 +1,2988 @@
+{
+    "docs": [
+        {
+            "_id": "1194965",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.computing.dcu.ie/~sblott/"
+        },
+        {
+            "_id": "1194966",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.informatik.uni-trier.de/~mueller/Professur/baum.html"
+        },
+        {
+            "_id": "1194967",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.lsi.upc.es/~cblum/"
+        },
+        {
+            "_id": "1194968",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://en.wikipedia.org/wiki/Jon_Barwise"
+        },
+        {
+            "_id": "1194969",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.cs.cmu.edu/afs/cs.cmu.edu/user/guyb/www/home.html"
+        },
+        {
+            "_id": "1194970",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.di.unito.it/~bonatti/"
+        },
+        {
+            "_id": "1194971",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.math.canterbury.ac.nz/~mathdsb/"
+        },
+        {
+            "_id": "1194972",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.cis.uab.edu/info/faculty/bryant/bryant.html"
+        },
+        {
+            "_id": "1194973",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www-poleia.lip6.fr/~briot/"
+        },
+        {
+            "_id": "1194974",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.fh-oow.de/institute/iapg/personen/brinkhoff/"
+        },
+        {
+            "_id": "1194975",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://director.sdsc.edu/"
+        },
+        {
+            "_id": "1194976",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.dsi.unifi.it/~boreale/"
+        },
+        {
+            "_id": "1194977",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.itheoi.mu-luebeck.de/pages/buntrock/"
+        },
+        {
+            "_id": "1194978",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://media.informatik.rwth-aachen.de/borchers.html"
+        },
+        {
+            "_id": "1194979",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.unibw.de/inf2/"
+        },
+        {
+            "_id": "1194980",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www-cgi.cs.cmu.edu/afs/cs.cmu.edu/user/bryant/www/home.html"
+        },
+        {
+            "_id": "1194981",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://wwwbrauer.in.tum.de/~brauer/"
+        },
+        {
+            "_id": "1194982",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.hi.is/~oddur/index-english.html"
+        },
+        {
+            "_id": "1194983",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://ls2-www.cs.uni-dortmund.de/~bollig/"
+        },
+        {
+            "_id": "1194984",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www2.parc.com/csl/members/balfanz/"
+        },
+        {
+            "_id": "1194985",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.cs.unipr.it/~bagnara/"
+        },
+        {
+            "_id": "1194986",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://pcl.cs.ucla.edu/~rajive/"
+        },
+        {
+            "_id": "1194987",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.dajobe.org/"
+        },
+        {
+            "_id": "1194988",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.cosc.canterbury.ac.nz/tim.bell/"
+        },
+        {
+            "_id": "1194989",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.cs.adelaide.edu.au/~mjb/"
+        },
+        {
+            "_id": "1194990",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www-sop.inria.fr/cafe/Manuel.Bronstein/bronstein-eng.html"
+        },
+        {
+            "_id": "1194991",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.cs.tu-berlin.de/~jochen"
+        },
+        {
+            "_id": "1194992",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.icar.cnr.it/angela/"
+        },
+        {
+            "_id": "1194993",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.iro.umontreal.ca/~brassard/"
+        },
+        {
+            "_id": "1194994",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www-lia.deis.unibo.it/Staff/MaurelioBoari/"
+        },
+        {
+            "_id": "1194995",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.cs.sfu.ca/cs/people/Faculty/Burton/"
+        },
+        {
+            "_id": "1194996",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.diku.dk/users/bonnet/"
+        },
+        {
+            "_id": "1194997",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.cs.washington.edu/homes/baer/"
+        },
+        {
+            "_id": "1194998",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.intellektik.informatik.tu-darmstadt.de/~bibel/"
+        },
+        {
+            "_id": "1194999",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.ise.pw.edu.pl/~bb/index.html"
+        },
+        {
+            "_id": "1195000",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.biostat.wisc.edu/faculty/burnside.html"
+        },
+        {
+            "_id": "1195001",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.polytech.univ-nantes.fr/blanchard/"
+        },
+        {
+            "_id": "1195002",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www-i4.informatik.rwth-aachen.de/~zina/"
+        },
+        {
+            "_id": "1195003",
+            "Type": "www",
+            "Title": "Home Page"
+        },
+        {
+            "_id": "1195004",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://vision.unige.ch/members/EricBruno.html"
+        },
+        {
+            "_id": "1195005",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.cs.princeton.edu/~boaz/"
+        },
+        {
+            "_id": "1195006",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://blaauw.eecs.umich.edu/people.php?u=professor"
+        },
+        {
+            "_id": "1195007",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.stanford.edu/~boyd/"
+        },
+        {
+            "_id": "1195008",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.di.unipi.it/~buscemi/"
+        },
+        {
+            "_id": "1195009",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://users.encs.concordia.ca/~prabir/"
+        },
+        {
+            "_id": "1195010",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.ldc.usb.ve/~bonet/"
+        },
+        {
+            "_id": "1195011",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.lsi.upc.es/~belanche/index-english.html"
+        },
+        {
+            "_id": "1195012",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://dbis.ipd.uni-karlsruhe.de/"
+        },
+        {
+            "_id": "1195013",
+            "Type": "www",
+            "Title": "Home Page"
+        },
+        {
+            "_id": "1195014",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.ucalgary.ca/~denilson/"
+        },
+        {
+            "_id": "1195015",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://pluto.scs.howard.edu/~blegand/"
+        },
+        {
+            "_id": "1195016",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.cs.purdue.edu/homes/mbykova/"
+        },
+        {
+            "_id": "1195017",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.cs.unibo.it/~bononi/"
+        },
+        {
+            "_id": "1195018",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www-sop.inria.fr/everest/Gilles.Barthe/"
+        },
+        {
+            "_id": "1195019",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.rennes.supelec.fr/ren/perso/cbidan/"
+        },
+        {
+            "_id": "1195020",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://pacificcoast.net/~lightning/jboyer.htm"
+        },
+        {
+            "_id": "1195021",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://ares.cs.siena.edu/~ebreimer/"
+        },
+        {
+            "_id": "1195022",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://people.depauw.edu/dberque/"
+        },
+        {
+            "_id": "1195023",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.psychology.sunysb.edu/sbrennan-/"
+        },
+        {
+            "_id": "1195024",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://trevinca.ei.uvigo.es/~jbarros/"
+        },
+        {
+            "_id": "1195025",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.isy.vcu.edu/~kmuata/"
+        },
+        {
+            "_id": "1195026",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.dis.uniroma1.it/~baldoni/"
+        },
+        {
+            "_id": "1195027",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.cs.wisc.edu/~suman/"
+        },
+        {
+            "_id": "1195028",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.lsi.us.es/~dbc/en/research.php"
+        },
+        {
+            "_id": "1195029",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.lacim.uqam.ca/~brlek/"
+        },
+        {
+            "_id": "1195030",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.boringfamily.info/ron_/"
+        },
+        {
+            "_id": "1195031",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://cedeira.dc.fi.udc.es/PlainConsulta/ShowResearcher.do?name=Nievesasurnames=Rodr%EDguez+Brisaboa"
+        },
+        {
+            "_id": "1195032",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.is.informatik.uni-kiel.de/~binemann/"
+        },
+        {
+            "_id": "1195033",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.cl.cam.ac.uk/users/mkb23/"
+        },
+        {
+            "_id": "1195034",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.leemon.com/"
+        },
+        {
+            "_id": "1195035",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.loria.fr/~abelaid/"
+        },
+        {
+            "_id": "1195036",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://home.in.tum.de/~baueran/"
+        },
+        {
+            "_id": "1195037",
+            "Type": "www",
+            "Title": "Home Page"
+        },
+        {
+            "_id": "1195038",
+            "Type": "www",
+            "Title": "Home Page"
+        },
+        {
+            "_id": "1195039",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.tecn.upf.es/~jbisbal/"
+        },
+        {
+            "_id": "1195040",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.bell-labs.com/user/mbuddhikot/"
+        },
+        {
+            "_id": "1195041",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.l3s.de/~balke/"
+        },
+        {
+            "_id": "1195042",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.isical.ac.in/~ujjwal/"
+        },
+        {
+            "_id": "1195043",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.dmi.unict.it/~battiato/"
+        },
+        {
+            "_id": "1195044",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.imse.ksu.edu/~davidbe/"
+        },
+        {
+            "_id": "1195045",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.csd.uwo.ca/~sakthi/"
+        },
+        {
+            "_id": "1195046",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.cse.ohio-state.edu/~buehrer/"
+        },
+        {
+            "_id": "1195047",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://wwwhome.math.utwente.nl/~bumbaf/"
+        },
+        {
+            "_id": "1195048",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.st.uni-trier.de/~burch/"
+        },
+        {
+            "_id": "1195049",
+            "Type": "www",
+            "Title": "Home Page"
+        },
+        {
+            "_id": "1195050",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.milosh.net/"
+        },
+        {
+            "_id": "1195051",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.robots.ox.ac.uk/~jmb/"
+        },
+        {
+            "_id": "1195052",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.cs.berkeley.edu/~bodikp/"
+        },
+        {
+            "_id": "1195053",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.eecs.berkeley.edu/~bajcsy/"
+        },
+        {
+            "_id": "1195054",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.engr.mun.ca/~momotaz/"
+        },
+        {
+            "_id": "1195055",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.iqe.ethz.ch/~baltes/start.html"
+        },
+        {
+            "_id": "1195056",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.cs.bham.ac.uk/~jab/"
+        },
+        {
+            "_id": "1195057",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www2.informatik.hu-berlin.de/~hdb/"
+        },
+        {
+            "_id": "1195058",
+            "Type": "www",
+            "Title": "Home Page"
+        },
+        {
+            "_id": "1195059",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://info.wlu.ca/~wwwgeog/facstaff/boots.htm"
+        },
+        {
+            "_id": "1195060",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.cs.columbia.edu/~mb/"
+        },
+        {
+            "_id": "1195061",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://dbis.uni-trier.de/Mitarbeiter/aweber.shtml"
+        },
+        {
+            "_id": "1195062",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://dbis.uni-trier.de/Mitarbeiter/walter.shtml"
+        },
+        {
+            "_id": "1195063",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.math.ias.edu/~avi/"
+        },
+        {
+            "_id": "1195064",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.cs.ust.hk/~dwood/"
+        },
+        {
+            "_id": "1195065",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.itee.uq.edu.au/~walder/"
+        },
+        {
+            "_id": "1195066",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://mis.sauder.ubc.ca/members/woo/home.htm"
+        },
+        {
+            "_id": "1195067",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www-db.stanford.edu/people/gio.html"
+        },
+        {
+            "_id": "1195068",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.mpi-sb.mpg.de/~weikum/"
+        },
+        {
+            "_id": "1195069",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://dais.cs.uiuc.edu/trustbuilder/people/Winslett.html"
+        },
+        {
+            "_id": "1195070",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://w5.cs.uni-sb.de/"
+        },
+        {
+            "_id": "1195071",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://users.tpg.com.au/dwolfram/"
+        },
+        {
+            "_id": "1195072",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.chass.utoronto.ca/~wellman/"
+        },
+        {
+            "_id": "1195073",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.cis.drexel.edu/faculty/HUD.Web/HUD.html"
+        },
+        {
+            "_id": "1195074",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.cis.njit.edu/~jason/"
+        },
+        {
+            "_id": "1195075",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://goanna.cs.rmit.edu.au/~winikoff/"
+        },
+        {
+            "_id": "1195076",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.cs.stevens-tech.edu/~rwright/"
+        },
+        {
+            "_id": "1195077",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://staff.umh.ac.be/Wijsen.Jef/"
+        },
+        {
+            "_id": "1195078",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.cs.umd.edu/~nwang/"
+        },
+        {
+            "_id": "1195079",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.jurinfor.ru/vew/"
+        },
+        {
+            "_id": "1195080",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://i11www.ira.uka.de/people/awolff"
+        },
+        {
+            "_id": "1195081",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.ipipan.waw.pl/~stw/"
+        },
+        {
+            "_id": "1195082",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://wwwhome.cs.utwente.nl/~roelw/"
+        },
+        {
+            "_id": "1195083",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.informatik.uni-trier.de/~wang/"
+        },
+        {
+            "_id": "1195084",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.cs.mcgill.ca/~sue/"
+        },
+        {
+            "_id": "1195085",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://faculty.cs.tamu.edu/walker/"
+        },
+        {
+            "_id": "1195086",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.ece.mcmaster.ca/~xwu/"
+        },
+        {
+            "_id": "1195087",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.ai.mit.edu/people/sw/"
+        },
+        {
+            "_id": "1195088",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://lmi.bwh.harvard.edu/~westin/"
+        },
+        {
+            "_id": "1195089",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.weichselgartner.de/erich/"
+        },
+        {
+            "_id": "1195090",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.csc.liv.ac.uk/~mjw/"
+        },
+        {
+            "_id": "1195091",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.is.titech.ac.jp/~watanabe/"
+        },
+        {
+            "_id": "1195092",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.inf.ethz.ch/personal/widmayer/"
+        },
+        {
+            "_id": "1195093",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.inf.ethz.ch/personal/emo/"
+        },
+        {
+            "_id": "1195094",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.cl.cam.ac.uk/~gw104/"
+        },
+        {
+            "_id": "1195095",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.stat.uiuc.edu/~ymw/ymwang.html"
+        },
+        {
+            "_id": "1195096",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.wmc.ewi.tudelft.nl/~weber/"
+        },
+        {
+            "_id": "1195097",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.uni-hildesheim.de/de/womser.htm"
+        },
+        {
+            "_id": "1195098",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www-cse.ucsd.edu/users/gill/"
+        },
+        {
+            "_id": "1195099",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.research.ibm.com/SocialComputing/TraceeWolf.htm"
+        },
+        {
+            "_id": "1195100",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.princeton.edu/~wolf/"
+        },
+        {
+            "_id": "1195101",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.ece.ubc.ca/~rababw/"
+        },
+        {
+            "_id": "1195102",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.martinwessner.de/"
+        },
+        {
+            "_id": "1195103",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://abel.math.harvard.edu/~ylwang/"
+        },
+        {
+            "_id": "1195104",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.ai.mit.edu/people/matt/matt.html"
+        },
+        {
+            "_id": "1195105",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://collaboration.csc.ncsu.edu/laurie/"
+        },
+        {
+            "_id": "1195106",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.inf.ufsc.br/~awangenh/"
+        },
+        {
+            "_id": "1195107",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.cs.tcd.ie/Vincent.Wade/"
+        },
+        {
+            "_id": "1195108",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.utdallas.edu/~weiliwu/"
+        },
+        {
+            "_id": "1195109",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.dmi.usherb.ca/~wang/"
+        },
+        {
+            "_id": "1195110",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.cs.dal.ca/~watters/"
+        },
+        {
+            "_id": "1195111",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.math.uwaterloo.ca/~nwormald/"
+        },
+        {
+            "_id": "1195112",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.cs.uvm.edu/~xywang/"
+        },
+        {
+            "_id": "1195113",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.dcs.gla.ac.uk/~whiter/"
+        },
+        {
+            "_id": "1195114",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://faculty.gsm.ucdavis.edu/~dlw/"
+        },
+        {
+            "_id": "1195115",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.cs.put.poznan.pl/pawelw/"
+        },
+        {
+            "_id": "1195116",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.math.cmu.edu/people/fac/walkington.html"
+        },
+        {
+            "_id": "1195117",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.zwhome.org/~lonce/"
+        },
+        {
+            "_id": "1195118",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://falcon.ifs.uni-linz.ac.at/staff/maria.html"
+        },
+        {
+            "_id": "1195119",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.ece.uiuc.edu/faculty/faculty.asp?mdfwong"
+        },
+        {
+            "_id": "1195120",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.ics.mq.edu.au/~swan/"
+        },
+        {
+            "_id": "1195121",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.inferenzsysteme.informatik.tu-darmstadt.de/~walther/"
+        },
+        {
+            "_id": "1195122",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://rw4.cs.uni-sb.de/users/wilhelm/wilhelm.html"
+        },
+        {
+            "_id": "1195123",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.pages.drexel.edu/~rw37/"
+        },
+        {
+            "_id": "1195124",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://wwwold.first.fraunhofer.de/persons/Wolf.Armin.html"
+        },
+        {
+            "_id": "1195125",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.sics.se/~annika/"
+        },
+        {
+            "_id": "1195126",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.csie.cyut.edu.tw/~ncwang"
+        },
+        {
+            "_id": "1195127",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.tema.liu.se/people/yvowa/"
+        },
+        {
+            "_id": "1195128",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.dur.ac.uk/martin.ward/"
+        },
+        {
+            "_id": "1195129",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.bsys.monash.edu.au/people/wallace/mgw_web_page.html"
+        },
+        {
+            "_id": "1195130",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://smallworld.columbia.edu/watts.html"
+        },
+        {
+            "_id": "1195131",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.mia.uni-saarland.de/weickert/"
+        },
+        {
+            "_id": "1195132",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.bioinf.med.uni-goettingen.de/home/"
+        },
+        {
+            "_id": "1195133",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://iswanghao.home4u.china.com/"
+        },
+        {
+            "_id": "1195134",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.sj.univali.br/~gresse/"
+        },
+        {
+            "_id": "1195135",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.nomadslab.org/wages/wages.html"
+        },
+        {
+            "_id": "1195136",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.int.gu.edu.au/research/MICTR/aster/aster.html"
+        },
+        {
+            "_id": "1195137",
+            "Type": "www",
+            "Title": "Home Page"
+        },
+        {
+            "_id": "1195138",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.mpi-sb.mpg.de/~nicola/"
+        },
+        {
+            "_id": "1195139",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.graphics.cornell.edu/~bjw/"
+        },
+        {
+            "_id": "1195140",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.cc.gatech.edu/~wujx/"
+        },
+        {
+            "_id": "1195141",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.cs.fsu.edu/~awang/"
+        },
+        {
+            "_id": "1195142",
+            "Type": "www",
+            "Title": "Home Page"
+        },
+        {
+            "_id": "1195143",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.i2r.a-star.edu.sg/ni/~wujk"
+        },
+        {
+            "_id": "1195144",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://infosys.massey.ac.nz/staff/StaffDetail.php?staffId=rjwhidde"
+        },
+        {
+            "_id": "1195145",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.csc.liv.ac.uk/~mrw/"
+        },
+        {
+            "_id": "1195146",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.mcs.vuw.ac.nz/~whittle/"
+        },
+        {
+            "_id": "1195147",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.hughwilliams.com/"
+        },
+        {
+            "_id": "1195148",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.cs.ubc.ca/~wohlstad/"
+        },
+        {
+            "_id": "1195149",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://kim.bio.upenn.edu/~lisan/"
+        },
+        {
+            "_id": "1195150",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.cs.utexas.edu/users/tandy/"
+        },
+        {
+            "_id": "1195151",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://beast.csse.monash.edu.au/~cwilson/"
+        },
+        {
+            "_id": "1195152",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://crypto.stanford.edu/~bwaters/"
+        },
+        {
+            "_id": "1195153",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.research.att.com/%7Ewalter/"
+        },
+        {
+            "_id": "1195154",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://art.ph-freiburg.de/psy/people/GWeber.html"
+        },
+        {
+            "_id": "1195155",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.ime.usp.br/~renata/"
+        },
+        {
+            "_id": "1195156",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://wwwhome.cs.utwente.nl/~wombachera/"
+        },
+        {
+            "_id": "1195157",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://ic.arc.nasa.gov/people/dhw/"
+        },
+        {
+            "_id": "1195158",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.cs.colostate.edu/~whitley/"
+        },
+        {
+            "_id": "1195159",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.cs.unc.edu/~weigle/"
+        },
+        {
+            "_id": "1195160",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.se.cuhk.edu.hk/~kfwong/"
+        },
+        {
+            "_id": "1195161",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://people.imise.uni-leipzig.de/alfred.winter/"
+        },
+        {
+            "_id": "1195162",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.research.ibm.com/people/w/wu/"
+        },
+        {
+            "_id": "1195163",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.geraldmweinberg.com/"
+        },
+        {
+            "_id": "1195164",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.cs.purdue.edu/homes/wu/"
+        },
+        {
+            "_id": "1195165",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.conradweb.org/~jackg"
+        },
+        {
+            "_id": "1195166",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.cs.rug.nl/~michel/"
+        },
+        {
+            "_id": "1195167",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.research.ibm.com/dar/weiss-page.html"
+        },
+        {
+            "_id": "1195168",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www-db.stanford.edu/~wangz/home/"
+        },
+        {
+            "_id": "1195169",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.cs.clemson.edu/~jzwang/"
+        },
+        {
+            "_id": "1195170",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.eecs.harvard.edu/~mdw/"
+        },
+        {
+            "_id": "1195171",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.cs.iastate.edu/~wong/homepage.html"
+        },
+        {
+            "_id": "1195172",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.cse.ohio-state.edu/~wangcha/"
+        },
+        {
+            "_id": "1195173",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.cs.cas.cz/~wieder/"
+        },
+        {
+            "_id": "1195174",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.math.siu.edu/wallis/"
+        },
+        {
+            "_id": "1195175",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.wisdom.weizmann.ac.il/~uwieder/"
+        },
+        {
+            "_id": "1195176",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.csse.monash.edu.au/~webb/"
+        },
+        {
+            "_id": "1195177",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.ifp.uiuc.edu/~rwang/"
+        },
+        {
+            "_id": "1195178",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://vr.kjist.ac.kr/~wwoo/"
+        },
+        {
+            "_id": "1195179",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.montefiore.ulg.ac.be/~lwh/"
+        },
+        {
+            "_id": "1195180",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.ics.uci.edu/~ejw/"
+        },
+        {
+            "_id": "1195181",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://cs.hiram.edu/~walkerel/"
+        },
+        {
+            "_id": "1195182",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.im.uni-passau.de/db/personen?who=wichert"
+        },
+        {
+            "_id": "1195183",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.comp.rgu.ac.uk/staff/dw/"
+        },
+        {
+            "_id": "1195184",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www-i3.informatik.rwth-aachen.de/private/bernhard/westfechtel.html"
+        },
+        {
+            "_id": "1195185",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.psychologie.uni-trier.de/personen/kfwender/"
+        },
+        {
+            "_id": "1195186",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://researchweb.watson.ibm.com/people/w/welty/"
+        },
+        {
+            "_id": "1195187",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.unilim.fr/pages_perso/jacques-arthur.weil/"
+        },
+        {
+            "_id": "1195188",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.fmi.uni-passau.de/algebra/staff/weispfen.html"
+        },
+        {
+            "_id": "1195189",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://osiris.cs.kun.nl/~tvdw/"
+        },
+        {
+            "_id": "1195190",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.sce.carleton.ca/faculty/wainer/index.html"
+        },
+        {
+            "_id": "1195191",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://homepages.cwi.nl/~rdewolf/"
+        },
+        {
+            "_id": "1195192",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.wi1.uni-erlangen.de/mitarbeiter/irene_walther/"
+        },
+        {
+            "_id": "1195193",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://vlsi.colorado.edu/~wangc/"
+        },
+        {
+            "_id": "1195194",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://dret.net/netdret/"
+        },
+        {
+            "_id": "1195195",
+            "Type": "www",
+            "Title": "Home Page"
+        },
+        {
+            "_id": "1195196",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.engr.uconn.edu/ece/ece_facu_willett.htm"
+        },
+        {
+            "_id": "1195197",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://lamswww.epfl.ch/people/wegmann"
+        },
+        {
+            "_id": "1195198",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.bitd.clrc.ac.uk/Person/M.D.Wilson"
+        },
+        {
+            "_id": "1195199",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://fp.tm.tue.nl/beta/staff/members/pw080e.htm"
+        },
+        {
+            "_id": "1195200",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.cip.ifi.lmu.de/~wieser/"
+        },
+        {
+            "_id": "1195201",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www-agrw.informatik.uni-kl.de/agrw/Personal/"
+        },
+        {
+            "_id": "1195202",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://igd.univ-lyon1.fr/~wagner/fowae.html"
+        },
+        {
+            "_id": "1195203",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.ipvs.uni-stuttgart.de/abteilungen/as/abteilung/mitarbeiter/frank.wagner/en"
+        },
+        {
+            "_id": "1195204",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://wi-se.wiwi.uni-augsburg.de/mitarbeiter2.php?ma_id=47"
+        },
+        {
+            "_id": "1195205",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.ie.cuhk.edu.hk/index.php?id=96"
+        },
+        {
+            "_id": "1195206",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://research.microsoft.com/users/jrwen/"
+        },
+        {
+            "_id": "1195207",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.ar.sanken.osaka-u.ac.jp/~washio/washpreg.html"
+        },
+        {
+            "_id": "1195208",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://web.mit.edu/dpwood/www/"
+        },
+        {
+            "_id": "1195209",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www-users.cs.york.ac.uk/~jim/"
+        },
+        {
+            "_id": "1195210",
+            "Type": "www",
+            "Title": "Home Page"
+        },
+        {
+            "_id": "1195211",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://theory.music.indiana.edu/people/gw.html"
+        },
+        {
+            "_id": "1195212",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://ls2-www.informatik.uni-dortmund.de/"
+        },
+        {
+            "_id": "1195213",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.wso2.com/about/"
+        },
+        {
+            "_id": "1195214",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://rainet.wasinet.com/"
+        },
+        {
+            "_id": "1195215",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.informatik.fernuni-hagen.de/import/thi1/klaus.weihrauch/"
+        },
+        {
+            "_id": "1195216",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.db.informatik.uni-kassel.de/~wegner/"
+        },
+        {
+            "_id": "1195217",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www6.informatik.uni-erlangen.de/people/wedekind/"
+        },
+        {
+            "_id": "1195218",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://psc.informatik.uni-jena.de/personen/perso.htm"
+        },
+        {
+            "_id": "1195219",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://users.ugent.be/~nvdewegh/"
+        },
+        {
+            "_id": "1195220",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://cg.cs.uni-bonn.de/personal-pages/weber/"
+        },
+        {
+            "_id": "1195221",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://lcs.ios.ac.cn/~wp/"
+        },
+        {
+            "_id": "1195222",
+            "Type": "www",
+            "Title": "Home Page"
+        },
+        {
+            "_id": "1195223",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.cs.biu.ac.il/~wiseman/"
+        },
+        {
+            "_id": "1195224",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.cs.ucdavis.edu/~wu/"
+        },
+        {
+            "_id": "1195225",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.informatik.uni-leipzig.de/rnvs/mitarbeiter/waldhorst/"
+        },
+        {
+            "_id": "1195226",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.xrce.xerox.com/people/willamowski/home.html"
+        },
+        {
+            "_id": "1195227",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.cse.cuhk.edu.hk/~wongck/"
+        },
+        {
+            "_id": "1195228",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.i2r.a-star.edu.sg/icsd/staff/guilin/"
+        },
+        {
+            "_id": "1195229",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://ccc.cs.lakeheadu.ca/"
+        },
+        {
+            "_id": "1195230",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://wwwcsif.cs.ucdavis.edu/~wassermg/"
+        },
+        {
+            "_id": "1195231",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://web.cs.mun.ca/~harold/"
+        },
+        {
+            "_id": "1195232",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.win.tue.nl/~gwoegi/"
+        },
+        {
+            "_id": "1195233",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.wi.uni-muenster.de/en/is/organisation/mitarbeiter/winkelmann/"
+        },
+        {
+            "_id": "1195234",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.cs.auckland.ac.nz/~gerald/"
+        },
+        {
+            "_id": "1195235",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.comp.nus.edu.sg/~wongls/"
+        },
+        {
+            "_id": "1195236",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.iis.sinica.edu.tw/~kpw/english.html"
+        },
+        {
+            "_id": "1195237",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.cs.kent.edu/~walker/"
+        },
+        {
+            "_id": "1195238",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.cs.bham.ac.uk/~amw/"
+        },
+        {
+            "_id": "1195239",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://en.wikipedia.org/wiki/Niklaus_Wirth"
+        },
+        {
+            "_id": "1195240",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.aifb.uni-karlsruhe.de/Personen/viewPerson?id_db=2126"
+        },
+        {
+            "_id": "1195241",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://cs.uni-bonn.de/~marek/"
+        },
+        {
+            "_id": "1195242",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.isse.kuis.kyoto-u.ac.jp/Welcome-e.html"
+        },
+        {
+            "_id": "1195243",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.ee.surrey.ac.uk/showstaff?Kittler"
+        },
+        {
+            "_id": "1195244",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.dbs.informatik.uni-muenchen.de/Mitarbeiter/kriegel.html"
+        },
+        {
+            "_id": "1195245",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.pps.jussieu.fr/~kesner/"
+        },
+        {
+            "_id": "1195246",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.icir.org/karp/"
+        },
+        {
+            "_id": "1195247",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://wwwdb.informatik.uni-rostock.de/~meike/"
+        },
+        {
+            "_id": "1195248",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://imada.sdu.dk/~svalle/"
+        },
+        {
+            "_id": "1195249",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.cs.brown.edu/people/pck/home.html"
+        },
+        {
+            "_id": "1195250",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.cs.unc.edu/~kum/"
+        },
+        {
+            "_id": "1195251",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.lcb.uu.se/~janko/"
+        },
+        {
+            "_id": "1195252",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://wwwhome.cs.utwente.nl/~keulen/"
+        },
+        {
+            "_id": "1195253",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://homepages.cwi.nl/~mk/"
+        },
+        {
+            "_id": "1195254",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www-unix.ecs.umass.edu/~krishna/"
+        },
+        {
+            "_id": "1195255",
+            "Type": "www",
+            "Title": "Home Page"
+        },
+        {
+            "_id": "1195256",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www-ia.tu-ilmenau.de/~kuehnhauser/"
+        },
+        {
+            "_id": "1195257",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.louisville.edu/speed/cecs/people/faculty/kantardzic/"
+        },
+        {
+            "_id": "1195258",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://cptra.ln.edu.hk/staffProfile/drikwan.htm"
+        },
+        {
+            "_id": "1195259",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.eecs.harvard.edu/~klivans/"
+        },
+        {
+            "_id": "1195260",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.zsi.pwr.wroc.pl/~kazienko/eng_index.html"
+        },
+        {
+            "_id": "1195261",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www1.cs.columbia.edu/~klavans/home.html"
+        },
+        {
+            "_id": "1195262",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.dbs.ifi.lmu.de/~kroegerp/"
+        },
+        {
+            "_id": "1195263",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.dbs.informatik.uni-muenchen.de/Mitarbeiter/kailing.html"
+        },
+        {
+            "_id": "1195264",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.dbs.informatik.uni-muenchen.de/Mitarbeiter/kunath.html"
+        },
+        {
+            "_id": "1195265",
+            "Type": "www",
+            "Title": "Home Page"
+        },
+        {
+            "_id": "1195266",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.ss.cs.osakafu-u.ac.jp/~kise/"
+        },
+        {
+            "_id": "1195267",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.ipipan.waw.pl/~klopotek/index.html"
+        },
+        {
+            "_id": "1195268",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www-db.in.tum.de/~kemper/"
+        },
+        {
+            "_id": "1195269",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.ippt.gov.pl/~zkulpa/"
+        },
+        {
+            "_id": "1195270",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.binf.ku.dk/users/krogh/"
+        },
+        {
+            "_id": "1195271",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.cp.eng.chula.ac.th/~boonserm/"
+        },
+        {
+            "_id": "1195272",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.sut.ac.th/engineering/Computer/faculty/kittisak/myweb/index.htm"
+        },
+        {
+            "_id": "1195273",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.sut.ac.th/engineering/Computer/faculty/nittaya/myweb/index.htm"
+        },
+        {
+            "_id": "1195274",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.cs.kent.ac.uk/people/staff/amk/"
+        },
+        {
+            "_id": "1195275",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www-user.tu-chemnitz.de/~clkre/"
+        },
+        {
+            "_id": "1195276",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://splweb.bwh.harvard.edu:8000/pages/ppl/kikinis/"
+        },
+        {
+            "_id": "1195277",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.keele.ac.uk/depts/cs/se/staff/bakcv2.html"
+        },
+        {
+            "_id": "1195278",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.cise.ufl.edu/~tamer/"
+        },
+        {
+            "_id": "1195279",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://people.cc.jyu.fi/~akataso/"
+        },
+        {
+            "_id": "1195280",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.psychologie.uni-trier.de/personen/gkrampen/index.html"
+        },
+        {
+            "_id": "1195281",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.cs.mcgill.ca/~kemme/"
+        },
+        {
+            "_id": "1195282",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.dbis.ethz.ch/people/people/donaldk"
+        },
+        {
+            "_id": "1195283",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.cs.helsinki.fi/u/mkhkoivi/"
+        },
+        {
+            "_id": "1195284",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.hpl.hp.com/israel/people/rk.html"
+        },
+        {
+            "_id": "1195285",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.cs.umd.edu/users/keleher/"
+        },
+        {
+            "_id": "1195286",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.kunii.com/"
+        },
+        {
+            "_id": "1195287",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://vlsicad.ucsd.edu/~abk/"
+        },
+        {
+            "_id": "1195288",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.scs.carleton.ca/~kranakis/"
+        },
+        {
+            "_id": "1195289",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://users.utu.fi/karhumak/"
+        },
+        {
+            "_id": "1195290",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.tkl.iis.u-tokyo.ac.jp/Kilab/Members/memo/kitsure_e.html"
+        },
+        {
+            "_id": "1195291",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.cs.utep.edu/vladik/"
+        },
+        {
+            "_id": "1195292",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://dkrizanc.web.wesleyan.edu/"
+        },
+        {
+            "_id": "1195293",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.cs.sunysb.edu/~ari/"
+        },
+        {
+            "_id": "1195294",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://mathcs.mta.ca/faculty/lkeliher/"
+        },
+        {
+            "_id": "1195295",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.is.informatik.uni-duisburg.de/staff/members/klas.html"
+        },
+        {
+            "_id": "1195296",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.auto.tuwien.ac.at/~chris/"
+        },
+        {
+            "_id": "1195297",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.utdallas.edu/~lkhan/"
+        },
+        {
+            "_id": "1195298",
+            "Type": "www",
+            "Title": "Home Page"
+        },
+        {
+            "_id": "1195299",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.informatik.uni-bremen.de/agbkb/bkb/"
+        },
+        {
+            "_id": "1195300",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.fi.muni.cz/usr/kretinsky/"
+        },
+        {
+            "_id": "1195301",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.klein.com/dvk/"
+        },
+        {
+            "_id": "1195302",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://iundg.informatik.uni-dortmund.de/iug-home/people/gk/"
+        },
+        {
+            "_id": "1195303",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.research.ibm.com/SocialComputing/WendyKellogg.htm"
+        },
+        {
+            "_id": "1195304",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.cse.iitd.ernet.in/~pkalra/"
+        },
+        {
+            "_id": "1195305",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www-unix.mcs.anl.gov/~keahey/"
+        },
+        {
+            "_id": "1195306",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.unipune.ernet.in/doc/vc.html"
+        },
+        {
+            "_id": "1195307",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.sj.univali.br/~kern/"
+        },
+        {
+            "_id": "1195308",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.informatics.bangor.ac.uk/~kuncheva/"
+        },
+        {
+            "_id": "1195309",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.informatik.tu-darmstadt.de/TI/Mitarbeiter/karatsio.html"
+        },
+        {
+            "_id": "1195310",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.ece.cmu.edu/~koopman/index.html"
+        },
+        {
+            "_id": "1195311",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://wwwcs.upb.de/cs/ag-karl/people/karl/karl.html"
+        },
+        {
+            "_id": "1195312",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.cs.usask.ca/faculty/keil/"
+        },
+        {
+            "_id": "1195313",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.andrew.cmu.edu/user/lkara/"
+        },
+        {
+            "_id": "1195314",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://theory.lcs.mit.edu/~dilsun/"
+        },
+        {
+            "_id": "1195315",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://csc.colstate.edu/kurkovsky/default.asp"
+        },
+        {
+            "_id": "1195316",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.cs.bu.edu/faculty/kfoury/"
+        },
+        {
+            "_id": "1195317",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.cs.qc.edu/cgi-bin/faculty.cgi?fid=kwok"
+        },
+        {
+            "_id": "1195318",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.cs.helsinki.fi/u/mklemett/"
+        },
+        {
+            "_id": "1195319",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://grace.wharton.upenn.edu/~sok/"
+        },
+        {
+            "_id": "1195320",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.cs.bham.ac.uk/~axk/"
+        },
+        {
+            "_id": "1195321",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.dvs1.informatik.tu-darmstadt.de/~skounev"
+        },
+        {
+            "_id": "1195322",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www-users.cs.york.ac.uk/~tpk/"
+        },
+        {
+            "_id": "1195323",
+            "Type": "www",
+            "Title": "Home Page"
+        },
+        {
+            "_id": "1195324",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.ida.liu.se/~chrke/"
+        },
+        {
+            "_id": "1195325",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.isical.ac.in/~malay/"
+        },
+        {
+            "_id": "1195326",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://dream.eng.uci.edu/kim-kane.htm"
+        },
+        {
+            "_id": "1195327",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.ece.neu.edu/faculty/kaeli.html"
+        },
+        {
+            "_id": "1195328",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www-cvr.ai.uiuc.edu/~kriegman/"
+        },
+        {
+            "_id": "1195329",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.mae.buffalo.edu/people/faculty/kesavadas/"
+        },
+        {
+            "_id": "1195330",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.ict.csiro.au/staff/Alexander.Krumpholz/"
+        },
+        {
+            "_id": "1195331",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.faculty.eng.kuniv.edu.kw/staff/kartam.jsp"
+        },
+        {
+            "_id": "1195332",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.cs.cornell.edu/home/kleinber/"
+        },
+        {
+            "_id": "1195333",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.cse.cuhk.edu.hk/~king/"
+        },
+        {
+            "_id": "1195334",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.personal.psu.edu/faculty/a/x/axk41/"
+        },
+        {
+            "_id": "1195335",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://people.cs.uchicago.edu/~kalai/"
+        },
+        {
+            "_id": "1195336",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://philippe.kruchten.com/"
+        },
+        {
+            "_id": "1195337",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.ccrl-nece.de/~greg/"
+        },
+        {
+            "_id": "1195338",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.gup.uni-linz.ac.at/staff/people.php?staff=dk"
+        },
+        {
+            "_id": "1195339",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.mm.informatik.tu-darmstadt.de/~kuehne/"
+        },
+        {
+            "_id": "1195340",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.doc.ic.ac.uk/~jk/"
+        },
+        {
+            "_id": "1195341",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.almaden.ibm.com/cs/people/jkiernan/"
+        },
+        {
+            "_id": "1195342",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.compactech.com/kartoun/"
+        },
+        {
+            "_id": "1195343",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://cedric.cnam.fr/~claude/"
+        },
+        {
+            "_id": "1195344",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.cgl.uwaterloo.ca/~csk/"
+        },
+        {
+            "_id": "1195345",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.iqco.com/"
+        },
+        {
+            "_id": "1195346",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.cs.tu-bs.de/rob/people/ekr/welcome.htm"
+        },
+        {
+            "_id": "1195347",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www-2.cs.cmu.edu/~ajko/index.html"
+        },
+        {
+            "_id": "1195348",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.cs.umd.edu/~jkatz/"
+        },
+        {
+            "_id": "1195349",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.cs.technion.ac.il/~ron/"
+        },
+        {
+            "_id": "1195350",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.laas.fr/~kaaniche/"
+        },
+        {
+            "_id": "1195351",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www-i8.informatik.rwth-aachen.de/"
+        },
+        {
+            "_id": "1195352",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.ecse.rpi.edu/Homepages/shivkuma/"
+        },
+        {
+            "_id": "1195353",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www-users.cs.york.ac.uk/~kazakov/"
+        },
+        {
+            "_id": "1195354",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.ece.gatech.edu/faculty/fac_profiles/bio.php?empno=104401"
+        },
+        {
+            "_id": "1195355",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.ee.oulu.fi/~juha/"
+        },
+        {
+            "_id": "1195356",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://wwwtcs.inf.tu-dresden.de/~kuehne/"
+        },
+        {
+            "_id": "1195357",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://nova.postech.ac.kr/~dkim/"
+        },
+        {
+            "_id": "1195358",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.mpi-sb.mpg.de/~akessel/"
+        },
+        {
+            "_id": "1195359",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://homepages.fh-regensburg.de/~koh39026/"
+        },
+        {
+            "_id": "1195360",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.cs.huji.ac.il/~beata/"
+        },
+        {
+            "_id": "1195361",
+            "Type": "www",
+            "Title": "Home Page"
+        },
+        {
+            "_id": "1195362",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://csl.stanford.edu/~christos/"
+        },
+        {
+            "_id": "1195363",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://synthesis.ipi.ac.ru/synthesis/staff/lak/"
+        },
+        {
+            "_id": "1195364",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.cs.biu.ac.il/~koppel/"
+        },
+        {
+            "_id": "1195365",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.aut.ac.nz/research_showcase/research_activity_areas/kedri/nik.shtml"
+        },
+        {
+            "_id": "1195366",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.gscit.monash.edu.au/~joarder/"
+        },
+        {
+            "_id": "1195367",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://gorogoro.cis.ibaraki.ac.jp/"
+        },
+        {
+            "_id": "1195368",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.buet.ac.bd/cse/31.html"
+        },
+        {
+            "_id": "1195369",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.ibspan.waw.pl/~kacprzyk/kacprzyk_ang.htm"
+        },
+        {
+            "_id": "1195370",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://staff.science.uva.nl/~koelma/"
+        },
+        {
+            "_id": "1195371",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.engr.siu.edu/elec/faculty/dimitri/dimitri.htm"
+        },
+        {
+            "_id": "1195372",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://infosys.massey.ac.nz/staff/StaffDetail.php?staffId=rkaschek"
+        },
+        {
+            "_id": "1195373",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://home.arcor.de/kaiser_joh/"
+        },
+        {
+            "_id": "1195374",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.cs.wisc.edu/~kaxiras/"
+        },
+        {
+            "_id": "1195375",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www1.cs.columbia.edu/~angelos/"
+        },
+        {
+            "_id": "1195376",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://kedrigern.dcs.fmph.uniba.sk/kralovic/"
+        },
+        {
+            "_id": "1195377",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.csse.monash.edu.au/~shonali/"
+        },
+        {
+            "_id": "1195378",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://home.postech.ac.kr/~victor/"
+        },
+        {
+            "_id": "1195379",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www-2.cs.cmu.edu/~kiesler/"
+        },
+        {
+            "_id": "1195380",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.mpi-sb.mpg.de/~irit/"
+        },
+        {
+            "_id": "1195381",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.liacs.nl/~kleijn/"
+        },
+        {
+            "_id": "1195382",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.cs.ucsd.edu/users/ikrueger/"
+        },
+        {
+            "_id": "1195383",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://129.107.25.234/~sakhan/"
+        },
+        {
+            "_id": "1195384",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://home.birzeit.edu/eng/enee/wasfi.htm"
+        },
+        {
+            "_id": "1195385",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.pst.informatik.uni-muenchen.de/~kroeger/"
+        },
+        {
+            "_id": "1195386",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.eecs.berkeley.edu/~farinaz/"
+        },
+        {
+            "_id": "1195387",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.kroening.com/"
+        },
+        {
+            "_id": "1195388",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://charm.cs.uiuc.edu/~kale/"
+        },
+        {
+            "_id": "1195389",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://iug.uni-paderborn.de/keil-slawik/"
+        },
+        {
+            "_id": "1195390",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://cs.stmarys.ca/~stavros/"
+        },
+        {
+            "_id": "1195391",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.cs.biu.ac.il/~sarit/"
+        },
+        {
+            "_id": "1195392",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www-2.cs.cmu.edu/afs/andrew.cmu.edu/usr9/sirbu/www/MarvinSirbu.html"
+        },
+        {
+            "_id": "1195393",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://netmedia.kjist.ac.kr/old_home/jongwon/index.html"
+        },
+        {
+            "_id": "1195394",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://mathnt.postech.ac.kr/math/people/prof_home/koolen.asp"
+        },
+        {
+            "_id": "1195395",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.cs.biu.ac.il/~tomi/"
+        },
+        {
+            "_id": "1195396",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://mountains.ece.umn.edu/~ajko/"
+        },
+        {
+            "_id": "1195397",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.infosys.uni-sb.de/~koch/"
+        },
+        {
+            "_id": "1195398",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.eif.ch/~abou/"
+        },
+        {
+            "_id": "1195399",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www-2.cs.cmu.edu/~kraut/"
+        },
+        {
+            "_id": "1195400",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www-cad.eecs.berkeley.edu/~kuehl/"
+        },
+        {
+            "_id": "1195401",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://theory.csail.mit.edu/~rdk/"
+        },
+        {
+            "_id": "1195402",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.it.uc3m.es/cdk/"
+        },
+        {
+            "_id": "1195403",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.wiwi.hu-berlin.de/~kralisch/"
+        },
+        {
+            "_id": "1195404",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.math.tu-bs.de/~ali/"
+        },
+        {
+            "_id": "1195405",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.cs.yale.edu/homes/kannan/home.html"
+        },
+        {
+            "_id": "1195406",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.informatik.hu-berlin.de/~kreutzer/"
+        },
+        {
+            "_id": "1195407",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://geog-www.sbs.ohio-state.edu/faculty/mkwan/WebCV/KwanWebCV.html"
+        },
+        {
+            "_id": "1195408",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.csc.liv.ac.uk/~roman/"
+        },
+        {
+            "_id": "1195409",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://rtsimage.di.uoa.gr/index.php?page=authoraname=S.A.%20Karkanis"
+        },
+        {
+            "_id": "1195410",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://cs.engr.uky.edu/~klapper/"
+        },
+        {
+            "_id": "1195411",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.nue.tu-berlin.de/wer/kunter/"
+        },
+        {
+            "_id": "1195412",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.aiai.ed.ac.uk/~jkk/jkk.html"
+        },
+        {
+            "_id": "1195413",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://fuzzy.cs.uni-magdeburg.de/~kruse/"
+        },
+        {
+            "_id": "1195414",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.mobile.ifi.lmu.de/~kuepper/"
+        },
+        {
+            "_id": "1195415",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.mobile.ifi.lmu.de/~krausem/"
+        },
+        {
+            "_id": "1195416",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www-sal.cs.uiuc.edu/~kamin/"
+        },
+        {
+            "_id": "1195417",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.ri.cmu.edu/people/khosla_pradeep.html"
+        },
+        {
+            "_id": "1195418",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://idm-lab.org/"
+        },
+        {
+            "_id": "1195419",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://ebiquity.umbc.edu/person/html/Pranam//Kolari/"
+        },
+        {
+            "_id": "1195420",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://home.postech.ac.kr/~ho1/"
+        },
+        {
+            "_id": "1195421",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.ics.uci.edu/~kobsa/"
+        },
+        {
+            "_id": "1195422",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://ce.sharif.edu/~kamali/"
+        },
+        {
+            "_id": "1195423",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.inf.fu-berlin.de/inst/ag-ti/members/knauer.en.html"
+        },
+        {
+            "_id": "1195424",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://poseidon.csd.auth.gr/LAB_PEOPLE/CKotropoulos.htm"
+        },
+        {
+            "_id": "1195425",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://pami.uwaterloo.ca/kamel.html"
+        },
+        {
+            "_id": "1195426",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://dblab.kaist.ac.kr/~mskim"
+        },
+        {
+            "_id": "1195427",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://faculty.washington.edu/kinahan/"
+        },
+        {
+            "_id": "1195428",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.csc.ncsu.edu/faculty/kang/"
+        },
+        {
+            "_id": "1195429",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.idi.ntnu.no/~krogstie/"
+        },
+        {
+            "_id": "1195430",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.csulb.edu/~mkiang/"
+        },
+        {
+            "_id": "1195431",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://popeye.snu.ac.kr/member/ckim.htm"
+        },
+        {
+            "_id": "1195432",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://research.yahoo.com/researcher/ravikuma.shtml"
+        },
+        {
+            "_id": "1195433",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.cs.rpi.edu/~moorthy/"
+        },
+        {
+            "_id": "1195434",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.loria.fr/~hkirchne/"
+        },
+        {
+            "_id": "1195435",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.informatik.uni-bremen.de/~kreo/"
+        },
+        {
+            "_id": "1195436",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.cs.helsinki.fi/u/tpkarkka/"
+        },
+        {
+            "_id": "1195437",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.ics.uci.edu/~dvk/"
+        },
+        {
+            "_id": "1195438",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.cs.uku.fi/~kilpelai/"
+        },
+        {
+            "_id": "1195439",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.andrew.cmu.edu/user/jelenak/"
+        },
+        {
+            "_id": "1195440",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.unc.edu/~vkulkarn/"
+        },
+        {
+            "_id": "1195441",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.big.tuwien.ac.at/staff/kappel/kappel.html"
+        },
+        {
+            "_id": "1195442",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://research.microsoft.com/~chrisko/"
+        },
+        {
+            "_id": "1195443",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.ipd.uni-karlsruhe.de/~koenig/"
+        },
+        {
+            "_id": "1195444",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.cse.fau.edu/~taghi/"
+        },
+        {
+            "_id": "1195445",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www-sr.informatik.uni-tuebingen.de/pages/index.html"
+        },
+        {
+            "_id": "1195446",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://riad.usk.pk.edu.pl/~zk/"
+        },
+        {
+            "_id": "1195447",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.soe.ucsc.edu/people/faculty/kolaitis.html"
+        },
+        {
+            "_id": "1195448",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.iiit.net/faculty/kamal.php"
+        },
+        {
+            "_id": "1195449",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://ls6-www.informatik.uni-dortmund.de/~karabulu/"
+        },
+        {
+            "_id": "1195450",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www6.informatik.uni-erlangen.de/people/alumni/kaeckenhoff.shtml"
+        },
+        {
+            "_id": "1195451",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.cs.ucsb.edu/~kemm/"
+        },
+        {
+            "_id": "1195452",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://rakaposhi.eas.asu.edu/"
+        },
+        {
+            "_id": "1195453",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.minet.uni-jena.de/www/fakultaet/idbs/kuespert.html"
+        },
+        {
+            "_id": "1195454",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.cs.arizona.edu/~kece/"
+        },
+        {
+            "_id": "1195455",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://people.cs.uct.ac.za/~psk/"
+        },
+        {
+            "_id": "1195456",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www-ece.rice.edu/~knightly/"
+        },
+        {
+            "_id": "1195457",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.cs.vu.nl/~mcaklein/"
+        },
+        {
+            "_id": "1195458",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.lk.cs.ucla.edu/"
+        },
+        {
+            "_id": "1195459",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.ie.iwi.unibe.ch/staff/knolmayer/"
+        },
+        {
+            "_id": "1195460",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.cs.georgetown.edu/~kalyan/"
+        },
+        {
+            "_id": "1195461",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.informatik.uni-augsburg.de/lehrstuehle/dbis/db/alumni/koestler/"
+        },
+        {
+            "_id": "1195462",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.informatik.uni-augsburg.de/lehrstuehle/dbis/db/staff/kiessling/"
+        },
+        {
+            "_id": "1195463",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.cee.hw.ac.uk/~fairouz/"
+        },
+        {
+            "_id": "1195464",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://cm.bell-labs.com/who/bwk/index.html"
+        }
+    ]
+}

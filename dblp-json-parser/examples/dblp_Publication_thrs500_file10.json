@@ -1,0 +1,851 @@
+{
+    "docs": [
+        {
+            "_id": "1195465",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.cs.brown.edu/~sk/"
+        },
+        {
+            "_id": "1195466",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.awc-hq.org/lovelace/2000.html"
+        },
+        {
+            "_id": "1195467",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.cse.ogi.edu/~dick/dick.html"
+        },
+        {
+            "_id": "1195468",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.kamishima.net/"
+        },
+        {
+            "_id": "1195469",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.informatik.uni-freiburg.de/~kandzia/"
+        },
+        {
+            "_id": "1195470",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.cs.uni-salzburg.at/~ck/"
+        },
+        {
+            "_id": "1195471",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.dcs.st-and.ac.uk/~graham/"
+        },
+        {
+            "_id": "1195472",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.isi.edu/~knoblock/index.html"
+        },
+        {
+            "_id": "1195473",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.cc.gatech.edu/aimosaic/faculty/kolodner/"
+        },
+        {
+            "_id": "1195474",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.cs.washington.edu/homes/arvind/"
+        },
+        {
+            "_id": "1195475",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.fernuni-hagen.de/DVT/Mitarbeiter/kraemer.html"
+        },
+        {
+            "_id": "1195476",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.cs.wisc.edu/~lpkruger/"
+        },
+        {
+            "_id": "1195477",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://iugsun.cs.uni-dortmund.de/iug-home/people/ak/"
+        },
+        {
+            "_id": "1195478",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://users.ntua.gr/kkyria/"
+        },
+        {
+            "_id": "1195479",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://rvl4.ecn.purdue.edu/~kak/"
+        },
+        {
+            "_id": "1195480",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.dur.ac.uk/andrei.krokhin/"
+        },
+        {
+            "_id": "1195481",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.engr.iupui.edu/~briking/"
+        },
+        {
+            "_id": "1195482",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.kudrass.de/"
+        },
+        {
+            "_id": "1195483",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.tik.ee.ethz.ch/~kuenzli"
+        },
+        {
+            "_id": "1195484",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://lasecwww.epfl.ch/simon.shtml"
+        },
+        {
+            "_id": "1195485",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://members.unine.ch/peter.kropf/"
+        },
+        {
+            "_id": "1195486",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.ifi.uni-klu.ac.at/IWAS/HM/Staff/Christian.Kop"
+        },
+        {
+            "_id": "1195487",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://space.iias.spb.su/ai/karsaev/"
+        },
+        {
+            "_id": "1195488",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www-cvr.ai.uiuc.edu/~kushal/"
+        },
+        {
+            "_id": "1195489",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.dcis.rutgers.edu/cs/Khachiyan/"
+        },
+        {
+            "_id": "1195490",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.h-kretschmer.de/"
+        },
+        {
+            "_id": "1195491",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.dcs.kcl.ac.uk/staff/kuag/"
+        },
+        {
+            "_id": "1195492",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.gseis.ucla.edu/faculty/kafai/"
+        },
+        {
+            "_id": "1195493",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.ipipan.waw.pl/~hanka/"
+        },
+        {
+            "_id": "1195494",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://lisp.vse.cz/~kocka/"
+        },
+        {
+            "_id": "1195495",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://islab.kaist.ac.kr/~dhkim/"
+        },
+        {
+            "_id": "1195496",
+            "Type": "www",
+            "Title": "Home Page"
+        },
+        {
+            "_id": "1195497",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://research.microsoft.com/users/sbkang/"
+        },
+        {
+            "_id": "1195498",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.csd.uwo.ca/faculty/katchab/"
+        },
+        {
+            "_id": "1195499",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.ti.informatik.uni-kiel.de/~kuesters/"
+        },
+        {
+            "_id": "1195500",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://swen.uwaterloo.ca/~chpkim/"
+        },
+        {
+            "_id": "1195501",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.cs.vu.nl/~jwk/"
+        },
+        {
+            "_id": "1195502",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://viola.usc.edu/newextra/People/cckuo/cckuo.htm"
+        },
+        {
+            "_id": "1195503",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.comp.lancs.ac.uk/~kortuem/index.html"
+        },
+        {
+            "_id": "1195504",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.tk.uni-linz.ac.at/people/kotsis/"
+        },
+        {
+            "_id": "1195505",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.dcs.warwick.ac.uk/people/academic/Sara.Kalvala/"
+        },
+        {
+            "_id": "1195506",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.cse.iitb.ac.in/~krishnas/"
+        },
+        {
+            "_id": "1195507",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://homepages.cwi.nl/~tomas/"
+        },
+        {
+            "_id": "1195508",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.lri.fr/~yk/"
+        },
+        {
+            "_id": "1195509",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://mis.hevra.haifa.ac.il/~tsvikak/Home.htm"
+        },
+        {
+            "_id": "1195510",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://www.inf.u-szeged.hu/~kato/"
+        },
+        {
+            "_id": "1195511",
+            "Type": "www",
+            "Title": "Home Page",
+            "Url": "http://kedrigern.dcs.fmph.uniba.sk/~riso/"
+        },
+        {
+            "_id": "1200022",
+            "Type": "msthesis",
+            "Year": "2006",
+            "Title": "Portierung des DBLP-Systems auf ein relationales Datenbanksystem und Evaluation der Performance.",
+            "School": "Diplomarbeit, Universitat Trier, FB IV, Informatik"
+        },
+        {
+            "_id": "1200023",
+            "Type": "msthesis",
+            "Year": "1992",
+            "Title": "PRPL: A Database Workload Specification Language, v1.3.",
+            "School": "Univ. of Wisconsin-Madison"
+        },
+        {
+            "_id": "1200024",
+            "Type": "msthesis",
+            "Year": "2006",
+            "Title": "Der Einfluss kleiner naturnaher Retentionsmasnahmen in der Flache auf den Hochwasserabfluss - Kleinruckhaltebecken -.",
+            "School": "Diplomarbeit, Universitat Trier, FB VI, Physische Geographie"
+        },
+        {
+            "_id": "1200025",
+            "Type": "msthesis",
+            "Year": "1997",
+            "Title": "Efficient View Maintenance at Data Warehouses.",
+            "School": "University of California at Santa Barbara, Department of Computer Science"
+        },
+        {
+            "_id": "1200026",
+            "Type": "msthesis",
+            "Year": "1991",
+            "Title": "Entwurf und Implementierung eines ubersetzenden Systems fur das intuitionistische logische Programmieren auf der Warren Abstract Machine.",
+            "School": "Universitat Karlsruhe, Institut fur Logik, Komplexitat und Deduktionssysteme"
+        },
+        {
+            "_id": "1200027",
+            "Type": "msthesis",
+            "Year": "1984",
+            "Title": "A Prolog Compiler for the PLM.",
+            "School": "University of California at Berkeley"
+        },
+        {
+            "_id": "1200028",
+            "Type": "msthesis",
+            "Year": "1994",
+            "Title": "Shadow Paging Is Feasible.",
+            "School": "Helsinki University of Technology, Department of Computer Science"
+        },
+        {
+            "_id": "1200029",
+            "Type": "phdthesis",
+            "Year": "1989",
+            "Title": "Implementierungskonzepte fur Non-Standard-Datenbanksysteme."
+        },
+        {
+            "_id": "1200030",
+            "Type": "phdthesis",
+            "Year": "1991",
+            "Title": "Query Optimization in Deductive and Relational Databases"
+        },
+        {
+            "_id": "1200031",
+            "Type": "phdthesis",
+            "Year": "1993",
+            "Title": "Representing and Querying Complex Information in the Coral Deductive Database System."
+        },
+        {
+            "_id": "1200032",
+            "Type": "phdthesis",
+            "Year": "1996",
+            "Title": "Efficient External-Memory Data Structures and Applications.",
+            "Series": "BRICS Dissertation Series"
+        },
+        {
+            "_id": "1200033",
+            "Type": "phdthesis",
+            "Year": "1992",
+            "Title": "Code Generation Techniques."
+        },
+        {
+            "_id": "1200034",
+            "Type": "phdthesis",
+            "Year": "1992",
+            "Title": "Optimierung der Anfrageauswertung in einem Deduktiven Datenbanksystem."
+        },
+        {
+            "_id": "1200035",
+            "Type": "phdthesis",
+            "Year": "1992",
+            "Title": "Adaptive Optimization in a Database Programming Language"
+        },
+        {
+            "_id": "1200036",
+            "Type": "phdthesis",
+            "Year": "1993",
+            "Title": "Random Sampling from Databases",
+            "Publisher": "LBL Technical Report"
+        },
+        {
+            "_id": "1200037",
+            "Type": "phdthesis",
+            "Year": "1996",
+            "Title": "Metric and Layered Temporal Logic for Time Granularity"
+        },
+        {
+            "_id": "1200038",
+            "Type": "phdthesis",
+            "Year": "1990",
+            "Title": "Performance Analysis of Data Sharing Environments"
+        },
+        {
+            "_id": "1200039",
+            "Type": "phdthesis",
+            "Year": "1993",
+            "Title": "Augmenting Databases with Generalized Transitive Closure"
+        },
+        {
+            "_id": "1200040",
+            "Type": "phdthesis",
+            "Year": "1991",
+            "Title": "Randomized Algorithms for Query Optimization."
+        },
+        {
+            "_id": "1200041",
+            "Type": "phdthesis",
+            "Year": "1992",
+            "Title": "On the Foundations of Query Evaluation in Deductive Databases"
+        },
+        {
+            "_id": "1200042",
+            "Type": "phdthesis",
+            "Year": "1993",
+            "Title": "Automatic Design of Computer Instruction Sets"
+        },
+        {
+            "_id": "1200043",
+            "Type": "phdthesis",
+            "Year": "1992",
+            "Title": "Issues in Integrating Actice Rules Into Database Systems"
+        },
+        {
+            "_id": "1200044",
+            "Type": "phdthesis",
+            "Year": "1980",
+            "Title": "The Optimization of Queries in Relational Databases."
+        },
+        {
+            "_id": "1200045",
+            "Type": "phdthesis",
+            "Year": "1993",
+            "Title": "Descriptive Name Services for Large Internets."
+        },
+        {
+            "_id": "1200046",
+            "Type": "phdthesis",
+            "Year": "1985",
+            "Title": "Self-Describing Database Systems - Formalization and Realization"
+        },
+        {
+            "_id": "1200047",
+            "Type": "phdthesis",
+            "Year": "1994",
+            "Title": "Pointer Swizzling Techniques for Object-Oriented Database Systems"
+        },
+        {
+            "_id": "1200048",
+            "Type": "phdthesis",
+            "Year": "1984",
+            "Title": "Register Allocation and Data Conversion in Machine Independent Code Generators"
+        },
+        {
+            "_id": "1200049",
+            "Type": "phdthesis",
+            "Year": "1983",
+            "Title": "Modeling and Evaluation of Database Concurrency Control Algorithms"
+        },
+        {
+            "_id": "1200050",
+            "Type": "phdthesis",
+            "Year": "1991",
+            "Title": "Subgoal Order for Query Optimization in Logic Databases."
+        },
+        {
+            "_id": "1200051",
+            "Type": "phdthesis",
+            "Year": "1994",
+            "Title": "Analysis and Transformation of Logic Programs."
+        },
+        {
+            "_id": "1200052",
+            "Type": "phdthesis",
+            "Year": "1989",
+            "Title": "Making Extensible Database Technology Work."
+        },
+        {
+            "_id": "1200053",
+            "Type": "phdthesis",
+            "Year": "1993",
+            "Title": "Efficient Search in Extensible Query Optimization: The Volcano Optimizer Generator"
+        },
+        {
+            "_id": "1200054",
+            "Type": "phdthesis",
+            "Year": "1996",
+            "Title": "Persistence in Distributed Object Systems: ORB/ODBMS Integration."
+        },
+        {
+            "_id": "1200055",
+            "Type": "phdthesis",
+            "Year": "1993",
+            "Title": "Caching and Memory Management in Client-Server Database Systems"
+        },
+        {
+            "_id": "1200056",
+            "Type": "phdthesis",
+            "Year": "1992",
+            "Title": "Optimizing and Parallelizing Loops in Object-Oriented Database Programming Languages."
+        },
+        {
+            "_id": "1200057",
+            "Type": "phdthesis",
+            "Year": "1994",
+            "Title": "Querying Nested Collections."
+        },
+        {
+            "_id": "1200058",
+            "Type": "phdthesis",
+            "Year": "1989",
+            "Title": "Decomposition in Database and Knowledge-Base Systems."
+        },
+        {
+            "_id": "1200059",
+            "Type": "phdthesis",
+            "Year": "1991",
+            "Title": "Temporal Reasoning in Deductive Databases"
+        },
+        {
+            "_id": "1200060",
+            "Type": "phdthesis",
+            "Year": "1997",
+            "Title": "Temporal Reasoning in Active Databases."
+        },
+        {
+            "_id": "1200061",
+            "Type": "phdthesis",
+            "Year": "1992",
+            "Title": "On-Line Processing in Large-Scale Transaction Systems."
+        },
+        {
+            "_id": "1200062",
+            "Type": "phdthesis",
+            "Year": "1992",
+            "Title": "Programming Data Structures in Logic."
+        },
+        {
+            "_id": "1200063",
+            "Type": "phdthesis",
+            "Year": "1992",
+            "Title": "Optimizing Bottom-Up Query Evaluation for Deductive Databases."
+        },
+        {
+            "_id": "1200064",
+            "Type": "phdthesis",
+            "Year": "1992",
+            "Title": "Abstract Interpretation a Abstract Machines: Contribution to a Methodology for the Implementation of Logic Programs."
+        },
+        {
+            "_id": "1200065",
+            "Type": "phdthesis",
+            "Year": "1993",
+            "Title": "Abstract Interpretation for the Compile-Time Optimization of Logic Programs"
+        },
+        {
+            "_id": "1200066",
+            "Type": "phdthesis",
+            "Year": "1993",
+            "Title": "Speicherung und Anfragebearbeitung komplexer Geo-Objekte",
+            "Publisher": "Verlag Shaker",
+            "Isbn": "3-86111-723-1"
+        },
+        {
+            "_id": "1200067",
+            "Type": "phdthesis",
+            "Year": "1982",
+            "Title": "Design of Concurrency Control Protocols for Transaction Processing Systems."
+        },
+        {
+            "_id": "1200068",
+            "Type": "phdthesis",
+            "Year": "1992",
+            "Title": "The Design and Implementation of the SELF Compiler, an Optimizing Compilet for Object-Oriented Programming Languages"
+        },
+        {
+            "_id": "1200069",
+            "Type": "phdthesis",
+            "Year": "1994",
+            "Title": "The Temporal Deductive Database System ChronoLog"
+        },
+        {
+            "_id": "1200070",
+            "Type": "phdthesis",
+            "Year": "1987",
+            "Title": "A High Performance Architecture For Prolog"
+        },
+        {
+            "_id": "1200071",
+            "Type": "phdthesis",
+            "Year": "1991",
+            "Title": "High Performance Prolog Implementation"
+        },
+        {
+            "_id": "1200072",
+            "Type": "phdthesis",
+            "Year": "1989",
+            "Title": "Logic Programming over Polymorphically Order-Sorted Tyypes."
+        },
+        {
+            "_id": "1200073",
+            "Type": "phdthesis",
+            "Year": "1990",
+            "Title": "Can Logic Programming Execute as Fast as Imperative Programming?"
+        },
+        {
+            "_id": "1200074",
+            "Type": "phdthesis",
+            "Year": "1993",
+            "Title": "System Support for Software Fault Tolerance in Highly Available Database Management Systems."
+        },
+        {
+            "_id": "1200075",
+            "Type": "phdthesis",
+            "Year": "1994",
+            "Title": "Trie Methods for Text and Spatial Data on Secondary Storage."
+        },
+        {
+            "_id": "1200076",
+            "Type": "phdthesis",
+            "Year": "1993",
+            "Title": "Extensible Query Processing in an Object-Oriented Database."
+        },
+        {
+            "_id": "1200077",
+            "Type": "phdthesis",
+            "Year": "1994",
+            "Title": "Tertiary Storage: An Evaluation of New Applications"
+        },
+        {
+            "_id": "1200078",
+            "Type": "phdthesis",
+            "Year": "1959",
+            "Title": "Communication with an Automatic Computer",
+            "Publisher": "Excelsior"
+        },
+        {
+            "_id": "1200079",
+            "Type": "phdthesis",
+            "Year": "1986",
+            "Title": "Conception et Realisation d_un sous Systeme d_Intgerite dans un SGBD Relationnel"
+        },
+        {
+            "_id": "1200080",
+            "Type": "phdthesis",
+            "Year": "1997",
+            "Title": "Histogram-Based Estimation Techniques in Database Systems."
+        },
+        {
+            "_id": "1200081",
+            "Type": "phdthesis",
+            "Year": "1995",
+            "Title": "Optimization of Object Query Languages."
+        },
+        {
+            "_id": "1200082",
+            "Type": "phdthesis",
+            "Year": "1992",
+            "Title": "A Characterization of Prolog Execution"
+        },
+        {
+            "_id": "1200083",
+            "Type": "phdthesis",
+            "Year": "1991",
+            "Title": "Eine erweiterbare Speicher- und Zugriffskomponente fur geowissenschaftliche Datenbanksysteme."
+        },
+        {
+            "_id": "1200084",
+            "Type": "phdthesis",
+            "Year": "1986",
+            "Title": "Transaktionsverwaltung in Datenbanksystemen mit Schichtenarchitektur."
+        },
+        {
+            "_id": "1200085",
+            "Type": "phdthesis",
+            "Year": "1988",
+            "Title": "LOG(F): An Optimal Combination of Logic Programming, Rewriting and Lazy Evaluation."
+        },
+        {
+            "_id": "1200086",
+            "Type": "phdthesis",
+            "Year": "1992",
+            "Title": "Parallel Evaluation of Deductive Database Queries."
+        },
+        {
+            "_id": "1200087",
+            "Type": "phdthesis",
+            "Year": "1989",
+            "Title": "Optimization of Large Join Queries"
+        },
+        {
+            "_id": "1200088",
+            "Type": "phdthesis",
+            "Year": "1986",
+            "Title": "Nonclausal Logic Programming"
+        },
+        {
+            "_id": "1200089",
+            "Type": "phdthesis",
+            "Year": "1988",
+            "Title": "An Algebraic Language for Query and Update of Temporal Databases"
+        },
+        {
+            "_id": "1200090",
+            "Type": "phdthesis",
+            "Year": "1987",
+            "Title": "Rule-Based Query Optimization in Extensible Database Systems"
+        },
+        {
+            "_id": "1200091",
+            "Type": "phdthesis",
+            "Year": "1992",
+            "Title": "Principles of Static Clustering for Object Oriented Databases"
+        },
+        {
+            "_id": "1200092",
+            "Type": "phdthesis",
+            "Year": "1992",
+            "Title": "Source-to-Source Transformationen zur Erklarung des Programmverhaltens bei deduktiven Datenbanken."
+        },
+        {
+            "_id": "1200093",
+            "Type": "phdthesis",
+            "Year": "1984",
+            "Title": "New Features for Relational Database Systems to Support CAD Applications"
+        },
+        {
+            "_id": "1200094",
+            "Type": "phdthesis",
+            "Year": "1995",
+            "Title": "The Modified Object Buffer: A Storage Management Technique for Object-Oriented Databases"
+        },
+        {
+            "_id": "1200095",
+            "Type": "phdthesis",
+            "Year": "1995",
+            "Title": "Inter- und Intratransaktionsparallelitat in Datenbanksystemen: Entwurf, Implementierung und Evaluation eines Datenbanksystems mit Inter- und Intratransaktionsparallelitat"
+        },
+        {
+            "_id": "1200096",
+            "Type": "phdthesis",
+            "Year": "1993",
+            "Title": "Key Objects in Garbage Collection"
+        },
+        {
+            "_id": "1200097",
+            "Type": "phdthesis",
+            "Year": "1996",
+            "Title": "Management of Sequence Data"
+        },
+        {
+            "_id": "1200098",
+            "Type": "phdthesis",
+            "Year": "1992",
+            "Title": "Glue: A Deductive Database Programming Language"
+        },
+        {
+            "_id": "1200099",
+            "Type": "phdthesis",
+            "Year": "1995",
+            "Title": "Optimization and Execution Techniques for Queries With Expensive Methods"
+        },
+        {
+            "_id": "1200100",
+            "Type": "phdthesis",
+            "Year": "1992",
+            "Title": "File System Performance and Transaction Support."
+        },
+        {
+            "_id": "1200101",
+            "Type": "phdthesis",
+            "Year": "2000",
+            "Title": "Spatial Queues."
+        },
+        {
+            "_id": "1200102",
+            "Type": "phdthesis",
+            "Year": "2000",
+            "Title": "Parsing and Quering XML Documents in SML."
+        },
+        {
+            "_id": "1200103",
+            "Type": "phdthesis",
+            "Year": "2000",
+            "Title": "Entwicklung von Algorithmen und Programmen fur ein Archivierungs- und Kommunikationssystem zur internetbasierten Verwaltung medizinischer Bilder"
+        },
+        {
+            "_id": "1200104",
+            "Type": "phdthesis",
+            "Year": "2001",
+            "Title": "Request-Prediction and Hyperlink-Proposals"
+        },
+        {
+            "_id": "1200105",
+            "Type": "phdthesis",
+            "Year": "1999",
+            "Title": "The BMAP/G/1 queue with level dependent arrivals: An extended queueing model for stations with nonrenewal and state dependent input traffic."
+        },
+        {
+            "_id": "1200106",
+            "Type": "phdthesis",
+            "Year": "2002",
+            "Title": "Web-Prasenz-Management im Unternehmen"
+        },
+        {
+            "_id": "1200107",
+            "Type": "phdthesis",
+            "Year": "2002",
+            "Title": "Towards Middleware Support for Mobile and Cellular Networks"
+        },
+        {
+            "_id": "1200108",
+            "Type": "phdthesis",
+            "Year": "2002",
+            "Title": "Improving the Power of Ordered Binary Decision Diagrams by Integrating Parity Nodes"
+        },
+        {
+            "_id": "1200109",
+            "Type": "phdthesis",
+            "Year": "2002",
+            "Title": "High-level Methods for OBDD-based Sequential Verification"
+        },
+        {
+            "_id": "1200110",
+            "Type": "phdthesis",
+            "Year": "2002",
+            "Title": "Ein Verfahren zur thematisch spezialisierten Suche im Web und seine Realisierung im Prototypen HomePageSearch"
+        },
+        {
+            "_id": "1200111",
+            "Type": "phdthesis",
+            "Year": "2004",
+            "Title": "Controlled Queueing Systems with Heterogeneous Servers"
+        },
+        {
+            "_id": "1200112",
+            "Type": "phdthesis",
+            "Year": "1990",
+            "Title": "Ein schneller adaptiver Loser fur elliptische Randwertaufgaben auf Seriell- und Parallelrechnern."
+        },
+        {
+            "_id": "1200113",
+            "Type": "phdthesis",
+            "Year": "2006",
+            "Title": "IQForCE - Intelligent Query (Re-)Formulation with Concept-based Expansion",
+            "Publisher": "Verlag Dr. Hut, Munchen",
+            "Isbn": "3-89963-303-2"
+        }
+    ]
+}
