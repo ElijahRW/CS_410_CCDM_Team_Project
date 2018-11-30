@@ -28,6 +28,8 @@ http://192.168.2.2:5984/publication/_design/MoreThanOneAuthor/_view/MoreThanOneA
 """
 
 import couchdb
+import math
+import sys
 
 #connect to the server
 server = couchdb.client.Server('http://192.168.2.2:5984/')
@@ -54,7 +56,7 @@ for p in publications:
     pubdict[p.id] = p.value
 
 
-print("Begin hunting for triangles...")
+print("Hunting for triangles")
 authmost = ''
 authmost_cnt = 0
 step = 0
@@ -63,12 +65,13 @@ for p in authors:
     #author under test
     curauth = p.id
     candidates = []
-   
+
+    sys.stdout.write('\b|')
     #hueristic based on previous runs. Once someone gets into the hundreds of triangles, very tough to overtake.
-    #if they are not authors of many papers, basically not possible to get beyond them.
-    if (len(p.value) * 2)^2 < authmost_cnt:
+    #if they are not authors of many papers, basically not possible to have enough combinations of 2 papers to reach many triangles.
+    if (math.factorial(len(p.value)) / (math.factorial(len(p.value) - 2) * 2)) < authmost_cnt:
         continue
- 
+
     #go through their papers
     for a in p.value:
         #does it also have more than one author?
@@ -82,9 +85,14 @@ for p in authors:
                 
     count = 0
     seen = set()
+    shift = 1
     for c in candidates:
-        if len(candidates[1:]) > 0:
-            for e in candidates[1:]:
+        sys.stdout.write('\b/')
+ 
+        if len(candidates[shift:]) > 0:
+            shift = shift + 1
+            for e in candidates[shift:]:
+                sys.stdout.write('\b-')
                 #exclude if authors or papers happen to be the same.
                 #example: someone could co-author more than once with another author
                 if c[0] != e[0] and c[1] != e[1]:
@@ -97,17 +105,20 @@ for p in authors:
                     if len(cset) > 0:
                         #the pop() funtion on a set is non-deterministic, there will be slight variations on runs.
                         tmp = set([ c[0], c[1], cset.pop(), e[1], e[0] ])
+                        sys.stdout.write('\b\\')
                         #check to ensure this triangle is fully unique
                         if (tmp <= seen) == False:
                             seen.update(tmp)
                             count = count + 1
     #who has the most?                 
     if count > authmost_cnt:
-        print("Author " + curauth + " has " + str(count) + " triangles, which is more than " + authmost + " who has " + str(authmost_cnt))
+        sys.stdout.write('\b!!')
         authmost = curauth
         authmost_cnt = count 
 
+    sys.stdout.flush()
 
+sys.stdout.write('\b')
 #mango query to find the one with the most triangles
 mango_query = {
    "selector": {
@@ -119,6 +130,6 @@ mango_query = {
 
 #view the results.
 for i in person.find(mango_query):
-    print(i['Name'])
+    print("\n\n The author with the most triangles is: " + i['Name'])
 
 
