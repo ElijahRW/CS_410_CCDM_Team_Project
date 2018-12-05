@@ -1,0 +1,46 @@
+"""
+Query1 - Coauthor
+Team: Green Bay
+CS510 - Cloud and Cluster Management
+
+
+View for publication:
+function (doc) {
+    emit(doc.authors.length, doc);
+}
+url:
+http://192.168.2.2:5984/TODO..../?reduce=false&limit=1&descending=true
+"""
+
+import couchdb
+import math
+import sys
+
+#connect to the server
+server = couchdb.client.Server('http://localhost:5984')
+
+server.login(name='admin', password='test')
+
+#select a DB
+pub = server['publication']
+
+print("Fetching Publication View Data...")
+#build an author set for fast validation 
+pubdict = {}
+#Need correct URL.
+publications = pub.view('_design/queryTest/_view/reduce_test?reduce=false&limit=1&descending=true')
+
+result = p.value
+
+
+sys.stdout.write('\b')
+#mango query to find the one with the most triangles
+mango_query = {
+   "selector": {
+      "_id": {
+         "$eq": authmost
+      }
+   }
+} 
+print("\n\n The document with the most coauthors is: " + i['Name'])
+
