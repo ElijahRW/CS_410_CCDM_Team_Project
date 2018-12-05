@@ -2,6 +2,10 @@
 Query 3 - Find Co-author distance between two authors.
 Team: Green Bay
 CS410/510 - Cloud and Cluster Management
+
+Find co author Distance between Michael J. Franklin (id: "747452")
+and
+Moshe Y. Vardi(id: 729526)
 """
 
 import couchdb
@@ -22,13 +26,29 @@ def get_coauthor_distance(author_x, author_y):
     :param (string) author_x: Name of the first author
     :param (string) author_y: Name of the second author
     :return: (int) distance between x and y
-            Level 0 = Authors are direct co-authors
-            Level 1 = Co-author X is a co-author of Y, Y is a co-author of Z, x and Z are level 1 co-authors
-            Level 2 = x is level 2 co-authors with co-authors of z
+            Level 1 = Authors are direct co-authors
+            Level 2 = Co-author X is a co-author of Y, Y is a co-author of Z, x and Z are level 1 co-authors
+            Level 3 = x is level 2 co-authors with co-authors of z
     """
+    query = {
+        "selector": {
+            "Name": {
+                "$eq": author_x
+            }
+        }
+    }
+    x_id = person.find(query)[0]["_id"]
+    query = {
+        "selector": {
+            "Name": {
+                "$eq": author_y
+            }
+        }
+    }
+    y_id = person.find(query)[0]["_id"]
 
-    co_authors = get_coauthors(author_x)
-    return get_coauthor_distance_rec(author_y, co_authors, set([]), 0)
+    co_authors = get_coauthors(x_id)
+    return get_coauthor_distance_rec(y_id, co_authors, set([]), 1)
 
 
 def get_coauthor_distance_rec(author, co_authors, seen, level):
@@ -42,7 +62,7 @@ def get_coauthor_distance_rec(author, co_authors, seen, level):
     :param level: Current co-author distance
     :return: int distance between co-authors
     '''
-
+    print("Checking Level", level)
     if author in co_authors:
         return level
     else:
@@ -62,52 +82,22 @@ def get_coauthor_distance_rec(author, co_authors, seen, level):
 
 def get_coauthors(author):
     """
-    Get the coauthors of author, by name
+    Get the coauthors of author, by id
     :param author: (string) Name of author you wish to find co-authors for
     :return: (list(string)) List of all co-authors, by name
     """
-    query = {
-        "selector": {
-            "_id": {
-                "$eq": author
-            }
-        },
-        "fields": ["Works Written"]
-    }
     # Get list of works that the author has worked on, by id
-    works_written = person.find(query)[0]['Works Written']
+    works_written = person.get(author)['Works Written']
 
     coauthor_ids = set([])
-
     for work in works_written:
-        query = {
-            "selector": {
-                "_id": {
-                    "$eq": work
-                }
-            },
-            "fields": ["Authors"]
-        }
         # Get ids of authors that worked on this work
-        ids = pub.find(query)[0]['Authors']
+        ids = pub.get(work)['Authors']
         # append unique author ids to the set
         coauthor_ids.update(set(ids))
-        coauthor_names = []
-        for author_id in coauthor_ids:
-            query = {
-                "selector": {
-                    "_id": {
-                        "$eq": author_id
-                    }
-                },
-                "fields": ["Name"]
-            }
-    # Get ids of authors that worked on this work
-            coauthor_names.append(person.find(query)[0]['Name'])
-    if author in coauthor_names:
-        coauthor_names.remove(author)
+
     return coauthor_ids
 
 
-# TODO: Create index on name and pass author names here
-print(get_coauthor_distance("728536", "728537"))
+# Get co-author distance between Moshe Y. Vardi and Michael J. Franklin
+print(get_coauthor_distance("Moshe Y. Vardi", "Michael J. Franklin"))
