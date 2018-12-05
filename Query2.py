@@ -8,9 +8,11 @@ CS510 - Cloud and Cluster Management
 import couchdb
 
 #connect to the server
-server = couchdb.client.Server('http://192.168.2.2:5984/')
+#server = couchdb.client.Server('http://192.168.2.2:5984/')
+#server.login(name='admin', password='test')
 
-server.login(name='admin', password='test')
+server = couchdb.client.Server('http://35.233.173.113:5984/')
+server.login(name='admin', password='cloudcluster')
 
 #select the DBs
 person = server['person']
